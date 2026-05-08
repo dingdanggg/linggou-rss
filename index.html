@@ -1,0 +1,266 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>灵构 AI 资讯 · RSS 订阅</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@tabler/icons-webfont@3.19.0/tabler-icons.min.css" />
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "PingFang SC", "Hiragino Sans GB", sans-serif;
+      background: #f5f7f2;
+      color: #2c2c2a;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      padding: 40px 20px;
+    }
+
+    .card {
+      background: #ffffff;
+      border: 0.5px solid #d3d1c7;
+      border-radius: 16px;
+      padding: 40px 36px;
+      max-width: 540px;
+      width: 100%;
+    }
+
+    .header { text-align: center; margin-bottom: 1.5rem; }
+
+    .logo-wrap {
+      width: 56px; height: 56px;
+      border-radius: 12px;
+      background: #eaf3de;
+      border: 0.5px solid #c0dd97;
+      display: flex; align-items: center; justify-content: center;
+      margin: 0 auto 12px;
+    }
+    .logo-wrap i { font-size: 28px; color: #3b6d11; }
+
+    h1 { font-size: 20px; font-weight: 500; color: #2c2c2a; }
+
+    .tags {
+      display: flex; flex-wrap: wrap; gap: 6px;
+      justify-content: center; margin-bottom: 1.5rem;
+    }
+    .tag {
+      border-radius: 20px; padding: 3px 10px; font-size: 12px;
+      display: inline-flex; align-items: center; gap: 3px;
+    }
+    .tag i { font-size: 12px; }
+    .tag-green  { background: #eaf3de; color: #3b6d11; border: 0.5px solid #c0dd97; }
+    .tag-blue   { background: #e6f1fb; color: #185fa5; border: 0.5px solid #b5d4f4; }
+    .tag-amber  { background: #faeeda; color: #854f0b; border: 0.5px solid #fac775; }
+    .tag-purple { background: #eeedfe; color: #534ab7; border: 0.5px solid #cecbf6; }
+
+    .section-label {
+      font-size: 12px; color: #888780; margin-bottom: 8px;
+      display: flex; align-items: center; gap: 4px;
+    }
+    .section-label i { font-size: 14px; color: #639922; }
+
+    .rss-row {
+      display: flex; align-items: center; gap: 8px;
+      background: #f5f7f2;
+      border: 0.5px solid #d3d1c7;
+      border-radius: 8px;
+      padding: 8px 10px;
+      margin-bottom: 1.25rem;
+    }
+    .rss-url {
+      flex: 1; font-size: 11px; color: #888780;
+      font-family: "SF Mono", "Fira Code", monospace;
+      word-break: break-all; line-height: 1.5;
+    }
+    .copy-btn {
+      flex-shrink: 0;
+      background: #639922; color: #fff;
+      border: none; border-radius: 6px;
+      padding: 6px 12px; font-size: 12px;
+      cursor: pointer; white-space: nowrap;
+      display: flex; align-items: center; gap: 3px;
+      transition: background 0.15s;
+    }
+    .copy-btn:hover { background: #3b6d11; }
+    .copy-btn.copied { background: #3b6d11; }
+    .copy-btn i { font-size: 13px; }
+
+    .sub-hint { font-size: 12px; color: #888780; text-align: center; margin-bottom: 10px; }
+
+    .apps {
+      display: grid; grid-template-columns: 1fr 1fr; gap: 8px;
+      margin-bottom: 1.5rem;
+    }
+    .app-btn {
+      background: #fff;
+      border: 0.5px solid #d3d1c7;
+      border-radius: 12px; padding: 10px 12px;
+      text-decoration: none; color: #2c2c2a;
+      display: flex; align-items: center; gap: 8px;
+      transition: border-color 0.15s;
+    }
+    .app-btn:hover { border-color: #97c459; }
+    .app-icon {
+      width: 28px; height: 28px; border-radius: 6px;
+      display: flex; align-items: center; justify-content: center;
+      flex-shrink: 0;
+    }
+    .app-icon i { font-size: 16px; }
+    .app-icon.green  { background: #eaf3de; } .app-icon.green i  { color: #3b6d11; }
+    .app-icon.blue   { background: #e6f1fb; } .app-icon.blue i   { color: #185fa5; }
+    .app-icon.purple { background: #eeedfe; } .app-icon.purple i { color: #534ab7; }
+    .app-icon.amber  { background: #faeeda; } .app-icon.amber i  { color: #854f0b; }
+    .app-name { display: block; font-weight: 500; font-size: 13px; }
+    .app-sub  { font-size: 11px; color: #888780; }
+
+    .divider { border: none; border-top: 0.5px solid #d3d1c7; margin: 1.25rem 0; }
+
+    .stats { display: flex; justify-content: space-around; margin-bottom: 10px; }
+    .stat { text-align: center; }
+    .stat-num { font-size: 22px; font-weight: 500; }
+    .stat-num.green  { color: #3b6d11; }
+    .stat-num.blue   { color: #185fa5; }
+    .stat-num.purple { color: #534ab7; }
+    .stat-label { font-size: 11px; color: #888780; margin-top: 2px; }
+    .stat-divider { width: 0.5px; background: #d3d1c7; }
+
+    .update-time { font-size: 11px; color: #b4b2a9; text-align: center; }
+
+    .schedule-bar {
+      background: #eaf3de;
+      border: 0.5px solid #c0dd97;
+      border-radius: 10px;
+      padding: 9px 14px;
+      text-align: center;
+      font-size: 12px; color: #3b6d11;
+      display: flex; align-items: center; justify-content: center; gap: 5px;
+    }
+    .schedule-bar i { font-size: 13px; }
+  </style>
+</head>
+<body>
+  <div class="card">
+
+    <div class="header">
+      <div class="logo-wrap">
+        <i class="ti ti-building-factory-2" aria-hidden="true"></i>
+      </div>
+      <h1>灵构 AI 资讯</h1>
+    </div>
+
+    <div class="tags">
+      <span class="tag tag-green"><i class="ti ti-video" aria-hidden="true"></i>AIGC 内容创作</span>
+      <span class="tag tag-blue"><i class="ti ti-tools" aria-hidden="true"></i>技术工具</span>
+      <span class="tag tag-amber"><i class="ti ti-chart-bar" aria-hidden="true"></i>行业动态</span>
+      <span class="tag tag-purple"><i class="ti ti-bulb" aria-hidden="true"></i>社媒选题</span>
+    </div>
+
+    <p class="section-label">
+      <i class="ti ti-rss" aria-hidden="true"></i> RSS 订阅地址
+    </p>
+    <div class="rss-row">
+      <span class="rss-url" id="feed-url-display">加载中…</span>
+      <button class="copy-btn" id="copy-btn" onclick="copyFeed()">
+        <i class="ti ti-copy" aria-hidden="true"></i>复制
+      </button>
+    </div>
+
+    <p class="sub-hint">在以下 RSS 阅读器中订阅，自动推送到手机：</p>
+
+    <div class="apps">
+      <a class="app-btn" id="reeder-link" href="#">
+        <span class="app-icon green"><i class="ti ti-news" aria-hidden="true"></i></span>
+        <span><span class="app-name">Reeder</span><span class="app-sub">iOS / macOS</span></span>
+      </a>
+      <a class="app-btn" id="inoreader-link" href="#" target="_blank">
+        <span class="app-icon blue"><i class="ti ti-world" aria-hidden="true"></i></span>
+        <span><span class="app-name">Inoreader</span><span class="app-sub">全平台</span></span>
+      </a>
+      <a class="app-btn" id="netnewswire-link" href="#">
+        <span class="app-icon purple"><i class="ti ti-antenna" aria-hidden="true"></i></span>
+        <span><span class="app-name">NetNewsWire</span><span class="app-sub">免费开源</span></span>
+      </a>
+      <a class="app-btn" id="follow-link" href="#" target="_blank">
+        <span class="app-icon amber"><i class="ti ti-bolt" aria-hidden="true"></i></span>
+        <span><span class="app-name">Follow</span><span class="app-sub">新兴阅读器</span></span>
+      </a>
+    </div>
+
+    <hr class="divider" />
+
+    <div class="stats">
+      <div class="stat">
+        <div class="stat-num green" id="stat-total">—</div>
+        <div class="stat-label">今日精选</div>
+      </div>
+      <div class="stat-divider"></div>
+      <div class="stat">
+        <div class="stat-num blue" id="stat-linggou">—</div>
+        <div class="stat-label">灵构相关</div>
+      </div>
+      <div class="stat-divider"></div>
+      <div class="stat">
+        <div class="stat-num purple" id="stat-topics">—</div>
+        <div class="stat-label">社媒选题</div>
+      </div>
+    </div>
+    <p class="update-time" id="update-time" style="margin-top:10px;">最后更新：加载中…</p>
+
+    <hr class="divider" />
+
+    <div class="schedule-bar">
+      <i class="ti ti-clock" aria-hidden="true"></i>
+      自动更新：北京时间 08:30 · 12:30 · 18:30
+    </div>
+
+  </div>
+
+  <script>
+    const base = window.location.origin + window.location.pathname.replace(/index\.html$/, '').replace(/\/?$/, '');
+    const feedUrl = base + '/feed.xml';
+    const enc = encodeURIComponent(feedUrl);
+
+    document.getElementById('feed-url-display').textContent = feedUrl;
+    document.getElementById('reeder-link').href = 'reeder://add/feed?url=' + enc;
+    document.getElementById('inoreader-link').href = 'https://www.inoreader.com/?add_feed=' + enc;
+    document.getElementById('netnewswire-link').href = 'netnewswire://add/feed?url=' + enc;
+    document.getElementById('follow-link').href = 'follow://add?url=' + enc;
+
+    function copyFeed() {
+      navigator.clipboard.writeText(feedUrl).then(() => {
+        const btn = document.getElementById('copy-btn');
+        btn.innerHTML = '<i class="ti ti-check" aria-hidden="true"></i>已复制';
+        btn.classList.add('copied');
+        setTimeout(() => {
+          btn.innerHTML = '<i class="ti ti-copy" aria-hidden="true"></i>复制';
+          btn.classList.remove('copied');
+        }, 2000);
+      });
+    }
+
+    fetch('meta.json?t=' + Date.now())
+      .then(r => r.json())
+      .then(d => {
+        document.getElementById('stat-total').textContent = d.total ?? '—';
+        document.getElementById('stat-linggou').textContent = d.linggou ?? '—';
+        document.getElementById('stat-topics').textContent = d.social_topics ?? '—';
+        if (d.generated_at) {
+          const dt = new Date(d.generated_at);
+          const fmt = dt.toLocaleString('zh-CN', {
+            timeZone: 'Asia/Shanghai',
+            month: 'numeric', day: 'numeric',
+            hour: '2-digit', minute: '2-digit'
+          });
+          document.getElementById('update-time').textContent = '最后更新：' + fmt;
+        }
+      })
+      .catch(() => {
+        document.getElementById('update-time').textContent = '首次运行 Actions 后刷新可见数据';
+      });
+  </script>
+</body>
+</html>
