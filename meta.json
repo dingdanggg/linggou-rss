@@ -1,11 +1,29 @@
 {
-  "generated_at": "2026-05-08T15:33:56.771534+08:00",
-  "total": 40,
-  "linggou": 16,
+  "generated_at": "2026-05-08T17:58:55.616420+08:00",
+  "total": 77,
+  "linggou": 26,
   "social_topics": 3,
+  "sources": {
+    "IT之家（RSS）": 1,
+    "Claude Code：GitHub Releases（RSS）": 1,
+    "X：xAI (@xai)": 1,
+    "GitHub Blog": 2,
+    "X：宝玉 (@dotey)": 1,
+    "X：Rohan Paul (@rohanpaul_ai)": 1,
+    "Anthropic：Research（发表成果 · 网页）": 2,
+    "X：智谱 Z.ai (@Zai_org)": 1,
+    "X：Suno (@suno)": 1,
+    "X：蚂蚁百灵 (@AntLingAGI)": 1,
+    "X：Berry Xia (@berryxia)": 1,
+    "X：Oran Ge (@oran_ge)": 1,
+    "X：Vista (@vista8)": 1,
+    "OpenRouter：Announcements（RSS）": 1,
+    "量子位": 2,
+    "36氪": 8
+  },
   "categories": {
-    "aigc_content": 3,
-    "tech_tools": 3,
-    "industry": 10
+    "aigc_content": 2,
+    "tech_tools": 5,
+    "industry": 19
   }
 }

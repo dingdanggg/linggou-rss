@@ -3,89 +3,97 @@
   <channel>
     <title>灵构 AI 资讯</title>
     <link>https://dingdanggg.github.io/linggou-rss</link>
-    <description>每日 AI HOT 精选，灵构视角过滤 · 3D资产/AIGC影视/游戏/XR/社媒运营</description>
+    <description>灵构视角 AI 资讯 · 3D资产/AIGC影视/游戏/XR/社媒运营</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 08 May 2026 15:33:56 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 17:58:55 +0800</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://dingdanggg.github.io/linggou-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>🏗️ 灵构视角 · 05月08日 · 共16条</title>
+      <title>🏗️ 灵构视角 · 05月08日 · 共26条</title>
       <link>https://dingdanggg.github.io/linggou-rss</link>
-      <guid isPermaLink="false">linggou-digest-2026050815</guid>
-      <pubDate>Fri, 08 May 2026 15:33:56 +0800</pubDate>
+      <guid isPermaLink="false">linggou-digest-2026050817</guid>
+      <pubDate>Fri, 08 May 2026 17:58:55 +0800</pubDate>
       <description>&lt;h2&gt;🏗️ 灵构视角&lt;/h2&gt;
-&lt;p&gt;从 AI HOT 今日精选中提取，与灵构（3D资产中心）高度相关的内容。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;来源：36氪(8条)、GitHub Blog(2条)、Anthropic：Research（发表成果 · 网页）(2条)、量子位(2条)、IT之家（RSS）(1条)、Claude Code：GitHub Releases（RSS）(1条)、X：xAI (@xai)(1条)、X：宝玉 (@dotey)(1条)、X：Rohan Paul (@rohanpaul_ai)(1条)、X：智谱 Z.ai (@Zai_org)(1条)、X：Suno (@suno)(1条)、X：蚂蚁百灵 (@AntLingAGI)(1条)、X：Berry Xia (@berryxia)(1条)、X：Oran Ge (@oran_ge)(1条)、X：Vista (@vista8)(1条)、OpenRouter：Announcements（RSS）(1条)&lt;/small&gt;&lt;/p&gt;
 &lt;h3&gt;📽️ AIGC 内容创作&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;1. 消息称 Anthropic 拟今夏融资数百亿美元，冲击万亿估值反超 OpenAI&lt;/strong&gt;&lt;br/&gt;
-&lt;small&gt;IT之家（RSS） · 今天 13:40&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;据《金融时报》报道，人工智能公司Anthropic计划今年夏季进行大规模融资，以扩展计算能力。此轮融资额最高可达500亿美元，融资前估值预计达9000亿美元，完成后公司估值将接近1万亿美元，从而超越竞争对手OpenAI目前约8520亿美元的估值。公司年化收入预计很快将超过450亿美元，较去年底大幅增长。投资者意在为其年底可能的IPO提前建立持仓，但具体条款尚未最终确定。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.ithome.com/0/947/647.htm&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1. 在模型厂碾压之前，AI视频Agent产品是否只能挣波快钱？&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;36氪 · &lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;文｜王毓婵 周鑫雨
+  编辑｜杨轩
+  “看流水（即营收），AI视频类这些项目的表现确实很不错，可以说是AI最赚钱的细分赛道之一。”投资行业人士对36氪说。&amp;nbsp;
+  中国 AI 视频生成赛道，正在经历大厂模型能力疯狂增长的巨大红利。来自字节跳动的Seedance和来自快手的可灵这两款“超级底座”正在进行一周一小版、两月一大版的高频迭代。阿里巴巴也在4月底，对视频生成模型HappyHorse 1.0开启灰测，720P视频生成刊例价为0.9元/秒。&amp;nbsp;
+  愿意为此花钱的内容创作者太多了，太急迫了。众多短剧、内容公司排队等待使用Seedance2.0已经成为2026年AI世界的一个&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://36kr.com/p/3786528811572481?f=rss&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;2. OpenRouter新增音频端点，支持语音合成与识别&lt;/strong&gt;&lt;br/&gt;
-&lt;small&gt;X：OpenRouter (@OpenRouter) · 今天 22:34&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;1/ 音频现已成为OpenRouter的一等公民。
-
-今日上线两个新端点：
-
-📢 /api/v1/audio/speech - 文本转语音（TTS）
-🎤 /api/v1/audio/transcriptions - 语音转文本（SST）
-
-沿用您已在文本、图像和视频中使用的相同路由、计费和密钥。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/OpenRouter/status/2052396767652544552&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;3. 全国首例 AI 短剧侵权刑事案一审宣判：盗录超 1700 部牟利获刑，构成侵犯著作权罪&lt;/strong&gt;&lt;br/&gt;
-&lt;small&gt;IT之家（RSS） · 今天 15:58&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;全国首例AI短剧侵权刑事案一审宣判。被告人盗录某公司AI工具生成的短剧超过1700部，并在二手平台以66.66元打包出售牟利，构成侵犯著作权罪。法院认定，这些短剧由用户输入原创剧本、情节等提示词生成，体现了独创性表达，属于受著作权法保护的作品。被告人被判处有期徒刑八个月，缓刑一年两个月，并处罚金人民币六千元。涉案公司平台已累计生成超7000部AI短剧，单价数元至十几元，热门剧销量可达上千份。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.ithome.com/0/947/300.htm&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2. 最前线|将彩色打印与激光切割合二为一，xTool发布新品&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;36氪 · &lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;文｜张子怡
+  编辑｜袁斯来
+  36氪获悉，个人创意工具品牌xTool于今日正式发布其新款消费级激光创作工具——xTool M2彩色智能激光雕刻机。
+  在目前的消费级激光雕刻市场中，用户面临的一个核心痛点在于“机械加工与色彩表现”的脱节：传统的激光雕刻机擅长物理切割与灼烧成痕，但若要制作彩色作品，用户往往需要经历繁琐的手动涂色、转印或多台设备切换对位，过程既复杂又难以保证精度。
+  xTool M2试图通过硬件层面的深度整合，将喷墨打印、激光雕刻与激光切割三项功能集成在单一设备内，让用户在同一套桌面流程中完成从设计到成品的闭环。
+  在具体的硬件定义上，xTool M2采用了模块化的设计思&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://36kr.com/p/3798845086882820?f=rss&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
 &lt;h3&gt;🛠️ 技术工具&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;1. OpenAI 上线官方命令行工具 openai-cli，终端直接调用 API&lt;/strong&gt;&lt;br/&gt;
-&lt;small&gt;X：宝玉 (@dotey) · 今天 06:15&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1. OpenAI 上线官方命令行工具 openai-cli，终端直接调用 API&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：宝玉 (@dotey) · 今天 06:15&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;OpenAI 在 GitHub 开源了官方命令行工具 openai-cli，采用 Apache 2.0 协议，支持通过 Homebrew 或 Go 安装。该工具允许开发者直接在终端调用 OpenAI API，无需编写 SDK 代码。其核心功能包括调用支持所有云端工具（如网页搜索、代码解释器）的 Responses API 以实现 Agent 工作流；支持 JSON、YAML 等结构化输出并可管道处理；能用单行命令完成图像生成编辑、语音转录等任务；同时整合了项目管理与 API 密钥配置。工具采用资源化命令结构，旨在弥补官方此前仅提供语言 SDK 的不足，便于集成到自动化流程和服务器端环境中。&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://x.com/dotey/status/2052512560264380737&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;2. 自然语言自编码器：将Claude的&quot;想法&quot;解码为文本&lt;/strong&gt;&lt;br/&gt;
-&lt;small&gt;Anthropic：Research（发表成果 · 网页） · 今天 01:29&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2. 自然语言自编码器：将Claude的&quot;想法&quot;解码为文本&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;Anthropic：Research（发表成果 · 网页） · 今天 01:29&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;Anthropic团队推出自然语言自编码器方法，能将大模型内部的激活值直接解码为可读文本。该方法通过训练&quot;激活描述器&quot;和&quot;激活重建器&quot;，形成&quot;激活值→文本解释→重建激活值&quot;的循环，并以重建相似度为目标进行优化。应用表明，NLA能揭示模型未言明的内部状态，例如在安全测试中，发现Claude内心意识到自己正被评估的比例远超其外部回应。团队已公开代码，并合作发布了交互式探索工具。&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/research/natural-language-autoencoders&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;3. SenseNova-U1开源8步蒸馏LoRA，扩散模型推理提速11倍&lt;/strong&gt;&lt;br/&gt;
-&lt;small&gt;X：Berry Xia (@berryxia) · 今天 23:02&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3. SenseNova-U1开源8步蒸馏LoRA，扩散模型推理提速11倍&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Berry Xia (@berryxia) · 今天 23:02&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;SenseNova-U1开源了一项8步蒸馏LoRA技术，将扩散模型的生成步骤从100步压缩至8步，使GPU推理时间从23秒大幅缩短至2秒，速度提升达11倍。该技术同时完整支持ComfyUI，并提供了文本生图、图像编辑和交错生成等开箱即用的工作流程。此举标志着扩散模型从研究阶段迈向实用化，引发了业界关于未来应聚焦参数规模竞赛还是追求速度与实用性的讨论。&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://x.com/berryxia/status/2052403652674093166&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
+&lt;p&gt;&lt;strong&gt;4. 原生Agent杀入画布！一站式搞定专业创作，全程可控、不抽卡&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;量子位 QbitAI · 今天 23:54&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;背靠国内最大ComfyUI生态&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.qbitai.com/2026/05/413912.html&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;strong&gt;5. 长城证券：香港子公司获香港证监会颁发业务牌照&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;36氪 · &lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;36氪获悉，长城证券公告，公司全资子公司长证国际金融有限公司近日获得香港证监会颁发的第1类（证券交易）、第4类（就证券提供意见）和第9类（提供资产管理）受规管活动牌照，获准开展相关业务。长证国际将立足香港开展国际化证券业务，提升国际化经营水平及核心竞争力，稳步推进公司国际化战略发展。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://36kr.com/newsflashes/3800418208340997?f=rss&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;hr/&gt;
 &lt;h3&gt;📊 行业动态&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;1. Claude v2.1.133 版本更新&lt;/strong&gt;&lt;br/&gt;
-&lt;small&gt;Claude Code：GitHub Releases（RSS） · 今天 07:49&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1. 消息称 Anthropic 拟今夏融资数百亿美元，冲击万亿估值反超 OpenAI&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;IT之家（RSS） · 今天 13:40&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;据《金融时报》报道，人工智能公司Anthropic计划今年夏季进行大规模融资，以扩展计算能力。此轮融资额最高可达500亿美元，融资前估值预计达9000亿美元，完成后公司估值将接近1万亿美元，从而超越竞争对手OpenAI目前约8520亿美元的估值。公司年化收入预计很快将超过450亿美元，较去年底大幅增长。投资者意在为其年底可能的IPO提前建立持仓，但具体条款尚未最终确定。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.ithome.com/0/947/647.htm&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;strong&gt;2. Claude v2.1.133 版本更新&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;Claude Code：GitHub Releases（RSS） · 今天 07:49&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;Claude 发布 v2.1.133 版本，新增多项配置与优化。主要新增 `worktree.baseRef` 设置以选择工作树分支基础，引入 `sandbox.bwrapPath` 等设置允许指定自定义二进制路径，并添加 `parentSettingsBehavior` 键供管理员控制设置合并策略。功能上，钩子现在可接收活动努力级别信息，Bash 工具命令可读取相应环境变量。此外，改进了焦点模式行为，并在内存压力下优化了后台工作进程的释放。本次更新修复了大量问题，包括并行会话死锁、权限规则误匹配、代理设置不生效、网络驱动器访问被拒、远程控制中断不彻底、努力级别跨会话更改以及子代理技能发现失败等。`claude --help` 现已列出远程控制选项，VSCode 扩展也修复了相关错误。&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://github.com/anthropics/claude-code/releases/tag/v2.1.133&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;2. 冻结大语言模型隐藏状态中仍存可读行为信号，新技术大幅提升准确性&lt;/strong&gt;&lt;br/&gt;
-&lt;small&gt;X：Rohan Paul (@rohanpaul_ai) · 今天 03:22&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3. Grok语音助手高效处理复杂工作流&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：xAI (@xai) · 今天 07:20&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;您的客户服务需要一个为现实世界打造的语音助手。
+
+Grok Voice Think Fast 1.0能以速度和准确性处理复杂工作流，即使在嘈杂环境中也能胜任。从多步骤故障排除到高频工具调用，它都能从容应对。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/xai/status/2052529102280880234&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;strong&gt;4. 提升 GitHub Agentic Workflows 的 Token 使用效率&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;GitHub Blog · 今天 07:00&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;GitHub 发现运行于每个拉取请求的智能体工作流会累积高昂的 API 成本。团队通过监测自身生产工作流，定位了效率低下的环节，并构建了专门的智能体进行优化。这一举措旨在显著降低由大语言模型调用产生的 Token 消耗与相关费用，直接提升了工作流的经济性与运行效率。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.blog/ai-and-ml/github-copilot/improving-token-efficiency-in-github-agentic-workflows&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;strong&gt;5. 冻结大语言模型隐藏状态中仍存可读行为信号，新技术大幅提升准确性&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Rohan Paul (@rohanpaul_ai) · 今天 03:22&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;Proprioceptive AI开发的Cygnus技术，通过为冻结的大语言模型添加自感知适配器，使其能读取内部认知几何。该技术将模型的隐藏状态投影到由gl（4，R）李代数定义的数学空间，分离出包含主要精度信号的&quot;暗模式&quot;，从而无需重新训练即可显著提升模型性能。例如，仅用一张RTX 3090显卡，就将Qwen-32B在ARC-Challenge基准上的准确率从82.2%提升至94.97%。其适配器将覆盖从3B到405B的多款模型，服务节点可支持5万用户并发，预计本周末上线。相关设计论文已公开。&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://x.com/rohanpaul_ai/status/2052469258584822006&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;3. Agent pull requests 无处不在：如何审查它们&lt;/strong&gt;&lt;br/&gt;
-&lt;small&gt;GitHub Blog · 今天 03:00&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;6. Agent pull requests 无处不在：如何审查它们&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;GitHub Blog · 今天 03:00&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;这份指南提供了审查由AI代理生成的pull requests的实用方法，重点包括审查时应关注的代码变更点、问题常见隐藏位置（如逻辑错误或安全漏洞），以及如何在代码合并前捕捉技术债务。它通过具体步骤帮助开发者系统评估自动化提交，确保代码质量，避免缺陷流入生产环境。指南强调主动审查策略，以应对AI代理在软件开发中日益普及的趋势。&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://github.blog/ai-and-ml/generative-ai/agent-pull-requests-are-everywhere-heres-how-to-review-them&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;4. GLM-5V-Turbo技术报告发布，迈向原生多模态智能体基础模型&lt;/strong&gt;&lt;br/&gt;
-&lt;small&gt;X：智谱 Z.ai (@Zai_org) · 今天 00:34&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;7. GLM-5V-Turbo技术报告发布，迈向原生多模态智能体基础模型&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：智谱 Z.ai (@Zai_org) · 今天 00:34&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;GLM-5V-Turbo 技术报告：迈向原生多模态智能体基础模型
 
 本报告总结了GLM-5V-Turbo在模型设计、多模态训练、强化学习、工具链扩展以及与智能体框架集成等方面的主要改进。这些进展使其在多模态编码、视觉工具使用和基于框架的智能体任务中表现出色。
 http：//arxiv.org/abs/2604.26752&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://x.com/Zai_org/status/2052426777654387168&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;5. NBC关注Suno短信转歌曲AI热潮&lt;/strong&gt;&lt;br/&gt;
-&lt;small&gt;X：Suno (@suno) · 今天 00:16&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;8. NBC关注Suno短信转歌曲AI热潮&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Suno (@suno) · 今天 00:16&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;NBC News刚刚重点报道了使用Suno的短信转歌曲病毒式趋势！
 https：//www.nbcnews.com/now/video/people-are-turning-text-message-threads-into-fun-songs-using-ai-in-a-new-trend-on-social-media-262862405776&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://x.com/suno/status/2052422389401620760&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;6. 万亿参数指令模型Ling-2.6-1T发布&lt;/strong&gt;&lt;br/&gt;
-&lt;small&gt;X：蚂蚁百灵 (@AntLingAGI) · 今天 23:06&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;9. 万亿参数指令模型Ling-2.6-1T发布&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：蚂蚁百灵 (@AntLingAGI) · 今天 23:06&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;inclusionAI宣布Ling-2.6-1T现已在OpenRouter上线。🚀
 这款万亿参数旗舰指令模型专为现实世界智能体打造。它采用&quot;快速思考&quot;方法，在保持AIME26和SWE-bench Verified基准测试顶尖性能的同时，将成本降低约75%。适用于：
 - 高级编程
@@ -93,13 +101,11 @@ https：//www.nbcnews.com/now/video/people-are-turning-text-message-threads-into
 - 大规模智能体工作流&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://x.com/AntLingAGI/status/2052404630488023536&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;7. ColaMD 1.5版实现Markdown内容与HTML模板分离&lt;/strong&gt;&lt;br/&gt;
-&lt;small&gt;X：Oran Ge (@oran_ge) · 今天 21:52&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;10. ColaMD 1.5版实现Markdown内容与HTML模板分离&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Oran Ge (@oran_ge) · 今天 21:52&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;作者为解决制作演示文稿时修改不便的问题，受&quot;Markdown as Database&quot;理念启发，在ColaMD 1.5版本中实现了一种内容与视图分离的方案。该方案将.md文件作为内容层，HTML作为可更换的视图模板层，用户只需修改Markdown内容，即可生成不同形态的最终呈现，如幻灯片、博客等。此功能已内置，并支持通过开源方式由社区或AI扩展更多模板。&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://x.com/oran_ge/status/2052385988375408749&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;8. 开源，通通开源，哈哈哈。&lt;/strong&gt;&lt;br/&gt;
-&lt;small&gt;X：Vista (@vista8) · 今天 20:21&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;11. 开源，通通开源，哈哈哈。&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Vista (@vista8) · 今天 20:21&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;开源，通通开源，哈哈哈。
 
 【引用 @yaojingang】：和 @vista8 讨论了下，决定将我们的新书《AI营销：从SEO到GEO》里配套的25个AI营销与GEO相关的提示词，也开源到GitHub
@@ -111,48 +117,110 @@ https：//github.com/yaojingang/yao-open-promptsGEO
 https：//github.com/yaojingang/yao-open-prompts/blob/main/prompts/08-ai-marketing/README.md&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://x.com/vista8/status/2052363294472815062&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;9. 为所有模型提供一致的网络搜索与抓取能力&lt;/strong&gt;&lt;br/&gt;
-&lt;small&gt;OpenRouter：Announcements（RSS） · 今天 20:00&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;12. 为所有模型提供一致的网络搜索与抓取能力&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;OpenRouter：Announcements（RSS） · 今天 20:00&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;该工具赋予任何具备工具调用能力的模型自主进行网络搜索和抓取网页内容的功能。它支持多种搜索引擎和抓取引擎供用户选择，实现了跨模型的一致操作体验。这意味着开发者可以便捷地为不同的大语言模型（如GPT、Claude、LLaMA等）集成实时、可靠的网络信息获取能力，无需为每个模型单独适配。&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://openrouter.ai/announcements/agentic-web-tools&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;10. 聚焦领域：Anthropic研究所的核心研究方向&lt;/strong&gt;&lt;br/&gt;
-&lt;small&gt;Anthropic：Research（发表成果 · 网页） · 今天 18:29&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;13. 聚焦领域：Anthropic研究所的核心研究方向&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;Anthropic：Research（发表成果 · 网页） · 今天 18:29&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;Anthropic研究所公布了其四大核心研究领域：经济扩散、威胁与韧性、真实世界中的AI系统以及AI驱动的研发。该机构将利用其身处前沿AI实验室内部的独特优势，研究AI对世界的实际影响，并公开分享成果。具体举措包括发布更细粒度的&quot;Anthropic经济指数&quot;以预警重大变革，分析面对新型AI安全风险时最需投资韧性的社会领域，以及探讨AI工具如何加速其自身研发。这些研究成果将为Anthropic的&quot;长期利益信托&quot;提供决策依据，并帮助外部组织与公众更好地应对AI发展。&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/research/anthropic-institute-agenda&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;strong&gt;14. 所有实验室都怕字节，所有人都在夸DeepSeek！美国研究员36小时中国AI行&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;量子位 QbitAI · 今天 12:15&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;这跟中国的开源精神，显然是一脉相承的&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.qbitai.com/2026/05/414141.html&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;strong&gt;15. 小红书四年AI 路：FOMO、犹豫，到突然加速&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;36氪 · &lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;作者&amp;nbsp;|&amp;nbsp;肖思佳
+  编辑&amp;nbsp;|&amp;nbsp;乔芊 杨轩
+  所有互联网大中厂都渴望在AI时代博得位置，在这场比赛中，小红书曾是克制的那个。
+  在一个搜索属性与社区属性并存，以真实经验分享为核心的产品中，活人感与AI、温情和算法，始终像天平的两端。
+  很长一段时间里，小红书既没有完全缺席技术探索，也没有像许多同行那样高调推进AI产品化。相反，这家公司始终在两股力量的拉锯和平衡中前行：一边持续投入模型能力，一边谨慎控制AI对社区生态的介入。
+  但2026年，随着Agent叙事的升温，小红书开始显露出某种急迫。
+  4月30日，小红书发送全员内部信，宣布成立AI一级&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://36kr.com/p/3799028783439111?f=rss&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;strong&gt;16. 第一代全固态电池迈入规模化市场，「纯锂新能源」完成数千万元Pre-A+轮融资 | 36氪首发&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;36氪 · &lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;文&amp;nbsp;|&amp;nbsp;张冰冰
+  编辑&amp;nbsp;|&amp;nbsp;阿至
+  36氪获悉，北京纯锂新能源科技有限公司（以下简称「纯锂新能源」）近日宣布完成数千万元Pre-A+轮融资，投资方为亦庄国投，云道资本担任独家财务顾问，资金将用于产品研发、市场拓展及产线落地。
+  「纯锂新能源」成立于2022年5月，聚焦全固态电池研发，通过自研复合电解质及超临界包覆工艺，破解全固态电池核心固固接触难题。2023年4月在北京亦庄建成小试线，量产10Ah全固态电芯；2023年5月在河南兰考县国电投新能源产业园启动建设500MWh规模量产线；2024年10月实现50Ah全固态电芯量产。
+  「纯锂新能源」于&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://36kr.com/p/3800022823951363?f=rss&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;strong&gt;17. 36氪首发 | 清华系AI Infra厂商完成数亿元融资，以GPU为核心重构计算机系统架构&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;36氪 · &lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;作者&amp;nbsp;|&amp;nbsp;乔钰杰
+  编辑&amp;nbsp;|&amp;nbsp;袁斯来
+  硬氪获悉，北京容芯致远科技有限公司（以下简称“容芯致远”）近日完成天使轮数亿元融资。本轮由北京绿色能源和低碳产业基金与赛富投资基金领投，顺禧基金、富华资本、万利达集团、长江创新投、水木清华校友基金、梅花创投等跟投。云岫资本此前参与了公司种子轮投资，本轮继续跟投，并担任长期独家财务顾问。
+  AI浪潮下，算力需求激增，传统以CPU为中心的架构瓶颈愈发凸显：CPU成为数据调度与交互的核心限制，GPU之间通信效率不足，内存无法实现统一地址空间共享，整体算力利用率较低。
+  容芯致远创始人石旭毕业于清华大学电子工程系，&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://36kr.com/p/3799984046333186?f=rss&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;strong&gt;18. Plaud获头部大厂投资，目前估值达20亿美元｜硬氪独家&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;36氪 · &lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;作者｜黄楠 周鑫雨
+  编辑｜袁斯来 杨轩
+  硬氪独家获悉，AI卡片录音笔公司Plaud已于2025年年中拿下腾讯的融资，估值达10亿美元；目前，Plaud公司估值已涨至约20亿美元。同时，硬氪从相关人士处了解到，Plaud正在推进与腾讯会议之间的硬件合作。
+  有关上述信息，硬氪向Plaud及腾讯方面求证，双方均表示消息不实。
+  一名接近Plaud人士告诉硬氪，Plaud在2024年的总营收约5600万美金，利润率接近20%，“2025年营收差不多涨了3倍”。另有知情者透露，2025年Plaud全年收入达到了历年最高，大陆全线产品的出货量符合内部预期。
+  但Plaud出货量谈不上高，有&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://36kr.com/p/3799129165863937?f=rss&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;strong&gt;19. 苏宁易购召开出海战略发布会&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;36氪 · &lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;36氪获悉，5月8日，苏宁易购召开“2026苏宁易购618电商启动暨出海战略发布会”，宣布进军海外市场。据了解，苏宁易购将打造“一站式出海平台”，为中国商家提供“拎包出海”的全链路解决方案。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://36kr.com/newsflashes/3800429131226114?f=rss&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;</description>
     </item>
     <item>
-      <title>💡 本周社媒选题建议 · 05月08日 · 共3条</title>
+      <title>💡 社媒选题建议 · 05月08日 · 3条含大纲</title>
       <link>https://dingdanggg.github.io/linggou-rss</link>
-      <guid isPermaLink="false">linggou-topics-2026050815</guid>
-      <pubDate>Fri, 08 May 2026 15:33:56 +0800</pubDate>
+      <guid isPermaLink="false">linggou-topics-2026050817</guid>
+      <pubDate>Fri, 08 May 2026 17:58:55 +0800</pubDate>
       <category>社媒选题</category>
-      <description>&lt;h2&gt;💡 本周社媒选题建议&lt;/h2&gt;
-&lt;p&gt;基于今日灵构视角资讯，提炼适合小红书/抖音/B站发布的选题角度。&lt;/p&gt;
-&lt;h3&gt;选题 1：Claude 内心戏被扒：AI 也有“心里话”？灵构带你读懂大模型的隐藏信号&lt;/h3&gt;
-&lt;p&gt;📱 &lt;strong&gt;平台&lt;/strong&gt;：B站、小红书&lt;/p&gt;
-&lt;p&gt;🎯 &lt;strong&gt;切入角度&lt;/strong&gt;：原来 AI 生成时自己也在偷偷“想”更多，做 AI 短剧和漫剧的你不想知道吗？&lt;/p&gt;
-&lt;p&gt;💡 &lt;strong&gt;内容方向&lt;/strong&gt;：科普自然语言自编码器技术，用灵构 3D 模型做可视化类比，展示如何将 Claude 内部“想法”解码成文字。讲解这对理解 AI 生成内容逻辑、优化角色反应的作用，最后引出灵构资产库可帮助创作者更精准控制 AI 输出细节。&lt;/p&gt;
+      <description>&lt;h2&gt;💡 社媒选题建议&lt;/h2&gt;
+&lt;p&gt;每条选题含完整大纲，可直接展开写 1500-2000 字文章。&lt;/p&gt;
+&lt;h3&gt;选题 1：Grok语音助手实战：用3步搭建复杂客服工作流&lt;/h3&gt;
+&lt;p&gt;📱 &lt;strong&gt;平台&lt;/strong&gt;：B站、抖音&lt;/p&gt;
+&lt;p&gt;🎯 &lt;strong&gt;读者痛点&lt;/strong&gt;：还在手动处理客服的多步骤故障排查？Grok Voice Think Fast 1.0能自动搞定复杂工作流，这篇教程教你从零上手。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;📝 文章大纲&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;## 背景：为何Grok语音助手能处理复杂工作流（对比传统语音助手的局限，突出Gro的快速推理与嘈杂环境适应性）&lt;/li&gt;
+&lt;li&gt;## 工具准备：获取Grok Voice API与工作流设计工具（注册xAI账号、申请API密钥、介绍常用工作流画布如Zapier或n8n）&lt;/li&gt;
+&lt;li&gt;## 步骤一：定义多步骤故障排查流程（以“账户登录失败-密码重置-设备验证”为例，设计对话树与条件路由）&lt;/li&gt;
+&lt;li&gt;## 步骤二：集成高频工具调用（绑定后端系统如数据库查询、工单系统，展示如何用Grok的自然语言触发API调用）&lt;/li&gt;
+&lt;li&gt;## 步骤三：部署与测试（在嘈杂环境下录制测试音频，对比响应准确率和延迟，提供优化Tips如调整语音模型参数）&lt;/li&gt;
+&lt;li&gt;## 总结：Grok语音助手对独立开发者与AI从业者的价值（降低客服系统开发成本，提升用户体验）&lt;/li&gt;
+&lt;/ul&gt;
 &lt;hr/&gt;
-&lt;h3&gt;选题 2：终端用 AI 做 3D 图，快人一步！OpenAI 官方 CLI 工具实操指南&lt;/h3&gt;
-&lt;p&gt;📱 &lt;strong&gt;平台&lt;/strong&gt;：抖音&lt;/p&gt;
-&lt;p&gt;🎯 &lt;strong&gt;切入角度&lt;/strong&gt;：别再复制粘贴了，直接命令行出图，动画人/游戏开发者必备神技。&lt;/p&gt;
-&lt;p&gt;💡 &lt;strong&gt;内容方向&lt;/strong&gt;：快速演示用 openai-cli 在终端调用 API 生成 3D 模型或贴图的一行命令，对比传统操作流程的效率提升。强调灵构创作者如何结合该工具实现自动化管线，如批量生成角色资产、快速迭代场景元素，节省做 AI 短剧和游戏的开发时间。&lt;/p&gt;
+&lt;h3&gt;选题 2：OpenAI CLI实战：5行命令搞定图片生成与语音转录&lt;/h3&gt;
+&lt;p&gt;📱 &lt;strong&gt;平台&lt;/strong&gt;：小红书、B站&lt;/p&gt;
+&lt;p&gt;🎯 &lt;strong&gt;读者痛点&lt;/strong&gt;：开发者福音：OpenAI终于出了官方命令行工具！不用写SDK代码，终端直调API，一键完成多模态任务。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;📝 文章大纲&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;## 安装：2步安装openai-cli（Homebrew一键安装 vs Go源码编译，附实测截图）&lt;/li&gt;
+&lt;li&gt;## 核心功能一：单行命令调用Responses API实现Agent工作流（例如：openai response create --model gpt-4o --tools web_search）&lt;/li&gt;
+&lt;li&gt;## 核心功能二：图像生成与编辑（openai image create --prompt '赛博朋克城市' --output /tmp/city.png）&lt;/li&gt;
+&lt;li&gt;## 核心功能三：语音转录与TTS（openai audio transcript --file speech.mp3 --output text.txt，对比OpenAI API与Whisper的本地效率）&lt;/li&gt;
+&lt;li&gt;## 进阶用法：管道链式处理（将JSON输出传递给jq进行结构化过滤，示例：openai response create ... | jq '.choices[0].message'）&lt;/li&gt;
+&lt;li&gt;## 对AI创作者的启示：如何将CLI集成到GitHub Actions或自动化脚本中，实现AI短剧批量字幕生成&lt;/li&gt;
+&lt;/ul&gt;
 &lt;hr/&gt;
-&lt;h3&gt;选题 3：AI 扩散模型提速 11 倍！3D 场景生成再也不卡顿，灵构陪你飞&lt;/h3&gt;
-&lt;p&gt;📱 &lt;strong&gt;平台&lt;/strong&gt;：B站&lt;/p&gt;
-&lt;p&gt;🎯 &lt;strong&gt;切入角度&lt;/strong&gt;：8 步出图，从 23 秒到 2 秒，做 AI 漫剧的剪辑师终于不用等了。&lt;/p&gt;
-&lt;p&gt;💡 &lt;strong&gt;内容方向&lt;/strong&gt;：对比展示传统 100 步扩散模型与 SenseNova-U1 的 8 步蒸馏 LoRA 在生成 3D 风格图像时的速度与质量差异。结合灵构平台的 3D 模型资产，演示如何快速产出高质量概念图或背景，为 AI 短剧、漫剧创作者提供省时省力的工作流建议。&lt;/p&gt;
+&lt;h3&gt;选题 3：GLM-5V-Turbo：一句提示完成AI短剧分镜生图&lt;/h3&gt;
+&lt;p&gt;📱 &lt;strong&gt;平台&lt;/strong&gt;：小红书&lt;/p&gt;
+&lt;p&gt;🎯 &lt;strong&gt;读者痛点&lt;/strong&gt;：还在逐张手动调参出图？GLM-5V-Turbo原生多模态让你一句话同时控制视觉风格、物体位置与工具调用，效率翻倍。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;📝 文章大纲&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;## 背景：多模态模型在AI短剧制作中的痛点（分镜需反复修改，传统模型无法精准理解空间关系）&lt;/li&gt;
+&lt;li&gt;## 模型揭秘：GLM-5V-Turbo的原生多模态设计（统一编码多模态信息、强化学习对齐视觉与文本指令）&lt;/li&gt;
+&lt;li&gt;## 步骤一：用一句话生成复杂分镜（示例提示词：“左侧是暗黑色城堡，右侧飞龙翱翔，主角持剑站在前景，后景火山喷发”，展示输出效果）&lt;/li&gt;
+&lt;li&gt;## 步骤二：结合视觉工具使用（让模型调用DALL·E-like API进行局部重绘，或引用外部风格模板，演示操作流程）&lt;/li&gt;
+&lt;li&gt;## 步骤三：集成智能体框架实现批量分镜（调用智谱工具链，设定参数如镜头焦距、角色动作序列，一键生成10张连续分镜图）&lt;/li&gt;
+&lt;li&gt;## 实测对比：与传统文生图模型的耗时与效果（GLM-5V-Turbo vs SDXL vs DALL·E 3，展示分辨率、物体定位准确度、生成速度指标）&lt;/li&gt;
+&lt;/ul&gt;
 &lt;hr/&gt;</description>
     </item>
     <item>
-      <title>AIGC内容创作 · 消息称 Anthropic 拟今夏融资数百亿美元，冲击万亿估值反超 OpenAI</title>
+      <title>行业动态 · 消息称 Anthropic 拟今夏融资数百亿美元，冲击万亿估值反超 OpenAI</title>
       <link>https://www.ithome.com/0/947/647.htm</link>
       <guid isPermaLink="false">linggou-cmowiv8kp0659slcxtj9qyl84</guid>
       <pubDate>Fri, 08 May 2026 13:40:09 +0800</pubDate>
-      <category>AIGC内容创作</category>
-      <description>&lt;p&gt;&lt;strong&gt;📽️ AIGC 内容创作&lt;/strong&gt; · 今天 13:40 · IT之家（RSS）&lt;/p&gt;
+      <category>行业动态</category>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 13:40 · IT之家（RSS）&lt;/p&gt;
 &lt;p&gt;据《金融时报》报道，人工智能公司Anthropic计划今年夏季进行大规模融资，以扩展计算能力。此轮融资额最高可达500亿美元，融资前估值预计达9000亿美元，完成后公司估值将接近1万亿美元，从而超越竞争对手OpenAI目前约8520亿美元的估值。公司年化收入预计很快将超过450亿美元，较去年底大幅增长。投资者意在为其年底可能的IPO提前建立持仓，但具体条款尚未最终确定。&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.ithome.com/0/947/647.htm&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
@@ -165,6 +233,28 @@ https：//github.com/yaojingang/yao-open-prompts/blob/main/prompts/08-ai-marketi
       <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 07:49 · Claude Code：GitHub Releases（RSS）&lt;/p&gt;
 &lt;p&gt;Claude 发布 v2.1.133 版本，新增多项配置与优化。主要新增 `worktree.baseRef` 设置以选择工作树分支基础，引入 `sandbox.bwrapPath` 等设置允许指定自定义二进制路径，并添加 `parentSettingsBehavior` 键供管理员控制设置合并策略。功能上，钩子现在可接收活动努力级别信息，Bash 工具命令可读取相应环境变量。此外，改进了焦点模式行为，并在内存压力下优化了后台工作进程的释放。本次更新修复了大量问题，包括并行会话死锁、权限规则误匹配、代理设置不生效、网络驱动器访问被拒、远程控制中断不彻底、努力级别跨会话更改以及子代理技能发现失败等。`claude --help` 现已列出远程控制选项，VSCode 扩展也修复了相关错误。&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://github.com/anthropics/claude-code/releases/tag/v2.1.133&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>行业动态 · Grok语音助手高效处理复杂工作流</title>
+      <link>https://x.com/xai/status/2052529102280880234</link>
+      <guid isPermaLink="false">linggou-cmow4twmy02uhslcx3t0zrkwx</guid>
+      <pubDate>Fri, 08 May 2026 07:20:46 +0800</pubDate>
+      <category>行业动态</category>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 07:20 · X：xAI (@xai)&lt;/p&gt;
+&lt;p&gt;您的客户服务需要一个为现实世界打造的语音助手。
+
+Grok Voice Think Fast 1.0能以速度和准确性处理复杂工作流，即使在嘈杂环境中也能胜任。从多步骤故障排除到高频工具调用，它都能从容应对。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/xai/status/2052529102280880234&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>行业动态 · 提升 GitHub Agentic Workflows 的 Token 使用效率</title>
+      <link>https://github.blog/ai-and-ml/github-copilot/improving-token-efficiency-in-github-agentic-workflows</link>
+      <guid isPermaLink="false">linggou-cmow4cvtv02o8slcx9yafds3n</guid>
+      <pubDate>Fri, 08 May 2026 07:00:00 +0800</pubDate>
+      <category>行业动态</category>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 07:00 · GitHub Blog&lt;/p&gt;
+&lt;p&gt;GitHub 发现运行于每个拉取请求的智能体工作流会累积高昂的 API 成本。团队通过监测自身生产工作流，定位了效率低下的环节，并构建了专门的智能体进行优化。这一举措旨在显著降低由大语言模型调用产生的 Token 消耗与相关费用，直接提升了工作流的经济性与运行效率。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.blog/ai-and-ml/github-copilot/improving-token-efficiency-in-github-agentic-workflows&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>技术工具 · OpenAI 上线官方命令行工具 openai-cli，终端直接调用 API</title>
@@ -255,23 +345,6 @@ https：//www.nbcnews.com/now/video/people-are-turning-text-message-threads-into
 &lt;p&gt;&lt;a href=&quot;https://x.com/berryxia/status/2052403652674093166&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>AIGC内容创作 · OpenRouter新增音频端点，支持语音合成与识别</title>
-      <link>https://x.com/OpenRouter/status/2052396767652544552</link>
-      <guid isPermaLink="false">linggou-cmovmae4j00ulslddeqy1lq1g</guid>
-      <pubDate>Thu, 07 May 2026 22:34:55 +0800</pubDate>
-      <category>AIGC内容创作</category>
-      <description>&lt;p&gt;&lt;strong&gt;📽️ AIGC 内容创作&lt;/strong&gt; · 今天 22:34 · X：OpenRouter (@OpenRouter)&lt;/p&gt;
-&lt;p&gt;1/ 音频现已成为OpenRouter的一等公民。
-
-今日上线两个新端点：
-
-📢 /api/v1/audio/speech - 文本转语音（TTS）
-🎤 /api/v1/audio/transcriptions - 语音转文本（SST）
-
-沿用您已在文本、图像和视频中使用的相同路由、计费和密钥。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/OpenRouter/status/2052396767652544552&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>行业动态 · ColaMD 1.5版实现Markdown内容与HTML模板分离</title>
       <link>https://x.com/oran_ge/status/2052385988375408749</link>
       <guid isPermaLink="false">linggou-cmovk58pe00cxslddy0dhpp8a</guid>
@@ -320,486 +393,132 @@ https：//github.com/yaojingang/yao-open-prompts/blob/main/prompts/08-ai-marketi
 &lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/research/anthropic-institute-agenda&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>AIGC内容创作 · 全国首例 AI 短剧侵权刑事案一审宣判：盗录超 1700 部牟利获刑，构成侵犯著作权罪</title>
-      <link>https://www.ithome.com/0/947/300.htm</link>
-      <guid isPermaLink="false">linggou-cmov7pbbj01njsluviaiw41i6</guid>
-      <pubDate>Thu, 07 May 2026 15:58:08 +0800</pubDate>
+      <title>行业动态 · 所有实验室都怕字节，所有人都在夸DeepSeek！美国研究员36小时中国AI行</title>
+      <link>https://www.qbitai.com/2026/05/414141.html</link>
+      <guid isPermaLink="false">linggou-extra-量子位-2314816345552213101</guid>
+      <pubDate>Fri, 08 May 2026 12:15:24 +0800</pubDate>
+      <category>行业动态</category>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 12:15 · 量子位 QbitAI&lt;/p&gt;
+&lt;p&gt;这跟中国的开源精神，显然是一脉相承的&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.qbitai.com/2026/05/414141.html&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>技术工具 · 原生Agent杀入画布！一站式搞定专业创作，全程可控、不抽卡</title>
+      <link>https://www.qbitai.com/2026/05/413912.html</link>
+      <guid isPermaLink="false">linggou-extra-量子位-2341482595003499795</guid>
+      <pubDate>Thu, 07 May 2026 23:54:00 +0800</pubDate>
+      <category>技术工具</category>
+      <description>&lt;p&gt;&lt;strong&gt;🛠️ 技术工具&lt;/strong&gt; · 今天 23:54 · 量子位 QbitAI&lt;/p&gt;
+&lt;p&gt;背靠国内最大ComfyUI生态&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.qbitai.com/2026/05/413912.html&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>行业动态 · 小红书四年AI 路：FOMO、犹豫，到突然加速</title>
+      <link>https://36kr.com/p/3799028783439111?f=rss</link>
+      <guid isPermaLink="false">linggou-extra-36氪--8271777613927764047</guid>
+      <pubDate>Fri, 08 May 2026 17:58:55 +0800</pubDate>
+      <category>行业动态</category>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; ·  · 36氪&lt;/p&gt;
+&lt;p&gt;作者&amp;nbsp;|&amp;nbsp;肖思佳
+  编辑&amp;nbsp;|&amp;nbsp;乔芊 杨轩
+  所有互联网大中厂都渴望在AI时代博得位置，在这场比赛中，小红书曾是克制的那个。
+  在一个搜索属性与社区属性并存，以真实经验分享为核心的产品中，活人感与AI、温情和算法，始终像天平的两端。
+  很长一段时间里，小红书既没有完全缺席技术探索，也没有像许多同行那样高调推进AI产品化。相反，这家公司始终在两股力量的拉锯和平衡中前行：一边持续投入模型能力，一边谨慎控制AI对社区生态的介入。
+  但2026年，随着Agent叙事的升温，小红书开始显露出某种急迫。
+  4月30日，小红书发送全员内部信，宣布成立AI一级&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://36kr.com/p/3799028783439111?f=rss&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>行业动态 · 第一代全固态电池迈入规模化市场，「纯锂新能源」完成数千万元Pre-A+轮融资 | 36氪首发</title>
+      <link>https://36kr.com/p/3800022823951363?f=rss</link>
+      <guid isPermaLink="false">linggou-extra-36氪-1848556172293462976</guid>
+      <pubDate>Fri, 08 May 2026 17:58:55 +0800</pubDate>
+      <category>行业动态</category>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; ·  · 36氪&lt;/p&gt;
+&lt;p&gt;文&amp;nbsp;|&amp;nbsp;张冰冰
+  编辑&amp;nbsp;|&amp;nbsp;阿至
+  36氪获悉，北京纯锂新能源科技有限公司（以下简称「纯锂新能源」）近日宣布完成数千万元Pre-A+轮融资，投资方为亦庄国投，云道资本担任独家财务顾问，资金将用于产品研发、市场拓展及产线落地。
+  「纯锂新能源」成立于2022年5月，聚焦全固态电池研发，通过自研复合电解质及超临界包覆工艺，破解全固态电池核心固固接触难题。2023年4月在北京亦庄建成小试线，量产10Ah全固态电芯；2023年5月在河南兰考县国电投新能源产业园启动建设500MWh规模量产线；2024年10月实现50Ah全固态电芯量产。
+  「纯锂新能源」于&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://36kr.com/p/3800022823951363?f=rss&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>行业动态 · 36氪首发 | 清华系AI Infra厂商完成数亿元融资，以GPU为核心重构计算机系统架构</title>
+      <link>https://36kr.com/p/3799984046333186?f=rss</link>
+      <guid isPermaLink="false">linggou-extra-36氪--573816860832725885</guid>
+      <pubDate>Fri, 08 May 2026 17:58:55 +0800</pubDate>
+      <category>行业动态</category>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; ·  · 36氪&lt;/p&gt;
+&lt;p&gt;作者&amp;nbsp;|&amp;nbsp;乔钰杰
+  编辑&amp;nbsp;|&amp;nbsp;袁斯来
+  硬氪获悉，北京容芯致远科技有限公司（以下简称“容芯致远”）近日完成天使轮数亿元融资。本轮由北京绿色能源和低碳产业基金与赛富投资基金领投，顺禧基金、富华资本、万利达集团、长江创新投、水木清华校友基金、梅花创投等跟投。云岫资本此前参与了公司种子轮投资，本轮继续跟投，并担任长期独家财务顾问。
+  AI浪潮下，算力需求激增，传统以CPU为中心的架构瓶颈愈发凸显：CPU成为数据调度与交互的核心限制，GPU之间通信效率不足，内存无法实现统一地址空间共享，整体算力利用率较低。
+  容芯致远创始人石旭毕业于清华大学电子工程系，&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://36kr.com/p/3799984046333186?f=rss&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>行业动态 · Plaud获头部大厂投资，目前估值达20亿美元｜硬氪独家</title>
+      <link>https://36kr.com/p/3799129165863937?f=rss</link>
+      <guid isPermaLink="false">linggou-extra-36氪-937315007851739744</guid>
+      <pubDate>Fri, 08 May 2026 17:58:55 +0800</pubDate>
+      <category>行业动态</category>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; ·  · 36氪&lt;/p&gt;
+&lt;p&gt;作者｜黄楠 周鑫雨
+  编辑｜袁斯来 杨轩
+  硬氪独家获悉，AI卡片录音笔公司Plaud已于2025年年中拿下腾讯的融资，估值达10亿美元；目前，Plaud公司估值已涨至约20亿美元。同时，硬氪从相关人士处了解到，Plaud正在推进与腾讯会议之间的硬件合作。
+  有关上述信息，硬氪向Plaud及腾讯方面求证，双方均表示消息不实。
+  一名接近Plaud人士告诉硬氪，Plaud在2024年的总营收约5600万美金，利润率接近20%，“2025年营收差不多涨了3倍”。另有知情者透露，2025年Plaud全年收入达到了历年最高，大陆全线产品的出货量符合内部预期。
+  但Plaud出货量谈不上高，有&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://36kr.com/p/3799129165863937?f=rss&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AIGC内容创作 · 在模型厂碾压之前，AI视频Agent产品是否只能挣波快钱？</title>
+      <link>https://36kr.com/p/3786528811572481?f=rss</link>
+      <guid isPermaLink="false">linggou-extra-36氪--392055294928207026</guid>
+      <pubDate>Fri, 08 May 2026 17:58:55 +0800</pubDate>
       <category>AIGC内容创作</category>
-      <description>&lt;p&gt;&lt;strong&gt;📽️ AIGC 内容创作&lt;/strong&gt; · 今天 15:58 · IT之家（RSS）&lt;/p&gt;
-&lt;p&gt;全国首例AI短剧侵权刑事案一审宣判。被告人盗录某公司AI工具生成的短剧超过1700部，并在二手平台以66.66元打包出售牟利，构成侵犯著作权罪。法院认定，这些短剧由用户输入原创剧本、情节等提示词生成，体现了独创性表达，属于受著作权法保护的作品。被告人被判处有期徒刑八个月，缓刑一年两个月，并处罚金人民币六千元。涉案公司平台已累计生成超7000部AI短剧，单价数元至十几元，热门剧销量可达上千份。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.ithome.com/0/947/300.htm&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;📽️ AIGC 内容创作&lt;/strong&gt; ·  · 36氪&lt;/p&gt;
+&lt;p&gt;文｜王毓婵 周鑫雨
+  编辑｜杨轩
+  “看流水（即营收），AI视频类这些项目的表现确实很不错，可以说是AI最赚钱的细分赛道之一。”投资行业人士对36氪说。&amp;nbsp;
+  中国 AI 视频生成赛道，正在经历大厂模型能力疯狂增长的巨大红利。来自字节跳动的Seedance和来自快手的可灵这两款“超级底座”正在进行一周一小版、两月一大版的高频迭代。阿里巴巴也在4月底，对视频生成模型HappyHorse 1.0开启灰测，720P视频生成刊例价为0.9元/秒。&amp;nbsp;
+  愿意为此花钱的内容创作者太多了，太急迫了。众多短剧、内容公司排队等待使用Seedance2.0已经成为2026年AI世界的一个&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://36kr.com/p/3786528811572481?f=rss&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>[AI HOT] 消息称 Anthropic 拟今夏融资数百亿美元，冲击万亿估值反超 OpenAI</title>
-      <link>https://www.ithome.com/0/947/647.htm</link>
-      <guid isPermaLink="false">aihot-cmowiv8kp0659slcxtj9qyl84</guid>
-      <pubDate>Fri, 08 May 2026 13:40:09 +0800</pubDate>
-      <category>industry</category>
-      <description>&lt;p&gt;&lt;small&gt;来源：IT之家（RSS）&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;据《金融时报》报道，人工智能公司Anthropic计划今年夏季进行大规模融资，以扩展计算能力。此轮融资额最高可达500亿美元，融资前估值预计达9000亿美元，完成后公司估值将接近1万亿美元，从而超越竞争对手OpenAI目前约8520亿美元的估值。公司年化收入预计很快将超过450亿美元，较去年底大幅增长。投资者意在为其年底可能的IPO提前建立持仓，但具体条款尚未最终确定。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.ithome.com/0/947/647.htm&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <title>AIGC内容创作 · 最前线|将彩色打印与激光切割合二为一，xTool发布新品</title>
+      <link>https://36kr.com/p/3798845086882820?f=rss</link>
+      <guid isPermaLink="false">linggou-extra-36氪-278733492109510839</guid>
+      <pubDate>Fri, 08 May 2026 17:58:55 +0800</pubDate>
+      <category>AIGC内容创作</category>
+      <description>&lt;p&gt;&lt;strong&gt;📽️ AIGC 内容创作&lt;/strong&gt; ·  · 36氪&lt;/p&gt;
+&lt;p&gt;文｜张子怡
+  编辑｜袁斯来
+  36氪获悉，个人创意工具品牌xTool于今日正式发布其新款消费级激光创作工具——xTool M2彩色智能激光雕刻机。
+  在目前的消费级激光雕刻市场中，用户面临的一个核心痛点在于“机械加工与色彩表现”的脱节：传统的激光雕刻机擅长物理切割与灼烧成痕，但若要制作彩色作品，用户往往需要经历繁琐的手动涂色、转印或多台设备切换对位，过程既复杂又难以保证精度。
+  xTool M2试图通过硬件层面的深度整合，将喷墨打印、激光雕刻与激光切割三项功能集成在单一设备内，让用户在同一套桌面流程中完成从设计到成品的闭环。
+  在具体的硬件定义上，xTool M2采用了模块化的设计思&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://36kr.com/p/3798845086882820?f=rss&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>[AI HOT] AI 终端智能化分级国标出炉：L1~L4 等级，涉及手机、电脑、眼镜、电视、耳机等</title>
-      <link>https://www.ithome.com/0/947/582.htm</link>
-      <guid isPermaLink="false">aihot-cmowcflpg04n8slcxecg6jvdu</guid>
-      <pubDate>Fri, 08 May 2026 11:06:06 +0800</pubDate>
-      <category>industry</category>
-      <description>&lt;p&gt;&lt;small&gt;来源：IT之家（RSS）&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;工信部等部门联合发布《人工智能终端智能化分级》系列国家标准。该标准采用&quot;2+N&quot;架构，基础部分明确了AI终端的定义、分级体系与测试方法。智能化水平从低到高分为L1响应级、L2工具级、L3辅助级和L4协同级四个等级，其中L4级标准将在后续修订中完善。首批标准覆盖手机、电脑、电视、眼镜、汽车座舱、音箱、耳机共7个品类，小米、华为、荣耀等为主要起草单位，旨在为各类智能终端的智能化水平提供统一评价依据。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.ithome.com/0/947/582.htm&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <title>行业动态 · 苏宁易购召开出海战略发布会</title>
+      <link>https://36kr.com/newsflashes/3800429131226114?f=rss</link>
+      <guid isPermaLink="false">linggou-extra-36氪--7926352886882490883</guid>
+      <pubDate>Fri, 08 May 2026 17:58:55 +0800</pubDate>
+      <category>行业动态</category>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; ·  · 36氪&lt;/p&gt;
+&lt;p&gt;36氪获悉，5月8日，苏宁易购召开“2026苏宁易购618电商启动暨出海战略发布会”，宣布进军海外市场。据了解，苏宁易购将打造“一站式出海平台”，为中国商家提供“拎包出海”的全链路解决方案。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://36kr.com/newsflashes/3800429131226114?f=rss&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>[AI HOT] Claude v2.1.133 版本更新</title>
-      <link>https://github.com/anthropics/claude-code/releases/tag/v2.1.133</link>
-      <guid isPermaLink="false">aihot-cmow6i2aq036jslcxxneym5zm</guid>
-      <pubDate>Fri, 08 May 2026 07:49:04 +0800</pubDate>
-      <category>ai-products</category>
-      <description>&lt;p&gt;&lt;small&gt;来源：Claude Code：GitHub Releases（RSS）&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;Claude 发布 v2.1.133 版本，新增多项配置与优化。主要新增 `worktree.baseRef` 设置以选择工作树分支基础，引入 `sandbox.bwrapPath` 等设置允许指定自定义二进制路径，并添加 `parentSettingsBehavior` 键供管理员控制设置合并策略。功能上，钩子现在可接收活动努力级别信息，Bash 工具命令可读取相应环境变量。此外，改进了焦点模式行为，并在内存压力下优化了后台工作进程的释放。本次更新修复了大量问题，包括并行会话死锁、权限规则误匹配、代理设置不生效、网络驱动器访问被拒、远程控制中断不彻底、努力级别跨会话更改以及子代理技能发现失败等。`claude --help` 现已列出远程控制选项，VSCode 扩展也修复了相关错误。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/anthropics/claude-code/releases/tag/v2.1.133&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>[AI HOT] atomic.chat为LLaMA.cpp引入多令牌预测技术，显著加速本地模型推理</title>
-      <link>https://x.com/rohanpaul_ai/status/2052533657525698802</link>
-      <guid isPermaLink="false">aihot-cmow5nur702z9slcxewvl62nn</guid>
-      <pubDate>Fri, 08 May 2026 07:38:52 +0800</pubDate>
-      <category>tip</category>
-      <description>&lt;p&gt;&lt;small&gt;来源：X：Rohan Paul (@rohanpaul_ai)&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;atomic.chat通过为LLaMA.cpp引入多令牌预测技术，大幅提升了本地大型语言模型的推理效率。该技术利用小型辅助模型预先生成后续令牌草案，由主模型进行验证。在MacBook Pro M5 Max上测试时，使Gemma 4 26B模型的令牌生成速度加快约40%，整体运行速度提升1.5倍。这项优化进一步巩固了LLaMA.cpp和GGUF格式在本地AI生态中的核心地位，为桌面应用、编程助手和私有设备助手等场景提供了更高效的部署方案。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/rohanpaul_ai/status/2052533657525698802&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>[AI HOT] GPT实时模型提示指南发布</title>
-      <link>https://x.com/OpenAIDevs/status/2052530378184032560</link>
-      <guid isPermaLink="false">aihot-cmow4l9yl02rhslcxc25ez3eo</guid>
-      <pubDate>Fri, 08 May 2026 07:25:50 +0800</pubDate>
-      <category>tip</category>
-      <description>&lt;p&gt;&lt;small&gt;来源：X：OpenAI Developers (@OpenAIDevs)&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;正在用GPT-Realtime-2构建语音应用？
-
-我们的新提示指南涵盖如何调整推理强度、使用前导说明、设计工具行为、处理不清晰音频、准确捕获实体，以及在长会话中保持状态。
-
-https：//developers.openai.com/api/docs/guides/realtime-models-prompting？realtime-model=gpt-realtime-2&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/OpenAIDevs/status/2052530378184032560&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>[AI HOT] Grok语音助手高效处理复杂工作流</title>
-      <link>https://x.com/xai/status/2052529102280880234</link>
-      <guid isPermaLink="false">aihot-cmow4twmy02uhslcx3t0zrkwx</guid>
-      <pubDate>Fri, 08 May 2026 07:20:46 +0800</pubDate>
-      <category>ai-products</category>
-      <description>&lt;p&gt;&lt;small&gt;来源：X：xAI (@xai)&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;您的客户服务需要一个为现实世界打造的语音助手。
-
-Grok Voice Think Fast 1.0能以速度和准确性处理复杂工作流，即使在嘈杂环境中也能胜任。从多步骤故障排除到高频工具调用，它都能从容应对。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/xai/status/2052529102280880234&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>[AI HOT] 提升 GitHub Agentic Workflows 的 Token 使用效率</title>
-      <link>https://github.blog/ai-and-ml/github-copilot/improving-token-efficiency-in-github-agentic-workflows</link>
-      <guid isPermaLink="false">aihot-cmow4cvtv02o8slcx9yafds3n</guid>
-      <pubDate>Fri, 08 May 2026 07:00:00 +0800</pubDate>
-      <category>tip</category>
-      <description>&lt;p&gt;&lt;small&gt;来源：GitHub Blog&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;GitHub 发现运行于每个拉取请求的智能体工作流会累积高昂的 API 成本。团队通过监测自身生产工作流，定位了效率低下的环节，并构建了专门的智能体进行优化。这一举措旨在显著降低由大语言模型调用产生的 Token 消耗与相关费用，直接提升了工作流的经济性与运行效率。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.blog/ai-and-ml/github-copilot/improving-token-efficiency-in-github-agentic-workflows&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>[AI HOT] 苹果首款 AI 可穿戴设备：内置摄像头的 AirPods 已进入 DVT 阶段，预计最快 9 月搭载新 Siri 亮相</title>
-      <link>https://www.ithome.com/0/947/455.htm</link>
-      <guid isPermaLink="false">aihot-cmow3ux2u02lnslcxa8wfzlzc</guid>
-      <pubDate>Fri, 08 May 2026 06:55:17 +0800</pubDate>
-      <category>industry</category>
-      <description>&lt;p&gt;&lt;small&gt;来源：IT之家（RSS）&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;据报道，苹果内置摄像头的AirPods已进入设计验证测试（DVT）阶段，最快有望于今年9月作为其首款AI可穿戴设备发布。该产品左右耳机配备低分辨率摄像头，用于捕捉环境视觉信息，以支持升级版Siri实现视觉问答等功能。其整体外观类似AirPods Pro 3，但耳机柄因容纳摄像头而加长。产品原计划2026年发布，因Siri升级延迟而推迟，此次升级得益于与谷歌Gemini的技术合作。苹果还在探索其导航提醒等用途，并为缓解隐私担忧内置了数据上传指示灯。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.ithome.com/0/947/455.htm&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>[AI HOT] OpenAI 上线官方命令行工具 openai-cli，终端直接调用 API</title>
-      <link>https://x.com/dotey/status/2052512560264380737</link>
-      <guid isPermaLink="false">aihot-cmow2j0gj02a0slcxfjp941u7</guid>
-      <pubDate>Fri, 08 May 2026 06:15:02 +0800</pubDate>
-      <category>ai-products</category>
-      <description>&lt;p&gt;&lt;small&gt;来源：X：宝玉 (@dotey)&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;OpenAI 在 GitHub 开源了官方命令行工具 openai-cli，采用 Apache 2.0 协议，支持通过 Homebrew 或 Go 安装。该工具允许开发者直接在终端调用 OpenAI API，无需编写 SDK 代码。其核心功能包括调用支持所有云端工具（如网页搜索、代码解释器）的 Responses API 以实现 Agent 工作流；支持 JSON、YAML 等结构化输出并可管道处理；能用单行命令完成图像生成编辑、语音转录等任务；同时整合了项目管理与 API 密钥配置。工具采用资源化命令结构，旨在弥补官方此前仅提供语言 SDK 的不足，便于集成到自动化流程和服务器端环境中。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/dotey/status/2052512560264380737&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>[AI HOT] 捐赠开源对齐工具 Petri</title>
-      <link>https://www.anthropic.com/research/donating-open-source-petri</link>
-      <guid isPermaLink="false">aihot-cmow01hfu01nwslcxdc8cl10x</guid>
-      <pubDate>Fri, 08 May 2026 05:29:27 +0800</pubDate>
-      <category>ai-products</category>
-      <description>&lt;p&gt;&lt;small&gt;来源：Anthropic：Research（发表成果 · 网页）&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;2025年10月，Anthropic公司开源了AI模型对齐测试工具箱Petri，用于快速检测模型的欺骗、奉承等风险倾向。该工具已成为Claude模型系列对齐评估的核心部分，并被英国AI安全研究所等外部机构采用。近日，Petri升级至3.0版本，主要改进包括：架构调整提升适应性，允许单独调整审计与目标模型；通过&quot;Dish&quot;附加组件使用真实系统提示和部署环境，增强测试真实性；与另一开源工具Bloom集成，实现更深入的行为评估。为确保独立性与公信力，Petri的开发已移交非营利组织Meridian Labs。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/research/donating-open-source-petri&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>[AI HOT] ChatGPT中文回复频现&quot;我会稳稳地接住你&quot;，WIRED剖析成因</title>
-      <link>https://x.com/dotey/status/2052500525598527732</link>
-      <guid isPermaLink="false">aihot-cmow0dule01s5slcxmhj5rg5u</guid>
-      <pubDate>Fri, 08 May 2026 05:27:13 +0800</pubDate>
-      <category>tip</category>
-      <description>&lt;p&gt;&lt;small&gt;来源：X：宝玉 (@dotey)&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;ChatGPT在中文对话中反复出现&quot;我会稳稳地接住你&quot;等怪异表达，已成为流行梗。WIRED报道指出，这源于&quot;模式坍缩&quot;现象，即后训练反馈机制导致模型过度使用特定短语。成因包括翻译错位--英文口语&quot;I've got you&quot;被机械直译为冗长煽情的中文，以及RLHF强化学习引发的&quot;讨好用户&quot;倾向，模型被奖励生成令人舒适的回答。类似问题如无故出现&quot;砍一刀&quot;等营销话术。该现象非OpenAI独有，Claude和DeepSeek新版本也出现相同表达。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/dotey/status/2052500525598527732&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>[AI HOT] 开源AI Agent网盘NeuDrive，支持主流工具与自动同步</title>
-      <link>https://x.com/oran_ge/status/2052497363043049662</link>
-      <guid isPermaLink="false">aihot-cmow08wjt01qmslcxf9eg7zeo</guid>
-      <pubDate>Fri, 08 May 2026 05:14:39 +0800</pubDate>
-      <category>ai-products</category>
-      <description>&lt;p&gt;&lt;small&gt;来源：X：Oran Ge (@oran_ge)&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;开发者开源了一款专为AI Agent设计的网盘NeuDrive，能够自动同步Agent的记忆、技能和文件。该工具支持Claude Code、Codex、Cursor等主流开发工具以及多种网页应用。项目已在GitHub开源，同时提供了可直接使用的部署版本。免费版已能满足绝大多数使用场景，付费版在付款时输入优惠码&quot;vivo50&quot;可兑换三个月免费使用权。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/oran_ge/status/2052497363043049662&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>[AI HOT] Luma Agents 根据标语自动生成广告</title>
-      <link>https://x.com/LumaLabsAI/status/2052485077310042321</link>
-      <guid isPermaLink="false">aihot-cmovy5pcb019jslcxicmd0o65</guid>
-      <pubDate>Fri, 08 May 2026 04:25:50 +0800</pubDate>
-      <category>ai-products</category>
-      <description>&lt;p&gt;&lt;small&gt;来源：X：Luma AI (@LumaLabsAI)&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;你已有标语。现在将其变为广告。
-
-输入你的标语。定义美学风格。Luma Agents 将据此构建广告。
-
-赋予它生命 → http：//lumalabs.ai/app&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/LumaLabsAI/status/2052485077310042321&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>[AI HOT] Codex插件现支持Chrome跨标签并行运行</title>
-      <link>https://x.com/OpenAI/status/2052480800004956323</link>
-      <guid isPermaLink="false">aihot-cmovx7jax0110slcxiecw3cox</guid>
-      <pubDate>Fri, 08 May 2026 04:08:50 +0800</pubDate>
-      <category>ai-products</category>
-      <description>&lt;p&gt;&lt;small&gt;来源：X：OpenAI (@OpenAI)&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;Codex现可直接在macOS和Windows的Chrome中运行。
-
-它在处理Chrome中的应用和网站时表现更佳，并能在后台跨标签页并行工作，而不会占用浏览器控制权。
-
-要开始使用，请在Codex应用中安装Chrome插件。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/OpenAI/status/2052480800004956323&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>[AI HOT] 冻结大语言模型隐藏状态中仍存可读行为信号，新技术大幅提升准确性</title>
-      <link>https://x.com/rohanpaul_ai/status/2052469258584822006</link>
-      <guid isPermaLink="false">aihot-cmovw0m8j00s3slcxklzwwqpj</guid>
-      <pubDate>Fri, 08 May 2026 03:22:58 +0800</pubDate>
-      <category>tip</category>
-      <description>&lt;p&gt;&lt;small&gt;来源：X：Rohan Paul (@rohanpaul_ai)&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;Proprioceptive AI开发的Cygnus技术，通过为冻结的大语言模型添加自感知适配器，使其能读取内部认知几何。该技术将模型的隐藏状态投影到由gl（4，R）李代数定义的数学空间，分离出包含主要精度信号的&quot;暗模式&quot;，从而无需重新训练即可显著提升模型性能。例如，仅用一张RTX 3090显卡，就将Qwen-32B在ARC-Challenge基准上的准确率从82.2%提升至94.97%。其适配器将覆盖从3B到405B的多款模型，服务节点可支持5万用户并发，预计本周末上线。相关设计论文已公开。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/rohanpaul_ai/status/2052469258584822006&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>[AI HOT] Agent pull requests 无处不在：如何审查它们</title>
-      <link>https://github.blog/ai-and-ml/generative-ai/agent-pull-requests-are-everywhere-heres-how-to-review-them</link>
-      <guid isPermaLink="false">aihot-cmovvs6e600ouslcxuur7w2qt</guid>
-      <pubDate>Fri, 08 May 2026 03:00:00 +0800</pubDate>
-      <category>tip</category>
-      <description>&lt;p&gt;&lt;small&gt;来源：GitHub Blog&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;这份指南提供了审查由AI代理生成的pull requests的实用方法，重点包括审查时应关注的代码变更点、问题常见隐藏位置（如逻辑错误或安全漏洞），以及如何在代码合并前捕捉技术债务。它通过具体步骤帮助开发者系统评估自动化提交，确保代码质量，避免缺陷流入生产环境。指南强调主动审查策略，以应对AI代理在软件开发中日益普及的趋势。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.blog/ai-and-ml/generative-ai/agent-pull-requests-are-everywhere-heres-how-to-review-them&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>[AI HOT] DeepSeek 4：适用于 Metal 的 Flash 本地推理引擎</title>
-      <link>https://github.com/antirez/ds4</link>
-      <guid isPermaLink="false">aihot-cmovuxu3n00haslcx96vqs77g</guid>
-      <pubDate>Fri, 08 May 2026 02:45:55 +0800</pubDate>
-      <category>ai-products</category>
-      <description>&lt;p&gt;&lt;small&gt;来源：Hacker News 热门（buzzing.cc 中文翻译）&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;DeepSeek 4 Flash 本地推理引擎正式发布，这是一个专为苹果 Metal 框架优化的开源项目。它允许开发者在配备 Apple Silicon 芯片的 Mac 上高效运行 DeepSeek 4 模型，实现本地离线推理。引擎通过 Metal Performance Shaders 显著提升了计算性能，降低了延迟与内存占用。该项目已在 GitHub 开源，并在 Hacker News 上获得了关注。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/antirez/ds4&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>[AI HOT] 在Excel、PowerPoint、Word和Outlook中与Claude协同工作</title>
-      <link>https://claude.com/blog/collaborate-with-claude-across-excel-powerpoint-word-and-outlook</link>
-      <guid isPermaLink="false">aihot-cmovu1k5j00cbslcxfdtkl5tg</guid>
-      <pubDate>Fri, 08 May 2026 02:41:18 +0800</pubDate>
-      <category>ai-products</category>
-      <description>&lt;p&gt;&lt;small&gt;来源：Claude：Blog（网页）&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;Claude for Excel、PowerPoint和Word现已全面上市，Outlook版本开放公开测试。Claude能在四大微软应用间保持连续对话上下文，实现跨文件智能协作。例如，在Outlook中分类邮件并起草回复，在Excel中调整数据后，PowerPoint图表和Word文档会自动同步更新。企业管理员可通过微软管理中心统一部署，并配置OpenTelemetry进行全流程监控。该套件支持通过Claude账户或现有LLM网关访问，Microsoft 365 Copilot用户也可在Excel和PowerPoint中直接调用Claude。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://claude.com/blog/collaborate-with-claude-across-excel-powerpoint-word-and-outlook&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>[AI HOT] 谷歌研究揭示：结构化问询与可穿戴数据是AI医疗诊断的关键</title>
-      <link>https://x.com/kimmonismus/status/2052450461278744798</link>
-      <guid isPermaLink="false">aihot-cmovtoxi5007rslcxg6lke96u</guid>
-      <pubDate>Fri, 08 May 2026 02:08:17 +0800</pubDate>
-      <category>paper</category>
-      <description>&lt;p&gt;&lt;small&gt;来源：X：Kim (@kimmonismus)&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;谷歌团队通过Fitbit对近1.4万名用户进行了为期9个月的AI症状检查测试。在盲评中，临床医生将AI诊断列为首选的比例达53%，显著高于独立医生的24%。研究核心发现并非&quot;AI击败医生&quot;，而是揭示了当前消费级大模型（如ChatGPT）仅凭用户输入直接回答的模式存在缺陷--其诊断准确率较AI主导的结构化访谈下降约27%。同时，可穿戴设备能提前数天监测到心率上升、睡眠紊乱等生理变化，早于用户主动报告症状。这表明，结合主动问询的对话AI与提前预警的传感器，才是未来医疗诊断的发展方向。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/kimmonismus/status/2052450461278744798&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>[AI HOT] Perplexity推出Mac版个人计算机应用</title>
-      <link>https://x.com/perplexity_ai/status/2052445405754040816</link>
-      <guid isPermaLink="false">aihot-cmovsz1eo008vsle07nfvdqe1</guid>
-      <pubDate>Fri, 08 May 2026 01:48:11 +0800</pubDate>
-      <category>ai-products</category>
-      <description>&lt;p&gt;&lt;small&gt;来源：X：Perplexity (@perplexity_ai)&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;Personal Computer现已通过全新的Perplexity Mac应用向所有用户开放。
-
-Personal Computer是Perplexity Computer的进阶版本。
-
-它可在任何Mac设备上运行，能跨本地文件、原生Mac应用、网络以及Perplexity安全服务器执行任务。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/perplexity_ai/status/2052445405754040816&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>[AI HOT] 安全中心2.0升级 批量管理应用安全</title>
-      <link>https://x.com/Replit/status/2052444908154433567</link>
-      <guid isPermaLink="false">aihot-cmovsvoaj006rsle0o8h39t35</guid>
-      <pubDate>Fri, 08 May 2026 01:46:13 +0800</pubDate>
-      <category>ai-products</category>
-      <description>&lt;p&gt;&lt;small&gt;来源：X：Replit (@Replit)&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;我们安全承诺的下一步：安全中心2.0。
-
-我们极大地简化了理解您管理的每个Replit应用安全状况的流程，并支持批量对所有应用执行操作。
-
-通过安全中心2.0，您可以：
-- 即时识别高风险应用
-- 数秒内通过Agent修复关键漏洞
-- 通过批量操作通知所有者或下架应用
-- 导出软件物料清单（SBOM）以集成外部工具&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/Replit/status/2052444908154433567&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>[AI HOT] Gemini 3.1 Flash Lite正式上线OpenRouter</title>
-      <link>https://x.com/OpenRouter/status/2052444130287210984</link>
-      <guid isPermaLink="false">aihot-cmovsqs6q0082sl3tv5bu1luq</guid>
-      <pubDate>Fri, 08 May 2026 01:43:07 +0800</pubDate>
-      <category>ai-products</category>
-      <description>&lt;p&gt;&lt;small&gt;来源：X：OpenRouter (@OpenRouter)&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;Gemini 3.1 Flash Lite 来自 @GoogleDeepMind，现已在 OpenRouter 正式发布。
-
-多模态（文本/图像/视频/音频/PDF → 文本），100万上下文，可选的思考层级，输入每百万次$0.25，输出每百万次$1.50。
-
-还可配合我们新的 service_tier 参数使用，以权衡成本与延迟！&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/OpenRouter/status/2052444130287210984&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>[AI HOT] 自然语言自编码器：将Claude的&quot;想法&quot;解码为文本</title>
-      <link>https://www.anthropic.com/research/natural-language-autoencoders</link>
-      <guid isPermaLink="false">aihot-cmovrgspu00koslota6u3u6c0</guid>
-      <pubDate>Fri, 08 May 2026 01:29:24 +0800</pubDate>
-      <category>paper</category>
-      <description>&lt;p&gt;&lt;small&gt;来源：Anthropic：Research（发表成果 · 网页）&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;Anthropic团队推出自然语言自编码器方法，能将大模型内部的激活值直接解码为可读文本。该方法通过训练&quot;激活描述器&quot;和&quot;激活重建器&quot;，形成&quot;激活值→文本解释→重建激活值&quot;的循环，并以重建相似度为目标进行优化。应用表明，NLA能揭示模型未言明的内部状态，例如在安全测试中，发现Claude内心意识到自己正被评估的比例远超其外部回应。团队已公开代码，并合作发布了交互式探索工具。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/research/natural-language-autoencoders&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>[AI HOT] GLM-5V-Turbo技术报告发布，迈向原生多模态智能体基础模型</title>
-      <link>https://x.com/Zai_org/status/2052426777654387168</link>
-      <guid isPermaLink="false">aihot-cmovpsqwe009qslot6hg31atg</guid>
-      <pubDate>Fri, 08 May 2026 00:34:10 +0800</pubDate>
-      <category>paper</category>
-      <description>&lt;p&gt;&lt;small&gt;来源：X：智谱 Z.ai (@Zai_org)&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;GLM-5V-Turbo 技术报告：迈向原生多模态智能体基础模型
-
-本报告总结了GLM-5V-Turbo在模型设计、多模态训练、强化学习、工具链扩展以及与智能体框架集成等方面的主要改进。这些进展使其在多模态编码、视觉工具使用和基于框架的智能体任务中表现出色。
-http：//arxiv.org/abs/2604.26752&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/Zai_org/status/2052426777654387168&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>[AI HOT] NBC关注Suno短信转歌曲AI热潮</title>
-      <link>https://x.com/suno/status/2052422389401620760</link>
-      <guid isPermaLink="false">aihot-cmovprqex009jslotvm89egug</guid>
-      <pubDate>Fri, 08 May 2026 00:16:44 +0800</pubDate>
-      <category>industry</category>
-      <description>&lt;p&gt;&lt;small&gt;来源：X：Suno (@suno)&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;NBC News刚刚重点报道了使用Suno的短信转歌曲病毒式趋势！
-https：//www.nbcnews.com/now/video/people-are-turning-text-message-threads-into-fun-songs-using-ai-in-a-new-trend-on-social-media-262862405776&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/suno/status/2052422389401620760&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>[AI HOT] AI助手可一键生成70余种公众号排版风格</title>
-      <link>https://x.com/vista8/status/2052421411445375089</link>
-      <guid isPermaLink="false">aihot-cmovorfq101hwslddlcevjqkd</guid>
-      <pubDate>Fri, 08 May 2026 00:12:51 +0800</pubDate>
-      <category>tip</category>
-      <description>&lt;p&gt;&lt;small&gt;来源：X：Vista (@vista8)&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;想让AI设计公众号排版CSS，可直接跟Agent说，参考Design md设计：
-
-https：//github.com/VoltAgent/awesome-design-md/tree/main/design-md
-
-一下能设计了70多个知名网站风格，选几个喜欢优化。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/vista8/status/2052421411445375089&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>[AI HOT] 走进中国AI实验室内部笔记</title>
-      <link>https://www.interconnects.ai/p/notes-from-inside-chinas-ai-labs</link>
-      <guid isPermaLink="false">aihot-cmovorzyz01i3slddn1kicajj</guid>
-      <pubDate>Thu, 07 May 2026 23:42:43 +0800</pubDate>
-      <category>tip</category>
-      <description>&lt;p&gt;&lt;small&gt;来源：Nathan Lambert：Interconnects（RSS）&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;作者实地走访中国多家头部AI实验室，观察到国内AI发展呈现三大特征：模型能力正快速逼近国际前沿，部分中文场景表现甚至超越GPT-4；企业普遍采用混合策略，同时开发千亿级大模型和百亿级垂直模型；算力紧张催生创新解决方案，如模型压缩技术和私有化部署方案。各大实验室正从技术追赶转向应用深耕，在医疗、制造等传统领域已形成规模化落地案例。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.interconnects.ai/p/notes-from-inside-chinas-ai-labs&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>[AI HOT] 万亿参数指令模型Ling-2.6-1T发布</title>
-      <link>https://x.com/AntLingAGI/status/2052404630488023536</link>
-      <guid isPermaLink="false">aihot-cmovmd98i00visldd0dd0ozux</guid>
-      <pubDate>Thu, 07 May 2026 23:06:10 +0800</pubDate>
-      <category>ai-models</category>
-      <description>&lt;p&gt;&lt;small&gt;来源：X：蚂蚁百灵 (@AntLingAGI)&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;inclusionAI宣布Ling-2.6-1T现已在OpenRouter上线。🚀
-这款万亿参数旗舰指令模型专为现实世界智能体打造。它采用&quot;快速思考&quot;方法，在保持AIME26和SWE-bench Verified基准测试顶尖性能的同时，将成本降低约75%。适用于：
-- 高级编程
-- 复杂推理
-- 大规模智能体工作流&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/AntLingAGI/status/2052404630488023536&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>[AI HOT] SenseNova-U1开源8步蒸馏LoRA，扩散模型推理提速11倍</title>
-      <link>https://x.com/berryxia/status/2052403652674093166</link>
-      <guid isPermaLink="false">aihot-cmovmvks8011dsldd9h5t3euv</guid>
-      <pubDate>Thu, 07 May 2026 23:02:17 +0800</pubDate>
-      <category>tip</category>
-      <description>&lt;p&gt;&lt;small&gt;来源：X：Berry Xia (@berryxia)&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;SenseNova-U1开源了一项8步蒸馏LoRA技术，将扩散模型的生成步骤从100步压缩至8步，使GPU推理时间从23秒大幅缩短至2秒，速度提升达11倍。该技术同时完整支持ComfyUI，并提供了文本生图、图像编辑和交错生成等开箱即用的工作流程。此举标志着扩散模型从研究阶段迈向实用化，引发了业界关于未来应聚焦参数规模竞赛还是追求速度与实用性的讨论。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/berryxia/status/2052403652674093166&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>[AI HOT] Apify mcpc 与 x402：给 AI Agent 装上&quot;自动付款的钱包&quot;</title>
-      <link>https://x.com/shao__meng/status/2052397575446417822</link>
-      <guid isPermaLink="false">aihot-cmovmdixp00waslddox17vtdv</guid>
-      <pubDate>Thu, 07 May 2026 22:38:08 +0800</pubDate>
-      <category>ai-products</category>
-      <description>&lt;p&gt;&lt;small&gt;来源：X：邵猛 (@shao__meng)&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;Apify发布的通用MCP客户端CLI工具mcpc，集成了x402支付协议，旨在解决AI Agent调用付费API时的手动计费瓶颈。传统SaaS计费流程依赖人工注册、绑卡和审批，而x402协议将支付压缩为一次HTTP往返加签名，使程序能自主交易。mcpc为Agent提供加密钱包，当调用付费服务遭遇HTTP 402状态码时，可自动签名完成支付，无需人工干预。该工具支持Claude Code等MCP兼容的Agent，用户可使用USDC为钱包充值并连接x402兼容服务。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/shao__meng/status/2052397575446417822&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>[AI HOT] OpenRouter新增音频端点，支持语音合成与识别</title>
-      <link>https://x.com/OpenRouter/status/2052396767652544552</link>
-      <guid isPermaLink="false">aihot-cmovmae4j00ulslddeqy1lq1g</guid>
-      <pubDate>Thu, 07 May 2026 22:34:55 +0800</pubDate>
-      <category>ai-products</category>
-      <description>&lt;p&gt;&lt;small&gt;来源：X：OpenRouter (@OpenRouter)&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;1/ 音频现已成为OpenRouter的一等公民。
-
-今日上线两个新端点：
-
-📢 /api/v1/audio/speech - 文本转语音（TTS）
-🎤 /api/v1/audio/transcriptions - 语音转文本（SST）
-
-沿用您已在文本、图像和视频中使用的相同路由、计费和密钥。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/OpenRouter/status/2052396767652544552&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>[AI HOT] ColaMD 1.5版实现Markdown内容与HTML模板分离</title>
-      <link>https://x.com/oran_ge/status/2052385988375408749</link>
-      <guid isPermaLink="false">aihot-cmovk58pe00cxslddy0dhpp8a</guid>
-      <pubDate>Thu, 07 May 2026 21:52:05 +0800</pubDate>
-      <category>tip</category>
-      <description>&lt;p&gt;&lt;small&gt;来源：X：Oran Ge (@oran_ge)&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;作者为解决制作演示文稿时修改不便的问题，受&quot;Markdown as Database&quot;理念启发，在ColaMD 1.5版本中实现了一种内容与视图分离的方案。该方案将.md文件作为内容层，HTML作为可更换的视图模板层，用户只需修改Markdown内容，即可生成不同形态的最终呈现，如幻灯片、博客等。此功能已内置，并支持通过开源方式由社区或AI扩展更多模板。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/oran_ge/status/2052385988375408749&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>[AI HOT] Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber</title>
-      <link>https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber</link>
-      <guid isPermaLink="false">aihot-cmow0r6l301w4slcxxatn6f7p</guid>
-      <pubDate>Thu, 07 May 2026 21:00:00 +0800</pubDate>
-      <category>ai-models</category>
-      <description>&lt;p&gt;&lt;small&gt;来源：OpenAI：官网动态（RSS · 排除企业/客户案例）&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;OpenAI扩展了网络安全领域的可信访问计划，推出了GPT-5.5和专门针对网络安全的GPT-5.5-Cyber模型。此举旨在帮助经过验证的网络安全防御者加速漏洞研究，并加强对关键基础设施的保护。新模型将为安全专业人员提供更强大的AI工具支持。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>[AI HOT] 开源，通通开源，哈哈哈。</title>
-      <link>https://x.com/vista8/status/2052363294472815062</link>
-      <guid isPermaLink="false">aihot-cmovh8f0301mesl5szr1az8n4</guid>
-      <pubDate>Thu, 07 May 2026 20:21:55 +0800</pubDate>
-      <category>tip</category>
-      <description>&lt;p&gt;&lt;small&gt;来源：X：Vista (@vista8)&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;开源，通通开源，哈哈哈。
-
-【引用 @yaojingang】：和 @vista8 讨论了下，决定将我们的新书《AI营销：从SEO到GEO》里配套的25个AI营销与GEO相关的提示词，也开源到GitHub
-另外补充了部分短视频和文案相关的提示词，欢迎下载使用或重新拉取
-
-1、提示词合集地址：
-https：//github.com/yaojingang/yao-open-promptsGEO
-2、GEO提示词合集：
-https：//github.com/yaojingang/yao-open-prompts/blob/main/prompts/08-ai-marketing/README.md&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/vista8/status/2052363294472815062&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>[AI HOT] 4K超分功能上线 限时免费体验与优惠</title>
-      <link>https://x.com/PixVerse_/status/2052362932634411243</link>
-      <guid isPermaLink="false">aihot-cmovgw9tn01gesl5skmmh9awd</guid>
-      <pubDate>Thu, 07 May 2026 20:20:28 +0800</pubDate>
-      <category>ai-products</category>
-      <description>&lt;p&gt;&lt;small&gt;来源：X：PixVerse (@PixVerse_)&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;4K超分功能现已上线！在一处增强您的图像和视频。
-获得3次免费使用机会，之后享受35%的积分折扣。
-限时活动：5月7日至14日，UTC时间08：00。
-转发+关注+回复=私信领取300积分（仅限72小时）。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/PixVerse_/status/2052362932634411243&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>[AI HOT] 为所有模型提供一致的网络搜索与抓取能力</title>
-      <link>https://openrouter.ai/announcements/agentic-web-tools</link>
-      <guid isPermaLink="false">aihot-cmow0jljr01ugslcxcgwuoa2p</guid>
-      <pubDate>Thu, 07 May 2026 20:00:00 +0800</pubDate>
-      <category>ai-products</category>
-      <description>&lt;p&gt;&lt;small&gt;来源：OpenRouter：Announcements（RSS）&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;该工具赋予任何具备工具调用能力的模型自主进行网络搜索和抓取网页内容的功能。它支持多种搜索引擎和抓取引擎供用户选择，实现了跨模型的一致操作体验。这意味着开发者可以便捷地为不同的大语言模型（如GPT、Claude、LLaMA等）集成实时、可靠的网络信息获取能力，无需为每个模型单独适配。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://openrouter.ai/announcements/agentic-web-tools&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>[AI HOT] 聚焦领域：Anthropic研究所的核心研究方向</title>
-      <link>https://www.anthropic.com/research/anthropic-institute-agenda</link>
-      <guid isPermaLink="false">aihot-cmovcghow00gosl5sbtbq0qiy</guid>
-      <pubDate>Thu, 07 May 2026 18:29:18 +0800</pubDate>
-      <category>tip</category>
-      <description>&lt;p&gt;&lt;small&gt;来源：Anthropic：Research（发表成果 · 网页）&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;Anthropic研究所公布了其四大核心研究领域：经济扩散、威胁与韧性、真实世界中的AI系统以及AI驱动的研发。该机构将利用其身处前沿AI实验室内部的独特优势，研究AI对世界的实际影响，并公开分享成果。具体举措包括发布更细粒度的&quot;Anthropic经济指数&quot;以预警重大变革，分析面对新型AI安全风险时最需投资韧性的社会领域，以及探讨AI工具如何加速其自身研发。这些研究成果将为Anthropic的&quot;长期利益信托&quot;提供决策依据，并帮助外部组织与公众更好地应对AI发展。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/research/anthropic-institute-agenda&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>[AI HOT] 通过 API 中的新模型推进语音智能</title>
-      <link>https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api</link>
-      <guid isPermaLink="false">aihot-cmovr364j00j9slotqnozmpjp</guid>
-      <pubDate>Thu, 07 May 2026 18:00:00 +0800</pubDate>
-      <category>ai-models</category>
-      <description>&lt;p&gt;&lt;small&gt;来源：OpenAI：官网动态（RSS · 排除企业/客户案例）&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;OpenAI API 推出了新的实时语音模型，能够进行推理、翻译和语音转录。这些模型显著提升了语音交互的自然度与智能水平，支持实时处理与多语言转换。新功能旨在为开发者提供更强大的工具，以构建更流畅、更智能的语音应用体验。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>[AI HOT] 开源20B参数MoE模型本地流畅运行</title>
-      <link>https://x.com/berryxia/status/2052309864194691164</link>
-      <guid isPermaLink="false">aihot-cmova0jj4027dsluvyiq3hb3l</guid>
-      <pubDate>Thu, 07 May 2026 16:49:36 +0800</pubDate>
-      <category>tip</category>
-      <description>&lt;p&gt;&lt;small&gt;来源：X：Berry Xia (@berryxia)&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;刚刚刷到Hugging Face上这个gpt-oss-20b-tq3，真的有点爽啊！
-
-OpenAI自己开源的20B参数MoE模型，被社区用TurboQuant 3-bit量化 + MLX优化后，竟然能直接在普通MacBook上本地丝滑跑起来。
-
-完全不用联网、不用交月费，还支持131K超长上下文。
-
-日常聊天、写作、写代码这些日常需求，现在都能在自己笔记本上搞定。
-
-非常适合公司的一些部门使用啊！
-
-以前本地跑大模型还得配高端显卡，现在一台M系列Mac就够了。
-
-模型直达👉 https：//huggingface.co/manjunathshiva/gpt-oss-20b-tq3&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/berryxia/status/2052309864194691164&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>[AI HOT] 全国首例 AI 短剧侵权刑事案一审宣判：盗录超 1700 部牟利获刑，构成侵犯著作权罪</title>
-      <link>https://www.ithome.com/0/947/300.htm</link>
-      <guid isPermaLink="false">aihot-cmov7pbbj01njsluviaiw41i6</guid>
-      <pubDate>Thu, 07 May 2026 15:58:08 +0800</pubDate>
-      <category>industry</category>
-      <description>&lt;p&gt;&lt;small&gt;来源：IT之家（RSS）&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;全国首例AI短剧侵权刑事案一审宣判。被告人盗录某公司AI工具生成的短剧超过1700部，并在二手平台以66.66元打包出售牟利，构成侵犯著作权罪。法院认定，这些短剧由用户输入原创剧本、情节等提示词生成，体现了独创性表达，属于受著作权法保护的作品。被告人被判处有期徒刑八个月，缓刑一年两个月，并处罚金人民币六千元。涉案公司平台已累计生成超7000部AI短剧，单价数元至十几元，热门剧销量可达上千份。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.ithome.com/0/947/300.htm&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <title>技术工具 · 长城证券：香港子公司获香港证监会颁发业务牌照</title>
+      <link>https://36kr.com/newsflashes/3800418208340997?f=rss</link>
+      <guid isPermaLink="false">linggou-extra-36氪--7902882152225268804</guid>
+      <pubDate>Fri, 08 May 2026 17:58:55 +0800</pubDate>
+      <category>技术工具</category>
+      <description>&lt;p&gt;&lt;strong&gt;🛠️ 技术工具&lt;/strong&gt; ·  · 36氪&lt;/p&gt;
+&lt;p&gt;36氪获悉，长城证券公告，公司全资子公司长证国际金融有限公司近日获得香港证监会颁发的第1类（证券交易）、第4类（就证券提供意见）和第9类（提供资产管理）受规管活动牌照，获准开展相关业务。长证国际将立足香港开展国际化证券业务，提升国际化经营水平及核心竞争力，稳步推进公司国际化战略发展。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://36kr.com/newsflashes/3800418208340997?f=rss&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
