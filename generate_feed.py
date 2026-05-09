@@ -27,21 +27,65 @@ CST = timezone(timedelta(hours=8))
 # 只拉与灵构相关领域的专栏/标签 RSS，减少噪音
 
 EXTRA_RSS_SOURCES = [
+    # ── 垂直公众号（今天看啥，高质量短剧/AIGC内容）────────────────────────────
     {
-        "name": "量子位",
-        "url": "https://www.qbitai.com/feed",
-        "source_tag": "量子位"
+        "name": "短剧自习室",
+        "url": "http://rss.jintiankansha.me/rss/GM2TENZZGZ6GKYLDG4YWEYZQMMZGGNRZGQ3TEM3EMZQTGNRZMNTDKZTBHBTGEMDEGVQTANDGGQZQ====",
+        "source_tag": "短剧自习室"
     },
     {
-        "name": "机器之心",
-        "url": "https://www.jiqizhixin.com/rss",
-        "source_tag": "机器之心"
+        "name": "AI寒武纪",
+        "url": "http://rss.jintiankansha.me/rss/GM2DMNZXGN6GENRWGRRGGMJZMI4WIYRRMRRGIZBQGJSTQMZYGBTDCOBRMQZTEZTEMQ4WKMBZG5SA====",
+        "source_tag": "AI寒武纪"
     },
     {
-        "name": "36氪·AI",
+        "name": "DataEye短剧观察",
+        "url": "http://rss.jintiankansha.me/rss/GM2TENZZGF6DKN3FMUYTIMRWGUYTCMJQHEZDGNRRMU3GEOBUMU2TMYRYMU4WEMJYGY4DSZLBHAZA====",
+        "source_tag": "DataEye短剧观察"
+    },
+    {
+        "name": "短剧研究僧",
+        "url": "http://rss.jintiankansha.me/rss/GM4DQMBZGF6DKZTCMRRWIYZSGBSWKNRRME4TMYRUG44GMMTFHBRDIZJSMIZWGNBTGA4TCZRZMVTA====",
+        "source_tag": "短剧研究僧"
+    },
+    {
+        "name": "短剧内行人",
+        "url": "http://rss.jintiankansha.me/rss/GM2TCOBZG56DSMLEHEZGIOBQGQ3TAYZUG4ZTKZLBMM4WKNBWGE4TGNZZMM2TMNJUMVSGKYTEMNRA====",
+        "source_tag": "短剧内行人"
+    },
+    {
+        "name": "AIGC新智界",
+        "url": "http://rss.jintiankansha.me/rss/GM2TONBWGJ6DINLBGI2DSZRYMFQTENTFGVSDCYRYGNRDSOLFGE3WKNRSHAZDONRYGFSTAOJSHBRA====",
+        "source_tag": "AIGC新智界"
+    },
+    {
+        "name": "短剧新势力",
+        "url": "http://rss.jintiankansha.me/rss/GM2TENZZG56GMZRYGUYGMMRQGE4DKZRVGE2TEMTCGM3TIYRZME2DMYTGGIYGIZDFGE4DONDGMEYQ====",
+        "source_tag": "短剧新势力"
+    },
+    {
+        "name": "短剧黑马",
+        "url": "http://rss.jintiankansha.me/rss/GM2TSNJZGB6GEYTEMQYDMNZXGFSTKOBXMUYDENBVMVRWGN3GGI3DGYLBMIZDKNDFG42DQOBWGEYA====",
+        "source_tag": "短剧黑马"
+    },
+    # ── 综合媒体（噪音较多，依赖关键词过滤）────────────────────────────────────
+    {
+        "name": "36氪",
         "url": "https://36kr.com/feed",
         "source_tag": "36氪"
     },
+]
+
+# 综合媒体噪音过滤（公众号垂直源不需要，36氪等综合源适用）
+NOISE_SOURCE_TAGS = {"36氪"}  # 只对这些来源做噪音过滤
+
+# 噪音关键词：标题含以下词的直接跳过
+NOISE_KEYWORDS = [
+    "融资", "完成", "Pre-A", "轮融资", "估值", "IPO", "上市", "股价",
+    "恒指", "A股", "港股", "纳斯达克", "美股", "基金", "债券", "理财",
+    "电池", "新能源", "汽车", "房地产", "医疗", "消费", "零售", "餐饮",
+    "苏宁", "京东物流", "快递", "供应链", "制造", "化工", "农业",
+    "牌照", "证监会", "监管批复",
 ]
 
 # ── 灵构关键词规则（扩充版）──────────────────────────────────────────────────
@@ -153,8 +197,40 @@ def fetch_extra_rss(source, since_dt):
         print(f"  {source['name']} 拉取失败: {e}")
     return items
 
+def is_noise(item):
+    """过滤明显无关的噪音内容（只针对综合媒体全量feed，垂直公众号不过滤）"""
+    source = item.get("source", "")
+    if source not in NOISE_SOURCE_TAGS:
+        return False  # 垂直公众号直接放行
+    title = item.get("title", "") + item.get("title_en", "")
+    for kw in NOISE_KEYWORDS:
+        if kw in title:
+            return True
+    return False
+
+# 垂直公众号来源：全部内容直接进入对应分类，不需要关键词匹配
+VERTICAL_SOURCE_CATEGORY = {
+    "短剧自习室":    "aigc_content",
+    "AI寒武纪":      "aigc_content",
+    "DataEye短剧观察": "industry",
+    "短剧研究僧":    "aigc_content",
+    "短剧内行人":    "aigc_content",
+    "AIGC新智界":    "aigc_content",
+    "短剧新势力":    "industry",
+    "短剧黑马":      "industry",
+}
+
 def match_category(item):
     """返回匹配的灵构分类"""
+    if is_noise(item):
+        return None
+
+    # 垂直公众号直接分类，不走关键词
+    source = item.get("source", "")
+    if source in VERTICAL_SOURCE_CATEGORY:
+        return VERTICAL_SOURCE_CATEGORY[source]
+
+    # 其余来源走关键词匹配
     text = " ".join(filter(None, [
         item.get("title", ""),
         item.get("title_en", ""),
@@ -291,7 +367,7 @@ def generate_social_topics(linggou_items, all_items):
                 "Authorization": f"Bearer {ds_key}"
             }
         )
-        with urllib.request.urlopen(req, timeout=30) as resp:
+        with urllib.request.urlopen(req, timeout=60) as resp:
             result = json.loads(resp.read().decode())
             text = result["choices"][0]["message"]["content"].strip()
             text = re.sub(r"```json|```", "", text).strip()
