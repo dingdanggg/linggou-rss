@@ -1,11 +1,13 @@
 {
-  "generated_at": "2026-05-11T12:58:20.410449+08:00",
-  "total": 116,
-  "linggou": 63,
+  "generated_at": "2026-05-11T18:18:38.342476+08:00",
+  "total": 113,
+  "linggou": 61,
   "social_topics": 3,
   "sources": {
+    "X：腾讯混元 (@TencentHunyuan)": 1,
+    "X：PixVerse (@PixVerse_)": 1,
     "X：歸藏 (@op7418)": 2,
-    "X：阿里云 / Alibaba Cloud (@alibaba_cloud)": 3,
+    "X：阿里云 / Alibaba Cloud (@alibaba_cloud)": 2,
     "X：OpenRouter (@OpenRouter)": 4,
     "X：阿易 AI Notes (@AYi_AInotes)": 4,
     "X：Peter Steinberger (@steipete)": 2,
@@ -23,20 +25,18 @@
     "X：Perplexity (@perplexity_ai)": 1,
     "X：Jim Fan (@DrJimFan)": 1,
     "Cursor Blog": 1,
-    "BAIR：Berkeley AI Research Blog": 1,
-    "IT之家（RSS）": 1,
     "短剧自习室": 5,
     "AI寒武纪": 3,
     "DataEye短剧观察": 5,
     "短剧研究僧": 2,
     "短剧内行人": 1,
-    "AIGC新智界": 2,
-    "短剧新势力": 5,
-    "36氪": 6
+    "AIGC新智界": 1,
+    "短剧新势力": 4,
+    "36氪": 7
   },
   "categories": {
     "aigc_content": 17,
     "tech_tools": 5,
-    "industry": 41
+    "industry": 39
   }
 }
