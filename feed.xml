@@ -5,295 +5,133 @@
     <link>https://dingdanggg.github.io/linggou-rss</link>
     <description>灵构视角 AI 资讯 · 3D资产/AIGC影视/游戏/XR/社媒运营</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 18 May 2026 13:06:02 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 13:01:00 +0800</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://dingdanggg.github.io/linggou-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>🏗️ 灵构视角 · 05月18日（含周末） · 共59条</title>
+      <title>🏗️ 灵构视角 · 05月19日 · 共26条</title>
       <link>https://dingdanggg.github.io/linggou-rss</link>
-      <guid isPermaLink="false">linggou-digest-2026051813</guid>
-      <pubDate>Mon, 18 May 2026 13:06:02 +0800</pubDate>
+      <guid isPermaLink="false">linggou-digest-2026051913</guid>
+      <pubDate>Tue, 19 May 2026 13:01:00 +0800</pubDate>
       <description>&lt;h2&gt;🏗️ 灵构视角&lt;/h2&gt;
-&lt;p&gt;&lt;small&gt;来源：36氪(8条)、短剧自习室(5条)、AI寒武纪(5条)、DataEye短剧观察(4条)、X：Kim (@kimmonismus)(3条)、X：PixVerse (@PixVerse_)(2条)、X：Berry Xia (@berryxia)(2条)、X：阿易 AI Notes (@AYi_AInotes)(2条)、X：Rohan Paul (@rohanpaul_ai)(2条)、X：蚂蚁百灵 (@AntLingAGI)(2条)、短剧内行人(2条)、IT之家（RSS）(1条)、X：阿里云 / Alibaba Cloud (@alibaba_cloud)(1条)、X：歸藏 (@op7418)(1条)、X：Elon Musk (@elonmusk, xAI)(1条)、X：Tibo (@thsottiaux)(1条)、Dwarkesh Patel：Podcast &amp; Blog（RSS）(1条)、X：OpenAI Developers (@OpenAIDevs)(1条)、Nathan Lambert：Interconnects（RSS）(1条)、Hacker News 热门（buzzing.cc 中文翻译）(1条)、X：Oran Ge (@oran_ge)(1条)、OpenAI：官网动态（RSS · 排除企业/客户案例）(1条)、X：Peter Steinberger (@steipete)(1条)、X：Krea AI (@krea_ai)(1条)、X：Runway (@runwayml)(1条)、X：Yann LeCun (@ylecun)(1条)、X：MiniMax (@MiniMax_AI)(1条)、X：商汤 SenseTime (@SenseTime_AI)(1条)、X：宝玉 (@dotey)(1条)、X：Microsoft Research (@MSFTResearch)(1条)、X：可灵 Kling AI (@Kling_ai)(1条)、X：cb_doge (@cb_doge)(1条)、AIGC新智界(1条)&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;来源：36氪(9条)、短剧自习室(2条)、X：阿里云 / Alibaba Cloud (@alibaba_cloud)(1条)、X：腾讯混元 (@TencentHunyuan)(1条)、IT之家（RSS）(1条)、X：Berry Xia (@berryxia)(1条)、X：阿易 AI Notes (@AYi_AInotes)(1条)、X：Thariq (@trq212)(1条)、X：Claude Devs (@ClaudeDevs)(1条)、Hugging Face：Blog（RSS）(1条)、X：邵猛 (@shao__meng)(1条)、OpenAI：官网动态（RSS · 排除企业/客户案例）(1条)、Cloudflare Blog(1条)、AI寒武纪(1条)、DataEye短剧观察(1条)、短剧研究僧(1条)、短剧内行人(1条)&lt;/small&gt;&lt;/p&gt;
 &lt;h3&gt;📽️ AIGC 内容创作&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;1. 一键生成韩国棒球AI视频模板爆火&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：PixVerse (@PixVerse_) · 今天 10:23&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;那个热狗需要自己的座位
-
-【引用 @MrDasOnX】：这可能是最简单的病毒式AI编辑。
-
-PixVerse → 上传自拍 → 即时生成韩国棒球镜头视频
-
-无需指令。无需编辑。
-只需一键点击。
-
-@PixVerse_ 上的K-Baseball Sprint模板太疯狂了。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/PixVerse_/status/2056198882321904098&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1. AI短剧周报 | “堂哥文学”换皮成功，以4亿播放登顶榜单！&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;短剧自习室 · 今天 22:15&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;1、抖音集团端原生AI短剧上周播放量和供给情况上周（2026年5月11日-2026年5月17日），抖音集团端原生AI短剧播放量增长约306亿。整体来看，上周AI短剧大盘播放增量呈现前半周回落、后半周快速拉升的走势，周末冲高明显。周一至周五播放增量持续走低，5月15日出现阶段性流量低谷（约34.7亿次...&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkwNjY3NzI2NA==&amp;mid=2247516225&amp;idx=1&amp;sn=2ad5839484936ed7f63091c6cb60a80a&amp;chksm=c133be2945ed15c0956ced9e44c2bb3766af43f1f81764980e468ac9c6116e221fc3be7c2b48&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;2. 阿里云推出HappyHorse视频生成模型&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：阿里云 / Alibaba Cloud (@alibaba_cloud) · 今天 09:16&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;电影级AI现已到来。🐎💨
-
-HappyHorse现已登陆Model Studio。从原始提示词到1080p多镜头现实感画面--在统一工作流中体验视频生成的未来。没有阻碍。只有纯粹性能。
-
-🔥 限时优惠：8折。观看演示并立即开始创作。
-
-立即访问：https：//int.alibabacloud.com/m/1000412936/&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/alibaba_cloud/status/2056182152681644176&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2. 当94%的AI短剧沦为“陪跑”，IP成为被争抢的稀缺资源&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;短剧自习室 · 今天 18:08&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;AI短剧赛道的竞争逻辑，正在发生一些变化。根据短剧自习室不完全统计，近期业内发布了近40份财报，与AI短剧相关的内容中，“IP”这一关键词被提及34次——作为技术和内容的代名词，AI和IP来到了交汇点，并催生了一个行业共识：随着AI解决“能做”的技术门槛，IP开始快速消耗，逐渐成为一种核心资源。值得...&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkwNjY3NzI2NA==&amp;mid=2247516181&amp;idx=1&amp;sn=fada61e81a5c6bd5846648a0b46d5e03&amp;chksm=c153c2d3eff0ddea5dd1b1c4f3f162384c349e09cf5f3a0623e8156f530c5711b5a06cf12d45&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;3. 让 Codex 自己做了一条视频介绍了一下这个视频生成方案&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：歸藏 (@op7418) · 今天 22:36&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;该方案整合了藏师傅的PPT Skill（视觉与动效）、HyperFrames（时间线与渲染）、Listenhub Skill（配音）以及即梦CLI（补充片段）。核心在于，用户可通过Codex直接基于文本提示生成带动效的解释视频，并能在聊天界面内预览，极大提升了制作效率，特别适合产品介绍等视频内容。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/op7418/status/2056021133477163298&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3. 一文搞懂Codex连接控制：iPhone，MacBook，Mac mini，远程服务器&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;AI寒武纪 · 今天 18:43&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;↑阅读之前记得关注+星标⭐️，😄，每天才能第一时间接收到更新 codex “连接”主要分三类：设置好以后，就可以手拿iPhone随时随地干活了，和女朋友逛街等她时也可以vibecoding，😄，这样相当于用codex连接起了你的整个开发网络，共享上下文，好用到飞起。下面我详细的说一下怎么操作，已...&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&amp;mid=2247514920&amp;idx=1&amp;sn=9de70ca7931e973487701da54b919416&amp;chksm=cf9614448f1fe32faef5aa788b1348ab1a61f148d145c1a64353c6ba29952794f2ff5204f7fa&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;4. SANA-WM：一个用于生成1分钟720p视频的26亿级开源世界模型&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;Hacker News 热门（buzzing.cc 中文翻译） · 昨天 23:25&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;NVIDIA研究团队发布了SANA-WM，这是一个参数规模达26亿的开源世界模型，专门用于生成长达1分钟、分辨率为720p的视频。该模型已在GitHub页面开源，旨在推动高质量长视频生成的研发。其在Hacker News社区获得了107点热度，显示出业界对该技术进展的关注。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://nvlabs.github.io/Sana/WM&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;4. 【小僧短剧新推】好热闹的短国520档，嗓子很齁，眼睛很忙&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;短剧研究僧 · 今天 18:02&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;【小僧短剧新推】第二十九期来啦！上周前半段，新剧表现一般，热度榜前五都是上上周的剧。直到周四，李柯以x张翅的《今天裴总和月亮谈恋爱了吗》上线仅一天便强势突围，以8478万热度跃居第二位，仅次于《错嫁有喜》。虽然没能顺利逆跌，但随着《错嫁有喜》热度回落，终于在周六到达榜首。此外，其余上新好剧均未能突破...&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkyOTY1Mzg5Mg==&amp;mid=2247489606&amp;idx=1&amp;sn=a5925abf96bd8c1325a25c035fe8ce10&amp;chksm=c2076dadf570e4bb0278a57de3e956cab5816663806e1cc81b37ecb1061fd38e5b8288549b95#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;5. Runway Agent一键生成完整广告&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Runway (@runwayml) · 2天前&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;Runway Agent 让你仅需一次会话，就能从产品照片和想法转变为完全制作完成的广告。
-立即通过下方链接开始体验。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/runwayml/status/2055364605979869229&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;5. 姚冠宇吴添豪余茵集体转行，当众被老戏骨骂到脸红？&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;短剧内行人 · 今天 18:40&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;“你已经是把柯淳刷下去的那个男人了。”吴镇宇一句调侃，姚冠宇在舞台上笑容当场凝固。这一幕发生在 《无限超越班4》的第一期。去年此时，短国顶流柯淳在这档节目里贡献了“被尔冬升骂哭”、“自曝片酬 4 万一天”的名场面。而今年，短国的半壁江山直接组团就来了 —— 姚冠宇、王格格、余茵、吴添豪、甘望星，五位...&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkyNjU5MzI1OA==&amp;mid=2247575387&amp;idx=1&amp;sn=fccd3a54f3e7d3f81ef96f12a6bee598&amp;chksm=c3efbe994106958ec455cb422bdcb78826b1752976ae75b739d8a4f29ae04ad171906c89a898&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;6. 戛纳倒计时 | Kling AI大会主讲阵容揭晓！&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：可灵 Kling AI (@Kling_ai) · 2天前&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;2026年戛纳电影节Kling AI大会将汇聚三位世界级电影制作人，展示他们运用Kling AI技术创作的标杆作品。中国动画导演魏立将分享AI生成动画《Born of the Tide》；Jon Erwin将解析为Amazon Prime制作的剧集《House of David》；Eekjun Yang则将介绍院线电影《RAPHAEL》的创作过程。三位讲者将深入探讨Kling AI在电影制作中的幕后应用，共同探索AI为影视创作带来的新可能性。活动定于2026年5月18日15：30至17：30，在戛纳影节宫主舞台举行。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/Kling_ai/status/2055302191129473502&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;6. 番茄小说正推动 AI 动漫上院线，开放头部IP改编权限｜36氪独家&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;36氪 · &lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;作者｜兰杰 李晓霞
+  编辑｜乔芊
+  36氪独家获悉，据多位接近字节跳动人士消息，字节旗下的番茄小说正在推动AI动漫上院线。在这一过程中，会开放番茄小说平台头部IP的改编权限。
+  之于番茄小说，如何更好地挖掘平台上好IP的潜力和商业价值，是一个亟待解决的难题。
+  一方面，以文字形式为载体的IP内容，缺乏统一的视觉形象，使得平台上的IP难以有联名、衍生品等更丰富的变现形式。另一方面，AI漫剧这一新事物迅速发展壮大，其中不乏改编自番茄小说IP的粗制滥造之作。这些内容不但没能延长好IP的生命力，反而形成了一种消耗。此时，通过可登陆院线的影视内容来探索平台IP的更多可能性，不失为一种好的尝试。
+&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://36kr.com/p/3810598875307780?f=rss&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;7. Pixverse模板：让你成为全场焦点&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：PixVerse (@PixVerse_) · 2天前&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;Pixverse让你成为焦点~
-用Pixverse网页版的音乐会聚光灯模板制作吧！&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/PixVerse_/status/2055245210184200497&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;8. 周星驰也要拍短剧了？《食神》官宣开机&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;短剧自习室 · 昨天 10:30&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;一张开机海报震撼了短剧圈。5月31日，横店，《食神》短剧版正式开机。由抖音集团、九五二七剧场联合出品，制作方是打造过电影《我不是药神》的朱氏兄弟，最重磅的，是出品人、监制栏写着同一个名字：周星驰。这是周星驰经典电影第一次被系统性地改编为短剧。此前，打着星爷标签的《金猪玉叶》和《大话大话西游》，用近1...&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkwNjY3NzI2NA==&amp;mid=2247516148&amp;idx=1&amp;sn=60c3372b327789781dbe585e9f5f6afb&amp;chksm=c158e6f22ccfe3c756d420ff3222ee49d5f91e842eba5e80d8556d3fc1efe760ff15905b8c30&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;9. 从1.02亿读者到200亿播放，番茄小说如何影响短剧行业格局？&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;短剧自习室 · 2天前&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;5 月 12 日，抖音集团短剧版权中心在湖南长沙国际会议中心举办首届短剧产业大会，番茄小说总编辑谢思鹏发表主题演讲，全面分享番茄小说作为内容源头的 IP 全链条开发成果与未来布局。他提到：平台正全面推进影视、动画、出版多元改编，2026 年将投入超 20 亿元加码内容生态，推出短剧专项、IP 联合征...&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkwNjY3NzI2NA==&amp;mid=2247516132&amp;idx=2&amp;sn=03b3ede1c9648de8ba61f4050fb80aa9&amp;chksm=c1ec61ad41671784f74770c0614d2dd4d1bae9325961ebd3fbdb9e74af1e21bb7d80c23b12a3&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;10. 宫崎骏怒斥AI侮辱动画，行业：真香，提效5倍&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;短剧自习室 · 2天前&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;宫崎骏”AI是对生命的侮辱“的批判还言犹在耳，但全球动画行业或为了创新，或为了求生，不得不踏上AI化的路程。此前，AI原生动画长片《三星堆：未来往事》正式拿到“龙标”，成为史上首部获批在院线上映的AI动画电影。其超过30%的画面由AI生成，从分镜、背景到部分原画，人工智能深度参与其中。相关海报从AI...&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkwNjY3NzI2NA==&amp;mid=2247516132&amp;idx=1&amp;sn=041985db1e74798fd8ce916351812ece&amp;chksm=c14474f96421348858090dd0d1d0f1a10075c5a86a853d11ac83d4f0ba562cdf402d32319b11&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;11. 周报丨6家平台将投入60亿元资金扶持真人短剧；网传快手计划分拆可灵AI&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;短剧自习室 · 2天前&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;近一周（2026.5.9-2026.5.15）看点：1. “微短剧精品创作传播计划”工作部署推进会召开2. 抖音集团的AI短剧审片标准公开3. 抖音集团短剧版权中心举办首届短剧产业大会4. 抖音集团调整真人短剧自然流量分成5. 红果短剧创作者中心上线「项目撮合」能力6. TikTok短剧4月分账超1...&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkwNjY3NzI2NA==&amp;mid=2247516125&amp;idx=1&amp;sn=bb38e0f10a430402f96176497c8c5666&amp;chksm=c182276670e070fc9b2c51862b8f2a693418acaa7fbfc15368c8fdf77d8a745b9b8e0650e6b1&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;12. TikTok短剧4月分账超1亿，AI短剧可获额外奖金、算力补贴&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;短剧自习室 · 2天前&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;今日，TikTok发布最新分账战报，4月分成总额突破1500万美元（折合人民币超1亿元）。完整长图在文末。作为对比，2026年第一季度平台总分成为2400万美元，这意味着4月单月的分账规模已超过Q1总量的60%，平台在短剧内容上的投入力度明显加大。在分成机制上，平台继续对独家、新热内容提供额外加倍系...&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkwNjY3NzI2NA==&amp;mid=2247516102&amp;idx=1&amp;sn=f0b4c123021d62210861b005131772ee&amp;chksm=c165fbea71a99787d8de62d2b510fc91efde9d784dbf754e9ea2e48daccaf8164f9dbf9ca40a&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;13. Anthropic发布「AI原生创业公司」手册：涵盖全流程四大核心阶段，一人公司法典来了&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;AI寒武纪 · 今天 08:00&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;↑阅读之前记得关注+星标⭐️，😄，每天才能第一时间接收到更新  一人公司的概念现在非常火，究竟怎么搞一个AI原生的公司？网上有太多文章和视频了，但信息可能都太分散，也参差不齐，这不系统的干货来了，A厂刚刚发了一个打造AI原生创业公司的手册，你所要的一切都包含在里面了先简单介绍一下这个手册：AI 正...&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&amp;mid=2247514910&amp;idx=1&amp;sn=669c7e1e66c120b753d84059f7f79bc5&amp;chksm=cf3f818c83f78d12c42a3c1fb79d613ed41d50931fc06c624e39b1d473edad209e7ebe210514&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;14. Codex隐藏神技：一句提示词自动蒸馏你自己，让日常重复工作全自动化&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;AI寒武纪 · 今天 18:53&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;↑阅读之前记得关注+星标⭐️，😄，每天才能第一时间接收到更新 太离谱了，发现一个让codex不断自动蒸馏你自己的方法，只需要一句提示词就可以让codex自动化你每天都在重复的工作流，并把这个工作流变为skill，原理其实很简单，就是让Agent观察回看你的历史记忆，会话，操作。提示词：查看我的Ch...&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&amp;mid=2247514902&amp;idx=1&amp;sn=43c3f316283a18121a6127ab97f5f2ad&amp;chksm=cfa6be731f12a787c9a1fd474f0570671e43c01a79b09b18dbc44d4eb1b689ed55d059a380a4&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;15. 为创造再一次信仰之跃 ｜AdventureX 2026 开启招募&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;AI寒武纪 · 昨天 23:04&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;阅读原文                                            平台地址：http://www.jintiankansha.me/t/qDdY34IDSH&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&amp;mid=2247514895&amp;idx=1&amp;sn=2db32246c7bc0ad4ca41cdd8915ba0ef&amp;chksm=cfe68234b0f9915aed1977605ed462e8625f98ecf9cf0b4561a8f312dcfa738f9c393f25cfb4&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;16. ChatGPT进军个人理财，接入12000家金融机构&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;AI寒武纪 · 2天前&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;↑阅读之前记得关注+星标⭐️，😄，每天才能第一时间接收到更新 ChatGPT宣布上线个人财务功能，允许用户把银行账户、信用卡、投资账户直接连接进来，然后直接问AI&quot;我这个月钱都花哪了&quot;&quot;怎么多存点钱&quot;这类问题。AI看着你的真实账单给建议，而不是泛泛地说&quot;少点外卖&quot;。这个功能现在只对美国的Pro用户...&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&amp;mid=2247514893&amp;idx=1&amp;sn=44acc32fffdec730fcbe4f017cc27afb&amp;chksm=cf60f2568b43cef521fc4182ae962b1d9edb0dbbb487f1fcd702d7de40a9f104fc2d10c2bc11&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;17. 阿里上线Qoder 1.0 ：Agent全自主开发重磅登场&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;AI寒武纪 · 2天前&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;↑阅读之前记得关注+星标⭐️，😄，每天才能第一时间接收到更新 我平时vibecoding用的还挺杂的，cc，codex， cursor，opencode都有在用，各家都有所长，个人还挺喜欢尝试新东西的，最近我有幸提前拿到了Qoder 1.0的内测资格，Qoder 1.0是大版本升级，对产品进行了重...&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&amp;mid=2247514884&amp;idx=1&amp;sn=be1278b39e7122ace17a2af4d7b7a480&amp;chksm=cf6466de99a154491bb28c1f47e6ad5bdeb460daadc6be554f33c9a9ff618e6301a5ec115cda&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;18. TikTok短剧4月分成：总分账破1500万美元，AI赛道分成环比增长300%！&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;短剧内行人 · 2天前&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;2026 年 4 月，TikTok 短剧分成总额再冲新高，平台单月分账突破 1500 万美元（折合人民币超 1 亿元），各赛道短剧均表现亮眼。同时，AI 赛道分成环比增长突破 300%，平台还为 AI 短剧提供了额外爆款激励奖金，这份数据背后可见 TikTok 扶持优质短剧内容的投入决心及其全球短剧...&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkyNjU5MzI1OA==&amp;mid=2247575338&amp;idx=1&amp;sn=6dfd67de20767bdf3f6af7fd0549c1d0&amp;chksm=c34d075e4979f77c3274e2e4497436a8329a45137de8cfe08fff9629ab7c46eb372d2b6a7ccf&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;19. AI短剧审核标准公开，这些红线绝对不能碰！&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;短剧内行人 · 2天前&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;近来，受平台审核趋严的影响，大批 AI 短剧遭遇下架，发行方的投放策略也变得保守，整体投放量下行，4 月的日上新量从千部量级跌至月末仅 350 部左右。从业者时常拔剑四顾心茫然：抖音集团是如何审核 AI 短剧内容的？AI 短剧创作过程中不可碰触的合规底线是什么？应该如何避坑？关于这些问题，短剧内行人...&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkyNjU5MzI1OA==&amp;mid=2247575331&amp;idx=1&amp;sn=0202e2af8692d9e3f01c7f7c1a3bee74&amp;chksm=c3cb5619a6025835762ea5fd47a2f72b5183729fcc832b8ebc48ecf884e7d7b6d9d2f377ea5f&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;20. 唐杰深夜发文，AI从工具到劳动力只差这一步&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;AIGC新智界 · 2天前&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;随着黄仁勋踏上前往特朗普的空军一号，智谱股价暴涨36.9%，收报1150港元，创下历史新高。从1月8日上市时的116.20港元发行价算起，智谱的股价在短短四个多月内增长了900%。而就在暴涨之前不到24小时里，智谱创始人唐杰深夜在X上发布了一条推文，大谈了自己对整个AI产业的思考。整条推文的核心是“...&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=Mzk3NTQxODIxMQ==&amp;mid=2247533352&amp;idx=1&amp;sn=f2bc4baf70dc09efea73a010db97ec77&amp;chksm=c4c9e524f3be6c321ea3bffd8654208ff2f749d0d6377c1740d6a63d9ee4cdcd25d23e730657#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;21. 又诞生一位千亿女富豪&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;36氪 · &lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;示意图
-  自4月初以来，立讯精密股价上涨超过55%。
-  5月11日，立讯精密市值创下历史新高，达到了5542亿人民币。立讯精密掌舵者王来春持股18.75%，身价也突破了千亿人民币，成为国内白手起家的又一位千亿女富豪。
-  如果说4月以来的涨幅，是因为立讯精密“站在光里”，短期股价大涨或许与一则收购公告有关。
-  5月10日，公告显示立讯精密拟通过收购京西智行集团全部股权，间接拿下京西国际约59.50%股份，有望成为其最终控股股东。这是立讯精密继两年前收购德国莱尼后，在汽车领域的又一关键资本动作。
-  郭台铭门 徒
-  立讯精密的故事通常被描述为“打工妹”逆袭成为女富豪的爽文剧本。实际上，只&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://36kr.com/p/3813040859258373?f=rss&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;7. 取消AI仿真人保底？红果短剧回应&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;36氪 · &lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;据新京报报道，5月19日，针对“红果短剧取消AI仿真人剧本保底、全面转向纯分成”此类消息，红果短剧表示，该说法不实，强调部分剧本依然保留保底政策。（界面）&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://36kr.com/newsflashes/3815722683227655?f=rss&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
 &lt;h3&gt;🛠️ 技术工具&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;1. Grok Imagine图像生成功能正式发布&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Elon Musk (@elonmusk, xAI) · 今天 15:23&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;Grok Imagine
-现已正式发布
-所有人都可使用
-
-基于我们最新的文本到图像模型
-能够生成逼真、高质量的图像
-支持多种宽高比
-
-现在可在 X 上使用&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/elonmusk/status/2055912040481599793&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;2. 社区协作再创佳绩，vLLM支持万亿级模型&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：蚂蚁百灵 (@AntLingAGI) · 昨天 00:38&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;又一次Day0协作，又一次社区胜利。感谢@vllm_project团队始终可靠的支持~ 🫡🫡&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/AntLingAGI/status/2055689329339760829&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;3. 智能体驱动系统Articraft实现3D资产生成自动化，开源万件数据集降低门槛&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Berry Xia (@berryxia) · 2天前&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;剑桥大学团队推出Articraft，这是一个由智能体驱动的编码系统，能全自动生成带关节、可运动的交互式3D资产。系统通过AI智能体自主编写代码、执行并接收物理反馈迭代优化，将以往需数日甚至数周的创作过程极大简化。团队同时开源了Articraft-10K数据集，包含超1万个物体，覆盖250个类别，所有资产均仿真就绪。此举显著降低了机器人训练和物理AI领域对高质量3D资产的数据门槛，为解决&quot;数据饥渴&quot;问题提供了高效的自动化方案。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/berryxia/status/2055444087684407505&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;4. 杨立昆访谈：剖析LLM局限，畅谈AI未来与创业新途&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Yann LeCun (@ylecun) · 2天前&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;在Unsupervised Learning播客中，AI先驱杨立昆阐述了其对大型语言模型局限性的反主流观点，并探讨了机器人技术的发展路径。他解释了离开Meta的原因，以及与Geoff Hinton、Yoshua Bengio在图灵奖观点上的重大分歧。访谈还涵盖了他对2027年的预测、新公司AMI对世界模型的押注，并将OpenAI和Anthropic比作Sun Microsystems。此外，他建议博士生停止研究LLM，并分享了对AI安全、突破性研究发生机制以及Meta FAIR得失的尖锐见解。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/ylecun/status/2055346714039464373&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;5. 如祺出行：AI数据资产已覆盖标注数据、行为数据、合成数据及多模态训练数据集四大类&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;36氪 · &lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;36氪获悉，5月18日，如祺出行旗下数据业务板块（简称“如祺数据”）首次向外界完整披露其AI数据资产版图。官方信息显示，该资产已覆盖标注数据、行为数据、合成数据及多模态训练数据集四大类。如祺出行称，公司基于真实出行场景长期积累的数据，除了支持自动驾驶等行业外，还将支持具身智能、世界模型等面向真实物理世界的AI技术发展。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://36kr.com/newsflashes/3814282256588293?f=rss&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1. 首个实时多agent世界模型发布，人类可与AI同屏互动&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Berry Xia (@berryxia) · 今天 09:32&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;奥德赛实验室推出Agora-1，这是全球首个实时多agent世界模型，允许多人与AI同时在同一个模拟世界中实时互动并相互影响。该模型以经典游戏GoldenEye死亡竞赛为演示场景，提供可玩研究预览，用户现在即可体验与AI共同参与动态生成的模拟世界。这标志着从单人生成视频向多人共享&quot;活世界&quot;的转变，长期来看可能重塑游戏、模拟、教育、机器人及AI协作等领域，使人类从旁观者变为与AI共同生活的参与者。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/berryxia/status/2056548546544124240&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
 &lt;h3&gt;📊 行业动态&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;1. 腾讯 AI 设计智能体 Ardot 公测：一句话生成可编辑设计稿，一键转代码&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;IT之家（RSS） · 今天 10:43&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;腾讯云正式公测自研AI设计智能体平台Ardot。该平台核心功能包括：用户通过一句话指令即可生成App页面、官网、海报等可编辑设计稿；支持调用团队自有组件库生成规范稿，并能直接导入Figma文件保留原有设计。同时，Ardot具备设计稿一键转换为代码的能力，可对接CodeBuddy等开发工具实现代码还原。平台还提供多人在线实时评论、标注反馈和版本对比等协作功能，其微信小程序即将上线。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.ithome.com/0/951/677.htm&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;2. Anthropic Claude 5天攻破Apple M5 macOS内核漏洞：5年数十亿防线，被AI一举击穿&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Berry Xia (@berryxia) · 今天 00:06&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;Anthropic的Claude Mythos Preview在5天内，协助安全团队Calif成功构建并演示了首个公开的、针对Apple M5芯片macOS内核的内存破坏提权利用链。该攻击绕过了苹果耗时5年、投入数十亿美元打造的MIE硬件级内存完整性防护，从普通用户权限通过纯数据操作即可获得root权限。苹果已在后续更新中修复漏洞并致谢。此事件标志着AI驱动的安全研究能力已能极速突破顶尖硬件防护，显著改变了攻防的速度与平衡。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/berryxia/status/2056043674446995887&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;3. Garry Tan发布的GBrain直接捅破个人AI天花板&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：阿易 AI Notes (@AYi_AInotes) · 今天 18:12&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;Garry Tan开源的GBrain是一个知识系统，而非简单的RAG工具。它通过8层结构解决AI Agent的记忆缺陷：前4层升级基础检索，后4层实现终身记忆和自我进化，使如OpenClaw、Hermes等Agent能持续追踪用户的人际关系、决策轨迹和认知演化。该系统已在生产环境中处理大量数据，用户可通过安装链接或命令行快速集成，并以Markdown为最高优先级数据源，推动个人AI成为可能。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/AYi_AInotes/status/2055954675526934642&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;4. 微软AI CEO预测18个月内AI自动化所有白领工作&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Kim (@kimmonismus) · 今天 18:04&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;微软AI CEO Mustafa Suleyman预测，AI将在18个月内实现人类水平的性能，自动化大多数专业任务，包括会计、法律、营销和项目管理。他在Fortune采访中指出，所有涉及&quot;坐在电脑前&quot;的白领工作都将被AI完全取代。Suleyman透露自己的使命是构建&quot;超级智能&quot;，并展望未来创建新AI模型将像制作播客或写博客一样便捷。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/kimmonismus/status/2055952702908355012&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;5. 研究揭示LLM智能体记忆重写机制损害可靠性&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Rohan Paul (@rohanpaul_ai) · 今天 15:51&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;伊利诺伊大学与清华大学等机构的研究发现，LLM智能体虽能从经验中学习，但其通过LLM将原始经历压缩成书面教训的记忆重写机制会损害记忆可靠性。在网页购物、模拟世界及ARC风格谜题等任务测试中，反复重写记忆会导致错误分组、规则过度泛化或过拟合，使智能体遗忘细节或混淆任务类型。例如，GPT-4在无记忆时可100%解决小型ARC-AGI问题集，而建立记忆并流式更新后，性能降至约54%。研究主张智能体记忆系统应重视原始经历作为关键证据，而非自动将所有经验重写为摘要，保留原始证据并选择性摘要效果更佳。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/rohanpaul_ai/status/2055919204591902771&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;6. Anthropic CEO预言软件免费化与职业结构巨变&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Rohan Paul (@rohanpaul_ai) · 昨天 10:43&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;Anthropic CEO Dario Amodei在《华尔街日报》YouTube频道采访中表示，软件成本将急剧下降，可能基本免费，传统软件需百万用户分摊成本的前提将不再成立。同时，数十年来建立的许多工作和职业可能消失。Amodei认为社会能够应对并适应这种变化，但他警告人们目前完全未意识到即将到来的变革及其巨大规模。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/rohanpaul_ai/status/2055841486714147177&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;7. Codex新增键盘快捷键自定义功能&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Tibo (@thsottiaux) · 昨天 03:43&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;不知为何我们选择周六发布更新，但Codex确实迎来了一系列优化。
+&lt;p&gt;&lt;strong&gt;1. Qwen3.7预览版登陆竞技场，阿里视觉排名升至第五&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：阿里云 / Alibaba Cloud (@alibaba_cloud) · 今天 11:01&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;🚀🚀Qwen3.7预览版登陆竞技场！
 
-这些改进让使用体验愉悦许多，实在不该拖到周二再公布。
+⚡️⚡️Qwen3.7-Plus-Preview来了。阿里巴巴现在在视觉领域排名第五。🎨
 
-键盘快捷键现已支持自定义。
+迫不及待要发布Qwen3.7系列模型了！敬请期待！@arena&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/alibaba_cloud/status/2056570869548478592&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;strong&gt;2. 开源古代汉字视觉感知评估基准Chronicles-OCR&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：腾讯混元 (@TencentHunyuan) · 今天 10:46&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;开源了评估视觉大语言模型（VLLM）对古代汉字视觉感知能力的基准测试Chronicles-OCR。该数据集覆盖了从甲骨文到草书的3000年演变历程，包含7种历史书体与2800张均衡图像。评估涵盖字形定位、细粒度识别、古代文本解析和字体分类四项核心任务，旨在探究视觉分布随时间的变化如何影响模型感知。相关论文与代码已开源。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/TencentHunyuan/status/2056567125205270882&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;strong&gt;3. 谷歌联手黑石组建 AI 云公司：50 亿美元起步，2027 年冲刺 500 兆瓦&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;IT之家（RSS） · 今天 09:52&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;谷歌与黑石集团宣布合作成立一家新的AI云服务公司，黑石率先投入50亿美元股权资本，结合后续杠杆，总投资规模预计约250亿美元。该公司计划依托谷歌自研的TPU芯片和云基础设施，与CoreWeave等算力服务商展开竞争，并争取在2027年上线容量达500兆瓦的数据中心，相当于一座中等城市的用电规模。此举标志着谷歌迄今最大规模的对外芯片商业化尝试，将加剧与英伟达等公司在AI算力市场的角逐。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.ithome.com/0/952/097.htm&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;strong&gt;4. GitHub爆火项目一键构建AI公司，集成Claude Code&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：阿易 AI Notes (@AYi_AInotes) · 今天 09:03&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;一个GitHub项目引发关注，据称已获得10万星标并被称为2026年增长最快的AI项目。该项目的核心功能是模拟一整家AI公司，包含146个不同领域的AI专家角色和12个完整部门。用户可以通过一条命令，将这些&quot;员工&quot;全部集成到Claude Code中，从而免费获得涵盖前端开发、安全审计、产品管理、增长黑客等多方面的7x24小时AI支持。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/AYi_AInotes/status/2056541113800962415&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;strong&gt;5. 实现规范时同步记录决策与变更&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Thariq (@trq212) · 今天 00:45&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;我最近常用的一个提示词：
+实现&lt;SPEC&gt;，同时维护一个持续更新的implementation-notes.html文件（或markdown），记录规范中未提及的决策、需要修改的内容、必须做出的权衡，以及其他我需要了解的事项。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/trq212/status/2056415973125796184&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;strong&gt;6. Claude Code大规模部署最佳实践指南&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Claude Devs (@ClaudeDevs) · 今天 23:56&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;在大规模运行Claude Code有哪些最佳实践？
 
-根据实际工作方式配置Codex，通过设置调整快捷键，不必再迁就默认设定。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/thsottiaux/status/2055735802894954612&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;8. RLVR 可能在科学领域格外糟糕&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;Dwarkesh Patel：Podcast &amp; Blog（RSS） · 昨天 03:00&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;RLVR（强化学习与验证）在科学理论验证中可能表现出不成比例的缺陷。科学理论的验证循环周期长达数十年甚至数个世纪，且当前被视为更优的理论实际上常会做出更差的预测。这一矛盾揭示了基于短期反馈的强化学习范式与科学探索长期性、复杂性之间的根本冲突，凸显了现有AI方法在应对科学发现这类超长反馈周期任务时存在的结构性局限。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.dwarkesh.com/p/rlvr-might-be-disproportionately&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;9. 按需定制快捷键，优化工作流效率&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：OpenAI Developers (@OpenAIDevs) · 昨天 02:31&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;处理大家的反馈让我们感到太有趣了。
-（请继续反馈。）
-键盘快捷键现已支持自定义。
-围绕你的实际工作方式设置 Codex，然后通过设置调整快捷键，无需再适应我们的默认配置。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/OpenAIDevs/status/2055717793841221796&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;10. 最新开源成果（#21）：开源模型盛宴！Gemma 4、DeepSeek V4、Kimi K2.6、MiMo 2.5、GLM-5.1 等。基于CAISI的V4评估。&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;Nathan Lambert：Interconnects（RSS） · 昨天 01:00&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;本月开源AI模型领域迎来密集发布，包括Gemma 4、DeepSeek V4、Kimi K2.6、MiMo 2.5和GLM-5.1等一系列重要新版本。这些模型均在CAISI的V4评估框架下进行了性能评测。多个团队几乎同期推出旗舰级更新，反映出开源社区当前高速迭代的竞争态势。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.interconnects.ai/p/latest-open-artifacts-21-open-model&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;11. Ring-2.6-1T开源并上线OpenRouter，专为智能体工作流设计&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：蚂蚁百灵 (@AntLingAGI) · 昨天 00:05&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;Ring-2.6-1T模型现已开源，并上线OpenRouter平台，5月底前享有75%折扣。该模型由AntLingAGI开发，是一个为现实世界智能体构建的万亿级推理模型，其核心设计目标不仅是回答问题，更是执行任务。它专注于规划步骤、使用工具、维持上下文和完成复杂工作流，具备强大的智能体执行能力和高推理模式，并采用了Async RL与IcePop训练方法。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/AntLingAGI/status/2055681163033997815&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;12. 研究人员利用Anthropic Mythos工具构建macOS内核漏洞，绕过苹果M5芯片内存完整性执行安全系统&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Kim (@kimmonismus) · 昨天 16:52&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;三名研究人员借助Anthropic的Mythos工具，成功开发出一个可绕过苹果M5芯片内存完整性执行（MIE）安全机制的macOS内核漏洞利用程序。MIE是苹果耗时五年、投入巨资为M5和A19芯片打造的旗舰安全功能，旨在彻底消除内存损坏漏洞。研究团队于4月25日发现漏洞，5月1日即完成开发，并亲自前往苹果园区提交报告。该攻击采用纯数据攻击方式，无需操纵指针，仅通过非特权用户的标准系统调用即可获取根权限。完整技术报告将在苹果发布补丁后公开。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/kimmonismus/status/2055571960260645125&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;13. Notion推出开发者平台及CLI工具&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Oran Ge (@oran_ge) · 昨天 14:44&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;Notion正式推出开发者平台，核心组件包括Notion CLI终端工具、Workers计算服务、数据库同步功能以及多种Agent工具与API。平台旨在让开发者更便捷地在Notion基础设施上运行代码、连接外部数据源并构建自动化工作流。未来，即使非开发者也能通过AI Agent在Notion上构建应用。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/oran_ge/status/2055539910212460878&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;14. OpenAI 与马耳他合作，向所有公民提供 ChatGPT Plus&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;OpenAI：官网动态（RSS · 排除企业/客户案例） · 2天前&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;OpenAI 与马耳他政府达成合作，将向该国所有公民免费提供 ChatGPT Plus 订阅服务。此次合作旨在扩大人工智能技术的普及范围，并包含面向公民的 AI 技能实践培训，以帮助民众负责任地使用 AI。该计划是国家级大规模推广 ChatGPT Plus 的首例，预计将提升马耳他全民的 AI 素养与应用能力。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://openai.com/index/malta-chatgpt-plus-partnership&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;15. 无视令牌成本，用百个AI实例自动化驱动开源项目&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Peter Steinberger (@steipete) · 2天前&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;作者在OpenClaw项目中大规模运用AI，探索在&quot;令牌成本无关紧要&quot;的未来如何构建软件。团队持续运行约100个Codex实例，自动化处理多项核心工作：审查代码与安全问题、去重归类议题、自动重现复杂测试环境并录制验证视频、从会议讨论中主动创建任务、过滤垃圾评论以及监控性能回归。通过clawpatch.ai等工具将项目拆分为功能单元进行审查，并整合Vercel DeepSec等进行安全分析。整套自动化体系使得项目能够以极精简的团队高效运作。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/steipete/status/2055405041843052792&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;16. Krea 2正式上线面向专业用户&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Krea AI (@krea_ai) · 2天前&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;从今天起，Krea 2 正式为 Pro 用户上线。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/krea_ai/status/2055371934452642107&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;17. MiniMax M2.7模型上线OrcaRouter平台&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：MiniMax (@MiniMax_AI) · 2天前&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;M2.7已在@OrcaRouter上线--可通过单一OpenAI兼容API访问。
+关于我们从团队在数百万行单体仓库、数十年历史的遗留系统和分布式微服务中运行的经验总结，新博客文章已发布：
 
-今天就来试试吧！🐋&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/MiniMax_AI/status/2055331545402245246&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+https：//claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/ClaudeDevs/status/2056403446056784288&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;18. SenseNova发布增强版信息图表生成模型SenseNova-U1-8B-MoT-Infographic&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：商汤 SenseTime (@SenseTime_AI) · 2天前&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;SenseNova近日推出专为信息图表生成设计的增强模型SenseNova-U1-8B-MoT-Infographic。该模型能够根据指令生成多种视觉格式内容，包括海报、图表、食谱卡、明信片以及学术风格的arXiv页面等。在性能方面，模型在BizGenEval（困难版）和IGenBench（Q-ACC）两项基准测试上表现突出，相比其基础U1模型分别提升了6.8分和18.2分。目前，该模型已在Hugging Face平台开源，并提供了超过100个多样化的生成示例，供开发者和研究者参考与试用。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/SenseTime_AI/status/2055315819165597702&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;7. PaddleOCR 3.5：使用Transformers后端运行OCR和文档解析任务&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;Hugging Face：Blog（RSS） · 今天 23:12&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;PaddleOCR 发布 3.5 版本，正式将 Transformers 确立为运行 PP-OCRv5 及 PaddleOCR-VL 1.5 模型的可选推理后端之一。此次更新引入了更灵活的 `engine` 与 `engine_config` 参数，允许开发者自主选择后端并配置数据类型、设备等选项。其核心价值在于，显著降低了将文档处理能力集成至以 Transformers 为中心的主流开发栈（如 RAG、智能体、文档AI）的门槛，使开发者能更便捷地利用现有生态，减少集成阻力，从而专注于下游应用构建。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;19. Forward Deployed Engineer：AI 时代的新宠岗位，到底干什么？&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：宝玉 (@dotey) · 2天前&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;Forward Deployed Engineer（FDE）是AI落地应用的关键角色，负责在客户现场部署和集成AI系统。近期，OpenAI成立独立部署公司，Anthropic与华尔街巨头合作，Google也简化流程大力招聘，显示行业重心正从模型竞赛转向商业落地。FDE工作介于工程师与顾问之间，需写代码、调试并深度理解业务。此岗位为毕业生提供了接触企业级项目的机会，也帮助资深工程师贴近业务需求，成为推动AI创造实际价值的重要力量。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/dotey/status/2055307775417139447&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;8. TRAE 团队分析了用户实际使用的 Agent Skills Top 10&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：邵猛 (@shao__meng) · 今天 21:05&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;TRAE团队基于真实的用户技能调用数据（而非安装量），分析了用户实际高频使用的Agent Skills Top 10。这些技能覆盖了从UI设计、流程规划到测试调试的产品开发全链路，甚至包含一个带有反讽意味的&quot;PUA&quot;高压问责技能。其设计具有清晰的分层逻辑，从元层的技能检索与调度，到行为层的约束护栏，再到具体的执行与验证层，共同构成了一个&quot;想清楚→拆细→做精→验透→担责&quot;的结构化、负责任的闭环工作流。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/shao__meng/status/2056360476934853013&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;20. 微软研究院发布AI新工具与模型&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Microsoft Research (@MSFTResearch) · 2天前&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;微软研究院的新工具、模型、代码库和论文现已发布。
-
-使用AI和智能体？值得关注：
-• MSR AI Frontiers的MagenticLite
-• 智能体化GitHub工作流
-• 验证优先智能体
-• 意义匹配微调
-• AI转型与经济发展&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/MSFTResearch/status/2055303919497089337&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;9. OpenAI与Dell合作将Codex引入混合及本地企业环境&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;OpenAI：官网动态（RSS · 排除企业/客户案例） · 今天 18:00&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;OpenAI与Dell达成合作，将Codex编程代理引入企业混合云及本地部署环境。该合作旨在帮助企业在自身数据和业务流程中安全集成AI编码能力，强化对敏感数据的管控。此举标志着企业级AI工具部署方式的重要扩展，为受监管行业提供了符合数据主权要求的解决方案。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://openai.com/index/dell-codex-enterprise-partnership&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;21. X平台开源&quot;For You&quot;信息流推荐算法&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：cb_doge (@cb_doge) · 2天前&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;X平台在GitHub开源了其&quot;For You&quot;信息流的最新推荐算法。该算法融合来自已关注账号的内容和通过相似性搜索发现的网络外内容，并利用基于Grok架构的Phoenix Transformer模型进行统一评分。模型通过分析用户近期互动，同时预测点赞、回复、转发等多种互动概率，并综合成最终相关性分数。排序过程包括候选内容收集、上下文信息补充、AI模型评分、多样性调整及垃圾信息过滤等步骤。此次开源提供了完整的可运行管道、预训练模型、内容理解服务及内置广告混合模块，核心计算完全由Transformer模型驱动。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/cb_doge/status/2055280665583898691&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;10. 玻璃翼项目：Mythos向我们展示了什么&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;Cloudflare Blog · 今天 14:00&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;近期，团队将Mythos及其他聚焦安全的大语言模型应用于关键基础设施的实时代码测试。测试揭示了模型在识别漏洞和代码审计方面的优势，例如在复杂逻辑中发现潜在风险的能力，同时也暴露了其存在的局限性，包括产生误报以及对上下文理解的不稳定。文章指出，在将这些安全LLM的能力扩展到更大规模之前，必须围绕其建立一套可靠的工作流程，包括持续验证和人工复核机制。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://blog.cloudflare.com/cyber-frontier-models&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;22. 飞书开源CLI工具45天获万星，AI操作可见可控引关注&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：阿易 AI Notes (@AYi_AInotes) · 2天前&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;飞书开源命令行工具lark-cli在45天内获得超过1万GitHub star，成为国内首个破万星的办公套件开源项目。该工具允许AI通过命令行直接操作飞书，执行建群、建文档等任务，且每一步操作都可预览、可审查，与云端不可见的MCP模式形成对比。其主干代码已合并10位外部开发者的贡献，而同类产品钉钉和企业微信则为零。这种可见、可控的特性被视为开发者放心将任务交给AI Agent的前提，预示着一句话指令驱动完整项目流程成为可能。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/AYi_AInotes/status/2055263164145504501&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;11. 增长63.7%！真人短剧迎来增长新曲线？&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;DataEye短剧观察 · 今天 15:09&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;2026年的短剧行业，正站在一个前所未有的十字路口。一边是AIGC技术的成熟，给行业带来了效率与产能的大幅提升，另一边则是真人短剧依旧保持着强劲的增长势头。整个微短剧市场在AI短剧和真人短剧的碰撞、互补中快速扩容、并行发展。那么，在技术与内容深度融合的新阶段，真人短剧现阶段表现到底如何？行业又将如何...&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkwMDYxOTYyMQ==&amp;mid=2247517238&amp;idx=1&amp;sn=7e49dba9285046b8af5f5a58e98e29d7&amp;chksm=c152529d5e7b8fdd7ba5f9cedd4ac30234a495f34b113b79015f7c74c7f60feb1b833ade2f7d&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;23. Anthropic估值与营收飙升&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Kim (@kimmonismus) · 2天前&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;Anthropic简况：
-
-估值：
-2026年2月：3500亿美元
-2026年5月：9000亿美元
-
-三个月内增长近3倍。
-
-年度经常性收入：
-2025年底：90亿美元
-2026年5月底：450亿美元
-
-五个月内增长近5倍。
-
-天啊。 via FT&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/kimmonismus/status/2055222524774846576&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;12. 鲸跃动力获星海图数千万元种子轮投资，用「数据+模型+末端执行」打造开箱即用的Robo Labor丨涌现新项目&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;36氪 · &lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;文｜王欣逸
+  编辑｜邱晓芬
+  一句话介绍
+  鲸跃动力成立于2026年，以「数据+模型+末端执行」闭环，提供面向场景、可快速部署的Robo Labor（机器人劳动力），让物理劳动力像AWS算力一样，可订阅、可弹性扩容、开箱即用，替代人类从事高危、繁重、脏乱、重复（Deadly/Difficult/Dirty/Duplicate）的物理作业。
+  融资进展
+  近日，鲸跃动力已完成由星海图独家领投的数千万元种子轮融资，深渡资本担任独家财务顾问。
+  本轮融资将用于团队增长、产品的量产交付、专家技能的研发以及数采运营相关工作。
+  星海图表示：“具身智能的下半场，拼的是‘数据效率×模型泛化×末&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://36kr.com/p/3814860909600261?f=rss&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;24. DataEye短剧&amp;漫剧日榜：三笙万物、六翼、墨凡影业领跑真人剧！一AI剧单日播放近3亿，博物馆题材持续霸榜！&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;DataEye短剧观察 · 昨天 09:54&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;5月17日，DataEye短剧&amp;amp;漫剧榜单发布。漫剧方面，包括红果漫剧榜、抖音热播榜（综合）以及细分的抖音沙雕漫榜、抖音真人AI榜；真人剧方面，包括微短剧热力榜、红果热榜、抖音端原生热播榜，共计7大榜单合集如下。AI剧/漫剧类榜单（1）抖音端原生漫剧方面漫剧热播榜新增“承制方”一栏，关注公众号...&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkwMDYxOTYyMQ==&amp;mid=2247517205&amp;idx=1&amp;sn=b59835bdc5215327622a0f3c594a1cb5&amp;chksm=c1a3335ddfe289a8ea026e396085cce23831f6f39ba51dcd4c5f0c6e9e3dbbcb17ac47ee7ff7&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;13. Agent、多模态、应用、算力一天看尽，峰会亮点在此｜5.20日，来现场一起AI&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;36氪 · &lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;进入2026，AI愈发狂飙突进。围观体验之余，人人不免在心中自问：
+  朋友圈刷屏的“龙虾”、Harness等AI新事物，跟我到底有什么关系？真的有必要跟吗？
+  AI创业、AI融资如火如荼，属于我的机会又在哪里？
+  别人已经在用AI做视频、写代码、跑项目，我是不是已经慢了一拍？
+  ……
+  到最后，几乎所有问题都会汇成同一个问题：我，到底该如何用AI？
+  如果你对这些问题还很模糊，不妨来第四届中国AIGC产业峰会走一趟——一天时间，把这一年AI产业最值得关注的人、事、判断，一次性讲清楚。
+  先提前剧透一波。
+  18位重磅嘉宾，1场Agent主题圆桌，1份年度榜单，1张全景图谱——所&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://36kr.com/p/3814408307711492?f=rss&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;25. DataEye短剧&amp;漫剧日榜：鲸奇点AI剧逆袭登顶！17K剧场新剧空降红果TOP3；番茄、七猫新剧表现强势，上榜TOP5！&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;DataEye短剧观察 · 2天前&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;5月16日，DataEye短剧&amp;amp;漫剧榜单发布。漫剧方面，包括红果漫剧榜、抖音热播榜（综合）以及细分的抖音沙雕漫榜、抖音真人AI榜；真人剧方面，包括微短剧热力榜、红果热榜、抖音端原生热播榜，共计7大榜单合集如下。AI剧/漫剧类榜单（1）抖音端原生漫剧方面漫剧热播榜新增“承制方”一栏，关注公众号...&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkwMDYxOTYyMQ==&amp;mid=2247517203&amp;idx=1&amp;sn=5a31e6f234f4d44446b82028cfce9df4&amp;chksm=c1e56a2dffc887e29fb123d635f3f971e94450bc7fcd0b6b565e57a7bc7b3f219fc63c6aa50e&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;26. 一周行业需求汇总：天桥、点众、麦芽、掌阅、花生、古麦嘉禾、中游在线等企业正在寻求合作！&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;DataEye短剧观察 · 2天前&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;为更好服务同行和推进短剧行业发展，DataEye短剧观察每周行业周报将增加【一周短剧行业需求汇总】板块，精选汇总DataEye剧查查小程序社区一周内各已实名认证的短剧同行的国内外对接需求。欢迎各位同行到剧查查小程序【社区】↓↓↓进行企业认证和实名认证，积极发帖！一周短剧行业需求汇总国内需求1、天桥合...&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkwMDYxOTYyMQ==&amp;mid=2247517172&amp;idx=2&amp;sn=7751ba51344b81f648bda31c13d64602&amp;chksm=c120eb9990a36cfb291d91522f62ce1757019eebb4aedb48fc56a011e69da7b3259094526f9b&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;27. 4月真人短剧：听花岛、秋元影视、花花家、刚刚好影视领跑红果，西安等闲、薪火影业、古麦嘉禾领跑热力值！短暂承压，在播剧仍创新高！&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;DataEye短剧观察 · 2天前&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;红果短剧：上新数量遇冷，热度下跌30%（1）在榜剧数量与热度4月，红果短剧在榜剧共370部，较3月减少123部，降幅达25%。从整体热度来看，4月红果短剧总热度达50.76亿，较3月下降近30%。目前，红果生态中，AI短剧对真人短剧的冲击仍在加大，导致存量剧集上榜数与热度大幅下滑。4月，仅有1部红果...&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkwMDYxOTYyMQ==&amp;mid=2247517172&amp;idx=1&amp;sn=3d4daa1eeb9c1cc96d36400b25a57629&amp;chksm=c1b01f9900405e304ae4b738a2fe79ed8bd5cd80873701a172184d57bb731e5ceeea76611697&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;28. 对话万成云商：发文章≠GEO优化，大模型不是喂什么就推什么&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;36氪 · &lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;14. 对话万成云商：发文章≠GEO优化，大模型不是喂什么就推什么&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;36氪 · &lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;“帮我搭配一套适合海边度假的衣服。”
   “帮我推荐一家适合约会的西餐厅。”
   “3000元预算，买哪款扫地机器人最划算？”
@@ -301,668 +139,302 @@ HappyHorse现已登陆Model Studio。从原始提示词到1080p多镜头现实�
   区别于传统SEO追求的“搜索结果排名”，GEO的核心目标是让品牌信息在AI生成的回答中被优先引用和推荐。在AI全面渗透用户信息获取与消费决策场景的时代，&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://36kr.com/p/3814337101111044?f=rss&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;29. 8点1氪丨多款燃油车大降价，降幅最高近30%；蜜雪冰城上线黄仁勋同款饮品；“巴菲特慈善午餐”回归，获拍900万美元&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;36氪 · &lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;今日热点导览
-  
-   张雪机车，再夺冠
-   长安汽车否认与千里科技合作
-   深圳发布2026年住房发展计划
-   贵州茅台宣布公斤茅台等四款产品提价
-   法拉第未来宣布获得2500万美元融资
-   三星电子会长就公司“内部问题”公开道歉
-  
-  TOP 3 大新闻
-  多款燃油车大降价，降幅最高近30%
-  日前，长安汽车旗下长安逸动经典版正式上市，新车售价6.49万元，限时享23000元购车现金优惠；相较于指导价8.79万元降幅达到26%。该款车型还享有限时的保养礼和流量礼。
-  其实，近期多家燃油车都开启了降价模式：起亚新狮铂拓界一口价10.99万元，较指导价15.49万元降2&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://36kr.com/p/3814030630084354?f=rss&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;15. 腾讯微信AI团队拿下ICASSP最佳工业论文奖&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;36氪 · &lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;36氪获悉，5月4日-8日，IEEE信号处理学会旗舰国际会议ICASSP 2026在西班牙巴塞罗那举行。腾讯微信AI团队（模式识别中心）凭借论文 Less Redundancy: Boosting Practicality of Vision Language Model in Walking Assistants，获评本届Best Industry Paper Award（最佳工业论文奖）。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://36kr.com/newsflashes/3815722275954433?f=rss&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;30. 6.4k Stars！用Claude Code写论文的全套流水线，有人打包开源了&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;36氪 · &lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;听雨 发自 凹非寺量子位 | 公众号 QbitAI
-  用Claude Code写论文的一整套流水线，有人打包开源出来了。
-  完全戳中了学生党的痛点，github星标直达6.4k。
-  
-  academic-research-skills
-  项目名叫academic-research-skills（以下简称ARS），是一套Claude Code技能包。
-  里面涵盖4个skill，分别对应论文的研究、写作、审稿、定稿。
-  只需两行命令安装，直接一条龙串起整套学术研究流水线。
-  
-  academic-research-skills
-  只能说，我读研的时候怎么没碰到这种好东西呢…
- &lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://36kr.com/p/3812800346742274?f=rss&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;16. 报告：全球电商流量前三，AliExpress、Temu占两席&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;36氪 · &lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;36氪获悉，据We Are Social最新发布的全球电商网站流量数据（2025年12月至2026年2月），Temu月访问量13.4亿次位居全球第二，仅次于亚马逊；速卖通AliExpress位列第三。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://36kr.com/newsflashes/3815718846160647?f=rss&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;31. 36氪首发 | 宠物健康大模型公司连融两轮，软硬一体化布局，已服务超200家宠物医院&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;36氪 · &lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;作者&amp;nbsp;|&amp;nbsp;乔钰杰
-  编辑&amp;nbsp;|&amp;nbsp;袁斯来
-  硬氪获悉，宠物大模型健康公司重庆绮算法科技有限公司（以下简称“绮算法”）、智谱“Z计划”生态企业，近日完成数千万元融资，投资方为启赋资本与聚恒创投。本轮资金将主要用于产品迭代、模型能力深化及市场拓展。
-  绮算法成立于2022年7月，是一家聚焦宠物健康领域的大模型科技公司。依托多模态大模型能力，公司已打造一个融合线上线下、软硬件协同的宠物健康品牌。
-  绮算法创始人陈立毕业于英国国王学院，为Qlalgorithm Lab研究员，同时也是连续创业者；技术合伙人刘煜东为宾夕法尼亚大学博士，长期从事AI医疗方向研究；&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://36kr.com/p/3812788568907520?f=rss&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;17. 抖音商城618前三日成交额破千万元，直播间数同比增长116%&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;36氪 · &lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;36氪获悉，5月19日，2026抖音电商618公布数据显示，大促前三日（5月15日至5月17日），成交额破亿元的品牌数量同比增长89%，超100万新达人首次参与618大促实现成交额增长，消费券带动成交额破千万元商家数量同比增长338%。据了解，在内容场方面，前三日成交额破千万元的直播间数量同比增长116%，通过短视频实现成交额超百万元的商家数量同比增长56%。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://36kr.com/newsflashes/3815712348724999?f=rss&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;32. 新东方在珠海成立文旅投资公司，注册资本2亿&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;36氪 · &lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;36氪获悉，天眼查App显示，近日，新东方（珠海）文旅投资有限公司成立，法定代表人为杨志辉，注册资本2亿人民币，经营范围为以自有资金从事投资活动、信息咨询服务，由新东方旗下北京新东方文旅有限公司全资持股。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://36kr.com/newsflashes/3814293064490757?f=rss&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;33. 上海市市长龚正：更大力度赋能集成电路、生物医药、人工智能等十大千亿级硬核产业集群发展&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;36氪 · &lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;在“开局起步‘十五五’”上海专场新闻发布会上，上海市市长龚正提出，面向“十五五”，要深入推动科技创新、政府职能转变等改革有机衔接，持续推进资金跨境、国际人才引进等要素市场化配置关键环节攻坚突破，加快探索大宗商品贸易、高端航运服务等创新制度安排，更大力度赋能集成电路、生物医药、人工智能等十大千亿级硬核产业集群发展。特别是要用好浦东新区法规立法授权，以法治更好助力浦东大胆试、大胆闯、自主改。（财联社）&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://36kr.com/newsflashes/3814225804451334?f=rss&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;18. 柯马签署具有约束力的协议，全面收购巴西仓储物流自动化企业 Invent&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;36氪 · &lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;36氪获悉，柯马今日宣布，已通过签署具有约束力的协议，收购巴西内部物流与仓储自动化解决方案公司Invent Smart Intralogistics Solutions（以下简称“Invent”）的全部股权。交易完成后，Invent将被整合至柯马生态体系，凭借其基于AI的软件化内部物流解决方案能力，为柯马在内部物流领域补充技术专长，并与欧导形成协同效应。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://36kr.com/newsflashes/3815701662703363?f=rss&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;</description>
     </item>
     <item>
-      <title>💡 社媒选题建议 · 05月18日 · 3条含大纲</title>
+      <title>💡 社媒选题建议 · 05月19日 · 3条含大纲</title>
       <link>https://dingdanggg.github.io/linggou-rss</link>
-      <guid isPermaLink="false">linggou-topics-2026051813</guid>
-      <pubDate>Mon, 18 May 2026 13:06:02 +0800</pubDate>
+      <guid isPermaLink="false">linggou-topics-2026051913</guid>
+      <pubDate>Tue, 19 May 2026 13:01:00 +0800</pubDate>
       <category>社媒选题</category>
       <description>&lt;h2&gt;💡 社媒选题建议&lt;/h2&gt;
 &lt;p&gt;每条选题含完整大纲，可直接展开写 1500-2000 字文章。&lt;/p&gt;
-&lt;h3&gt;选题 1：腾讯Ardot实测：1句话生成可编辑UI，真能替代设计师？&lt;/h3&gt;
-&lt;p&gt;📱 &lt;strong&gt;平台&lt;/strong&gt;：B站、小红书&lt;/p&gt;
-&lt;p&gt;🎯 &lt;strong&gt;读者痛点&lt;/strong&gt;：腾讯新出的AI设计工具Ardot，号称一句话就能生成可编辑的App页面和海报，还能一键转代码——想省掉从设计稿到开发的中间环节，但你真能放心用吗？我们亲手测了3个场景，告诉你它到底行不行。&lt;/p&gt;
+&lt;h3&gt;选题 1：3步把甲骨文变成AI短剧素材&lt;/h3&gt;
+&lt;p&gt;📱 &lt;strong&gt;平台&lt;/strong&gt;：小红书、B站&lt;/p&gt;
+&lt;p&gt;🎯 &lt;strong&gt;读者痛点&lt;/strong&gt;：做AI短剧找不到独特视觉元素？腾讯开源了2800张涵盖甲骨文到草书的高清字图，教你直接拿来训练LoRA或当提示词，让古文字变成赛博朋克道具。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;📝 文章大纲&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;
-&lt;li&gt;## Ardot是什么？一句话生成设计稿的腾讯AI智能体（介绍Ardot核心能力：文本生成可编辑UI、支持Figma导入、一键转代码，以及它与Midjourney/Stable Diffusion的本质区别——可编辑而非纯出图）&lt;/li&gt;
-&lt;li&gt;## 实测一：一句话生成官网首页——效果与翻车案例（用具体提示词测试，展示生成结果、可编辑程度、细节错误，附截图对比，重点说它和设计稿“可用性”之间的差距）&lt;/li&gt;
-&lt;li&gt;## 实测二：从Figma导入到代码还原，协作功能值不值？（带读Figma文件是否保留图层和样式？CodeBuddy对接后代码还原度如何？多人在线批注流程演示）&lt;/li&gt;
-&lt;li&gt;## 实测三：调用团队组件库生成规范稿——对独立开发者/小团队的实际价值（演示如何绑定自定义组件库，生成带品牌规范的页面，对比无组件库时的混乱效果）&lt;/li&gt;
-&lt;li&gt;## 结论：谁适合现在就用，谁应该再等等（低成本原型验证、快速出设计Demo场景强烈推荐；要求高一致性、复杂交互的产品团队仍需谨慎，给出具体使用建议和替代方案）&lt;/li&gt;
+&lt;li&gt;## 一句话看懂Chronicles-OCR：凭什么能当素材库（数据规模、7种书体、四项核心任务说明，附带一张示例图像）&lt;/li&gt;
+&lt;li&gt;## 第一步：从Hugging Face拉取数据集（具体操作命令 git clone + pip install huggingface_hub，附链接）&lt;/li&gt;
+&lt;li&gt;## 第二步：筛选你需要的书体，批量批注用于LoRA训练（用Python脚本按字体分类、统一尺寸到512×512，附代码片段）&lt;/li&gt;
+&lt;li&gt;## 第三步：在ComfyUI里把古文字贴到AI生成的场景上（用ControlNet的tile或inpainting处理，截图展示从字帖到短剧道具的完整流程）&lt;/li&gt;
+&lt;li&gt;## 避坑指南：哪些书体识别率低、哪些字容易生成乱码（结合OCR基准测试的细粒度识别任务数据）&lt;/li&gt;
+&lt;li&gt;## 进阶玩法：用古文字生成AI短剧的片头标题动画（结合AnimateDiff或SVD实现动态书法特效）&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr/&gt;
-&lt;h3&gt;选题 2：PixVerse韩国棒球模板爆火：如何复制这种病毒式AI视频？&lt;/h3&gt;
-&lt;p&gt;📱 &lt;strong&gt;平台&lt;/strong&gt;：抖音、B站&lt;/p&gt;
-&lt;p&gt;🎯 &lt;strong&gt;读者痛点&lt;/strong&gt;：一条AI生成的韩国棒球视频在X上疯传，制作流程简单到令人震惊：上传自拍→一键生成。这种爆款模板的内部机制是什么？普通人如何利用类似思路做出自己的病毒级AI短片？&lt;/p&gt;
+&lt;h3&gt;选题 2：一人用Agora-1搭AI游戏当短剧场景&lt;/h3&gt;
+&lt;p&gt;📱 &lt;strong&gt;平台&lt;/strong&gt;：B站、抖音&lt;/p&gt;
+&lt;p&gt;🎯 &lt;strong&gt;读者痛点&lt;/strong&gt;：奥德赛实验室发布了首个实时多agent世界模型，你和AI可以在同一个画面里互射。这不仅是游戏，更是3D短剧的动态场景制造机——手把手教你用它生成可交互的AI剧场。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;📝 文章大纲&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;
-&lt;li&gt;## 韩国棒球模板为什么能爆？拆解病毒式传播的三要素（反差感→搞笑表情+严肃体育；极低门槛→无需提示词，一键直出；社交货币→用户自发分享/二创，附传播数据截图）&lt;/li&gt;
-&lt;li&gt;## PixVerse上的K-Baseball Sprint模板原理揭秘（讲解PixVerse模板机制：预设镜头运动+表情替换+背景融合，对比Runway的Motion Brush、Pika的Scene功能，说明为何能做到“无需指令”）&lt;/li&gt;
-&lt;li&gt;## 三步复制爆款：从自拍到成片的完整流程（操作演示：① 选模板→② 上传自拍/选现成表情→③ 生成并下载；提示注意点：光线角度要求、表情识别限制、分辨率优化）&lt;/li&gt;
-&lt;li&gt;## 从单点爆款到系列内容：如何用模板矩阵持续产出（不是只蹭一个棒球模板：教你找到PixVerse上其他High-Risk模板（如篮球、脱口秀、新闻播报），组合成“AI换脸鬼畜系列”，适用于短视频平台的日更策略）&lt;/li&gt;
-&lt;li&gt;## 数据复盘：一条爆款视频能带来多少流量与粉丝？（引用同类AI换脸视频在抖音/快手的播放中位数、完播率、关注转化率，给出测模板-选爆款-批量刷新的实操节奏）&lt;/li&gt;
+&lt;li&gt;## 演示前置：Agora-1能在什么硬件上跑（实测一张RTX 4090可跑GoldenEye死亡竞赛，帧率数据）&lt;/li&gt;
+&lt;li&gt;## 从下载到第一场模拟（按链接克隆仓库→安装依赖→运行demo→键盘控制角色移动，附全命令）&lt;/li&gt;
+&lt;li&gt;## 如何把AI agent的行为录下来当短剧素材（用OBS或内置回放导出MP4，截取两个AI互动的精彩片段）&lt;/li&gt;
+&lt;li&gt;## 修改地图和角色外观的两种方法（替换Unity场景中的3D模型 + 修改agent的Prompt让它按剧本对话）&lt;/li&gt;
+&lt;li&gt;## 实战案例：用Agora-1生成一段5秒的“AI刺客 vs 玩家”打斗片段（展示关键帧和最终渲染效果）&lt;/li&gt;
+&lt;li&gt;## 局限与替代：当Agora-1跑不动时，可用哪些开源3D模拟器做备选（对比Habitat、Three.js简单场景）&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr/&gt;
-&lt;h3&gt;选题 3：Anthropic Claude 5天攻破Apple M5内核：AI安全攻防速度已超人力&lt;/h3&gt;
-&lt;p&gt;📱 &lt;strong&gt;平台&lt;/strong&gt;：B站&lt;/p&gt;
-&lt;p&gt;🎯 &lt;strong&gt;读者痛点&lt;/strong&gt;：苹果耗时5年、投入数十亿美元打造的M5芯片硬件级内存安全防线，被Anthropic的Claude在5天内攻破。这意味着什么？AI驱动的安全研究能力已经超过顶级人类白帽，未来漏洞发现的速度将完全由AI决定。&lt;/p&gt;
+&lt;h3&gt;选题 3：5分钟把Qwen3.7接入短剧OCR流程&lt;/h3&gt;
+&lt;p&gt;📱 &lt;strong&gt;平台&lt;/strong&gt;：小红书、B站&lt;/p&gt;
+&lt;p&gt;🎯 &lt;strong&gt;读者痛点&lt;/strong&gt;：阿里大模型视觉排名飙升至第五，Qwen3.7预览版已上线。我用它从AI短剧中自动提取字幕和道具文字，再配合PaddleOCR 3.5新后端，准确率比纯传统OCR高20%，教你一步到位。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;📝 文章大纲&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;
-&lt;li&gt;## 事件还原：Claude如何在5天内绕开苹果MIE硬件防护？（简要解释MIE机制——硬件级内存完整性保护，以及Claude Mythos Preview构建的利用链如何实现纯数据操作→无代码执行→root提权，附时间线与漏洞编号）&lt;/li&gt;
-&lt;li&gt;## 为什么这个案例是里程碑？AI vs 人类安全研究的速度对比（对比传统人工漏洞挖掘周期：MIE防护面世以来无人公开突破，而AI不到一周完成；引用数据：Claude在bounty平台上的平均利用构建时长已低于人类顶级选手）&lt;/li&gt;
-&lt;li&gt;## 技术原理：AI驱动提权利用链的通用工作流（拆解Claude此次的操作流程：输入CVE/已知漏洞模式→引导式探索→符号执行辅助→自动生成PoC→迭代利用链；说明非完全自动化，但已大幅压缩周期）&lt;/li&gt;
-&lt;li&gt;## 对AIGC创作者/独立游戏开发者的直接警示：你的云服务器和用户数据更脆弱了（AI不仅能攻系统，也能通过API/依赖库漏洞攻击你的应用——给出具体的资产加固清单：LTS系统升级、最小权限原则、依赖审计工具推荐）&lt;/li&gt;
-&lt;li&gt;## 未来1-2年安全攻防格局预测：AI Agent将成为标配护城河（微软AI CEO说“所有白领工作被自动化”，安全也不例外。建议开发者从现在起：① 为项目配置AI辅助漏洞扫描 ② 加入AI安全社区跟进最新攻击手法 ③ 用AI写安全测试用例覆盖边界场景）&lt;/li&gt;
+&lt;li&gt;## 效果对比：Qwen3.7 vs PaddleOCR vs EasyOCR，在一段AI短剧视频上的识别准确率（三列表格，附原图）&lt;/li&gt;
+&lt;li&gt;## 环境配置：在Colab上一键安装Qwen3.7-Plus-Preview（用Hugging Face的transformers加载，代码5行）&lt;/li&gt;
+&lt;li&gt;## 核心操作：用Qwen3.7对视频逐帧做文字检测 + 用PaddleOCR做精细识别（附Python脚本，使用engine='transformers'参数）&lt;/li&gt;
+&lt;li&gt;## 常见翻车：AI生成的虚构道具文字识别率低，怎么用上下文提示词修正（示例：把“神玉剑谱”错认为“王玉创增”的修复全过程）&lt;/li&gt;
+&lt;li&gt;## 输出结果：将识别完的文字直接写入SRT字幕或JSON标签（附导出格式示例）&lt;/li&gt;
+&lt;li&gt;## 延伸应用：把这段OCR管道部署到本地，给独立游戏开发者自动提取3D模型中的UI文字素材（减少手动抠字）&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr/&gt;</description>
     </item>
     <item>
-      <title>行业动态 · 腾讯 AI 设计智能体 Ardot 公测：一句话生成可编辑设计稿，一键转代码</title>
-      <link>https://www.ithome.com/0/951/677.htm</link>
-      <guid isPermaLink="false">linggou-cmpalqqtx0zzgslnzclo2nrdv</guid>
-      <pubDate>Mon, 18 May 2026 10:43:58 +0800</pubDate>
+      <title>行业动态 · Qwen3.7预览版登陆竞技场，阿里视觉排名升至第五</title>
+      <link>https://x.com/alibaba_cloud/status/2056570869548478592</link>
+      <guid isPermaLink="false">linggou-cmpc22jka1c7wslnz3dwje1lt</guid>
+      <pubDate>Tue, 19 May 2026 11:01:19 +0800</pubDate>
       <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 10:43 · IT之家（RSS）&lt;/p&gt;
-&lt;p&gt;腾讯云正式公测自研AI设计智能体平台Ardot。该平台核心功能包括：用户通过一句话指令即可生成App页面、官网、海报等可编辑设计稿；支持调用团队自有组件库生成规范稿，并能直接导入Figma文件保留原有设计。同时，Ardot具备设计稿一键转换为代码的能力，可对接CodeBuddy等开发工具实现代码还原。平台还提供多人在线实时评论、标注反馈和版本对比等协作功能，其微信小程序即将上线。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.ithome.com/0/951/677.htm&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 11:01 · X：阿里云 / Alibaba Cloud (@alibaba_cloud)&lt;/p&gt;
+&lt;p&gt;🚀🚀Qwen3.7预览版登陆竞技场！
+
+⚡️⚡️Qwen3.7-Plus-Preview来了。阿里巴巴现在在视觉领域排名第五。🎨
+
+迫不及待要发布Qwen3.7系列模型了！敬请期待！@arena&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/alibaba_cloud/status/2056570869548478592&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>AIGC内容创作 · 一键生成韩国棒球AI视频模板爆火</title>
-      <link>https://x.com/PixVerse_/status/2056198882321904098</link>
-      <guid isPermaLink="false">linggou-cmpaldyju0zw4slnzdixa2cjx</guid>
-      <pubDate>Mon, 18 May 2026 10:23:10 +0800</pubDate>
-      <category>AIGC内容创作</category>
-      <description>&lt;p&gt;&lt;strong&gt;📽️ AIGC 内容创作&lt;/strong&gt; · 今天 10:23 · X：PixVerse (@PixVerse_)&lt;/p&gt;
-&lt;p&gt;那个热狗需要自己的座位
-
-【引用 @MrDasOnX】：这可能是最简单的病毒式AI编辑。
-
-PixVerse → 上传自拍 → 即时生成韩国棒球镜头视频
-
-无需指令。无需编辑。
-只需一键点击。
-
-@PixVerse_ 上的K-Baseball Sprint模板太疯狂了。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/PixVerse_/status/2056198882321904098&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>AIGC内容创作 · 阿里云推出HappyHorse视频生成模型</title>
-      <link>https://x.com/alibaba_cloud/status/2056182152681644176</link>
-      <guid isPermaLink="false">linggou-cmpajb29y0ze6slnz4qehfohy</guid>
-      <pubDate>Mon, 18 May 2026 09:16:41 +0800</pubDate>
-      <category>AIGC内容创作</category>
-      <description>&lt;p&gt;&lt;strong&gt;📽️ AIGC 内容创作&lt;/strong&gt; · 今天 09:16 · X：阿里云 / Alibaba Cloud (@alibaba_cloud)&lt;/p&gt;
-&lt;p&gt;电影级AI现已到来。🐎💨
-
-HappyHorse现已登陆Model Studio。从原始提示词到1080p多镜头现实感画面--在统一工作流中体验视频生成的未来。没有阻碍。只有纯粹性能。
-
-🔥 限时优惠：8折。观看演示并立即开始创作。
-
-立即访问：https：//int.alibabacloud.com/m/1000412936/&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/alibaba_cloud/status/2056182152681644176&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>行业动态 · Anthropic Claude 5天攻破Apple M5 macOS内核漏洞：5年数十亿防线，被AI一举击穿</title>
-      <link>https://x.com/berryxia/status/2056043674446995887</link>
-      <guid isPermaLink="false">linggou-cmpa0moej0v8mslnzs3ph0b54</guid>
-      <pubDate>Mon, 18 May 2026 00:06:26 +0800</pubDate>
+      <title>行业动态 · 开源古代汉字视觉感知评估基准Chronicles-OCR</title>
+      <link>https://x.com/TencentHunyuan/status/2056567125205270882</link>
+      <guid isPermaLink="false">linggou-cmpc1uga61c67slnzs7cijp9e</guid>
+      <pubDate>Tue, 19 May 2026 10:46:26 +0800</pubDate>
       <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 00:06 · X：Berry Xia (@berryxia)&lt;/p&gt;
-&lt;p&gt;Anthropic的Claude Mythos Preview在5天内，协助安全团队Calif成功构建并演示了首个公开的、针对Apple M5芯片macOS内核的内存破坏提权利用链。该攻击绕过了苹果耗时5年、投入数十亿美元打造的MIE硬件级内存完整性防护，从普通用户权限通过纯数据操作即可获得root权限。苹果已在后续更新中修复漏洞并致谢。此事件标志着AI驱动的安全研究能力已能极速突破顶尖硬件防护，显著改变了攻防的速度与平衡。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/berryxia/status/2056043674446995887&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 10:46 · X：腾讯混元 (@TencentHunyuan)&lt;/p&gt;
+&lt;p&gt;开源了评估视觉大语言模型（VLLM）对古代汉字视觉感知能力的基准测试Chronicles-OCR。该数据集覆盖了从甲骨文到草书的3000年演变历程，包含7种历史书体与2800张均衡图像。评估涵盖字形定位、细粒度识别、古代文本解析和字体分类四项核心任务，旨在探究视觉分布随时间的变化如何影响模型感知。相关论文与代码已开源。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/TencentHunyuan/status/2056567125205270882&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>AIGC内容创作 · 让 Codex 自己做了一条视频介绍了一下这个视频生成方案</title>
-      <link>https://x.com/op7418/status/2056021133477163298</link>
-      <guid isPermaLink="false">linggou-cmp9winqz0u9tslnzqfp79jxl</guid>
-      <pubDate>Sun, 17 May 2026 22:36:51 +0800</pubDate>
-      <category>AIGC内容创作</category>
-      <description>&lt;p&gt;&lt;strong&gt;📽️ AIGC 内容创作&lt;/strong&gt; · 今天 22:36 · X：歸藏 (@op7418)&lt;/p&gt;
-&lt;p&gt;该方案整合了藏师傅的PPT Skill（视觉与动效）、HyperFrames（时间线与渲染）、Listenhub Skill（配音）以及即梦CLI（补充片段）。核心在于，用户可通过Codex直接基于文本提示生成带动效的解释视频，并能在聊天界面内预览，极大提升了制作效率，特别适合产品介绍等视频内容。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/op7418/status/2056021133477163298&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>行业动态 · Garry Tan发布的GBrain直接捅破个人AI天花板</title>
-      <link>https://x.com/AYi_AInotes/status/2055954675526934642</link>
-      <guid isPermaLink="false">linggou-cmp9nerrd0s89slnzijlhhl42</guid>
-      <pubDate>Sun, 17 May 2026 18:12:47 +0800</pubDate>
+      <title>行业动态 · 谷歌联手黑石组建 AI 云公司：50 亿美元起步，2027 年冲刺 500 兆瓦</title>
+      <link>https://www.ithome.com/0/952/097.htm</link>
+      <guid isPermaLink="false">linggou-cmpc16sdn1bzoslnzdslc7e8f</guid>
+      <pubDate>Tue, 19 May 2026 09:52:20 +0800</pubDate>
       <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 18:12 · X：阿易 AI Notes (@AYi_AInotes)&lt;/p&gt;
-&lt;p&gt;Garry Tan开源的GBrain是一个知识系统，而非简单的RAG工具。它通过8层结构解决AI Agent的记忆缺陷：前4层升级基础检索，后4层实现终身记忆和自我进化，使如OpenClaw、Hermes等Agent能持续追踪用户的人际关系、决策轨迹和认知演化。该系统已在生产环境中处理大量数据，用户可通过安装链接或命令行快速集成，并以Markdown为最高优先级数据源，推动个人AI成为可能。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/AYi_AInotes/status/2055954675526934642&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 09:52 · IT之家（RSS）&lt;/p&gt;
+&lt;p&gt;谷歌与黑石集团宣布合作成立一家新的AI云服务公司，黑石率先投入50亿美元股权资本，结合后续杠杆，总投资规模预计约250亿美元。该公司计划依托谷歌自研的TPU芯片和云基础设施，与CoreWeave等算力服务商展开竞争，并争取在2027年上线容量达500兆瓦的数据中心，相当于一座中等城市的用电规模。此举标志着谷歌迄今最大规模的对外芯片商业化尝试，将加剧与英伟达等公司在AI算力市场的角逐。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.ithome.com/0/952/097.htm&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>行业动态 · 微软AI CEO预测18个月内AI自动化所有白领工作</title>
-      <link>https://x.com/kimmonismus/status/2055952702908355012</link>
-      <guid isPermaLink="false">linggou-cmp9n1c040s55slnzuroftb4b</guid>
-      <pubDate>Sun, 17 May 2026 18:04:56 +0800</pubDate>
-      <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 18:04 · X：Kim (@kimmonismus)&lt;/p&gt;
-&lt;p&gt;微软AI CEO Mustafa Suleyman预测，AI将在18个月内实现人类水平的性能，自动化大多数专业任务，包括会计、法律、营销和项目管理。他在Fortune采访中指出，所有涉及&quot;坐在电脑前&quot;的白领工作都将被AI完全取代。Suleyman透露自己的使命是构建&quot;超级智能&quot;，并展望未来创建新AI模型将像制作播客或写博客一样便捷。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/kimmonismus/status/2055952702908355012&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>行业动态 · 研究揭示LLM智能体记忆重写机制损害可靠性</title>
-      <link>https://x.com/rohanpaul_ai/status/2055919204591902771</link>
-      <guid isPermaLink="false">linggou-cmp9hwi0k0r0dslnzgpk9c6x0</guid>
-      <pubDate>Sun, 17 May 2026 15:51:50 +0800</pubDate>
-      <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 15:51 · X：Rohan Paul (@rohanpaul_ai)&lt;/p&gt;
-&lt;p&gt;伊利诺伊大学与清华大学等机构的研究发现，LLM智能体虽能从经验中学习，但其通过LLM将原始经历压缩成书面教训的记忆重写机制会损害记忆可靠性。在网页购物、模拟世界及ARC风格谜题等任务测试中，反复重写记忆会导致错误分组、规则过度泛化或过拟合，使智能体遗忘细节或混淆任务类型。例如，GPT-4在无记忆时可100%解决小型ARC-AGI问题集，而建立记忆并流式更新后，性能降至约54%。研究主张智能体记忆系统应重视原始经历作为关键证据，而非自动将所有经验重写为摘要，保留原始证据并选择性摘要效果更佳。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/rohanpaul_ai/status/2055919204591902771&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>技术工具 · Grok Imagine图像生成功能正式发布</title>
-      <link>https://x.com/elonmusk/status/2055912040481599793</link>
-      <guid isPermaLink="false">linggou-cmp9h2ow80qscslnz5vjoothc</guid>
-      <pubDate>Sun, 17 May 2026 15:23:22 +0800</pubDate>
+      <title>技术工具 · 首个实时多agent世界模型发布，人类可与AI同屏互动</title>
+      <link>https://x.com/berryxia/status/2056548546544124240</link>
+      <guid isPermaLink="false">linggou-cmpbzez3z1bkhslnzwsppcvqn</guid>
+      <pubDate>Tue, 19 May 2026 09:32:36 +0800</pubDate>
       <category>技术工具</category>
-      <description>&lt;p&gt;&lt;strong&gt;🛠️ 技术工具&lt;/strong&gt; · 今天 15:23 · X：Elon Musk (@elonmusk, xAI)&lt;/p&gt;
-&lt;p&gt;Grok Imagine
-现已正式发布
-所有人都可使用
+      <description>&lt;p&gt;&lt;strong&gt;🛠️ 技术工具&lt;/strong&gt; · 今天 09:32 · X：Berry Xia (@berryxia)&lt;/p&gt;
+&lt;p&gt;奥德赛实验室推出Agora-1，这是全球首个实时多agent世界模型，允许多人与AI同时在同一个模拟世界中实时互动并相互影响。该模型以经典游戏GoldenEye死亡竞赛为演示场景，提供可玩研究预览，用户现在即可体验与AI共同参与动态生成的模拟世界。这标志着从单人生成视频向多人共享&quot;活世界&quot;的转变，长期来看可能重塑游戏、模拟、教育、机器人及AI协作等领域，使人类从旁观者变为与AI共同生活的参与者。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/berryxia/status/2056548546544124240&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>行业动态 · GitHub爆火项目一键构建AI公司，集成Claude Code</title>
+      <link>https://x.com/AYi_AInotes/status/2056541113800962415</link>
+      <guid isPermaLink="false">linggou-cmpbz1obe1bhtslnzjctzfmzl</guid>
+      <pubDate>Tue, 19 May 2026 09:03:04 +0800</pubDate>
+      <category>行业动态</category>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 09:03 · X：阿易 AI Notes (@AYi_AInotes)&lt;/p&gt;
+&lt;p&gt;一个GitHub项目引发关注，据称已获得10万星标并被称为2026年增长最快的AI项目。该项目的核心功能是模拟一整家AI公司，包含146个不同领域的AI专家角色和12个完整部门。用户可以通过一条命令，将这些&quot;员工&quot;全部集成到Claude Code中，从而免费获得涵盖前端开发、安全审计、产品管理、增长黑客等多方面的7x24小时AI支持。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/AYi_AInotes/status/2056541113800962415&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>行业动态 · 实现规范时同步记录决策与变更</title>
+      <link>https://x.com/trq212/status/2056415973125796184</link>
+      <guid isPermaLink="false">linggou-cmpbg3z5r172zslnzrj8sn6hd</guid>
+      <pubDate>Tue, 19 May 2026 00:45:49 +0800</pubDate>
+      <category>行业动态</category>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 00:45 · X：Thariq (@trq212)&lt;/p&gt;
+&lt;p&gt;我最近常用的一个提示词：
+实现&lt;SPEC&gt;，同时维护一个持续更新的implementation-notes.html文件（或markdown），记录规范中未提及的决策、需要修改的内容、必须做出的权衡，以及其他我需要了解的事项。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/trq212/status/2056415973125796184&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>行业动态 · Claude Code大规模部署最佳实践指南</title>
+      <link>https://x.com/ClaudeDevs/status/2056403446056784288</link>
+      <guid isPermaLink="false">linggou-cmpbel05j16rrslnzxfru4e28</guid>
+      <pubDate>Mon, 18 May 2026 23:56:02 +0800</pubDate>
+      <category>行业动态</category>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 23:56 · X：Claude Devs (@ClaudeDevs)&lt;/p&gt;
+&lt;p&gt;在大规模运行Claude Code有哪些最佳实践？
 
-基于我们最新的文本到图像模型
-能够生成逼真、高质量的图像
-支持多种宽高比
+关于我们从团队在数百万行单体仓库、数十年历史的遗留系统和分布式微服务中运行的经验总结，新博客文章已发布：
 
-现在可在 X 上使用&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/elonmusk/status/2055912040481599793&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+https：//claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/ClaudeDevs/status/2056403446056784288&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>行业动态 · Anthropic CEO预言软件免费化与职业结构巨变</title>
-      <link>https://x.com/rohanpaul_ai/status/2055841486714147177</link>
-      <guid isPermaLink="false">linggou-cmp976l4m0ojjslnzqoaxuhwd</guid>
-      <pubDate>Sun, 17 May 2026 10:43:00 +0800</pubDate>
+      <title>行业动态 · PaddleOCR 3.5：使用Transformers后端运行OCR和文档解析任务</title>
+      <link>https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers</link>
+      <guid isPermaLink="false">linggou-cmpbdurfq16k7slnzyvoy9g0z</guid>
+      <pubDate>Mon, 18 May 2026 23:12:46 +0800</pubDate>
       <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 昨天 10:43 · X：Rohan Paul (@rohanpaul_ai)&lt;/p&gt;
-&lt;p&gt;Anthropic CEO Dario Amodei在《华尔街日报》YouTube频道采访中表示，软件成本将急剧下降，可能基本免费，传统软件需百万用户分摊成本的前提将不再成立。同时，数十年来建立的许多工作和职业可能消失。Amodei认为社会能够应对并适应这种变化，但他警告人们目前完全未意识到即将到来的变革及其巨大规模。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/rohanpaul_ai/status/2055841486714147177&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 23:12 · Hugging Face：Blog（RSS）&lt;/p&gt;
+&lt;p&gt;PaddleOCR 发布 3.5 版本，正式将 Transformers 确立为运行 PP-OCRv5 及 PaddleOCR-VL 1.5 模型的可选推理后端之一。此次更新引入了更灵活的 `engine` 与 `engine_config` 参数，允许开发者自主选择后端并配置数据类型、设备等选项。其核心价值在于，显著降低了将文档处理能力集成至以 Transformers 为中心的主流开发栈（如 RAG、智能体、文档AI）的门槛，使开发者能更便捷地利用现有生态，减少集成阻力，从而专注于下游应用构建。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>行业动态 · Codex新增键盘快捷键自定义功能</title>
-      <link>https://x.com/thsottiaux/status/2055735802894954612</link>
-      <guid isPermaLink="false">linggou-cmp8rhkfp0kx0slnz74ky5sya</guid>
-      <pubDate>Sun, 17 May 2026 03:43:03 +0800</pubDate>
+      <title>行业动态 · TRAE 团队分析了用户实际使用的 Agent Skills Top 10</title>
+      <link>https://x.com/shao__meng/status/2056360476934853013</link>
+      <guid isPermaLink="false">linggou-cmpb8m9ut15c7slnzeawda26r</guid>
+      <pubDate>Mon, 18 May 2026 21:05:17 +0800</pubDate>
       <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 昨天 03:43 · X：Tibo (@thsottiaux)&lt;/p&gt;
-&lt;p&gt;不知为何我们选择周六发布更新，但Codex确实迎来了一系列优化。
-
-这些改进让使用体验愉悦许多，实在不该拖到周二再公布。
-
-键盘快捷键现已支持自定义。
-
-根据实际工作方式配置Codex，通过设置调整快捷键，不必再迁就默认设定。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/thsottiaux/status/2055735802894954612&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 21:05 · X：邵猛 (@shao__meng)&lt;/p&gt;
+&lt;p&gt;TRAE团队基于真实的用户技能调用数据（而非安装量），分析了用户实际高频使用的Agent Skills Top 10。这些技能覆盖了从UI设计、流程规划到测试调试的产品开发全链路，甚至包含一个带有反讽意味的&quot;PUA&quot;高压问责技能。其设计具有清晰的分层逻辑，从元层的技能检索与调度，到行为层的约束护栏，再到具体的执行与验证层，共同构成了一个&quot;想清楚→拆细→做精→验透→担责&quot;的结构化、负责任的闭环工作流。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/shao__meng/status/2056360476934853013&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>行业动态 · RLVR 可能在科学领域格外糟糕</title>
-      <link>https://www.dwarkesh.com/p/rlvr-might-be-disproportionately</link>
-      <guid isPermaLink="false">linggou-cmp8rm20t0kylslnzevv1hezo</guid>
-      <pubDate>Sun, 17 May 2026 03:00:59 +0800</pubDate>
+      <title>行业动态 · OpenAI与Dell合作将Codex引入混合及本地企业环境</title>
+      <link>https://openai.com/index/dell-codex-enterprise-partnership</link>
+      <guid isPermaLink="false">linggou-cmpbh7f2g17czslnzd12y3ali</guid>
+      <pubDate>Mon, 18 May 2026 18:00:00 +0800</pubDate>
       <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 昨天 03:00 · Dwarkesh Patel：Podcast &amp; Blog（RSS）&lt;/p&gt;
-&lt;p&gt;RLVR（强化学习与验证）在科学理论验证中可能表现出不成比例的缺陷。科学理论的验证循环周期长达数十年甚至数个世纪，且当前被视为更优的理论实际上常会做出更差的预测。这一矛盾揭示了基于短期反馈的强化学习范式与科学探索长期性、复杂性之间的根本冲突，凸显了现有AI方法在应对科学发现这类超长反馈周期任务时存在的结构性局限。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.dwarkesh.com/p/rlvr-might-be-disproportionately&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 18:00 · OpenAI：官网动态（RSS · 排除企业/客户案例）&lt;/p&gt;
+&lt;p&gt;OpenAI与Dell达成合作，将Codex编程代理引入企业混合云及本地部署环境。该合作旨在帮助企业在自身数据和业务流程中安全集成AI编码能力，强化对敏感数据的管控。此举标志着企业级AI工具部署方式的重要扩展，为受监管行业提供了符合数据主权要求的解决方案。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://openai.com/index/dell-codex-enterprise-partnership&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>行业动态 · 按需定制快捷键，优化工作流效率</title>
-      <link>https://x.com/OpenAIDevs/status/2055717793841221796</link>
-      <guid isPermaLink="false">linggou-cmp8oygzv0kc6slnz56g1hza2</guid>
-      <pubDate>Sun, 17 May 2026 02:31:30 +0800</pubDate>
+      <title>行业动态 · 玻璃翼项目：Mythos向我们展示了什么</title>
+      <link>https://blog.cloudflare.com/cyber-frontier-models</link>
+      <guid isPermaLink="false">linggou-cmpb9biuu15i1slnz4xmb2us9</guid>
+      <pubDate>Mon, 18 May 2026 14:00:00 +0800</pubDate>
       <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 昨天 02:31 · X：OpenAI Developers (@OpenAIDevs)&lt;/p&gt;
-&lt;p&gt;处理大家的反馈让我们感到太有趣了。
-（请继续反馈。）
-键盘快捷键现已支持自定义。
-围绕你的实际工作方式设置 Codex，然后通过设置调整快捷键，无需再适应我们的默认配置。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/OpenAIDevs/status/2055717793841221796&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 14:00 · Cloudflare Blog&lt;/p&gt;
+&lt;p&gt;近期，团队将Mythos及其他聚焦安全的大语言模型应用于关键基础设施的实时代码测试。测试揭示了模型在识别漏洞和代码审计方面的优势，例如在复杂逻辑中发现潜在风险的能力，同时也暴露了其存在的局限性，包括产生误报以及对上下文理解的不稳定。文章指出，在将这些安全LLM的能力扩展到更大规模之前，必须围绕其建立一套可靠的工作流程，包括持续验证和人工复核机制。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://blog.cloudflare.com/cyber-frontier-models&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>行业动态 · 最新开源成果（#21）：开源模型盛宴！Gemma 4、DeepSeek V4、Kimi K2.6、MiMo 2.5、GLM-5.1 等。基于CAISI的V4评估。</title>
-      <link>https://www.interconnects.ai/p/latest-open-artifacts-21-open-model</link>
-      <guid isPermaLink="false">linggou-cmp8miqno0jrsslnzj4y4ud9v</guid>
-      <pubDate>Sun, 17 May 2026 01:00:11 +0800</pubDate>
-      <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 昨天 01:00 · Nathan Lambert：Interconnects（RSS）&lt;/p&gt;
-&lt;p&gt;本月开源AI模型领域迎来密集发布，包括Gemma 4、DeepSeek V4、Kimi K2.6、MiMo 2.5和GLM-5.1等一系列重要新版本。这些模型均在CAISI的V4评估框架下进行了性能评测。多个团队几乎同期推出旗舰级更新，反映出开源社区当前高速迭代的竞争态势。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.interconnects.ai/p/latest-open-artifacts-21-open-model&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>技术工具 · 社区协作再创佳绩，vLLM支持万亿级模型</title>
-      <link>https://x.com/AntLingAGI/status/2055689329339760829</link>
-      <guid isPermaLink="false">linggou-cmp8l2fu40jh2slnzqm9018vn</guid>
-      <pubDate>Sun, 17 May 2026 00:38:23 +0800</pubDate>
-      <category>技术工具</category>
-      <description>&lt;p&gt;&lt;strong&gt;🛠️ 技术工具&lt;/strong&gt; · 昨天 00:38 · X：蚂蚁百灵 (@AntLingAGI)&lt;/p&gt;
-&lt;p&gt;又一次Day0协作，又一次社区胜利。感谢@vllm_project团队始终可靠的支持~ 🫡🫡&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/AntLingAGI/status/2055689329339760829&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>行业动态 · Ring-2.6-1T开源并上线OpenRouter，专为智能体工作流设计</title>
-      <link>https://x.com/AntLingAGI/status/2055681163033997815</link>
-      <guid isPermaLink="false">linggou-cmp8jztto0j8islnzx5999qi3</guid>
-      <pubDate>Sun, 17 May 2026 00:05:56 +0800</pubDate>
-      <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 昨天 00:05 · X：蚂蚁百灵 (@AntLingAGI)&lt;/p&gt;
-&lt;p&gt;Ring-2.6-1T模型现已开源，并上线OpenRouter平台，5月底前享有75%折扣。该模型由AntLingAGI开发，是一个为现实世界智能体构建的万亿级推理模型，其核心设计目标不仅是回答问题，更是执行任务。它专注于规划步骤、使用工具、维持上下文和完成复杂工作流，具备强大的智能体执行能力和高推理模式，并采用了Async RL与IcePop训练方法。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/AntLingAGI/status/2055681163033997815&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>AIGC内容创作 · SANA-WM：一个用于生成1分钟720p视频的26亿级开源世界模型</title>
-      <link>https://nvlabs.github.io/Sana/WM</link>
-      <guid isPermaLink="false">linggou-cmp8i7zhb0isoslnzyvufvdtc</guid>
-      <pubDate>Sat, 16 May 2026 23:25:59 +0800</pubDate>
+      <title>AIGC内容创作 · AI短剧周报 | “堂哥文学”换皮成功，以4亿播放登顶榜单！</title>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkwNjY3NzI2NA==&amp;mid=2247516225&amp;idx=1&amp;sn=2ad5839484936ed7f63091c6cb60a80a&amp;chksm=c133be2945ed15c0956ced9e44c2bb3766af43f1f81764980e468ac9c6116e221fc3be7c2b48&amp;scene=0#rd</link>
+      <guid isPermaLink="false">linggou-extra-短剧自习室--255608476996839254</guid>
+      <pubDate>Mon, 18 May 2026 22:15:00 +0800</pubDate>
       <category>AIGC内容创作</category>
-      <description>&lt;p&gt;&lt;strong&gt;📽️ AIGC 内容创作&lt;/strong&gt; · 昨天 23:25 · Hacker News 热门（buzzing.cc 中文翻译）&lt;/p&gt;
-&lt;p&gt;NVIDIA研究团队发布了SANA-WM，这是一个参数规模达26亿的开源世界模型，专门用于生成长达1分钟、分辨率为720p的视频。该模型已在GitHub页面开源，旨在推动高质量长视频生成的研发。其在Hacker News社区获得了107点热度，显示出业界对该技术进展的关注。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://nvlabs.github.io/Sana/WM&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;📽️ AIGC 内容创作&lt;/strong&gt; · 今天 22:15 · 短剧自习室&lt;/p&gt;
+&lt;p&gt;1、抖音集团端原生AI短剧上周播放量和供给情况上周（2026年5月11日-2026年5月17日），抖音集团端原生AI短剧播放量增长约306亿。整体来看，上周AI短剧大盘播放增量呈现前半周回落、后半周快速拉升的走势，周末冲高明显。周一至周五播放增量持续走低，5月15日出现阶段性流量低谷（约34.7亿次...&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkwNjY3NzI2NA==&amp;mid=2247516225&amp;idx=1&amp;sn=2ad5839484936ed7f63091c6cb60a80a&amp;chksm=c133be2945ed15c0956ced9e44c2bb3766af43f1f81764980e468ac9c6116e221fc3be7c2b48&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>行业动态 · 研究人员利用Anthropic Mythos工具构建macOS内核漏洞，绕过苹果M5芯片内存完整性执行安全系统</title>
-      <link>https://x.com/kimmonismus/status/2055571960260645125</link>
-      <guid isPermaLink="false">linggou-cmp84c5a50focslnz2c5pkiao</guid>
-      <pubDate>Sat, 16 May 2026 16:52:00 +0800</pubDate>
-      <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 昨天 16:52 · X：Kim (@kimmonismus)&lt;/p&gt;
-&lt;p&gt;三名研究人员借助Anthropic的Mythos工具，成功开发出一个可绕过苹果M5芯片内存完整性执行（MIE）安全机制的macOS内核漏洞利用程序。MIE是苹果耗时五年、投入巨资为M5和A19芯片打造的旗舰安全功能，旨在彻底消除内存损坏漏洞。研究团队于4月25日发现漏洞，5月1日即完成开发，并亲自前往苹果园区提交报告。该攻击采用纯数据攻击方式，无需操纵指针，仅通过非特权用户的标准系统调用即可获取根权限。完整技术报告将在苹果发布补丁后公开。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/kimmonismus/status/2055571960260645125&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>行业动态 · Notion推出开发者平台及CLI工具</title>
-      <link>https://x.com/oran_ge/status/2055539910212460878</link>
-      <guid isPermaLink="false">linggou-cmp809e8r0epmslnzbbyk7uu5</guid>
-      <pubDate>Sat, 16 May 2026 14:44:39 +0800</pubDate>
-      <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 昨天 14:44 · X：Oran Ge (@oran_ge)&lt;/p&gt;
-&lt;p&gt;Notion正式推出开发者平台，核心组件包括Notion CLI终端工具、Workers计算服务、数据库同步功能以及多种Agent工具与API。平台旨在让开发者更便捷地在Notion基础设施上运行代码、连接外部数据源并构建自动化工作流。未来，即使非开发者也能通过AI Agent在Notion上构建应用。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/oran_ge/status/2055539910212460878&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>技术工具 · 智能体驱动系统Articraft实现3D资产生成自动化，开源万件数据集降低门槛</title>
-      <link>https://x.com/berryxia/status/2055444087684407505</link>
-      <guid isPermaLink="false">linggou-cmp7mvr030bmvslnzaxryw471</guid>
-      <pubDate>Sat, 16 May 2026 08:23:53 +0800</pubDate>
-      <category>技术工具</category>
-      <description>&lt;p&gt;&lt;strong&gt;🛠️ 技术工具&lt;/strong&gt; · 2天前 · X：Berry Xia (@berryxia)&lt;/p&gt;
-&lt;p&gt;剑桥大学团队推出Articraft，这是一个由智能体驱动的编码系统，能全自动生成带关节、可运动的交互式3D资产。系统通过AI智能体自主编写代码、执行并接收物理反馈迭代优化，将以往需数日甚至数周的创作过程极大简化。团队同时开源了Articraft-10K数据集，包含超1万个物体，覆盖250个类别，所有资产均仿真就绪。此举显著降低了机器人训练和物理AI领域对高质量3D资产的数据门槛，为解决&quot;数据饥渴&quot;问题提供了高效的自动化方案。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/berryxia/status/2055444087684407505&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>行业动态 · OpenAI 与马耳他合作，向所有公民提供 ChatGPT Plus</title>
-      <link>https://openai.com/index/malta-chatgpt-plus-partnership</link>
-      <guid isPermaLink="false">linggou-cmp87jb0m0gdwslnz8kprg5f6</guid>
-      <pubDate>Sat, 16 May 2026 08:00:00 +0800</pubDate>
-      <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 2天前 · OpenAI：官网动态（RSS · 排除企业/客户案例）&lt;/p&gt;
-&lt;p&gt;OpenAI 与马耳他政府达成合作，将向该国所有公民免费提供 ChatGPT Plus 订阅服务。此次合作旨在扩大人工智能技术的普及范围，并包含面向公民的 AI 技能实践培训，以帮助民众负责任地使用 AI。该计划是国家级大规模推广 ChatGPT Plus 的首例，预计将提升马耳他全民的 AI 素养与应用能力。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://openai.com/index/malta-chatgpt-plus-partnership&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>行业动态 · 无视令牌成本，用百个AI实例自动化驱动开源项目</title>
-      <link>https://x.com/steipete/status/2055405041843052792</link>
-      <guid isPermaLink="false">linggou-cmp7gzh5x0abkslnz3k1vgqjz</guid>
-      <pubDate>Sat, 16 May 2026 05:48:44 +0800</pubDate>
-      <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 2天前 · X：Peter Steinberger (@steipete)&lt;/p&gt;
-&lt;p&gt;作者在OpenClaw项目中大规模运用AI，探索在&quot;令牌成本无关紧要&quot;的未来如何构建软件。团队持续运行约100个Codex实例，自动化处理多项核心工作：审查代码与安全问题、去重归类议题、自动重现复杂测试环境并录制验证视频、从会议讨论中主动创建任务、过滤垃圾评论以及监控性能回归。通过clawpatch.ai等工具将项目拆分为功能单元进行审查，并整合Vercel DeepSec等进行安全分析。整套自动化体系使得项目能够以极精简的团队高效运作。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/steipete/status/2055405041843052792&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>行业动态 · Krea 2正式上线面向专业用户</title>
-      <link>https://x.com/krea_ai/status/2055371934452642107</link>
-      <guid isPermaLink="false">linggou-cmp7ck9n009a6slnzs9t4octw</guid>
-      <pubDate>Sat, 16 May 2026 03:37:10 +0800</pubDate>
-      <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 2天前 · X：Krea AI (@krea_ai)&lt;/p&gt;
-&lt;p&gt;从今天起，Krea 2 正式为 Pro 用户上线。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/krea_ai/status/2055371934452642107&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>AIGC内容创作 · Runway Agent一键生成完整广告</title>
-      <link>https://x.com/runwayml/status/2055364605979869229</link>
-      <guid isPermaLink="false">linggou-cmp7b8bdg08y8slnzf39s0jz4</guid>
-      <pubDate>Sat, 16 May 2026 03:08:03 +0800</pubDate>
+      <title>AIGC内容创作 · 当94%的AI短剧沦为“陪跑”，IP成为被争抢的稀缺资源</title>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkwNjY3NzI2NA==&amp;mid=2247516181&amp;idx=1&amp;sn=fada61e81a5c6bd5846648a0b46d5e03&amp;chksm=c153c2d3eff0ddea5dd1b1c4f3f162384c349e09cf5f3a0623e8156f530c5711b5a06cf12d45&amp;scene=0#rd</link>
+      <guid isPermaLink="false">linggou-extra-短剧自习室-5956781454404304358</guid>
+      <pubDate>Mon, 18 May 2026 18:08:00 +0800</pubDate>
       <category>AIGC内容创作</category>
-      <description>&lt;p&gt;&lt;strong&gt;📽️ AIGC 内容创作&lt;/strong&gt; · 2天前 · X：Runway (@runwayml)&lt;/p&gt;
-&lt;p&gt;Runway Agent 让你仅需一次会话，就能从产品照片和想法转变为完全制作完成的广告。
-立即通过下方链接开始体验。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/runwayml/status/2055364605979869229&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;📽️ AIGC 内容创作&lt;/strong&gt; · 今天 18:08 · 短剧自习室&lt;/p&gt;
+&lt;p&gt;AI短剧赛道的竞争逻辑，正在发生一些变化。根据短剧自习室不完全统计，近期业内发布了近40份财报，与AI短剧相关的内容中，“IP”这一关键词被提及34次——作为技术和内容的代名词，AI和IP来到了交汇点，并催生了一个行业共识：随着AI解决“能做”的技术门槛，IP开始快速消耗，逐渐成为一种核心资源。值得...&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkwNjY3NzI2NA==&amp;mid=2247516181&amp;idx=1&amp;sn=fada61e81a5c6bd5846648a0b46d5e03&amp;chksm=c153c2d3eff0ddea5dd1b1c4f3f162384c349e09cf5f3a0623e8156f530c5711b5a06cf12d45&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>技术工具 · 杨立昆访谈：剖析LLM局限，畅谈AI未来与创业新途</title>
-      <link>https://x.com/ylecun/status/2055346714039464373</link>
-      <guid isPermaLink="false">linggou-cmp780kw8087mslnzyamm5l6a</guid>
-      <pubDate>Sat, 16 May 2026 01:56:57 +0800</pubDate>
-      <category>技术工具</category>
-      <description>&lt;p&gt;&lt;strong&gt;🛠️ 技术工具&lt;/strong&gt; · 2天前 · X：Yann LeCun (@ylecun)&lt;/p&gt;
-&lt;p&gt;在Unsupervised Learning播客中，AI先驱杨立昆阐述了其对大型语言模型局限性的反主流观点，并探讨了机器人技术的发展路径。他解释了离开Meta的原因，以及与Geoff Hinton、Yoshua Bengio在图灵奖观点上的重大分歧。访谈还涵盖了他对2027年的预测、新公司AMI对世界模型的押注，并将OpenAI和Anthropic比作Sun Microsystems。此外，他建议博士生停止研究LLM，并分享了对AI安全、突破性研究发生机制以及Meta FAIR得失的尖锐见解。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/ylecun/status/2055346714039464373&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <title>AIGC内容创作 · 一文搞懂Codex连接控制：iPhone，MacBook，Mac mini，远程服务器</title>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&amp;mid=2247514920&amp;idx=1&amp;sn=9de70ca7931e973487701da54b919416&amp;chksm=cf9614448f1fe32faef5aa788b1348ab1a61f148d145c1a64353c6ba29952794f2ff5204f7fa&amp;scene=0#rd</link>
+      <guid isPermaLink="false">linggou-extra-AI寒武纪--5779543807212177517</guid>
+      <pubDate>Mon, 18 May 2026 18:43:00 +0800</pubDate>
+      <category>AIGC内容创作</category>
+      <description>&lt;p&gt;&lt;strong&gt;📽️ AIGC 内容创作&lt;/strong&gt; · 今天 18:43 · AI寒武纪&lt;/p&gt;
+&lt;p&gt;↑阅读之前记得关注+星标⭐️，😄，每天才能第一时间接收到更新 codex “连接”主要分三类：设置好以后，就可以手拿iPhone随时随地干活了，和女朋友逛街等她时也可以vibecoding，😄，这样相当于用codex连接起了你的整个开发网络，共享上下文，好用到飞起。下面我详细的说一下怎么操作，已...&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&amp;mid=2247514920&amp;idx=1&amp;sn=9de70ca7931e973487701da54b919416&amp;chksm=cf9614448f1fe32faef5aa788b1348ab1a61f148d145c1a64353c6ba29952794f2ff5204f7fa&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>行业动态 · MiniMax M2.7模型上线OrcaRouter平台</title>
-      <link>https://x.com/MiniMax_AI/status/2055331545402245246</link>
-      <guid isPermaLink="false">linggou-cmp7670my07u2slnzpgzvw1yy</guid>
-      <pubDate>Sat, 16 May 2026 00:56:41 +0800</pubDate>
+      <title>行业动态 · 增长63.7%！真人短剧迎来增长新曲线？</title>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkwMDYxOTYyMQ==&amp;mid=2247517238&amp;idx=1&amp;sn=7e49dba9285046b8af5f5a58e98e29d7&amp;chksm=c152529d5e7b8fdd7ba5f9cedd4ac30234a495f34b113b79015f7c74c7f60feb1b833ade2f7d&amp;scene=0#rd</link>
+      <guid isPermaLink="false">linggou-extra-DataEye短剧观察--8185716563730993202</guid>
+      <pubDate>Mon, 18 May 2026 15:09:00 +0800</pubDate>
       <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 2天前 · X：MiniMax (@MiniMax_AI)&lt;/p&gt;
-&lt;p&gt;M2.7已在@OrcaRouter上线--可通过单一OpenAI兼容API访问。
-
-今天就来试试吧！🐋&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/MiniMax_AI/status/2055331545402245246&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 15:09 · DataEye短剧观察&lt;/p&gt;
+&lt;p&gt;2026年的短剧行业，正站在一个前所未有的十字路口。一边是AIGC技术的成熟，给行业带来了效率与产能的大幅提升，另一边则是真人短剧依旧保持着强劲的增长势头。整个微短剧市场在AI短剧和真人短剧的碰撞、互补中快速扩容、并行发展。那么，在技术与内容深度融合的新阶段，真人短剧现阶段表现到底如何？行业又将如何...&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkwMDYxOTYyMQ==&amp;mid=2247517238&amp;idx=1&amp;sn=7e49dba9285046b8af5f5a58e98e29d7&amp;chksm=c152529d5e7b8fdd7ba5f9cedd4ac30234a495f34b113b79015f7c74c7f60feb1b833ade2f7d&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>行业动态 · SenseNova发布增强版信息图表生成模型SenseNova-U1-8B-MoT-Infographic</title>
-      <link>https://x.com/SenseTime_AI/status/2055315819165597702</link>
-      <guid isPermaLink="false">linggou-cmp74kzdx07fhslnzgxi917g9</guid>
-      <pubDate>Fri, 15 May 2026 23:54:11 +0800</pubDate>
+      <title>AIGC内容创作 · 【小僧短剧新推】好热闹的短国520档，嗓子很齁，眼睛很忙</title>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkyOTY1Mzg5Mg==&amp;mid=2247489606&amp;idx=1&amp;sn=a5925abf96bd8c1325a25c035fe8ce10&amp;chksm=c2076dadf570e4bb0278a57de3e956cab5816663806e1cc81b37ecb1061fd38e5b8288549b95#rd</link>
+      <guid isPermaLink="false">linggou-extra-短剧研究僧--7284421916804682127</guid>
+      <pubDate>Mon, 18 May 2026 18:02:00 +0800</pubDate>
+      <category>AIGC内容创作</category>
+      <description>&lt;p&gt;&lt;strong&gt;📽️ AIGC 内容创作&lt;/strong&gt; · 今天 18:02 · 短剧研究僧&lt;/p&gt;
+&lt;p&gt;【小僧短剧新推】第二十九期来啦！上周前半段，新剧表现一般，热度榜前五都是上上周的剧。直到周四，李柯以x张翅的《今天裴总和月亮谈恋爱了吗》上线仅一天便强势突围，以8478万热度跃居第二位，仅次于《错嫁有喜》。虽然没能顺利逆跌，但随着《错嫁有喜》热度回落，终于在周六到达榜首。此外，其余上新好剧均未能突破...&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkyOTY1Mzg5Mg==&amp;mid=2247489606&amp;idx=1&amp;sn=a5925abf96bd8c1325a25c035fe8ce10&amp;chksm=c2076dadf570e4bb0278a57de3e956cab5816663806e1cc81b37ecb1061fd38e5b8288549b95#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AIGC内容创作 · 姚冠宇吴添豪余茵集体转行，当众被老戏骨骂到脸红？</title>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkyNjU5MzI1OA==&amp;mid=2247575387&amp;idx=1&amp;sn=fccd3a54f3e7d3f81ef96f12a6bee598&amp;chksm=c3efbe994106958ec455cb422bdcb78826b1752976ae75b739d8a4f29ae04ad171906c89a898&amp;scene=0#rd</link>
+      <guid isPermaLink="false">linggou-extra-短剧内行人--7549782876284302047</guid>
+      <pubDate>Mon, 18 May 2026 18:40:00 +0800</pubDate>
+      <category>AIGC内容创作</category>
+      <description>&lt;p&gt;&lt;strong&gt;📽️ AIGC 内容创作&lt;/strong&gt; · 今天 18:40 · 短剧内行人&lt;/p&gt;
+&lt;p&gt;“你已经是把柯淳刷下去的那个男人了。”吴镇宇一句调侃，姚冠宇在舞台上笑容当场凝固。这一幕发生在 《无限超越班4》的第一期。去年此时，短国顶流柯淳在这档节目里贡献了“被尔冬升骂哭”、“自曝片酬 4 万一天”的名场面。而今年，短国的半壁江山直接组团就来了 —— 姚冠宇、王格格、余茵、吴添豪、甘望星，五位...&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkyNjU5MzI1OA==&amp;mid=2247575387&amp;idx=1&amp;sn=fccd3a54f3e7d3f81ef96f12a6bee598&amp;chksm=c3efbe994106958ec455cb422bdcb78826b1752976ae75b739d8a4f29ae04ad171906c89a898&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>行业动态 · 鲸跃动力获星海图数千万元种子轮投资，用「数据+模型+末端执行」打造开箱即用的Robo Labor丨涌现新项目</title>
+      <link>https://36kr.com/p/3814860909600261?f=rss</link>
+      <guid isPermaLink="false">linggou-extra-36氪--599797722017729330</guid>
+      <pubDate>Tue, 19 May 2026 13:01:00 +0800</pubDate>
       <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 2天前 · X：商汤 SenseTime (@SenseTime_AI)&lt;/p&gt;
-&lt;p&gt;SenseNova近日推出专为信息图表生成设计的增强模型SenseNova-U1-8B-MoT-Infographic。该模型能够根据指令生成多种视觉格式内容，包括海报、图表、食谱卡、明信片以及学术风格的arXiv页面等。在性能方面，模型在BizGenEval（困难版）和IGenBench（Q-ACC）两项基准测试上表现突出，相比其基础U1模型分别提升了6.8分和18.2分。目前，该模型已在Hugging Face平台开源，并提供了超过100个多样化的生成示例，供开发者和研究者参考与试用。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/SenseTime_AI/status/2055315819165597702&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; ·  · 36氪&lt;/p&gt;
+&lt;p&gt;文｜王欣逸
+  编辑｜邱晓芬
+  一句话介绍
+  鲸跃动力成立于2026年，以「数据+模型+末端执行」闭环，提供面向场景、可快速部署的Robo Labor（机器人劳动力），让物理劳动力像AWS算力一样，可订阅、可弹性扩容、开箱即用，替代人类从事高危、繁重、脏乱、重复（Deadly/Difficult/Dirty/Duplicate）的物理作业。
+  融资进展
+  近日，鲸跃动力已完成由星海图独家领投的数千万元种子轮融资，深渡资本担任独家财务顾问。
+  本轮融资将用于团队增长、产品的量产交付、专家技能的研发以及数采运营相关工作。
+  星海图表示：“具身智能的下半场，拼的是‘数据效率×模型泛化×末&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://36kr.com/p/3814860909600261?f=rss&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>行业动态 · Forward Deployed Engineer：AI 时代的新宠岗位，到底干什么？</title>
-      <link>https://x.com/dotey/status/2055307775417139447</link>
-      <guid isPermaLink="false">linggou-cmp738tgu0738slnzxfplh82v</guid>
-      <pubDate>Fri, 15 May 2026 23:22:14 +0800</pubDate>
+      <title>AIGC内容创作 · 番茄小说正推动 AI 动漫上院线，开放头部IP改编权限｜36氪独家</title>
+      <link>https://36kr.com/p/3810598875307780?f=rss</link>
+      <guid isPermaLink="false">linggou-extra-36氪--3067945180649314331</guid>
+      <pubDate>Tue, 19 May 2026 13:01:00 +0800</pubDate>
+      <category>AIGC内容创作</category>
+      <description>&lt;p&gt;&lt;strong&gt;📽️ AIGC 内容创作&lt;/strong&gt; ·  · 36氪&lt;/p&gt;
+&lt;p&gt;作者｜兰杰 李晓霞
+  编辑｜乔芊
+  36氪独家获悉，据多位接近字节跳动人士消息，字节旗下的番茄小说正在推动AI动漫上院线。在这一过程中，会开放番茄小说平台头部IP的改编权限。
+  之于番茄小说，如何更好地挖掘平台上好IP的潜力和商业价值，是一个亟待解决的难题。
+  一方面，以文字形式为载体的IP内容，缺乏统一的视觉形象，使得平台上的IP难以有联名、衍生品等更丰富的变现形式。另一方面，AI漫剧这一新事物迅速发展壮大，其中不乏改编自番茄小说IP的粗制滥造之作。这些内容不但没能延长好IP的生命力，反而形成了一种消耗。此时，通过可登陆院线的影视内容来探索平台IP的更多可能性，不失为一种好的尝试。
+&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://36kr.com/p/3810598875307780?f=rss&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>行业动态 · Agent、多模态、应用、算力一天看尽，峰会亮点在此｜5.20日，来现场一起AI</title>
+      <link>https://36kr.com/p/3814408307711492?f=rss</link>
+      <guid isPermaLink="false">linggou-extra-36氪-4106266058192786568</guid>
+      <pubDate>Tue, 19 May 2026 13:01:00 +0800</pubDate>
       <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 2天前 · X：宝玉 (@dotey)&lt;/p&gt;
-&lt;p&gt;Forward Deployed Engineer（FDE）是AI落地应用的关键角色，负责在客户现场部署和集成AI系统。近期，OpenAI成立独立部署公司，Anthropic与华尔街巨头合作，Google也简化流程大力招聘，显示行业重心正从模型竞赛转向商业落地。FDE工作介于工程师与顾问之间，需写代码、调试并深度理解业务。此岗位为毕业生提供了接触企业级项目的机会，也帮助资深工程师贴近业务需求，成为推动AI创造实际价值的重要力量。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/dotey/status/2055307775417139447&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>行业动态 · 微软研究院发布AI新工具与模型</title>
-      <link>https://x.com/MSFTResearch/status/2055303919497089337</link>
-      <guid isPermaLink="false">linggou-cmp72xh52070qslnz2cdl9apt</guid>
-      <pubDate>Fri, 15 May 2026 23:06:54 +0800</pubDate>
-      <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 2天前 · X：Microsoft Research (@MSFTResearch)&lt;/p&gt;
-&lt;p&gt;微软研究院的新工具、模型、代码库和论文现已发布。
-
-使用AI和智能体？值得关注：
-• MSR AI Frontiers的MagenticLite
-• 智能体化GitHub工作流
-• 验证优先智能体
-• 意义匹配微调
-• AI转型与经济发展&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/MSFTResearch/status/2055303919497089337&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>AIGC内容创作 · 戛纳倒计时 | Kling AI大会主讲阵容揭晓！</title>
-      <link>https://x.com/Kling_ai/status/2055302191129473502</link>
-      <guid isPermaLink="false">linggou-cmp71za2106tqslnzc09muj8y</guid>
-      <pubDate>Fri, 15 May 2026 23:00:02 +0800</pubDate>
-      <category>AIGC内容创作</category>
-      <description>&lt;p&gt;&lt;strong&gt;📽️ AIGC 内容创作&lt;/strong&gt; · 2天前 · X：可灵 Kling AI (@Kling_ai)&lt;/p&gt;
-&lt;p&gt;2026年戛纳电影节Kling AI大会将汇聚三位世界级电影制作人，展示他们运用Kling AI技术创作的标杆作品。中国动画导演魏立将分享AI生成动画《Born of the Tide》；Jon Erwin将解析为Amazon Prime制作的剧集《House of David》；Eekjun Yang则将介绍院线电影《RAPHAEL》的创作过程。三位讲者将深入探讨Kling AI在电影制作中的幕后应用，共同探索AI为影视创作带来的新可能性。活动定于2026年5月18日15：30至17：30，在戛纳影节宫主舞台举行。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/Kling_ai/status/2055302191129473502&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>行业动态 · X平台开源&quot;For You&quot;信息流推荐算法</title>
-      <link>https://x.com/cb_doge/status/2055280665583898691</link>
-      <guid isPermaLink="false">linggou-cmp6yru3g061kslnzz7uthrl7</guid>
-      <pubDate>Fri, 15 May 2026 21:34:30 +0800</pubDate>
-      <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 2天前 · X：cb_doge (@cb_doge)&lt;/p&gt;
-&lt;p&gt;X平台在GitHub开源了其&quot;For You&quot;信息流的最新推荐算法。该算法融合来自已关注账号的内容和通过相似性搜索发现的网络外内容，并利用基于Grok架构的Phoenix Transformer模型进行统一评分。模型通过分析用户近期互动，同时预测点赞、回复、转发等多种互动概率，并综合成最终相关性分数。排序过程包括候选内容收集、上下文信息补充、AI模型评分、多样性调整及垃圾信息过滤等步骤。此次开源提供了完整的可运行管道、预训练模型、内容理解服务及内置广告混合模块，核心计算完全由Transformer模型驱动。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/cb_doge/status/2055280665583898691&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>行业动态 · 飞书开源CLI工具45天获万星，AI操作可见可控引关注</title>
-      <link>https://x.com/AYi_AInotes/status/2055263164145504501</link>
-      <guid isPermaLink="false">linggou-cmp6wqhi205ksslnz4abddcy6</guid>
-      <pubDate>Fri, 15 May 2026 20:24:57 +0800</pubDate>
-      <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 2天前 · X：阿易 AI Notes (@AYi_AInotes)&lt;/p&gt;
-&lt;p&gt;飞书开源命令行工具lark-cli在45天内获得超过1万GitHub star，成为国内首个破万星的办公套件开源项目。该工具允许AI通过命令行直接操作飞书，执行建群、建文档等任务，且每一步操作都可预览、可审查，与云端不可见的MCP模式形成对比。其主干代码已合并10位外部开发者的贡献，而同类产品钉钉和企业微信则为零。这种可见、可控的特性被视为开发者放心将任务交给AI Agent的前提，预示着一句话指令驱动完整项目流程成为可能。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/AYi_AInotes/status/2055263164145504501&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>AIGC内容创作 · Pixverse模板：让你成为全场焦点</title>
-      <link>https://x.com/PixVerse_/status/2055245210184200497</link>
-      <guid isPermaLink="false">linggou-cmp6u4ijo04xmslnze0r0uhb1</guid>
-      <pubDate>Fri, 15 May 2026 19:13:37 +0800</pubDate>
-      <category>AIGC内容创作</category>
-      <description>&lt;p&gt;&lt;strong&gt;📽️ AIGC 内容创作&lt;/strong&gt; · 2天前 · X：PixVerse (@PixVerse_)&lt;/p&gt;
-&lt;p&gt;Pixverse让你成为焦点~
-用Pixverse网页版的音乐会聚光灯模板制作吧！&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/PixVerse_/status/2055245210184200497&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>行业动态 · Anthropic估值与营收飙升</title>
-      <link>https://x.com/kimmonismus/status/2055222524774846576</link>
-      <guid isPermaLink="false">linggou-cmp6r0wgm0497slnz10qneu54</guid>
-      <pubDate>Fri, 15 May 2026 17:43:28 +0800</pubDate>
-      <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 2天前 · X：Kim (@kimmonismus)&lt;/p&gt;
-&lt;p&gt;Anthropic简况：
-
-估值：
-2026年2月：3500亿美元
-2026年5月：9000亿美元
-
-三个月内增长近3倍。
-
-年度经常性收入：
-2025年底：90亿美元
-2026年5月底：450亿美元
-
-五个月内增长近5倍。
-
-天啊。 via FT&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/kimmonismus/status/2055222524774846576&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>AIGC内容创作 · 周星驰也要拍短剧了？《食神》官宣开机</title>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkwNjY3NzI2NA==&amp;mid=2247516148&amp;idx=1&amp;sn=60c3372b327789781dbe585e9f5f6afb&amp;chksm=c158e6f22ccfe3c756d420ff3222ee49d5f91e842eba5e80d8556d3fc1efe760ff15905b8c30&amp;scene=0#rd</link>
-      <guid isPermaLink="false">linggou-extra-短剧自习室-2773184365115531406</guid>
-      <pubDate>Sun, 17 May 2026 10:30:00 +0800</pubDate>
-      <category>AIGC内容创作</category>
-      <description>&lt;p&gt;&lt;strong&gt;📽️ AIGC 内容创作&lt;/strong&gt; · 昨天 10:30 · 短剧自习室&lt;/p&gt;
-&lt;p&gt;一张开机海报震撼了短剧圈。5月31日，横店，《食神》短剧版正式开机。由抖音集团、九五二七剧场联合出品，制作方是打造过电影《我不是药神》的朱氏兄弟，最重磅的，是出品人、监制栏写着同一个名字：周星驰。这是周星驰经典电影第一次被系统性地改编为短剧。此前，打着星爷标签的《金猪玉叶》和《大话大话西游》，用近1...&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkwNjY3NzI2NA==&amp;mid=2247516148&amp;idx=1&amp;sn=60c3372b327789781dbe585e9f5f6afb&amp;chksm=c158e6f22ccfe3c756d420ff3222ee49d5f91e842eba5e80d8556d3fc1efe760ff15905b8c30&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>AIGC内容创作 · 从1.02亿读者到200亿播放，番茄小说如何影响短剧行业格局？</title>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkwNjY3NzI2NA==&amp;mid=2247516132&amp;idx=2&amp;sn=03b3ede1c9648de8ba61f4050fb80aa9&amp;chksm=c1ec61ad41671784f74770c0614d2dd4d1bae9325961ebd3fbdb9e74af1e21bb7d80c23b12a3&amp;scene=0#rd</link>
-      <guid isPermaLink="false">linggou-extra-短剧自习室--3958737697301055125</guid>
-      <pubDate>Sat, 16 May 2026 10:00:00 +0800</pubDate>
-      <category>AIGC内容创作</category>
-      <description>&lt;p&gt;&lt;strong&gt;📽️ AIGC 内容创作&lt;/strong&gt; · 2天前 · 短剧自习室&lt;/p&gt;
-&lt;p&gt;5 月 12 日，抖音集团短剧版权中心在湖南长沙国际会议中心举办首届短剧产业大会，番茄小说总编辑谢思鹏发表主题演讲，全面分享番茄小说作为内容源头的 IP 全链条开发成果与未来布局。他提到：平台正全面推进影视、动画、出版多元改编，2026 年将投入超 20 亿元加码内容生态，推出短剧专项、IP 联合征...&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkwNjY3NzI2NA==&amp;mid=2247516132&amp;idx=2&amp;sn=03b3ede1c9648de8ba61f4050fb80aa9&amp;chksm=c1ec61ad41671784f74770c0614d2dd4d1bae9325961ebd3fbdb9e74af1e21bb7d80c23b12a3&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>AIGC内容创作 · 宫崎骏怒斥AI侮辱动画，行业：真香，提效5倍</title>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkwNjY3NzI2NA==&amp;mid=2247516132&amp;idx=1&amp;sn=041985db1e74798fd8ce916351812ece&amp;chksm=c14474f96421348858090dd0d1d0f1a10075c5a86a853d11ac83d4f0ba562cdf402d32319b11&amp;scene=0#rd</link>
-      <guid isPermaLink="false">linggou-extra-短剧自习室--8533660459672438823</guid>
-      <pubDate>Sat, 16 May 2026 10:00:00 +0800</pubDate>
-      <category>AIGC内容创作</category>
-      <description>&lt;p&gt;&lt;strong&gt;📽️ AIGC 内容创作&lt;/strong&gt; · 2天前 · 短剧自习室&lt;/p&gt;
-&lt;p&gt;宫崎骏”AI是对生命的侮辱“的批判还言犹在耳，但全球动画行业或为了创新，或为了求生，不得不踏上AI化的路程。此前，AI原生动画长片《三星堆：未来往事》正式拿到“龙标”，成为史上首部获批在院线上映的AI动画电影。其超过30%的画面由AI生成，从分镜、背景到部分原画，人工智能深度参与其中。相关海报从AI...&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkwNjY3NzI2NA==&amp;mid=2247516132&amp;idx=1&amp;sn=041985db1e74798fd8ce916351812ece&amp;chksm=c14474f96421348858090dd0d1d0f1a10075c5a86a853d11ac83d4f0ba562cdf402d32319b11&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>AIGC内容创作 · 周报丨6家平台将投入60亿元资金扶持真人短剧；网传快手计划分拆可灵AI</title>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkwNjY3NzI2NA==&amp;mid=2247516125&amp;idx=1&amp;sn=bb38e0f10a430402f96176497c8c5666&amp;chksm=c182276670e070fc9b2c51862b8f2a693418acaa7fbfc15368c8fdf77d8a745b9b8e0650e6b1&amp;scene=0#rd</link>
-      <guid isPermaLink="false">linggou-extra-短剧自习室-5517756838764249192</guid>
-      <pubDate>Fri, 15 May 2026 18:42:00 +0800</pubDate>
-      <category>AIGC内容创作</category>
-      <description>&lt;p&gt;&lt;strong&gt;📽️ AIGC 内容创作&lt;/strong&gt; · 2天前 · 短剧自习室&lt;/p&gt;
-&lt;p&gt;近一周（2026.5.9-2026.5.15）看点：1. “微短剧精品创作传播计划”工作部署推进会召开2. 抖音集团的AI短剧审片标准公开3. 抖音集团短剧版权中心举办首届短剧产业大会4. 抖音集团调整真人短剧自然流量分成5. 红果短剧创作者中心上线「项目撮合」能力6. TikTok短剧4月分账超1...&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkwNjY3NzI2NA==&amp;mid=2247516125&amp;idx=1&amp;sn=bb38e0f10a430402f96176497c8c5666&amp;chksm=c182276670e070fc9b2c51862b8f2a693418acaa7fbfc15368c8fdf77d8a745b9b8e0650e6b1&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>AIGC内容创作 · TikTok短剧4月分账超1亿，AI短剧可获额外奖金、算力补贴</title>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkwNjY3NzI2NA==&amp;mid=2247516102&amp;idx=1&amp;sn=f0b4c123021d62210861b005131772ee&amp;chksm=c165fbea71a99787d8de62d2b510fc91efde9d784dbf754e9ea2e48daccaf8164f9dbf9ca40a&amp;scene=0#rd</link>
-      <guid isPermaLink="false">linggou-extra-短剧自习室--1080696638466059563</guid>
-      <pubDate>Fri, 15 May 2026 16:30:00 +0800</pubDate>
-      <category>AIGC内容创作</category>
-      <description>&lt;p&gt;&lt;strong&gt;📽️ AIGC 内容创作&lt;/strong&gt; · 2天前 · 短剧自习室&lt;/p&gt;
-&lt;p&gt;今日，TikTok发布最新分账战报，4月分成总额突破1500万美元（折合人民币超1亿元）。完整长图在文末。作为对比，2026年第一季度平台总分成为2400万美元，这意味着4月单月的分账规模已超过Q1总量的60%，平台在短剧内容上的投入力度明显加大。在分成机制上，平台继续对独家、新热内容提供额外加倍系...&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkwNjY3NzI2NA==&amp;mid=2247516102&amp;idx=1&amp;sn=f0b4c123021d62210861b005131772ee&amp;chksm=c165fbea71a99787d8de62d2b510fc91efde9d784dbf754e9ea2e48daccaf8164f9dbf9ca40a&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>AIGC内容创作 · Anthropic发布「AI原生创业公司」手册：涵盖全流程四大核心阶段，一人公司法典来了</title>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&amp;mid=2247514910&amp;idx=1&amp;sn=669c7e1e66c120b753d84059f7f79bc5&amp;chksm=cf3f818c83f78d12c42a3c1fb79d613ed41d50931fc06c624e39b1d473edad209e7ebe210514&amp;scene=0#rd</link>
-      <guid isPermaLink="false">linggou-extra-AI寒武纪-1697886688668069208</guid>
-      <pubDate>Mon, 18 May 2026 08:00:00 +0800</pubDate>
-      <category>AIGC内容创作</category>
-      <description>&lt;p&gt;&lt;strong&gt;📽️ AIGC 内容创作&lt;/strong&gt; · 今天 08:00 · AI寒武纪&lt;/p&gt;
-&lt;p&gt;↑阅读之前记得关注+星标⭐️，😄，每天才能第一时间接收到更新  一人公司的概念现在非常火，究竟怎么搞一个AI原生的公司？网上有太多文章和视频了，但信息可能都太分散，也参差不齐，这不系统的干货来了，A厂刚刚发了一个打造AI原生创业公司的手册，你所要的一切都包含在里面了先简单介绍一下这个手册：AI 正...&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&amp;mid=2247514910&amp;idx=1&amp;sn=669c7e1e66c120b753d84059f7f79bc5&amp;chksm=cf3f818c83f78d12c42a3c1fb79d613ed41d50931fc06c624e39b1d473edad209e7ebe210514&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>AIGC内容创作 · Codex隐藏神技：一句提示词自动蒸馏你自己，让日常重复工作全自动化</title>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&amp;mid=2247514902&amp;idx=1&amp;sn=43c3f316283a18121a6127ab97f5f2ad&amp;chksm=cfa6be731f12a787c9a1fd474f0570671e43c01a79b09b18dbc44d4eb1b689ed55d059a380a4&amp;scene=0#rd</link>
-      <guid isPermaLink="false">linggou-extra-AI寒武纪--6572026174294081716</guid>
-      <pubDate>Sun, 17 May 2026 18:53:00 +0800</pubDate>
-      <category>AIGC内容创作</category>
-      <description>&lt;p&gt;&lt;strong&gt;📽️ AIGC 内容创作&lt;/strong&gt; · 今天 18:53 · AI寒武纪&lt;/p&gt;
-&lt;p&gt;↑阅读之前记得关注+星标⭐️，😄，每天才能第一时间接收到更新 太离谱了，发现一个让codex不断自动蒸馏你自己的方法，只需要一句提示词就可以让codex自动化你每天都在重复的工作流，并把这个工作流变为skill，原理其实很简单，就是让Agent观察回看你的历史记忆，会话，操作。提示词：查看我的Ch...&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&amp;mid=2247514902&amp;idx=1&amp;sn=43c3f316283a18121a6127ab97f5f2ad&amp;chksm=cfa6be731f12a787c9a1fd474f0570671e43c01a79b09b18dbc44d4eb1b689ed55d059a380a4&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>AIGC内容创作 · 为创造再一次信仰之跃 ｜AdventureX 2026 开启招募</title>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&amp;mid=2247514895&amp;idx=1&amp;sn=2db32246c7bc0ad4ca41cdd8915ba0ef&amp;chksm=cfe68234b0f9915aed1977605ed462e8625f98ecf9cf0b4561a8f312dcfa738f9c393f25cfb4&amp;scene=0#rd</link>
-      <guid isPermaLink="false">linggou-extra-AI寒武纪-6394696749643486543</guid>
-      <pubDate>Sat, 16 May 2026 23:04:00 +0800</pubDate>
-      <category>AIGC内容创作</category>
-      <description>&lt;p&gt;&lt;strong&gt;📽️ AIGC 内容创作&lt;/strong&gt; · 昨天 23:04 · AI寒武纪&lt;/p&gt;
-&lt;p&gt;阅读原文                                            平台地址：http://www.jintiankansha.me/t/qDdY34IDSH&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&amp;mid=2247514895&amp;idx=1&amp;sn=2db32246c7bc0ad4ca41cdd8915ba0ef&amp;chksm=cfe68234b0f9915aed1977605ed462e8625f98ecf9cf0b4561a8f312dcfa738f9c393f25cfb4&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>AIGC内容创作 · ChatGPT进军个人理财，接入12000家金融机构</title>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&amp;mid=2247514893&amp;idx=1&amp;sn=44acc32fffdec730fcbe4f017cc27afb&amp;chksm=cf60f2568b43cef521fc4182ae962b1d9edb0dbbb487f1fcd702d7de40a9f104fc2d10c2bc11&amp;scene=0#rd</link>
-      <guid isPermaLink="false">linggou-extra-AI寒武纪-4644343105412937405</guid>
-      <pubDate>Sat, 16 May 2026 12:31:00 +0800</pubDate>
-      <category>AIGC内容创作</category>
-      <description>&lt;p&gt;&lt;strong&gt;📽️ AIGC 内容创作&lt;/strong&gt; · 2天前 · AI寒武纪&lt;/p&gt;
-&lt;p&gt;↑阅读之前记得关注+星标⭐️，😄，每天才能第一时间接收到更新 ChatGPT宣布上线个人财务功能，允许用户把银行账户、信用卡、投资账户直接连接进来，然后直接问AI&quot;我这个月钱都花哪了&quot;&quot;怎么多存点钱&quot;这类问题。AI看着你的真实账单给建议，而不是泛泛地说&quot;少点外卖&quot;。这个功能现在只对美国的Pro用户...&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&amp;mid=2247514893&amp;idx=1&amp;sn=44acc32fffdec730fcbe4f017cc27afb&amp;chksm=cf60f2568b43cef521fc4182ae962b1d9edb0dbbb487f1fcd702d7de40a9f104fc2d10c2bc11&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>AIGC内容创作 · 阿里上线Qoder 1.0 ：Agent全自主开发重磅登场</title>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&amp;mid=2247514884&amp;idx=1&amp;sn=be1278b39e7122ace17a2af4d7b7a480&amp;chksm=cf6466de99a154491bb28c1f47e6ad5bdeb460daadc6be554f33c9a9ff618e6301a5ec115cda&amp;scene=0#rd</link>
-      <guid isPermaLink="false">linggou-extra-AI寒武纪-2439470986606733127</guid>
-      <pubDate>Fri, 15 May 2026 16:47:00 +0800</pubDate>
-      <category>AIGC内容创作</category>
-      <description>&lt;p&gt;&lt;strong&gt;📽️ AIGC 内容创作&lt;/strong&gt; · 2天前 · AI寒武纪&lt;/p&gt;
-&lt;p&gt;↑阅读之前记得关注+星标⭐️，😄，每天才能第一时间接收到更新 我平时vibecoding用的还挺杂的，cc，codex， cursor，opencode都有在用，各家都有所长，个人还挺喜欢尝试新东西的，最近我有幸提前拿到了Qoder 1.0的内测资格，Qoder 1.0是大版本升级，对产品进行了重...&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&amp;mid=2247514884&amp;idx=1&amp;sn=be1278b39e7122ace17a2af4d7b7a480&amp;chksm=cf6466de99a154491bb28c1f47e6ad5bdeb460daadc6be554f33c9a9ff618e6301a5ec115cda&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>行业动态 · DataEye短剧&amp;漫剧日榜：三笙万物、六翼、墨凡影业领跑真人剧！一AI剧单日播放近3亿，博物馆题材持续霸榜！</title>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkwMDYxOTYyMQ==&amp;mid=2247517205&amp;idx=1&amp;sn=b59835bdc5215327622a0f3c594a1cb5&amp;chksm=c1a3335ddfe289a8ea026e396085cce23831f6f39ba51dcd4c5f0c6e9e3dbbcb17ac47ee7ff7&amp;scene=0#rd</link>
-      <guid isPermaLink="false">linggou-extra-DataEye短剧观察--8849960684362320789</guid>
-      <pubDate>Sun, 17 May 2026 09:54:00 +0800</pubDate>
-      <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 昨天 09:54 · DataEye短剧观察&lt;/p&gt;
-&lt;p&gt;5月17日，DataEye短剧&amp;amp;漫剧榜单发布。漫剧方面，包括红果漫剧榜、抖音热播榜（综合）以及细分的抖音沙雕漫榜、抖音真人AI榜；真人剧方面，包括微短剧热力榜、红果热榜、抖音端原生热播榜，共计7大榜单合集如下。AI剧/漫剧类榜单（1）抖音端原生漫剧方面漫剧热播榜新增“承制方”一栏，关注公众号...&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkwMDYxOTYyMQ==&amp;mid=2247517205&amp;idx=1&amp;sn=b59835bdc5215327622a0f3c594a1cb5&amp;chksm=c1a3335ddfe289a8ea026e396085cce23831f6f39ba51dcd4c5f0c6e9e3dbbcb17ac47ee7ff7&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>行业动态 · DataEye短剧&amp;漫剧日榜：鲸奇点AI剧逆袭登顶！17K剧场新剧空降红果TOP3；番茄、七猫新剧表现强势，上榜TOP5！</title>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkwMDYxOTYyMQ==&amp;mid=2247517203&amp;idx=1&amp;sn=5a31e6f234f4d44446b82028cfce9df4&amp;chksm=c1e56a2dffc887e29fb123d635f3f971e94450bc7fcd0b6b565e57a7bc7b3f219fc63c6aa50e&amp;scene=0#rd</link>
-      <guid isPermaLink="false">linggou-extra-DataEye短剧观察--3317959338852139005</guid>
-      <pubDate>Sat, 16 May 2026 11:50:00 +0800</pubDate>
-      <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 2天前 · DataEye短剧观察&lt;/p&gt;
-&lt;p&gt;5月16日，DataEye短剧&amp;amp;漫剧榜单发布。漫剧方面，包括红果漫剧榜、抖音热播榜（综合）以及细分的抖音沙雕漫榜、抖音真人AI榜；真人剧方面，包括微短剧热力榜、红果热榜、抖音端原生热播榜，共计7大榜单合集如下。AI剧/漫剧类榜单（1）抖音端原生漫剧方面漫剧热播榜新增“承制方”一栏，关注公众号...&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkwMDYxOTYyMQ==&amp;mid=2247517203&amp;idx=1&amp;sn=5a31e6f234f4d44446b82028cfce9df4&amp;chksm=c1e56a2dffc887e29fb123d635f3f971e94450bc7fcd0b6b565e57a7bc7b3f219fc63c6aa50e&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>行业动态 · 一周行业需求汇总：天桥、点众、麦芽、掌阅、花生、古麦嘉禾、中游在线等企业正在寻求合作！</title>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkwMDYxOTYyMQ==&amp;mid=2247517172&amp;idx=2&amp;sn=7751ba51344b81f648bda31c13d64602&amp;chksm=c120eb9990a36cfb291d91522f62ce1757019eebb4aedb48fc56a011e69da7b3259094526f9b&amp;scene=0#rd</link>
-      <guid isPermaLink="false">linggou-extra-DataEye短剧观察--1745048022835500446</guid>
-      <pubDate>Fri, 15 May 2026 17:37:00 +0800</pubDate>
-      <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 2天前 · DataEye短剧观察&lt;/p&gt;
-&lt;p&gt;为更好服务同行和推进短剧行业发展，DataEye短剧观察每周行业周报将增加【一周短剧行业需求汇总】板块，精选汇总DataEye剧查查小程序社区一周内各已实名认证的短剧同行的国内外对接需求。欢迎各位同行到剧查查小程序【社区】↓↓↓进行企业认证和实名认证，积极发帖！一周短剧行业需求汇总国内需求1、天桥合...&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkwMDYxOTYyMQ==&amp;mid=2247517172&amp;idx=2&amp;sn=7751ba51344b81f648bda31c13d64602&amp;chksm=c120eb9990a36cfb291d91522f62ce1757019eebb4aedb48fc56a011e69da7b3259094526f9b&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>行业动态 · 4月真人短剧：听花岛、秋元影视、花花家、刚刚好影视领跑红果，西安等闲、薪火影业、古麦嘉禾领跑热力值！短暂承压，在播剧仍创新高！</title>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkwMDYxOTYyMQ==&amp;mid=2247517172&amp;idx=1&amp;sn=3d4daa1eeb9c1cc96d36400b25a57629&amp;chksm=c1b01f9900405e304ae4b738a2fe79ed8bd5cd80873701a172184d57bb731e5ceeea76611697&amp;scene=0#rd</link>
-      <guid isPermaLink="false">linggou-extra-DataEye短剧观察--8520116666350086966</guid>
-      <pubDate>Fri, 15 May 2026 17:37:00 +0800</pubDate>
-      <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 2天前 · DataEye短剧观察&lt;/p&gt;
-&lt;p&gt;红果短剧：上新数量遇冷，热度下跌30%（1）在榜剧数量与热度4月，红果短剧在榜剧共370部，较3月减少123部，降幅达25%。从整体热度来看，4月红果短剧总热度达50.76亿，较3月下降近30%。目前，红果生态中，AI短剧对真人短剧的冲击仍在加大，导致存量剧集上榜数与热度大幅下滑。4月，仅有1部红果...&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkwMDYxOTYyMQ==&amp;mid=2247517172&amp;idx=1&amp;sn=3d4daa1eeb9c1cc96d36400b25a57629&amp;chksm=c1b01f9900405e304ae4b738a2fe79ed8bd5cd80873701a172184d57bb731e5ceeea76611697&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>AIGC内容创作 · TikTok短剧4月分成：总分账破1500万美元，AI赛道分成环比增长300%！</title>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyNjU5MzI1OA==&amp;mid=2247575338&amp;idx=1&amp;sn=6dfd67de20767bdf3f6af7fd0549c1d0&amp;chksm=c34d075e4979f77c3274e2e4497436a8329a45137de8cfe08fff9629ab7c46eb372d2b6a7ccf&amp;scene=0#rd</link>
-      <guid isPermaLink="false">linggou-extra-短剧内行人--475895970984388834</guid>
-      <pubDate>Fri, 15 May 2026 16:29:00 +0800</pubDate>
-      <category>AIGC内容创作</category>
-      <description>&lt;p&gt;&lt;strong&gt;📽️ AIGC 内容创作&lt;/strong&gt; · 2天前 · 短剧内行人&lt;/p&gt;
-&lt;p&gt;2026 年 4 月，TikTok 短剧分成总额再冲新高，平台单月分账突破 1500 万美元（折合人民币超 1 亿元），各赛道短剧均表现亮眼。同时，AI 赛道分成环比增长突破 300%，平台还为 AI 短剧提供了额外爆款激励奖金，这份数据背后可见 TikTok 扶持优质短剧内容的投入决心及其全球短剧...&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkyNjU5MzI1OA==&amp;mid=2247575338&amp;idx=1&amp;sn=6dfd67de20767bdf3f6af7fd0549c1d0&amp;chksm=c34d075e4979f77c3274e2e4497436a8329a45137de8cfe08fff9629ab7c46eb372d2b6a7ccf&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>AIGC内容创作 · AI短剧审核标准公开，这些红线绝对不能碰！</title>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyNjU5MzI1OA==&amp;mid=2247575331&amp;idx=1&amp;sn=0202e2af8692d9e3f01c7f7c1a3bee74&amp;chksm=c3cb5619a6025835762ea5fd47a2f72b5183729fcc832b8ebc48ecf884e7d7b6d9d2f377ea5f&amp;scene=0#rd</link>
-      <guid isPermaLink="false">linggou-extra-短剧内行人--8639993139382451132</guid>
-      <pubDate>Fri, 15 May 2026 15:03:00 +0800</pubDate>
-      <category>AIGC内容创作</category>
-      <description>&lt;p&gt;&lt;strong&gt;📽️ AIGC 内容创作&lt;/strong&gt; · 2天前 · 短剧内行人&lt;/p&gt;
-&lt;p&gt;近来，受平台审核趋严的影响，大批 AI 短剧遭遇下架，发行方的投放策略也变得保守，整体投放量下行，4 月的日上新量从千部量级跌至月末仅 350 部左右。从业者时常拔剑四顾心茫然：抖音集团是如何审核 AI 短剧内容的？AI 短剧创作过程中不可碰触的合规底线是什么？应该如何避坑？关于这些问题，短剧内行人...&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkyNjU5MzI1OA==&amp;mid=2247575331&amp;idx=1&amp;sn=0202e2af8692d9e3f01c7f7c1a3bee74&amp;chksm=c3cb5619a6025835762ea5fd47a2f72b5183729fcc832b8ebc48ecf884e7d7b6d9d2f377ea5f&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>AIGC内容创作 · 唐杰深夜发文，AI从工具到劳动力只差这一步</title>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzk3NTQxODIxMQ==&amp;mid=2247533352&amp;idx=1&amp;sn=f2bc4baf70dc09efea73a010db97ec77&amp;chksm=c4c9e524f3be6c321ea3bffd8654208ff2f749d0d6377c1740d6a63d9ee4cdcd25d23e730657#rd</link>
-      <guid isPermaLink="false">linggou-extra-AIGC新智界--6288185061818792624</guid>
-      <pubDate>Fri, 15 May 2026 17:15:00 +0800</pubDate>
-      <category>AIGC内容创作</category>
-      <description>&lt;p&gt;&lt;strong&gt;📽️ AIGC 内容创作&lt;/strong&gt; · 2天前 · AIGC新智界&lt;/p&gt;
-&lt;p&gt;随着黄仁勋踏上前往特朗普的空军一号，智谱股价暴涨36.9%，收报1150港元，创下历史新高。从1月8日上市时的116.20港元发行价算起，智谱的股价在短短四个多月内增长了900%。而就在暴涨之前不到24小时里，智谱创始人唐杰深夜在X上发布了一条推文，大谈了自己对整个AI产业的思考。整条推文的核心是“...&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=Mzk3NTQxODIxMQ==&amp;mid=2247533352&amp;idx=1&amp;sn=f2bc4baf70dc09efea73a010db97ec77&amp;chksm=c4c9e524f3be6c321ea3bffd8654208ff2f749d0d6377c1740d6a63d9ee4cdcd25d23e730657#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; ·  · 36氪&lt;/p&gt;
+&lt;p&gt;进入2026，AI愈发狂飙突进。围观体验之余，人人不免在心中自问：
+  朋友圈刷屏的“龙虾”、Harness等AI新事物，跟我到底有什么关系？真的有必要跟吗？
+  AI创业、AI融资如火如荼，属于我的机会又在哪里？
+  别人已经在用AI做视频、写代码、跑项目，我是不是已经慢了一拍？
+  ……
+  到最后，几乎所有问题都会汇成同一个问题：我，到底该如何用AI？
+  如果你对这些问题还很模糊，不妨来第四届中国AIGC产业峰会走一趟——一天时间，把这一年AI产业最值得关注的人、事、判断，一次性讲清楚。
+  先提前剧透一波。
+  18位重磅嘉宾，1场Agent主题圆桌，1份年度榜单，1张全景图谱——所&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://36kr.com/p/3814408307711492?f=rss&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>行业动态 · 对话万成云商：发文章≠GEO优化，大模型不是喂什么就推什么</title>
       <link>https://36kr.com/p/3814337101111044?f=rss</link>
-      <guid isPermaLink="false">linggou-extra-36氪--148278804435580044</guid>
-      <pubDate>Mon, 18 May 2026 13:06:02 +0800</pubDate>
+      <guid isPermaLink="false">linggou-extra-36氪--1611413909783105299</guid>
+      <pubDate>Tue, 19 May 2026 13:01:00 +0800</pubDate>
       <category>行业动态</category>
       <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; ·  · 36氪&lt;/p&gt;
 &lt;p&gt;“帮我搭配一套适合海边度假的衣服。”
@@ -973,107 +445,54 @@ HappyHorse现已登陆Model Studio。从原始提示词到1080p多镜头现实�
 &lt;p&gt;&lt;a href=&quot;https://36kr.com/p/3814337101111044?f=rss&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>行业动态 · 8点1氪丨多款燃油车大降价，降幅最高近30%；蜜雪冰城上线黄仁勋同款饮品；“巴菲特慈善午餐”回归，获拍900万美元</title>
-      <link>https://36kr.com/p/3814030630084354?f=rss</link>
-      <guid isPermaLink="false">linggou-extra-36氪-8263988665608635199</guid>
-      <pubDate>Mon, 18 May 2026 13:06:02 +0800</pubDate>
-      <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; ·  · 36氪&lt;/p&gt;
-&lt;p&gt;今日热点导览
-  
-   张雪机车，再夺冠
-   长安汽车否认与千里科技合作
-   深圳发布2026年住房发展计划
-   贵州茅台宣布公斤茅台等四款产品提价
-   法拉第未来宣布获得2500万美元融资
-   三星电子会长就公司“内部问题”公开道歉
-  
-  TOP 3 大新闻
-  多款燃油车大降价，降幅最高近30%
-  日前，长安汽车旗下长安逸动经典版正式上市，新车售价6.49万元，限时享23000元购车现金优惠；相较于指导价8.79万元降幅达到26%。该款车型还享有限时的保养礼和流量礼。
-  其实，近期多家燃油车都开启了降价模式：起亚新狮铂拓界一口价10.99万元，较指导价15.49万元降2&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://36kr.com/p/3814030630084354?f=rss&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>AIGC内容创作 · 又诞生一位千亿女富豪</title>
-      <link>https://36kr.com/p/3813040859258373?f=rss</link>
-      <guid isPermaLink="false">linggou-extra-36氪-8952793951445847312</guid>
-      <pubDate>Mon, 18 May 2026 13:06:02 +0800</pubDate>
+      <title>AIGC内容创作 · 取消AI仿真人保底？红果短剧回应</title>
+      <link>https://36kr.com/newsflashes/3815722683227655?f=rss</link>
+      <guid isPermaLink="false">linggou-extra-36氪-6704552102955866347</guid>
+      <pubDate>Tue, 19 May 2026 13:01:00 +0800</pubDate>
       <category>AIGC内容创作</category>
       <description>&lt;p&gt;&lt;strong&gt;📽️ AIGC 内容创作&lt;/strong&gt; ·  · 36氪&lt;/p&gt;
-&lt;p&gt;示意图
-  自4月初以来，立讯精密股价上涨超过55%。
-  5月11日，立讯精密市值创下历史新高，达到了5542亿人民币。立讯精密掌舵者王来春持股18.75%，身价也突破了千亿人民币，成为国内白手起家的又一位千亿女富豪。
-  如果说4月以来的涨幅，是因为立讯精密“站在光里”，短期股价大涨或许与一则收购公告有关。
-  5月10日，公告显示立讯精密拟通过收购京西智行集团全部股权，间接拿下京西国际约59.50%股份，有望成为其最终控股股东。这是立讯精密继两年前收购德国莱尼后，在汽车领域的又一关键资本动作。
-  郭台铭门 徒
-  立讯精密的故事通常被描述为“打工妹”逆袭成为女富豪的爽文剧本。实际上，只&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://36kr.com/p/3813040859258373?f=rss&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;据新京报报道，5月19日，针对“红果短剧取消AI仿真人剧本保底、全面转向纯分成”此类消息，红果短剧表示，该说法不实，强调部分剧本依然保留保底政策。（界面）&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://36kr.com/newsflashes/3815722683227655?f=rss&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>行业动态 · 6.4k Stars！用Claude Code写论文的全套流水线，有人打包开源了</title>
-      <link>https://36kr.com/p/3812800346742274?f=rss</link>
-      <guid isPermaLink="false">linggou-extra-36氪-6148831067465242002</guid>
-      <pubDate>Mon, 18 May 2026 13:06:02 +0800</pubDate>
+      <title>行业动态 · 腾讯微信AI团队拿下ICASSP最佳工业论文奖</title>
+      <link>https://36kr.com/newsflashes/3815722275954433?f=rss</link>
+      <guid isPermaLink="false">linggou-extra-36氪-7246885152631425863</guid>
+      <pubDate>Tue, 19 May 2026 13:01:00 +0800</pubDate>
       <category>行业动态</category>
       <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; ·  · 36氪&lt;/p&gt;
-&lt;p&gt;听雨 发自 凹非寺量子位 | 公众号 QbitAI
-  用Claude Code写论文的一整套流水线，有人打包开源出来了。
-  完全戳中了学生党的痛点，github星标直达6.4k。
-  
-  academic-research-skills
-  项目名叫academic-research-skills（以下简称ARS），是一套Claude Code技能包。
-  里面涵盖4个skill，分别对应论文的研究、写作、审稿、定稿。
-  只需两行命令安装，直接一条龙串起整套学术研究流水线。
-  
-  academic-research-skills
-  只能说，我读研的时候怎么没碰到这种好东西呢…
- &lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://36kr.com/p/3812800346742274?f=rss&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;36氪获悉，5月4日-8日，IEEE信号处理学会旗舰国际会议ICASSP 2026在西班牙巴塞罗那举行。腾讯微信AI团队（模式识别中心）凭借论文 Less Redundancy: Boosting Practicality of Vision Language Model in Walking Assistants，获评本届Best Industry Paper Award（最佳工业论文奖）。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://36kr.com/newsflashes/3815722275954433?f=rss&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>行业动态 · 36氪首发 | 宠物健康大模型公司连融两轮，软硬一体化布局，已服务超200家宠物医院</title>
-      <link>https://36kr.com/p/3812788568907520?f=rss</link>
-      <guid isPermaLink="false">linggou-extra-36氪-5545539558764915702</guid>
-      <pubDate>Mon, 18 May 2026 13:06:02 +0800</pubDate>
+      <title>行业动态 · 报告：全球电商流量前三，AliExpress、Temu占两席</title>
+      <link>https://36kr.com/newsflashes/3815718846160647?f=rss</link>
+      <guid isPermaLink="false">linggou-extra-36氪--2807031924710166759</guid>
+      <pubDate>Tue, 19 May 2026 13:01:00 +0800</pubDate>
       <category>行业动态</category>
       <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; ·  · 36氪&lt;/p&gt;
-&lt;p&gt;作者&amp;nbsp;|&amp;nbsp;乔钰杰
-  编辑&amp;nbsp;|&amp;nbsp;袁斯来
-  硬氪获悉，宠物大模型健康公司重庆绮算法科技有限公司（以下简称“绮算法”）、智谱“Z计划”生态企业，近日完成数千万元融资，投资方为启赋资本与聚恒创投。本轮资金将主要用于产品迭代、模型能力深化及市场拓展。
-  绮算法成立于2022年7月，是一家聚焦宠物健康领域的大模型科技公司。依托多模态大模型能力，公司已打造一个融合线上线下、软硬件协同的宠物健康品牌。
-  绮算法创始人陈立毕业于英国国王学院，为Qlalgorithm Lab研究员，同时也是连续创业者；技术合伙人刘煜东为宾夕法尼亚大学博士，长期从事AI医疗方向研究；&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://36kr.com/p/3812788568907520?f=rss&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;36氪获悉，据We Are Social最新发布的全球电商网站流量数据（2025年12月至2026年2月），Temu月访问量13.4亿次位居全球第二，仅次于亚马逊；速卖通AliExpress位列第三。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://36kr.com/newsflashes/3815718846160647?f=rss&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>行业动态 · 新东方在珠海成立文旅投资公司，注册资本2亿</title>
-      <link>https://36kr.com/newsflashes/3814293064490757?f=rss</link>
-      <guid isPermaLink="false">linggou-extra-36氪--7872812301574928928</guid>
-      <pubDate>Mon, 18 May 2026 13:06:02 +0800</pubDate>
+      <title>行业动态 · 抖音商城618前三日成交额破千万元，直播间数同比增长116%</title>
+      <link>https://36kr.com/newsflashes/3815712348724999?f=rss</link>
+      <guid isPermaLink="false">linggou-extra-36氪-841639293054244391</guid>
+      <pubDate>Tue, 19 May 2026 13:01:00 +0800</pubDate>
       <category>行业动态</category>
       <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; ·  · 36氪&lt;/p&gt;
-&lt;p&gt;36氪获悉，天眼查App显示，近日，新东方（珠海）文旅投资有限公司成立，法定代表人为杨志辉，注册资本2亿人民币，经营范围为以自有资金从事投资活动、信息咨询服务，由新东方旗下北京新东方文旅有限公司全资持股。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://36kr.com/newsflashes/3814293064490757?f=rss&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;36氪获悉，5月19日，2026抖音电商618公布数据显示，大促前三日（5月15日至5月17日），成交额破亿元的品牌数量同比增长89%，超100万新达人首次参与618大促实现成交额增长，消费券带动成交额破千万元商家数量同比增长338%。据了解，在内容场方面，前三日成交额破千万元的直播间数量同比增长116%，通过短视频实现成交额超百万元的商家数量同比增长56%。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://36kr.com/newsflashes/3815712348724999?f=rss&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>技术工具 · 如祺出行：AI数据资产已覆盖标注数据、行为数据、合成数据及多模态训练数据集四大类</title>
-      <link>https://36kr.com/newsflashes/3814282256588293?f=rss</link>
-      <guid isPermaLink="false">linggou-extra-36氪--8082825880766566704</guid>
-      <pubDate>Mon, 18 May 2026 13:06:02 +0800</pubDate>
-      <category>技术工具</category>
-      <description>&lt;p&gt;&lt;strong&gt;🛠️ 技术工具&lt;/strong&gt; ·  · 36氪&lt;/p&gt;
-&lt;p&gt;36氪获悉，5月18日，如祺出行旗下数据业务板块（简称“如祺数据”）首次向外界完整披露其AI数据资产版图。官方信息显示，该资产已覆盖标注数据、行为数据、合成数据及多模态训练数据集四大类。如祺出行称，公司基于真实出行场景长期积累的数据，除了支持自动驾驶等行业外，还将支持具身智能、世界模型等面向真实物理世界的AI技术发展。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://36kr.com/newsflashes/3814282256588293?f=rss&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>行业动态 · 上海市市长龚正：更大力度赋能集成电路、生物医药、人工智能等十大千亿级硬核产业集群发展</title>
-      <link>https://36kr.com/newsflashes/3814225804451334?f=rss</link>
-      <guid isPermaLink="false">linggou-extra-36氪-412528534251948777</guid>
-      <pubDate>Mon, 18 May 2026 13:06:02 +0800</pubDate>
+      <title>行业动态 · 柯马签署具有约束力的协议，全面收购巴西仓储物流自动化企业 Invent</title>
+      <link>https://36kr.com/newsflashes/3815701662703363?f=rss</link>
+      <guid isPermaLink="false">linggou-extra-36氪--2095847286443964594</guid>
+      <pubDate>Tue, 19 May 2026 13:01:00 +0800</pubDate>
       <category>行业动态</category>
       <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; ·  · 36氪&lt;/p&gt;
-&lt;p&gt;在“开局起步‘十五五’”上海专场新闻发布会上，上海市市长龚正提出，面向“十五五”，要深入推动科技创新、政府职能转变等改革有机衔接，持续推进资金跨境、国际人才引进等要素市场化配置关键环节攻坚突破，加快探索大宗商品贸易、高端航运服务等创新制度安排，更大力度赋能集成电路、生物医药、人工智能等十大千亿级硬核产业集群发展。特别是要用好浦东新区法规立法授权，以法治更好助力浦东大胆试、大胆闯、自主改。（财联社）&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://36kr.com/newsflashes/3814225804451334?f=rss&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;36氪获悉，柯马今日宣布，已通过签署具有约束力的协议，收购巴西内部物流与仓储自动化解决方案公司Invent Smart Intralogistics Solutions（以下简称“Invent”）的全部股权。交易完成后，Invent将被整合至柯马生态体系，凭借其基于AI的软件化内部物流解决方案能力，为柯马在内部物流领域补充技术专长，并与欧导形成协同效应。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://36kr.com/newsflashes/3815701662703363?f=rss&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
