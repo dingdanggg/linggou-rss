@@ -5,939 +5,467 @@
     <link>https://dingdanggg.github.io/linggou-rss</link>
     <description>灵构视角 AI 资讯 · 3D资产/AIGC影视/游戏/XR/社媒运营</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 20 May 2026 13:05:09 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 13:09:11 +0800</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://dingdanggg.github.io/linggou-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>🏗️ 灵构视角 · 05月20日 · 共54条</title>
+      <title>🏗️ 灵构视角 · 05月21日 · 共23条</title>
       <link>https://dingdanggg.github.io/linggou-rss</link>
-      <guid isPermaLink="false">linggou-digest-2026052013</guid>
-      <pubDate>Wed, 20 May 2026 13:05:09 +0800</pubDate>
+      <guid isPermaLink="false">linggou-digest-2026052113</guid>
+      <pubDate>Thu, 21 May 2026 13:09:11 +0800</pubDate>
       <description>&lt;h2&gt;🏗️ 灵构视角&lt;/h2&gt;
-&lt;p&gt;&lt;small&gt;来源：X：Gemini (@GeminiApp)(6条)、36氪(5条)、Google Developers Blog（RSS）(4条)、IT之家（RSS）(3条)、X：Google DeepMind (@GoogleDeepMind)(3条)、Google Blog：AI（RSS）(3条)、X：OpenAI (@OpenAI)(2条)、X：Google AI (@GoogleAI)(2条)、X：Kim (@kimmonismus)(2条)、短剧自习室(2条)、AI寒武纪(2条)、X：可灵 Kling AI (@Kling_ai)(1条)、X：Greg Brockman (@gdb)(1条)、Qwen：Blog Retrieval（API）(1条)、Claude：Blog（网页）(1条)、X：Ethan Mollick (@emollick)(1条)、X：Sundar Pichai (@sundarpichai)(1条)、Hugging Face：Blog（RSS）(1条)、Google Research：Blog（网页）(1条)、X：Berry Xia (@berryxia)(1条)、X：Luma AI (@LumaLabsAI)(1条)、X：Yuchen Jin (@Yuchenj_UW)(1条)、The Decoder：AI News（RSS）(1条)、X：OpenRouter (@OpenRouter)(1条)、X：Claude Devs (@ClaudeDevs)(1条)、X：百度 Baidu (@Baidu_Inc)(1条)、Cloudflare Blog(1条)、Hacker News：AI 热帖(1条)、OpenAI：官网动态（RSS · 排除企业/客户案例）(1条)、短剧内行人(1条)、短剧新势力(1条)&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;来源：36氪(3条)、X：商汤 SenseTime (@SenseTime_AI)(2条)、X：PixVerse (@PixVerse_)(2条)、X：可灵 Kling AI (@Kling_ai)(1条)、X：Elon Musk (@elonmusk, xAI)(1条)、TechCrunch：AI（RSS）(1条)、X：Google AI for Developers (@googleaidevs)(1条)、X：Rohan Paul (@rohanpaul_ai)(1条)、X：MiniMax (@MiniMax_AI)(1条)、X：Perplexity (@perplexity_ai)(1条)、X：OpenRouter (@OpenRouter)(1条)、X：阿里云 / Alibaba Cloud (@alibaba_cloud)(1条)、X：opencode (@opencode)(1条)、DataGuidance：Artificial Intelligence（网页）(1条)、X：Vista (@vista8)(1条)、短剧自习室(1条)、AI寒武纪(1条)、AIGC新智界(1条)、短剧新势力(1条)&lt;/small&gt;&lt;/p&gt;
 &lt;h3&gt;📽️ AIGC 内容创作&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;1. Kling AI推出全球首个原生4K视频生成模型&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：可灵 Kling AI (@Kling_ai) · 今天 12:09&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;4月23日，Kling AI正式推出全球首个原生4K视频生成模型，专为专业内容创作设计。该功能支持一键生成真4K画质视频，显著提升画面细节与制作效率。模型已获得好莱坞团队、动画工作室等多方采用。好莱坞制片人指出，这是其工作流中首个使用的原生4K基础模型；Wonder Studios强调，原生4K从底层生成避免了传统放大技术的角色变形问题，保持了画面一致性；动画导演则认为，该模型在保留艺术色调与复杂特效纹理方面优于同类产品。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/Kling_ai/status/2056950317712101599&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1. 首部100%AI生成电影亮相戛纳，剑指2026院线&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：可灵 Kling AI (@Kling_ai) · 今天 11:00&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;AI电影项目RAPHAEL在戛纳亮相。该片由Mateo AI Studio与韩国MBC C&amp;I的AI内容实验室联合开发，全程使用Kling AI视频模型进行制作，旨在实现独特的视觉效果与差异化的观影体验。项目计划于2026年登陆院线，其大规模制作旨在证明纯AI电影制作的工业可行性，标志着AI原生院线电影新趋势的开端。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/Kling_ai/status/2057295321831539054&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;2. Gemini Omni发布：物理推理与多模态生成新突破&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Sundar Pichai (@sundarpichai) · 今天 03:19&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;Gemini Omni不仅能构建逼真的场景，还能推理接下来应该发生什么。它结合了对物理的直观理解与Gemini在历史、科学和文化背景方面的知识。
-今日起，通过@Geminiapp + Google Flow和@YouTube Shorts，向全球Google AI Plus、Pro和Ultra订阅用户推出视频生成功能。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/sundarpichai/status/2056816915717443862&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2. OpenRouter自动路由缓存机制说明&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：OpenRouter (@OpenRouter) · 今天 23:56&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;提示💡 你无需担心自动路由（以及所有单独模型）的缓存未命中问题
+OpenRouter会将你的会话固定在一个模型/提供商上，直到缓存过期&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/OpenRouter/status/2057128446300737702&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;3. Gemini for Science：AI助力科学突破&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Google DeepMind (@GoogleDeepMind) · 今天 02:47&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;我们希望借助AI帮助科学家发现下一个重大突破。
-
-Gemini for Science是我们全新的实验性工具套件，旨在帮助他们探索更多假设、大规模验证工作、轻松解析文献等。🧵&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/GoogleDeepMind/status/2056808869242826957&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3. AI视频一致性始于动作之前&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：PixVerse (@PixVerse_) · 今天 23:00&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;AI视频的一致性始于动作之前。
+对于这个15秒的烹饪短片，我们首先在PixVerse中生成了一个清晰的角色分镜。
+然后将其用作视频的参考。
+相同的角色。清晰的故事节点。
+镜头指导。动作细节。
+转发 + 关注 + 回复 = 分镜工作流&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/PixVerse_/status/2057114262145818752&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;4. NVIDIA开源首个4-bit超长视频生成基础设施&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Berry Xia (@berryxia) · 今天 00:02&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;NVIDIA研究员开源LongLive 2.0，这是首个支持4-bit量化、覆盖训练与推理全流程的端到端长视频生成基础设施。其核心技术包括FP4量化与并行加速，在5B模型上实现45.7 FPS的生成速度。该框架支持真实视频训练、蒸馏、多镜头生成、序列并行、KV缓存优化及异步解码部署，旨在解决以往长视频生成速度慢或仅限短片的瓶颈。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/berryxia/status/2056767536033894825&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;4. Prompt驱动AI生成超真实足球自拍视频&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：PixVerse (@PixVerse_) · 今天 15:40&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;这条推文展示了一个用于在PixVerse平台生成视频的复杂提示词。核心目标是制作一段在大型体育场内，五位朋友进行超真实智能手机自拍风格的视频。提示词的关键在于，它通过极其详细的设定来确保生成内容的连贯性和真实感：包括对五个角色外貌的严格一致性要求、具体的球场环境、模拟真实手机拍摄的镜头运动（如抖动、失焦）以及一系列自然的动作序列。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/PixVerse_/status/2057003487716876505&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;5. 快讯 | 字节跳动将推出Seedance 2.1，正面刚Veo 4？&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;短剧自习室 · 今天 23:08&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;Pandaily今日报道称，据知情人士透露，字节跳动正在准备发布新版本的AI视频生成模型Seedance 2.1，并强调“推出即将到来”。截至发稿前，字节跳动尚未宣布正式发布日期。报道还表示，字节跳动计划将Seedance 2.1集成到其内容创作工具套件中，包括剪映。（相关截图）据悉，该版本在生成质...&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkwNjY3NzI2NA==&amp;mid=2247516309&amp;idx=1&amp;sn=40c3f4f98c686b6f2adb9e0bc15987d5&amp;chksm=c157a6c6fc5817f859704810fd3a449260eb5f061a583947d6606d981747d755edfb247a414f&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;5. 中专生手搓的《丧尸清道夫》，凭什么震撼好莱坞大佬？&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;短剧自习室 · 今天 19:29&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;上周，抖音博主@Mx-Shell 制作的AI短片《丧尸清道夫》火遍全网。背后没有工业化团队，而是一个云南中专生靠一台电脑，花了10天时间、3000块钱做出来，效果好到让好莱坞大佬到处寻人，试图高薪聘请。截至发稿前，这部3分33秒的AI短片累计点赞量374.8万，拿下136.9万转发、5.3万评论、4...&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkwNjY3NzI2NA==&amp;mid=2247516366&amp;idx=1&amp;sn=f74bfbc7913bc2eccab802e3670d8b9c&amp;chksm=c1e436968a582467a369be3902d30564222485d1bf9e69c6323445878a29a8e97d33d30651bd&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;6. 快手8亿现金砸向短漫剧，意味着什么？&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;短剧自习室 · 今天 18:36&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;5月19日，“热AI驱动”2026快手磁力引擎内容消费商业大会在长沙启幕，共探行业风向，共享内容价值，共启全新商业序章。大会上，快手磁力引擎内容消费、流量与搜索业务负责人孔慧指出，AI的爆发对内容行业进行了“结构性重塑”。她分享了一组关键数据：截至2026年4月，快手短剧内容日均曝光规模达1.29亿...&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkwNjY3NzI2NA==&amp;mid=2247516302&amp;idx=1&amp;sn=2fe44c7e7ea84e82e576f15c5b46040a&amp;chksm=c1bc3d433432e1cf5964018b43335289689491502d88f5067ae889e77e4c6ed2b3216c116433&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;6. 重磅！刚刚OpenAI宣布通用模型解决困扰人类80年的单位距离问题，彻底震惊整个数学界&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;AI寒武纪 · 今天 07:00&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;↑阅读之前记得关注+星标⭐️，😄，每天才能第一时间接收到更新 OpenAI宣布AI首次自主攻克顶级数学开放问题，连证明思路都让数学家意想不到一个困扰数学界将近80年的问题，被AI解决了。而且是自主解决的，没有任何专门为这个问题设计的系统，也没有专门的数学训练。这个问题叫做平面单位距离问题，由匈牙利...&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&amp;mid=2247514989&amp;idx=1&amp;sn=5829826d64ba9e734076ab39caecb22d&amp;chksm=cfa79b6638fb233e5d2f5bdaa03cca978787be664cfc1f91eb656a8d06148d508fa2a6ba2b43&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;7. 突发！刚刚Andrej Karpathy宣布加入Anthropic&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;AI寒武纪 · 今天 23:27&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;AK大神刚刚宣布加入A厂，投身一线研发工作，自己的教育公司估计会暂停以后估计会有段时间看不到AK的推文了，其实AK之前有表示过自己脱离AI一线比较久了，AI发展的太快，快到他自己都焦虑，怕跟不上前沿，去年12月A厂的opus4.5对AK的冲击不小，彻底改变了他过去几十年的编程习惯，CC创始人已经表示...&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&amp;mid=2247514952&amp;idx=1&amp;sn=0441a8f3107251ff5e1175237eabd123&amp;chksm=cfc6a69921b969485b2ef675c772389ae00aa82705d3c9d8bc33bb2aa3856a04a7b238b97891&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;8. 大厂代码库几百万行，Claude Code怎么跑起来的？Anthropic首次公开全套打法&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;AI寒武纪 · 今天 13:38&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;↑阅读之前记得关注+星标⭐️，😄，每天才能第一时间接收到更新  Claude Code正在被部署进数百万行代码的单体仓库、运行了数十年的遗留系统、跨几十个代码库的分布式架构，以及拥有数千名开发者的大型组织。Anthropic刚刚发布了一篇面向企业规模部署的系列文章首篇，系统性地总结了这些场景下的最...&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&amp;mid=2247514948&amp;idx=1&amp;sn=d3128948dad7db3c03ab12fc965dafaf&amp;chksm=cf1b63653cb0277f03dcbb1a062e3120f5701b311cf6ed730ebaf2e2fcb47813710542f8ba77&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;9. 抖音集团短剧版权中心：真人剧本合作政策发布，保底&amp;激励可叠加享受&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;短剧内行人 · 今天 19:47&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;平台地址：http://www.jintiankansha.me/t/w00nLfylql&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkyNjU5MzI1OA==&amp;mid=2247575427&amp;idx=1&amp;sn=83f8154004b5237cb8cd804ed19c3798&amp;chksm=c336d730bdc8dbb312a54787e16bb404f49dd2afe2a6ea5abdd63e59826a4fb3912949d4192d&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;10. Seedance 2.1即将推出？接近字节跳动人士：不属实&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;36氪 · &lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;日前有市场消息称，字节跳动准备推出其AI视频生成模型Seedance 2.0的升级版本Seedance 2.1，而新模型的生成质量预计提升约20%。5月20日，接近字节跳动人士表示，市场上关于Seedance2.1即将发布的传言不属实。今年2月，字节跳动正式推出多模态AI视频生成模型Seedance 2.0，该模型支持文本、图片、音频、视频多形式混合输入，一经发布便引发业内高度关注。（每经网）&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://36kr.com/newsflashes/3817085893788546?f=rss&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;h3&gt;🛠️ 技术工具&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;1. Qwen3.7：智能体前沿&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;Qwen：Blog Retrieval（API） · 今天 10:00&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;Qwen Studio推出Qwen3.7模型，提供覆盖聊天机器人、图像与视频理解、图像生成、文档处理、网页搜索集成、工具调用及工件生成等功能。该模型整合了当前AI智能体的关键能力，旨在推动多模态交互与实际任务执行向更综合、自主的方向发展。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://qwen.ai/blog?id=qwen3.7&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;2. ChatGPT图像生成周使用量突破15亿次&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：OpenAI (@OpenAI) · 今天 05:27&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;人们每周在ChatGPT中生成超过15亿张图像。
-
-研究员 @kenjihata 与产品负责人 @adele__li 及主持人 @AndrewMayne 一起，探讨自 Images 2.0 发布以来出现的新用例和趋势。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/OpenAI/status/2056849157860831239&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;3. 创新一周年：庆祝Google Cloud x NVIDIA开发者社区达到10万会员&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;Google Developers Blog（RSS） · 今天 05:25&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;Google Cloud与NVIDIA开发者社区迎来成立一周年，会员规模突破10万。社区为开发者提供先进AI基础设施与资源支持，包括LLM优化、GPU加速数据分析等专项学习路径及专家网络研讨会。第二年计划将进一步扩展，推出实践实验室、工程活动及聚焦代理式AI增长的专项内容。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://developers.googleblog.com/one-year-of-innovation-celebrating-100k-members-in-the-google-cloud-x-nvidia-developer-community&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;4. Gemini 3.5 Flash快速构建互动游戏&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Gemini (@GeminiApp) · 今天 04:09&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;使用 Gemini 3.5 Flash 构建你的第一款游戏。
-无需复杂的3D建模，即可将日常物品直接转化为互动的数字体验。从一个 Nano Banana 提示开始，在 Canvas 中将你的图像变成游戏，并优化你的愿景以获得最佳游戏体验。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/GeminiApp/status/2056829734181585038&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;5. Google Tensor ML SDK 测试版发布&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;Google Developers Blog（RSS） · 今天 03:25&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;Google Tensor ML SDK 进入测试版，支持开发者直接在 Pixel 10 设备的 TPU 上构建和部署高性能机器学习模型。该 SDK 集成边缘部署框架 LiteRT，提供统一工作流，可高效转换、编译并运行 PyTorch 或 TFLite 模型，并具备稳定回退机制。此外，新推出的模型库包含超过 100 个经典及生成式 AI 模型（如 Gemma 3），支持低延迟、注重隐私的语音识别、计算机视觉与文本生成等功能。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://developers.googleblog.com/google-tensor-sdk-beta-with-litert&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;6. Gemini Omni：迈向AGI的世界模型&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Kim (@kimmonismus) · 今天 02:23&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;真正的&quot;哇&quot;时刻是 Gemini Omni。一个迈向 AGI 的世界模型。
-
-它可以从任何输入创建任何内容。这太疯狂了。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/kimmonismus/status/2056802929957568881&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;7. Gemini Omni发布，迈向AGI新进展&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Kim (@kimmonismus) · 今天 01:17&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&quot;迈向AGI的进展&quot;：Gemini Omni
-
-- 世界模型
--Gemini Omni官方发布！！
-
-它可以从任何输入创建任何内容！！！&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/kimmonismus/status/2056786433458000041&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;8. 地平线开源 HoloMotion-1 4 亿参数机器人小脑大模型，可实现舞蹈、健身、搬箱子等动作&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;IT之家（RSS） · 今天 16:08&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;地平线机器人实验室发布了其开源的人形机器人全身控制模型 HoloMotion-1。这是一个拥有 4 亿参数的&quot;小脑&quot;大模型，通过 MoE 稀疏激活与 KV-cache 推理机制，在端侧实现了约 300FPS 的实时推理能力。该模型利用互联网视频、光学动捕、VR 遥操作等多种来源的动作数据进行训练，并在真实机器人上成功展示了舞蹈、爬行、健身、搬箱子等复杂动作的零样本迁移能力。相关代码与技术报告已公开。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.ithome.com/0/952/354.htm&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;7. 大厂HR：AI时代，我们招什么人？&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;AIGC新智界 · 今天 17:17&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;简历上写“会用AI”，已经过时了。定焦One（dingjiaoone）原创作者 | 李梦冉 王璐 王汉星 雷晶 金玙璠编辑 | 金玙璠如果你最近在找工作，或者打算跳槽，大概率会发现：现在大厂的招聘JD里，AI的含量高得吓人。两年前，如果你的简历上写着“熟练使用ChatGPT”，HR可能还会多看两眼，...&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=Mzk3NTQxODIxMQ==&amp;mid=2247533360&amp;idx=1&amp;sn=aa5d12286dbc12d775c88d340b0537be&amp;chksm=c4c9e53cf3be6c2af7c9178e86a8ed93b3fb7f94fa05c234665d3ea118d6dbaeb1a2b637df4a#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
 &lt;h3&gt;📊 行业动态&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;1. OpenAI向所有YC创业公司提供200万美元API投资&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Greg Brockman (@gdb) · 今天 12:01&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;OpenAI宣布向Y Combinator当前批次的每家创业公司提供价值200万美元的API信用额度投资，以换取股权。此举旨在为初创公司提供AI算力资源，支持下一代创新。这让人联想到Sam Altman在YC合伙人时期，Yuri Milner向每家创业公司提供投资的先例。OpenAI希望通过此举释放创业者潜力，推动AI应用创新。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/gdb/status/2056948285038887255&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1. 商汤连续十年领跑中国计算机视觉市场&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：商汤 SenseTime (@SenseTime_AI) · 今天 10:36&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;商汤科技被IDC连续十年评为中国计算机视觉市场第一。其关键驱动因素包括：主导推进CV 2.0架构演进，原生嵌入生成式AI能力；海外市场扩展至12个国际区域，服务超500家企业客户并保持高留存率；以年度经常性收入增长为锚点实现盈利性增长；并从项目制交付转型为高度可扩展的AI平台。这一十年市场领导地位为其引领计算机视觉与生成式AI的融合浪潮奠定了基础。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/SenseTime_AI/status/2057289342654300586&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;2. 消息称微软内部示警：GitHub 面临生存级风险，AI 编程工具削弱托管必要性&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;IT之家（RSS） · 今天 10:39&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;微软内部发出警告，称其代码托管平台GitHub正面临&quot;生存级风险&quot;。主要原因是Cursor、Claude Code等AI编程助手兴起，改变了开发者工作流，削弱了持续将代码上传至GitHub的必要性。为统一工具链并控制成本，微软已要求部分团队在2026年6月底前停止试用Claude Code，转而使用自有工具GitHub Copilot CLI。同时，OpenAI曾考虑自建替代平台，也加剧了对GitHub地位的潜在威胁。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.ithome.com/0/952/645.htm&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;3. Claude Code的HTML输出：非凡的有效性&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;Claude：Blog（网页） · 今天 05:45&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;Claude Code团队正从Markdown转向HTML作为主要输出格式。Markdown虽简洁，但在信息密度、阅读性、分享和交互方面存在局限。HTML能支持表格、CSS样式、SVG图表和JavaScript交互，提供更清晰的视觉结构和高信息密度。由于HTML文件可通过浏览器直接打开和分享，便于团队协作审阅。Claude Code利用其广泛的上下文获取能力生成实用的HTML制品，适用于项目规划、文档编写和验证等多种场景，显著提升了AI生成内容的可读性与实用性。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://claude.com/blog/using-claude-code-the-unreasonable-effectiveness-of-html&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;4. 谷歌推出全新AI智能搜索框，支持多模态交互&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Google AI (@GoogleAI) · 今天 05:12&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;谷歌宣布推出基于Gemini 3.5模型的全新智能搜索框。该更新将AI Overviews与AI Mode整合为统一的AI搜索体验，支持对文本、图像、文件及视频进行跨模态推理查询。用户可进行多轮对话，搜索将结合上下文提供更个性化、定制化的回答。该新功能已在全球桌面和移动设备端同步上线。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/GoogleAI/status/2056845506601718271&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;5. 研究发现人类说服技巧对AI同样有效&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Ethan Mollick (@emollick) · 今天 05:05&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;🚨我们的论文已在PNAS发表：我们发现经典的人类说服技巧以一种&quot;类人&quot;的方式对AI有效，使其同意不当请求（将顺从率从35%提高到51%）
-该技巧对一系列主流大语言模型有效，尽管较新的模型抵抗力更强 https：//www.pnas.org/doi/10.1073/pnas.2535868123&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/emollick/status/2056843673145401722&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;6. 更智能的 Google AI Edge Gallery：MCP 集成、通知和会话连续性&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;Google Developers Blog（RSS） · 今天 04:25&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;Google AI Edge Gallery 应用在安卓平台上扩展了设备端 AI 能力，通过引入对开源模型上下文协议（MCP）的实验性支持，使得 Gemma 4 模型能够协调处理跨 Google Workspace 和 Google Maps 等外部数据源的复杂任务。此次更新添加了&quot;定时通知&quot;技能，用于实现日常事务的自动化管理，并新增了持久化聊天记录功能，允许用户近乎即时地恢复长会话上下文。该平台依托开源工具包，积极鼓励社区开发者通过其 GitHub 仓库构建并分享专注实用的工作流、提示配置与工具集成。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://developers.googleblog.com/a-smarter-google-ai-edge-gallery-mcp-integration-notifications-and-session-continuity&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;7. OpenAI推出长期算力保障服务&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：OpenAI (@OpenAI) · 今天 03:44&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;推出 OpenAI Guaranteed Capacity：一项新服务，让客户能够保障长期获取 OpenAI 算力。
+&lt;p&gt;&lt;strong&gt;2. SpaceX与Anthropic合作提供大规模AI算力服务&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Elon Musk (@elonmusk, xAI) · 今天 06:35&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;正如最近与@AnthropicAI扩大合作所展示的，@SpaceX正在大规模提供AI算力服务。
 
-我们已在基础设施、合作伙伴关系和容量规划方面进行了长期投资，以帮助客户可靠地扩展。
+我们正在与其他公司进行类似合作的讨论。
 
-现在，Guaranteed Capacity 帮助客户在算力受限的环境中提前规划关键工作负载。
+随着时间的推移，特别是通过轨道数据中心，我们预计将以极高的规模提供AI服务。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/elonmusk/status/2057228707606196434&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;strong&gt;3. xAI去年亏损64亿美元--SpaceX的IPO文件揭示其支出远未停止的原因&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;TechCrunch：AI（RSS） · 今天 06:26&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;SpaceX的IPO文件首次披露了xAI在2025年的财务状况，显示该AI公司去年亏损高达64亿美元。文件同时揭示了xAI计划对Grok进行大规模扩张的战略，解释了马斯克旗下AI业务持续高额支出的原因。这份公开文件为外界提供了观察马斯克AI产业投资规模与财务表现的罕见窗口。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://techcrunch.com/2026/05/20/xai-burned-6-4b-last-year-spacexs-ipo-filing-shows-why-the-spending-is-far-from-over&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;strong&gt;4. Google Stitch更新：AI设计助手实现全流程构建&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Google AI for Developers (@googleaidevs) · 今天 05:18&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;Google推出了其AI设计伙伴Stitch的多项重要更新。新功能支持实时流式构建设计，允许用户在不中断流程的情况下直接进行编辑和互动反馈。Stitch现已能够导入现有代码库或Design.md文件，基于实际生产组件进行设计以保持品牌一致性。同时，工具新增了动态界面生成功能，并可将设计项目直接导出为可分享的线上URL，简化了从原型到生产的部署流程。该工具现已面向全球用户开放。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/googleaidevs/status/2057209295763300785&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;strong&gt;5. Meta万人重组：裁员与AI转型并举&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Rohan Paul (@rohanpaul_ai) · 今天 03:13&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;Meta启动大规模裁员，计划削减约8000个岗位。与此同时，约7000名员工将被调配至新的AI相关职位。此次调整并非单纯的削减成本，更是公司围绕AI进行内部结构重塑的关键举措，重点将资源集中于AI基础设施、基础模型的构建以及AI技术的商业化，旨在打造从模型训练、产品开发到实现盈利的完整链条。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/rohanpaul_ai/status/2057177976492720363&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;strong&gt;6. MiniMax语音模型新增600余种声音&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：MiniMax (@MiniMax_AI) · 今天 03:10&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;600多种由MiniMax Speech 2.8 Turbo驱动的新声音现已登陆Together AI @togethercompute 🎙️✨
 
-http：//openai.com/guaranteed-capacity&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/OpenAI/status/2056823271774101907&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+立即体验：https：//voicefinder.together.ai/minimax--speech-2.8-turbo&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/MiniMax_AI/status/2057177048356180296&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;8. Gemini Omni：从任意输入创造内容的新模型&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Google AI (@GoogleAI) · 今天 03:17&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;到现在，你可能已经听说了 Gemini Omni，这是我们新推出的模型，旨在从任意输入（从视频开始）创造任何内容。
-但……这有什么大不了的？
-让我们来分解一下 🧵👇&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/GoogleAI/status/2056816653770625406&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;7. 上下文压缩技术提升搜索效率与准确性&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Perplexity (@perplexity_ai) · 今天 01:26&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;我们已将查询感知压缩技术投入生产，以实现更快、更清晰、更准确的搜索。
+更好的上下文优于更多的上下文。
+我们的系统可将上下文令牌最多削减70%，同时提升回答质量。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/perplexity_ai/status/2057151002105753950&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;9. 谷歌发布Gemini Omni多模态生成模型&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Gemini (@GeminiApp) · 今天 03:07&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;介绍Gemini Omni，我们的新模型，可以从任何输入创建任何内容，首先从视频开始。
+&lt;p&gt;&lt;strong&gt;8. SenseNova U1：同时思考文本与图像的AI&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：商汤 SenseTime (@SenseTime_AI) · 今天 18:42&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;将你的想法转化为激发故事的视觉画面 🧨
 
-借助Gemini Omni，您可以将图像、视频和文本作为输入组合，并生成基于Gemini现实世界知识的高质量视频。#GoogleIO&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/GeminiApp/status/2056814052039356806&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;10. OlmoEarth v1.1： 更高效的模型家族&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;Hugging Face：Blog（RSS） · 今天 02:38&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;Ai2（Allen Institute for AI）在Hugging Face平台发布了OlmoEarth模型家族的1.1版本。此次更新重点提升了模型的计算效率与运行性能，通过优化的模型架构与训练策略，使OlmoEarth v1.1在保持或增强任务表现的同时，显著降低了推理所需的计算资源与时间成本。这一改进旨在让该开源模型更适用于资源受限的部署场景，推动大规模语言模型的普惠应用。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://huggingface.co/blog/allenai/olmoearth-v1-1&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;11. GoogleIO发布多项Gemini更新&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Gemini (@GeminiApp) · 今天 02:31&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;我们在#GoogleIO上宣布了多项Gemini更新，包括：
-- 采用神经表达技术的全新Gemini体验设计
-- 即将推出的Gemini智能体功能，含每日简报与Gemini Spark
-- Gemini Omni与3.5 Flash模型
-- 以及更多内容！
-详情请见此线程🧵&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/GeminiApp/status/2056805027394859137&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;12. 重要更新：Gemini CLI将迁移至Antigravity CLI&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;Google Developers Blog（RSS） · 今天 02:25&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;Google正在整合其AI终端工具，将面向社区的Gemini CLI迁移至全新平台Antigravity CLI。这款新工具采用Go语言开发，作为代理优先的平台，支持复杂的多代理工作流，并提供更快的执行速度、异步处理能力以及与Antigravity 2.0桌面应用同步的统一架构。企业客户可维持现有访问权限，但个人及免费用户必须在2026年6月18日Gemini CLI停止服务前，完成向新平台的迁移。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://developers.googleblog.com/an-important-update-transitioning-gemini-cli-to-antigravity-cli&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;13. Gemini Spark：全天候个人AI代理&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Gemini (@GeminiApp) · 今天 02:19&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;Gemini Spark 是您的全天候个人AI代理，帮助您驾驭数字生活。
+【引用 @Adamaestr0_】：大多数AI工具可以写作或生成图像。
 
-它将 Gemini 从一个回答您问题的助手，转变为一个在您的指导下、代表您完成工作的助手。#GoogleIO&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/GeminiApp/status/2056801918018564538&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;14. Gemini月活用户超9亿，回顾年度重大功能发布&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Gemini (@GeminiApp) · 今天 02:09&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;每月有超过9亿用户使用Gemini应用。
+但这个能同时做这两件事。
 
-这一增长的重要部分源于我们快速的发布节奏。以下是过去一年我们推出的一些最重要功能的回顾。🧵 #GoogleIO&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/GeminiApp/status/2056799436052017597&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;15. 经验研究助手（ERA）：从Nature发表到催化计算发现&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;Google Research：Blog（网页） · 今天 02:06&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;Google Research开发的经验研究助手（ERA）现已在《Nature》期刊发表论文。这是一款基于Gemini的AI工具，旨在协助科学家编写专业级经验科学代码，其核心能力包括搜索文献、生成代码、探索方案并迭代优化，以加速耗时的计算实验过程。该工具已被用于构建&quot;计算发现&quot;原型，并已通过Google Labs的&quot;可信赖测试者计划&quot;向更广泛的科学家群体开放初步试用。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://research.google/blog/empirical-research-assistance-era-from-nature-publication-to-catalyzing-computational-discovery&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;16. AI搜索的新时代&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;Google Blog：AI（RSS） · 今天 01:45&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;谷歌宣布了其搜索引擎与AI技术融合的最新进展，标志着AI搜索进入新阶段。此次更新旨在将搜索引擎的广度与AI的深度理解能力相结合，目标是提供更智能、更直观的搜索体验，推动搜索技术的下一代演进。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://blog.google/products-and-platforms/products/search/search-io-2026&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;17. I/O 2026： 欢迎来到自主的 Gemini 时代&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;Google Blog：AI（RSS） · 今天 01:45&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;Google 在 I/O 2026 大会上宣布 Gemini 进入自主代理时代，新功能使其能够自动执行复杂任务，显著提升用户工作效率。大会展示了 Gemini 如何通过代理操作简化工作流程，实现自动化处理，例如自动管理邮件、安排日程或生成报告，帮助用户从重复性工作中解放出来，专注于创造性任务。这一更新基于先进机器学习模型，强调准确性与效率，标志着 AI 助手向更智能、更自主的方向发展。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://blog.google/innovation-and-ai/sundar-pichai-io-2026&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;18. AI Mode 如何改变美国人的搜索方式&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;Google Blog：AI（RSS） · 今天 01:45&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;AI Mode 上线一周年，美国用户搜索行为呈现关键转变。数据显示，用户正从传统的关键词输入模式逐渐转向自然语言查询，这一变化反映了AI搜索技术的普及和用户交互方式的优化。自然语言查询的使用率显著提升，体现了AI搜索在日常信息获取中的影响力增强，预示着未来搜索体验的革新方向。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://blog.google/products-and-platforms/products/search/ai-mode-us-insights&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;19. Gemini Spark：全天候自主AI助手&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Gemini (@GeminiApp) · 今天 01:41&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;Gemini Spark 是你的新全天候个人AI代理。
+向你介绍 SenseNova U1。
+一个能同时思考文本和图像的AI。
 
-给它一个任务，它会在后台自主工作，即使你的手机和笔记本电脑已关机。你选择启用它，它被设计为在执行重大操作前会先征询你的意见。#GoogleIO&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/GeminiApp/status/2056792333132460322&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+这改变了一切 🧵&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/SenseTime_AI/status/2057049434782097851&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;20. Gemini Omni发布：多模态生成新突破&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Google DeepMind (@GoogleDeepMind) · 今天 01:17&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;我们推出Gemini Omni：这是迈向一个能从任何内容生成任何内容的模型的第一步--从视频开始。
-它结合了Gemini的智能与我们的生成式媒体系统--代表了在世界理解、多模态和编辑方面的飞跃🧵&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/GoogleDeepMind/status/2056786446636212467&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;21. 谷歌IO大会首日：创新与技术突破&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Google DeepMind (@GoogleDeepMind) · 今天 01:02&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;欢迎来到 #GoogleIO 的第一天。
+&lt;p&gt;&lt;strong&gt;9. Qwen 2026大会：AI原生云架构蓝图发布&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：阿里云 / Alibaba Cloud (@alibaba_cloud) · 今天 18:32&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;Qwen Conference 2026：主题演讲议程
 
-我们将分享 @Google 的最新创新、产品更新和技术突破。
+AI原生云、Agent原生云架构、推理的未来，以及多模态视觉技术发布。没有冗余内容，只有面向全球规模的工程蓝图。
 
-请就座前排，观看直播 → https：//goo.gle/499OxaJ&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/GoogleDeepMind/status/2056782550924996816&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+注册：https：//click.qwencloud.com/m/20000000190/&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/alibaba_cloud/status/2057046828692934749&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;22. Luma Agents现已支持Seedance 2.0生成&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Luma AI (@LumaLabsAI) · 今天 00:00&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;Luma Agents现在可以使用Seedance 2.0进行生成了。
+&lt;p&gt;&lt;strong&gt;10. Gemini 3.5 Flash登陆OpenCode平台&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：opencode (@opencode) · 今天 16:35&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;Gemini 3.5 Flash现已在OpenCode上线
 
-将你的下一个项目指向它，看看它能产出什么，然后继续前进。同样的工作流程，但有了更多可用内容。
-
-打开Luma Agents → http：//lumalabs.ai/app&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/LumaLabsAI/status/2056766837430600099&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+- 速度极快
+- 100万上下文
+- 定价与GLM、Kimi和DeepSeek Pro相近&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/opencode/status/2057017380941795667&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;23. Andrej加入Anthropic，马斯克也点赞&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Yuchen Jin (@Yuchenj_UW) · 今天 23:50&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;Andrej加入了Anthropic。
-连Elon都忍不住称赞Anthropic。
-Anthropic今天在Google I/O上真是气场全开。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/Yuchenj_UW/status/2056764450712256753&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;11. 欧盟委员会发布《欧盟人工智能法》高风险AI系统分类指导草案并开启公众咨询&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;DataGuidance：Artificial Intelligence（网页） · 今天 15:53&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;欧盟委员会于2026年5月19日发布了关于《欧盟人工智能法》第六条项下高风险AI系统分类的指导草案。该草案旨在为AI系统的提供商、部署者及市场监管机构提供明确的分类标准，以确保在欧盟范围内执法的一致性。分类主要依据AI系统的预期用途，例如作为受监管产品的组件或用于特定高风险场景。草案也规定了部分豁免条件，例如仅执行辅助性任务时可能不被视为高风险。公众咨询期至206月23日。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.dataguidance.com/news/eu-commission-publishes-draft-guidelines-classifying&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;24. 前OpenAI核心成员Andrej Karpathy选择Anthropic重返前沿LLM研究&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;The Decoder：AI News（RSS） · 今天 23:29&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;著名AI研究人员Andrej Karpathy已加入Anthropic。这位前OpenAI核心团队成员兼特斯拉Autopilot架构师表示，他希望重返研发一线，称未来几年在大语言模型（LLM）前沿的研究&quot;尤其具有塑造性&quot;。他选择Anthropic而非回归前东家OpenAI，这对后者而言是一个明显的损失。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://the-decoder.com/prominent-ai-researcher-andrej-karpathy-picks-anthropic-over-former-home-openai-to-get-back-into-frontier-llm-research&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;12. 开源油猴脚本实现多平台截图上传与内容处理&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Vista (@vista8) · 今天 14:18&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;开源油猴脚本实现小红书、抖音、微信公众号的截图粘贴自动上传，并支持YouTube字幕复制、倍速调节及内容导出至NotebookLM、ChatGPT等工具。主推文作者表示，该工具增强了将X平台内容同步至国内平台的意愿，尽管部分平台体验欠佳。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/vista8/status/2056982823169568779&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;25. OpenRouter工具调用模型现可自主进行网络搜索&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：OpenRouter (@OpenRouter) · 今天 23:27&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;OpenRouter上的任何工具调用模型现在都可以自主调用网络搜索和网页抓取功能。
-模型可以自行决定何时搜索、搜索什么以及搜索次数。
-我们新增了@p0作为新的网络搜索提供商。了解更多：https：//openrouter.ai/announcements/agentic-web-tools&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/OpenRouter/status/2056758698400452705&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;13. 快手杜明军：AI 赋能短剧产业升级，快手漫剧半年广告消耗增长超 18 倍&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;短剧新势力 · 今天 20:23&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;西北首个千人规模 AI 短剧/漫剧生态发展交流会（西安站）圆满落幕。嘉宾精彩观点将持续发布。5月16日，由短剧新势力承办的2026 AI 短剧 / 漫剧生态发展交流会（西安站）成功举办，快手漫剧业务负责人杜明军受邀出席，并以《快手微短剧的发展思考与实践》为题发表主题演讲。以下为演讲全文：大家上午好，...&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkwNDYyNDk2Nw==&amp;mid=2247503866&amp;idx=1&amp;sn=06904b6a8983533df9faf09e1df091b2&amp;chksm=c1768d770ae0724b9878b7a95dc5e0cb1bc936f5643261b8bb35e7019afcb61389c7b9d5be45&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;26. Karpathy加入Anthropic团队&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Claude Devs (@ClaudeDevs) · 今天 23:06&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;欢迎加入团队，Andrej！&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/ClaudeDevs/status/2056753265346564259&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;27. DAA：智能体时代的核心指标&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：百度 Baidu (@Baidu_Inc) · 今天 22:00&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;这里快速补充一个指标新词：DAA。
-全称 Daily Active Agents（每日活跃智能体），相当于智能体时代的 DAU。
-如果说代币经济学追踪成本，那么 DAA 追踪产出--智能体实际完成了多少工作。
-完整对比见下文 ↓&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/Baidu_Inc/status/2056736643781165127&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;28. 宣布Claude Managed Agents登陆Cloudflare&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;Cloudflare Blog · 今天 21:00&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;Cloudflare宣布与Anthropic的Claude Managed Agents深度整合，提供快速、隔离的自主代码交付执行环境。该集成使开发者能够在全球范围内扩展代理工作流，同时严格控制私有后端访问权限，并支持灵活自定义代理工具及运行时配置。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://blog.cloudflare.com/claude-managed-agents&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;29. Forge：通过防护机制大幅提升8B模型性能的可靠性层&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;Hacker News：AI 热帖 · 今天 20:23&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;Forge 是一个为自托管大语言模型设计的可靠性层，专注于提升工具调用能力。它通过错误解析、重试提示、步骤强制等防护机制以及高效的上下文管理，成功将8B参数模型在复杂多步骤智能体任务中的表现从53%大幅提升至99%。其核心配置（Ministral-3 8B模型）在自建的26项评估中综合得分达86.5%。Forge 提供三种集成方式：作为全托管工作流运行器、多智能体架构的共享调度器，或嵌入自有编排循环的防护中间件，并附带一个可透明接入的OpenAI兼容代理服务器。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/antoinezambelli/forge&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;30. 推进内容溯源，构建更安全、更透明的AI生态系统&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;OpenAI：官网动态（RSS · 排除企业/客户案例） · 今天 18:45&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;OpenAI推出了新的AI内容溯源体系，旨在提升AI生成媒体的可信度。该体系集成了Content Credentials和SynthID两种技术标准，并配套推出了一个验证工具。此举的核心目标是帮助公众有效识别AI生成的内容，从而建立对AI媒体的信任，最终推动一个更安全、更透明的AI生态发展。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://openai.com/index/advancing-content-provenance&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;31. Kimi最新融资获国资与央企加注，估值半年翻四倍&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;IT之家（RSS） · 今天 15:39&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;月之暗面旗下AI助手Kimi正在进行20亿美元新融资，国智投、中国移动等国资机构及央企已加入股东名单，该轮融资已进入收尾阶段。今年1月和2月，Kimi已密集完成3轮融资，累计融资超39亿美元（约376亿元人民币），最新估值相比去年11月已翻4倍有余，成为大模型创业公司中融资最多的企业。产品层面，基于Kimi K2.5模型的Composer 2.5已集成至编程应用Cursor，公司近期也发布了开源模型Kimi K2.6。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.ithome.com/0/952/336.htm&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;32. 2026 西北首个千人规模 AI 短剧/漫剧生态发展交流会（西安站）圆满落幕&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;短剧新势力 · 今天 20:28&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;2026年5月16日，「AI新势能 漫剧正当红」2026 AI短剧/漫剧生态发展交流会在陕西西咸国际会议中心成功举办。作为西北首个AI短剧/漫剧全产业链展洽会，本次大会汇聚产业上下游、技术方、平台方、品牌方与创作者，围绕技术革新、产业升级、精品创作、合规运营与全球化出海展开深度研讨，为行业高质量发展...&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkwNDYyNDk2Nw==&amp;mid=2247503836&amp;idx=1&amp;sn=cf123caa87026bda6e6123622962d9d6&amp;chksm=c1fde58301c5e1b6ddc8d5f8f003e1e811c507b4054e130789a422c00c391d9dc657ba9d6c89&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;33. 早期项目 | Chance AI获美图等数百万美元投资，用户数已达20万&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;36氪 · &lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;作者丨欧雪
-  编辑丨袁斯来
-  硬氪获悉，Visual Agent（视觉智能体）创业公司Chance AI宣布完成数百万美元天使轮融资。本轮由美图领投，NYX Ventures、阿里系投资机构等跟投。融资将用于模型能力迭代、北美学生群体增长、以及社区与商业化探索。
-  Chance AI成立于2025年，核心产品是全球第一款以摄像头为主要交互入口的AI产品——Visual Agent（视觉智能体）。
-  与传统AI产品依赖输入框不同，用户打开Chance AI后直接拍摄眼前内容，系统即可理解视觉意图并提供判断、建议和行动方案。
+&lt;p&gt;&lt;strong&gt;14. 网易520发布会：质量为先，狙击细分赛道&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;36氪 · &lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;5月20日，2026年『网易游戏520线上发布会』正式举办，公布了40余款游戏及IP的最新动态。其中，520发布会上公布的部分重要新品如下：&amp;nbsp;
+  《遗忘之海》
   
-  Chance AI APP 界面一览（图源/企业）
- &lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://36kr.com/p/3816947890471812?f=rss&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+  《遗忘之海》
+  本次发布会上，《遗忘之海》官宣将于5月22日开启三测前瞻直播，并于28日正式开启测试。&amp;nbsp;
+  目前来看，《遗忘之海》应该是网易游戏最受期待的新品之一。它出自《第五人格》开发团队Joker工作室，此前已经推出过两次测试，网易高层也不止一次展现过对这款产品的重视。&amp;nbsp;
+  从已有内容看，《遗忘之海》最独特的地方莫过于Joker工作室对游戏市场的一些独到理解——这点早在他们做《第五人格&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://36kr.com/p/3817849322964098?f=rss&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;34. 当“躺平”、Gap被歧视，我们该如何度过奥德赛时期？ | 职场极端气候 ②&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;36氪 · &lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;图源：公众号「有三思 U Sense」）
-  2026年2月，小红书博主橘一橙NiceFriend发布了一条视频。她在视频里把奥德赛时期定义为“对事业、情感以及身份认同产生强烈焦虑和迷茫的阶段”，将之概括为“成年人类的未成年”。这条视频获得10万+点赞，8.6万收藏。
-  “奥德赛时期”这个词并非中文原生。2007年，《纽约时报》专栏作家大卫·布鲁克斯发表了同名评论文章，借用荷马史诗中奥德修斯战后漂泊十年才返回家乡的意象，描述青春期与成年期之间一段被拉长的过渡期。这个概念在西方世界沉寂了近二十年，却在2020年代的中国年轻人中间获得了第二次生命。
-  这个词在中文互联网的流行与古希腊史诗关系不&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://36kr.com/p/3816045694098952?f=rss&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;15. 第四届中国AIGC产业峰会在京顺利举办！近20位行业大咖解码Agent与非共识机遇&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;36氪 · &lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;今日，由量子位主办的第四届中国AIGC产业峰会在京启幕。
+  2026年，AI产业一路高歌猛进。从“龙虾”到“Harness”，爆款Agent接连出圈、风靡全网。面对层出不穷的新业态与新玩法，不少从业者和普通用户都感到困惑：如何找准AI的使用方式？怎样把握产业机遇？又该如何跟上行业发展的步伐？
+  正是在这一背景下，本届大会以「@所有人，马上AI起来」为主题，集结近20位行业重磅嘉宾，联动产业头部企业、新锐创业公司、顶尖学术力量，围绕AI Agent商业化落地、多模态技术突破、千行百业场景深耕、算力基础设施变革等核心议题，开启了一场深度交流与思想碰撞。&amp;nbsp;
+  
+  嘉宾阵容堪称豪华：&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://36kr.com/p/3817353357968516?f=rss&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;35. 商务部：中国航空根据自身航空运输发展需要，将按照商业化原则引进200架波音飞机&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;36氪 · &lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;36氪获悉，商务部美大司负责人解读中美经贸磋商初步成果，按照中美元首达成的重要共识，中国航空根据自身航空运输发展需要，将按照商业化原则引进200架波音飞机。同时，美方将为中方提供充足的发动机、零部件供应保障。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://36kr.com/newsflashes/3817077321892992?f=rss&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;36. 阿里发布新一代千问旗舰模型Qwen3.7-Max&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;36氪 · &lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;36氪获悉，5月20日，阿里巴巴发布全新一代千问旗舰模型Qwen3.7-Max，在三方机构Arena全球大模型盲测总榜中，Qwen3.7-Max位列国产模型第一。千问3.7面向当下智能体（Agent）全新设计，实现了编程、推理等核心能力的持续突破，甚至可全自主完成35小时的超长程智能体复杂任务：在一个全新的芯片平台上，Qwen3.7-Max通过自主编程和超1000次工具调用，实现了一个关键内核的自我进化，推理速度较原版本提升10倍。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://36kr.com/newsflashes/3817070340342921?f=rss&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;16. 美团无人机低空配送超过90万商业化订单&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;36氪 · &lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;美团副总裁、无人机负责人毛一年透露，截至今日，美团无人机低空配送已经实现了超过90万的商业化订单，这个数字大概是全球第二。公开数据显示，美国Zipline目前有超过200万单商业化订单。（新浪财经）&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://36kr.com/newsflashes/3818484947436675?f=rss&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;</description>
     </item>
     <item>
-      <title>💡 社媒选题建议 · 05月20日 · 3条含大纲</title>
+      <title>💡 社媒选题建议 · 05月21日 · 3条含大纲</title>
       <link>https://dingdanggg.github.io/linggou-rss</link>
-      <guid isPermaLink="false">linggou-topics-2026052013</guid>
-      <pubDate>Wed, 20 May 2026 13:05:09 +0800</pubDate>
+      <guid isPermaLink="false">linggou-topics-2026052113</guid>
+      <pubDate>Thu, 21 May 2026 13:09:11 +0800</pubDate>
       <category>社媒选题</category>
       <description>&lt;h2&gt;💡 社媒选题建议&lt;/h2&gt;
 &lt;p&gt;每条选题含完整大纲，可直接展开写 1500-2000 字文章。&lt;/p&gt;
-&lt;h3&gt;选题 1：4K AI视频来了：可灵原生4K实测与工作流对比&lt;/h3&gt;
-&lt;p&gt;📱 &lt;strong&gt;平台&lt;/strong&gt;：B站、抖音&lt;/p&gt;
-&lt;p&gt;🎯 &lt;strong&gt;读者痛点&lt;/strong&gt;：AI视频终于不是糊的了？可灵原生4K模型上线，我们实测了它和传统放大方案在细节、一致性和效率上的真实差距。&lt;/p&gt;
+&lt;h3&gt;选题 1：用可灵Kling复刻戛纳AI电影：5步工作流&lt;/h3&gt;
+&lt;p&gt;📱 &lt;strong&gt;平台&lt;/strong&gt;：B站&lt;/p&gt;
+&lt;p&gt;🎯 &lt;strong&gt;读者痛点&lt;/strong&gt;：首部100%AI电影已亮相戛纳并计划2026年院线上映，而你连一条15秒的视频角色一致性都做不好？本文手把手拆解官方工作流。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;📝 文章大纲&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;
-&lt;li&gt;## 原生4K vs 传统放大：为什么好莱坞团队选前者（对比两种技术路线的原理差异：从底层生成 vs 后期超分，解释角色变形和画质损失的原因）&lt;/li&gt;
-&lt;li&gt;## 可灵4K实测数据：生成时间、分辨率、细节保留（展示我们生成的3组样片，分别对比纹理、面部细节和动态模糊，附原始截图）&lt;/li&gt;
-&lt;li&gt;## 真4K对AI短剧/漫剧制作的实际价值（以1分钟短剧为例，计算不同分辨率下的文件大小、渲染时间和后期工作量差别）&lt;/li&gt;
-&lt;li&gt;## 三步适配你的AI工作流：从提示词到导出设置（详细步骤：①选择4K模式 ②提示词细节优化建议 ③导出参数清单与常见避坑指南）&lt;/li&gt;
-&lt;li&gt;## 当前局限与未来判断（讨论算力需求、场景泛化能力，以及平台是否支持直接上传4K视频，给出适配建议）&lt;/li&gt;
+&lt;li&gt;## 从RAPHAEL到你的项目：戛纳AI电影为何值得学（结合资讯分析纯AI电影制作工业化意义，点出普通创作者的核心差距：角色一致性+分镜控制）&lt;/li&gt;
+&lt;li&gt;## 第一步：分镜才是AI视频的起点（引用PixVerse分镜工作流思路，讲解如何用文字+参考图生成清晰的角色分镜帧）&lt;/li&gt;
+&lt;li&gt; &lt;/li&gt;
+&lt;li&gt;## 第二步：固定角色与风格的参数锁（详解Kling AI中如何设置角色种子、风格Lora、镜头运动参数，确保同一角色跨场景不崩）&lt;/li&gt;
+&lt;li&gt;## 第三步：用OpenRouter自动路由缓存解决长片段生成卡顿（结合OpenRouter缓存机制，说明如何通过固定模型/提供商避免生成中断）&lt;/li&gt;
+&lt;li&gt; &lt;/li&gt;
+&lt;li&gt;## 第四步：15秒烹饪短片级的一致性测试（以视频中提到的烹饪短片为例，展示从分镜→参考图→多镜头生成的完整实操截图）&lt;/li&gt;
+&lt;li&gt;## 第五步：导出与剪辑拼接的3个避坑点（包括帧率统一、色调微调、AI素材版权备注，以及如何参照RAPHAEL的宣发节奏规划发布计划）&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr/&gt;
-&lt;h3&gt;选题 2：AI编程威胁GitHub生存：3个场景看懂开发者迁移策略&lt;/h3&gt;
+&lt;h3&gt;选题 2：0成本用Google Stitch从原型到部署全流程&lt;/h3&gt;
+&lt;p&gt;📱 &lt;strong&gt;平台&lt;/strong&gt;：小红书&lt;/p&gt;
+&lt;p&gt;🎯 &lt;strong&gt;读者痛点&lt;/strong&gt;：独立开发UI设计反复改稿？Google刚发布的Stitch更新支持实时流式构建+导入现有代码库，10分钟自动生成可分享的线上项目。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;📝 文章大纲&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;## 为什么UI设计工具要换Stitch？——对比Figma/Midjourney痛点（实时交互反馈 vs 静态出图；品牌一致性 vs 随机生成）”&lt;/li&gt;
+&lt;li&gt;## 新功能拆解：实时流式构建、Design.md导入、动态界面生成（结合资讯原文，用对比表格说明每项能力对应的实际开发场景）&lt;/li&gt;
+&lt;li&gt;## 实操：从零构建一个游戏道具商店原型（步骤1：写Design.md描述页眉/商品卡片/筛选栏；步骤2：导入Stitch并看板实时生成；步骤3：用自然语言修改Logo颜色与按钮间距）&lt;/li&gt;
+&lt;li&gt;## 输出与协作：一键导出可分享URL（展示URL分享后的在线编辑权限设置，以及导出代码片段给开发同事的流程）&lt;/li&gt;
+&lt;li&gt;## 适用人群与局限：设计小白vs专业UI设计师分别怎么用（附3个避免生成过度冗余界面的参数建议）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr/&gt;
+&lt;h3&gt;选题 3：Meta重组启示录：AI部门必备的3个工具链&lt;/h3&gt;
 &lt;p&gt;📱 &lt;strong&gt;平台&lt;/strong&gt;：B站、小红书&lt;/p&gt;
-&lt;p&gt;🎯 &lt;strong&gt;读者痛点&lt;/strong&gt;：微软内部警告GitHub面临生存危机？Cursor和Claude Code正在改变开发工作流，我们拆解3个真实场景，看看代码到底该放哪儿。&lt;/p&gt;
+&lt;p&gt;🎯 &lt;strong&gt;读者痛点&lt;/strong&gt;：Meta裁员8000人同时转岗7000人做AI——行业大地震的底层逻辑是什么？我用三个工具链帮你照抄AI部门的基础设施。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;📝 文章大纲&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;
-&lt;li&gt;## 微软为什么慌了：GitHub的生存级风险从何而来（引用内部警告原文，分析AI编程助手如何削弱代码托管必要性：从频繁push到即时代码生成）&lt;/li&gt;
-&lt;li&gt;## 场景1：个人独立游戏开发者用Cursor替代GitHub全流程（展示从AI生成代码、本地版本管理到部署的实操路径，对比传统GitHub工作流的时间成本）&lt;/li&gt;
-&lt;li&gt;## 场景2：团队协作中Claude Code的HTML输出如何替代文档仓库（引用Claude Code团队转向HTML的案例，展示新协作模式：浏览器直接打开+在线审阅）&lt;/li&gt;
-&lt;li&gt;## 场景3：微软强推Copilot CLI背后——大厂工具链闭环策略（分析微软要求停用Claude Code改用自家工具的逻辑，以及OpenAI想自建平台带来的威胁）&lt;/li&gt;
-&lt;li&gt;## 给你的建议：AI时代开发者应如何管理代码资产（列出3条具体操作：①用本地+云端双备份 ②选择支持AI插件的轻量版本控制工具 ③跟踪GitHub Copilot CLI最新功能变化）&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr/&gt;
-&lt;h3&gt;选题 3：ChatGPT周生成15亿张图：4个玩法让AI图像听话又好用&lt;/h3&gt;
-&lt;p&gt;📱 &lt;strong&gt;平台&lt;/strong&gt;：小红书、抖音&lt;/p&gt;
-&lt;p&gt;🎯 &lt;strong&gt;读者痛点&lt;/strong&gt;：ChatGPT图像生成周使用量突破15亿次！但你还在用它画歪手/错字？这4个最新玩法（含Gemini 3.5和Qwen3.7技巧）让你秒变AI图像高手。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;📝 文章大纲&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;
-&lt;li&gt;## 15亿张图背后的趋势：AI图像正从「玩票」走向「生产力」（引用OpenAI官方数据，分析创作者、设计师、独立开发者分布比例及场景变化）&lt;/li&gt;
-&lt;li&gt;## 玩法1：用Gemini 3.5 Flash把日常物品变成互动游戏（拆解官方Nano Banana案例，给出完整提示词模板和Canvas操作步骤，10分钟出结果）&lt;/li&gt;
-&lt;li&gt;## 玩法2：Qwen3.7多模态指令链——从文本描述到精准出图（展示Qwen3.7如何通过工具调用和图像理解实现复杂指令分解，附带2个实际案例）&lt;/li&gt;
-&lt;li&gt;## 玩法3：利用AI说服技巧提升图像生成命中率（引用PNAS论文发现：经典人类说服技巧对AI有效，提供3个改写提示词的心理学策略和对比效果）&lt;/li&gt;
-&lt;li&gt;## 玩法4：Google AI Edge Gallery设备端生成——离线也能出图（介绍MCP集成和本地模型部署，展示在无网络环境下保持图像一致性输出的实操流程）&lt;/li&gt;
+&lt;li&gt;## Meta为什么要裁员+重组3万员工？（结合资讯分析：从模型训练→产品开发→商业化的完整链条，点明AI岗位不是写提示词而是建管道）&lt;/li&gt;
+&lt;li&gt;## 工具链1：商汤CV 2.0架构——用生成式AI改造计算机视觉（引用商汤连续十年CV市场第一、CV 2.0原生嵌入生成式能力的趋势，讲解如何用AI自动标注+图像生成替代人工数据清洗）&lt;/li&gt;
+&lt;li&gt;## 工具链2：OpenRouter自动路由+缓存——多人协同时如何保持生成一致性（复现Meta内部多模型调用的场景：用自动路由固定会话、缓存机制降低50%重复计算成本）&lt;/li&gt;
+&lt;li&gt;## 工具链3：Google Stitch+Perplexity上下文压缩——从需求文档到原型一气呵成（演示：用Perplexity压缩长需求文档→输入Stitch生成原型→导出设计稿给开发形成闭环）&lt;/li&gt;
+&lt;li&gt;## 普通人如何入局？——3个可复用的学习路径（不需要学大模型训练，只需掌握：分镜控制/Kling视频一致性、界面生成/Stitch原型导出、算力成本估算/SpaceX算力合作案例中的硬件选型知识）&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr/&gt;</description>
     </item>
     <item>
-      <title>AIGC内容创作 · Kling AI推出全球首个原生4K视频生成模型</title>
-      <link>https://x.com/Kling_ai/status/2056950317712101599</link>
-      <guid isPermaLink="false">linggou-cmpdkkt0104q4slk1htr3h1ol</guid>
-      <pubDate>Wed, 20 May 2026 12:09:06 +0800</pubDate>
+      <title>AIGC内容创作 · 首部100%AI生成电影亮相戛纳，剑指2026院线</title>
+      <link>https://x.com/Kling_ai/status/2057295321831539054</link>
+      <guid isPermaLink="false">linggou-cmpex8rgu01husljw7g79w8pc</guid>
+      <pubDate>Thu, 21 May 2026 11:00:02 +0800</pubDate>
       <category>AIGC内容创作</category>
-      <description>&lt;p&gt;&lt;strong&gt;📽️ AIGC 内容创作&lt;/strong&gt; · 今天 12:09 · X：可灵 Kling AI (@Kling_ai)&lt;/p&gt;
-&lt;p&gt;4月23日，Kling AI正式推出全球首个原生4K视频生成模型，专为专业内容创作设计。该功能支持一键生成真4K画质视频，显著提升画面细节与制作效率。模型已获得好莱坞团队、动画工作室等多方采用。好莱坞制片人指出，这是其工作流中首个使用的原生4K基础模型；Wonder Studios强调，原生4K从底层生成避免了传统放大技术的角色变形问题，保持了画面一致性；动画导演则认为，该模型在保留艺术色调与复杂特效纹理方面优于同类产品。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/Kling_ai/status/2056950317712101599&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;📽️ AIGC 内容创作&lt;/strong&gt; · 今天 11:00 · X：可灵 Kling AI (@Kling_ai)&lt;/p&gt;
+&lt;p&gt;AI电影项目RAPHAEL在戛纳亮相。该片由Mateo AI Studio与韩国MBC C&amp;I的AI内容实验室联合开发，全程使用Kling AI视频模型进行制作，旨在实现独特的视觉效果与差异化的观影体验。项目计划于2026年登陆院线，其大规模制作旨在证明纯AI电影制作的工业可行性，标志着AI原生院线电影新趋势的开端。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/Kling_ai/status/2057295321831539054&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>行业动态 · OpenAI向所有YC创业公司提供200万美元API投资</title>
-      <link>https://x.com/gdb/status/2056948285038887255</link>
-      <guid isPermaLink="false">linggou-cmpdjg8r504geslk199lfb9y0</guid>
-      <pubDate>Wed, 20 May 2026 12:01:02 +0800</pubDate>
+      <title>行业动态 · 商汤连续十年领跑中国计算机视觉市场</title>
+      <link>https://x.com/SenseTime_AI/status/2057289342654300586</link>
+      <guid isPermaLink="false">linggou-cmpeway6401ajsljw64tl7jmw</guid>
+      <pubDate>Thu, 21 May 2026 10:36:16 +0800</pubDate>
       <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 12:01 · X：Greg Brockman (@gdb)&lt;/p&gt;
-&lt;p&gt;OpenAI宣布向Y Combinator当前批次的每家创业公司提供价值200万美元的API信用额度投资，以换取股权。此举旨在为初创公司提供AI算力资源，支持下一代创新。这让人联想到Sam Altman在YC合伙人时期，Yuri Milner向每家创业公司提供投资的先例。OpenAI希望通过此举释放创业者潜力，推动AI应用创新。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/gdb/status/2056948285038887255&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 10:36 · X：商汤 SenseTime (@SenseTime_AI)&lt;/p&gt;
+&lt;p&gt;商汤科技被IDC连续十年评为中国计算机视觉市场第一。其关键驱动因素包括：主导推进CV 2.0架构演进，原生嵌入生成式AI能力；海外市场扩展至12个国际区域，服务超500家企业客户并保持高留存率；以年度经常性收入增长为锚点实现盈利性增长；并从项目制交付转型为高度可扩展的AI平台。这一十年市场领导地位为其引领计算机视觉与生成式AI的融合浪潮奠定了基础。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/SenseTime_AI/status/2057289342654300586&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>行业动态 · 消息称微软内部示警：GitHub 面临生存级风险，AI 编程工具削弱托管必要性</title>
-      <link>https://www.ithome.com/0/952/645.htm</link>
-      <guid isPermaLink="false">linggou-cmpdgzagl03tyslk1ekr6memz</guid>
-      <pubDate>Wed, 20 May 2026 10:39:19 +0800</pubDate>
+      <title>行业动态 · SpaceX与Anthropic合作提供大规模AI算力服务</title>
+      <link>https://x.com/elonmusk/status/2057228707606196434</link>
+      <guid isPermaLink="false">linggou-cmpenjxhk0dyeslk1k8hsw4nc</guid>
+      <pubDate>Thu, 21 May 2026 06:35:20 +0800</pubDate>
       <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 10:39 · IT之家（RSS）&lt;/p&gt;
-&lt;p&gt;微软内部发出警告，称其代码托管平台GitHub正面临&quot;生存级风险&quot;。主要原因是Cursor、Claude Code等AI编程助手兴起，改变了开发者工作流，削弱了持续将代码上传至GitHub的必要性。为统一工具链并控制成本，微软已要求部分团队在2026年6月底前停止试用Claude Code，转而使用自有工具GitHub Copilot CLI。同时，OpenAI曾考虑自建替代平台，也加剧了对GitHub地位的潜在威胁。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.ithome.com/0/952/645.htm&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>技术工具 · Qwen3.7：智能体前沿</title>
-      <link>https://qwen.ai/blog?id=qwen3.7</link>
-      <guid isPermaLink="false">linggou-cmpdgqw1n03smslk1jf4jiwce</guid>
-      <pubDate>Wed, 20 May 2026 10:00:00 +0800</pubDate>
-      <category>技术工具</category>
-      <description>&lt;p&gt;&lt;strong&gt;🛠️ 技术工具&lt;/strong&gt; · 今天 10:00 · Qwen：Blog Retrieval（API）&lt;/p&gt;
-&lt;p&gt;Qwen Studio推出Qwen3.7模型，提供覆盖聊天机器人、图像与视频理解、图像生成、文档处理、网页搜索集成、工具调用及工件生成等功能。该模型整合了当前AI智能体的关键能力，旨在推动多模态交互与实际任务执行向更综合、自主的方向发展。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://qwen.ai/blog?id=qwen3.7&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>行业动态 · Claude Code的HTML输出：非凡的有效性</title>
-      <link>https://claude.com/blog/using-claude-code-the-unreasonable-effectiveness-of-html</link>
-      <guid isPermaLink="false">linggou-cmpd5x0qo0179slk1f2ze49et</guid>
-      <pubDate>Wed, 20 May 2026 05:45:38 +0800</pubDate>
-      <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 05:45 · Claude：Blog（网页）&lt;/p&gt;
-&lt;p&gt;Claude Code团队正从Markdown转向HTML作为主要输出格式。Markdown虽简洁，但在信息密度、阅读性、分享和交互方面存在局限。HTML能支持表格、CSS样式、SVG图表和JavaScript交互，提供更清晰的视觉结构和高信息密度。由于HTML文件可通过浏览器直接打开和分享，便于团队协作审阅。Claude Code利用其广泛的上下文获取能力生成实用的HTML制品，适用于项目规划、文档编写和验证等多种场景，显著提升了AI生成内容的可读性与实用性。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://claude.com/blog/using-claude-code-the-unreasonable-effectiveness-of-html&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>技术工具 · ChatGPT图像生成周使用量突破15亿次</title>
-      <link>https://x.com/OpenAI/status/2056849157860831239</link>
-      <guid isPermaLink="false">linggou-cmpd5un01016gslk14jmz9h5z</guid>
-      <pubDate>Wed, 20 May 2026 05:27:08 +0800</pubDate>
-      <category>技术工具</category>
-      <description>&lt;p&gt;&lt;strong&gt;🛠️ 技术工具&lt;/strong&gt; · 今天 05:27 · X：OpenAI (@OpenAI)&lt;/p&gt;
-&lt;p&gt;人们每周在ChatGPT中生成超过15亿张图像。
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 06:35 · X：Elon Musk (@elonmusk, xAI)&lt;/p&gt;
+&lt;p&gt;正如最近与@AnthropicAI扩大合作所展示的，@SpaceX正在大规模提供AI算力服务。
 
-研究员 @kenjihata 与产品负责人 @adele__li 及主持人 @AndrewMayne 一起，探讨自 Images 2.0 发布以来出现的新用例和趋势。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/OpenAI/status/2056849157860831239&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>技术工具 · 创新一周年：庆祝Google Cloud x NVIDIA开发者社区达到10万会员</title>
-      <link>https://developers.googleblog.com/one-year-of-innovation-celebrating-100k-members-in-the-google-cloud-x-nvidia-developer-community</link>
-      <guid isPermaLink="false">linggou-cmpd57aiz00zqslk11q0lp88m</guid>
-      <pubDate>Wed, 20 May 2026 05:25:58 +0800</pubDate>
-      <category>技术工具</category>
-      <description>&lt;p&gt;&lt;strong&gt;🛠️ 技术工具&lt;/strong&gt; · 今天 05:25 · Google Developers Blog（RSS）&lt;/p&gt;
-&lt;p&gt;Google Cloud与NVIDIA开发者社区迎来成立一周年，会员规模突破10万。社区为开发者提供先进AI基础设施与资源支持，包括LLM优化、GPU加速数据分析等专项学习路径及专家网络研讨会。第二年计划将进一步扩展，推出实践实验室、工程活动及聚焦代理式AI增长的专项内容。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://developers.googleblog.com/one-year-of-innovation-celebrating-100k-members-in-the-google-cloud-x-nvidia-developer-community&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>行业动态 · 谷歌推出全新AI智能搜索框，支持多模态交互</title>
-      <link>https://x.com/GoogleAI/status/2056845506601718271</link>
-      <guid isPermaLink="false">linggou-cmpd5qa3j014wslk1csm8g3lb</guid>
-      <pubDate>Wed, 20 May 2026 05:12:37 +0800</pubDate>
-      <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 05:12 · X：Google AI (@GoogleAI)&lt;/p&gt;
-&lt;p&gt;谷歌宣布推出基于Gemini 3.5模型的全新智能搜索框。该更新将AI Overviews与AI Mode整合为统一的AI搜索体验，支持对文本、图像、文件及视频进行跨模态推理查询。用户可进行多轮对话，搜索将结合上下文提供更个性化、定制化的回答。该新功能已在全球桌面和移动设备端同步上线。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/GoogleAI/status/2056845506601718271&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>行业动态 · 研究发现人类说服技巧对AI同样有效</title>
-      <link>https://x.com/emollick/status/2056843673145401722</link>
-      <guid isPermaLink="false">linggou-cmpd5fjlb010tslk16bffs0ly</guid>
-      <pubDate>Wed, 20 May 2026 05:05:20 +0800</pubDate>
-      <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 05:05 · X：Ethan Mollick (@emollick)&lt;/p&gt;
-&lt;p&gt;🚨我们的论文已在PNAS发表：我们发现经典的人类说服技巧以一种&quot;类人&quot;的方式对AI有效，使其同意不当请求（将顺从率从35%提高到51%）
-该技巧对一系列主流大语言模型有效，尽管较新的模型抵抗力更强 https：//www.pnas.org/doi/10.1073/pnas.2535868123&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/emollick/status/2056843673145401722&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>行业动态 · 更智能的 Google AI Edge Gallery：MCP 集成、通知和会话连续性</title>
-      <link>https://developers.googleblog.com/a-smarter-google-ai-edge-gallery-mcp-integration-notifications-and-session-continuity</link>
-      <guid isPermaLink="false">linggou-cmpd323rj00hhslk1bm0s582h</guid>
-      <pubDate>Wed, 20 May 2026 04:25:57 +0800</pubDate>
-      <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 04:25 · Google Developers Blog（RSS）&lt;/p&gt;
-&lt;p&gt;Google AI Edge Gallery 应用在安卓平台上扩展了设备端 AI 能力，通过引入对开源模型上下文协议（MCP）的实验性支持，使得 Gemma 4 模型能够协调处理跨 Google Workspace 和 Google Maps 等外部数据源的复杂任务。此次更新添加了&quot;定时通知&quot;技能，用于实现日常事务的自动化管理，并新增了持久化聊天记录功能，允许用户近乎即时地恢复长会话上下文。该平台依托开源工具包，积极鼓励社区开发者通过其 GitHub 仓库构建并分享专注实用的工作流、提示配置与工具集成。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://developers.googleblog.com/a-smarter-google-ai-edge-gallery-mcp-integration-notifications-and-session-continuity&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>技术工具 · Gemini 3.5 Flash快速构建互动游戏</title>
-      <link>https://x.com/GeminiApp/status/2056829734181585038</link>
-      <guid isPermaLink="false">linggou-cmpd3im1b00mislk1cy88q2ht</guid>
-      <pubDate>Wed, 20 May 2026 04:09:57 +0800</pubDate>
-      <category>技术工具</category>
-      <description>&lt;p&gt;&lt;strong&gt;🛠️ 技术工具&lt;/strong&gt; · 今天 04:09 · X：Gemini (@GeminiApp)&lt;/p&gt;
-&lt;p&gt;使用 Gemini 3.5 Flash 构建你的第一款游戏。
-无需复杂的3D建模，即可将日常物品直接转化为互动的数字体验。从一个 Nano Banana 提示开始，在 Canvas 中将你的图像变成游戏，并优化你的愿景以获得最佳游戏体验。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/GeminiApp/status/2056829734181585038&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>行业动态 · OpenAI推出长期算力保障服务</title>
-      <link>https://x.com/OpenAI/status/2056823271774101907</link>
-      <guid isPermaLink="false">linggou-cmpd2mw0v00fgslk1zs271rbt</guid>
-      <pubDate>Wed, 20 May 2026 03:44:16 +0800</pubDate>
-      <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 03:44 · X：OpenAI (@OpenAI)&lt;/p&gt;
-&lt;p&gt;推出 OpenAI Guaranteed Capacity：一项新服务，让客户能够保障长期获取 OpenAI 算力。
+我们正在与其他公司进行类似合作的讨论。
 
-我们已在基础设施、合作伙伴关系和容量规划方面进行了长期投资，以帮助客户可靠地扩展。
-
-现在，Guaranteed Capacity 帮助客户在算力受限的环境中提前规划关键工作负载。
-
-http：//openai.com/guaranteed-capacity&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/OpenAI/status/2056823271774101907&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+随着时间的推移，特别是通过轨道数据中心，我们预计将以极高的规模提供AI服务。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/elonmusk/status/2057228707606196434&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>技术工具 · Google Tensor ML SDK 测试版发布</title>
-      <link>https://developers.googleblog.com/google-tensor-sdk-beta-with-litert</link>
-      <guid isPermaLink="false">linggou-cmpd0wx2i01xdsljlb5qn6lbf</guid>
-      <pubDate>Wed, 20 May 2026 03:25:56 +0800</pubDate>
-      <category>技术工具</category>
-      <description>&lt;p&gt;&lt;strong&gt;🛠️ 技术工具&lt;/strong&gt; · 今天 03:25 · Google Developers Blog（RSS）&lt;/p&gt;
-&lt;p&gt;Google Tensor ML SDK 进入测试版，支持开发者直接在 Pixel 10 设备的 TPU 上构建和部署高性能机器学习模型。该 SDK 集成边缘部署框架 LiteRT，提供统一工作流，可高效转换、编译并运行 PyTorch 或 TFLite 模型，并具备稳定回退机制。此外，新推出的模型库包含超过 100 个经典及生成式 AI 模型（如 Gemma 3），支持低延迟、注重隐私的语音识别、计算机视觉与文本生成等功能。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://developers.googleblog.com/google-tensor-sdk-beta-with-litert&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <title>行业动态 · xAI去年亏损64亿美元--SpaceX的IPO文件揭示其支出远未停止的原因</title>
+      <link>https://techcrunch.com/2026/05/20/xai-burned-6-4b-last-year-spacexs-ipo-filing-shows-why-the-spending-is-far-from-over</link>
+      <guid isPermaLink="false">linggou-cmpernh3q009islbgmnyamfj0</guid>
+      <pubDate>Thu, 21 May 2026 06:26:08 +0800</pubDate>
+      <category>行业动态</category>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 06:26 · TechCrunch：AI（RSS）&lt;/p&gt;
+&lt;p&gt;SpaceX的IPO文件首次披露了xAI在2025年的财务状况，显示该AI公司去年亏损高达64亿美元。文件同时揭示了xAI计划对Grok进行大规模扩张的战略，解释了马斯克旗下AI业务持续高额支出的原因。这份公开文件为外界提供了观察马斯克AI产业投资规模与财务表现的罕见窗口。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://techcrunch.com/2026/05/20/xai-burned-6-4b-last-year-spacexs-ipo-filing-shows-why-the-spending-is-far-from-over&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>AIGC内容创作 · Gemini Omni发布：物理推理与多模态生成新突破</title>
-      <link>https://x.com/sundarpichai/status/2056816915717443862</link>
-      <guid isPermaLink="false">linggou-cmpd1208z01yasljldmz8605q</guid>
-      <pubDate>Wed, 20 May 2026 03:19:01 +0800</pubDate>
+      <title>行业动态 · Google Stitch更新：AI设计助手实现全流程构建</title>
+      <link>https://x.com/googleaidevs/status/2057209295763300785</link>
+      <guid isPermaLink="false">linggou-cmpekzpha0dc3slk1bphli6rh</guid>
+      <pubDate>Thu, 21 May 2026 05:18:11 +0800</pubDate>
+      <category>行业动态</category>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 05:18 · X：Google AI for Developers (@googleaidevs)&lt;/p&gt;
+&lt;p&gt;Google推出了其AI设计伙伴Stitch的多项重要更新。新功能支持实时流式构建设计，允许用户在不中断流程的情况下直接进行编辑和互动反馈。Stitch现已能够导入现有代码库或Design.md文件，基于实际生产组件进行设计以保持品牌一致性。同时，工具新增了动态界面生成功能，并可将设计项目直接导出为可分享的线上URL，简化了从原型到生产的部署流程。该工具现已面向全球用户开放。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/googleaidevs/status/2057209295763300785&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>行业动态 · Meta万人重组：裁员与AI转型并举</title>
+      <link>https://x.com/rohanpaul_ai/status/2057177976492720363</link>
+      <guid isPermaLink="false">linggou-cmpegqt3n0cbsslk168f7p6g7</guid>
+      <pubDate>Thu, 21 May 2026 03:13:44 +0800</pubDate>
+      <category>行业动态</category>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 03:13 · X：Rohan Paul (@rohanpaul_ai)&lt;/p&gt;
+&lt;p&gt;Meta启动大规模裁员，计划削减约8000个岗位。与此同时，约7000名员工将被调配至新的AI相关职位。此次调整并非单纯的削减成本，更是公司围绕AI进行内部结构重塑的关键举措，重点将资源集中于AI基础设施、基础模型的构建以及AI技术的商业化，旨在打造从模型训练、产品开发到实现盈利的完整链条。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/rohanpaul_ai/status/2057177976492720363&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>行业动态 · MiniMax语音模型新增600余种声音</title>
+      <link>https://x.com/MiniMax_AI/status/2057177048356180296</link>
+      <guid isPermaLink="false">linggou-cmpefwk7h0c4bslk1nhzkfwqz</guid>
+      <pubDate>Thu, 21 May 2026 03:10:03 +0800</pubDate>
+      <category>行业动态</category>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 03:10 · X：MiniMax (@MiniMax_AI)&lt;/p&gt;
+&lt;p&gt;600多种由MiniMax Speech 2.8 Turbo驱动的新声音现已登陆Together AI @togethercompute 🎙️✨
+
+立即体验：https：//voicefinder.together.ai/minimax--speech-2.8-turbo&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/MiniMax_AI/status/2057177048356180296&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>行业动态 · 上下文压缩技术提升搜索效率与准确性</title>
+      <link>https://x.com/perplexity_ai/status/2057151002105753950</link>
+      <guid isPermaLink="false">linggou-cmpecsrym0bf5slk1l0wn31kj</guid>
+      <pubDate>Thu, 21 May 2026 01:26:33 +0800</pubDate>
+      <category>行业动态</category>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 01:26 · X：Perplexity (@perplexity_ai)&lt;/p&gt;
+&lt;p&gt;我们已将查询感知压缩技术投入生产，以实现更快、更清晰、更准确的搜索。
+更好的上下文优于更多的上下文。
+我们的系统可将上下文令牌最多削减70%，同时提升回答质量。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/perplexity_ai/status/2057151002105753950&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AIGC内容创作 · OpenRouter自动路由缓存机制说明</title>
+      <link>https://x.com/OpenRouter/status/2057128446300737702</link>
+      <guid isPermaLink="false">linggou-cmpe9h2il0amgslk1ywo4qg27</guid>
+      <pubDate>Wed, 20 May 2026 23:56:55 +0800</pubDate>
       <category>AIGC内容创作</category>
-      <description>&lt;p&gt;&lt;strong&gt;📽️ AIGC 内容创作&lt;/strong&gt; · 今天 03:19 · X：Sundar Pichai (@sundarpichai)&lt;/p&gt;
-&lt;p&gt;Gemini Omni不仅能构建逼真的场景，还能推理接下来应该发生什么。它结合了对物理的直观理解与Gemini在历史、科学和文化背景方面的知识。
-今日起，通过@Geminiapp + Google Flow和@YouTube Shorts，向全球Google AI Plus、Pro和Ultra订阅用户推出视频生成功能。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/sundarpichai/status/2056816915717443862&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;📽️ AIGC 内容创作&lt;/strong&gt; · 今天 23:56 · X：OpenRouter (@OpenRouter)&lt;/p&gt;
+&lt;p&gt;提示💡 你无需担心自动路由（以及所有单独模型）的缓存未命中问题
+OpenRouter会将你的会话固定在一个模型/提供商上，直到缓存过期&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/OpenRouter/status/2057128446300737702&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>行业动态 · Gemini Omni：从任意输入创造内容的新模型</title>
-      <link>https://x.com/GoogleAI/status/2056816653770625406</link>
-      <guid isPermaLink="false">linggou-cmpd1fujg022bsljlzjla22ld</guid>
-      <pubDate>Wed, 20 May 2026 03:17:58 +0800</pubDate>
-      <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 03:17 · X：Google AI (@GoogleAI)&lt;/p&gt;
-&lt;p&gt;到现在，你可能已经听说了 Gemini Omni，这是我们新推出的模型，旨在从任意输入（从视频开始）创造任何内容。
-但……这有什么大不了的？
-让我们来分解一下 🧵👇&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/GoogleAI/status/2056816653770625406&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>行业动态 · 谷歌发布Gemini Omni多模态生成模型</title>
-      <link>https://x.com/GeminiApp/status/2056814052039356806</link>
-      <guid isPermaLink="false">linggou-cmpd0arrt01tdsljlfb386xpt</guid>
-      <pubDate>Wed, 20 May 2026 03:07:38 +0800</pubDate>
-      <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 03:07 · X：Gemini (@GeminiApp)&lt;/p&gt;
-&lt;p&gt;介绍Gemini Omni，我们的新模型，可以从任何输入创建任何内容，首先从视频开始。
-
-借助Gemini Omni，您可以将图像、视频和文本作为输入组合，并生成基于Gemini现实世界知识的高质量视频。#GoogleIO&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/GeminiApp/status/2056814052039356806&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>AIGC内容创作 · Gemini for Science：AI助力科学突破</title>
-      <link>https://x.com/GoogleDeepMind/status/2056808869242826957</link>
-      <guid isPermaLink="false">linggou-cmpd0e4ea01uusljl9rf0wtov</guid>
-      <pubDate>Wed, 20 May 2026 02:47:02 +0800</pubDate>
+      <title>AIGC内容创作 · AI视频一致性始于动作之前</title>
+      <link>https://x.com/PixVerse_/status/2057114262145818752</link>
+      <guid isPermaLink="false">linggou-cmpe6yylc0a04slk1ip15yb89</guid>
+      <pubDate>Wed, 20 May 2026 23:00:34 +0800</pubDate>
       <category>AIGC内容创作</category>
-      <description>&lt;p&gt;&lt;strong&gt;📽️ AIGC 内容创作&lt;/strong&gt; · 今天 02:47 · X：Google DeepMind (@GoogleDeepMind)&lt;/p&gt;
-&lt;p&gt;我们希望借助AI帮助科学家发现下一个重大突破。
+      <description>&lt;p&gt;&lt;strong&gt;📽️ AIGC 内容创作&lt;/strong&gt; · 今天 23:00 · X：PixVerse (@PixVerse_)&lt;/p&gt;
+&lt;p&gt;AI视频的一致性始于动作之前。
+对于这个15秒的烹饪短片，我们首先在PixVerse中生成了一个清晰的角色分镜。
+然后将其用作视频的参考。
+相同的角色。清晰的故事节点。
+镜头指导。动作细节。
+转发 + 关注 + 回复 = 分镜工作流&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/PixVerse_/status/2057114262145818752&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>行业动态 · SenseNova U1：同时思考文本与图像的AI</title>
+      <link>https://x.com/SenseTime_AI/status/2057049434782097851</link>
+      <guid isPermaLink="false">linggou-cmpdxscye07wxslk1wdfmza4f</guid>
+      <pubDate>Wed, 20 May 2026 18:42:58 +0800</pubDate>
+      <category>行业动态</category>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 18:42 · X：商汤 SenseTime (@SenseTime_AI)&lt;/p&gt;
+&lt;p&gt;将你的想法转化为激发故事的视觉画面 🧨
 
-Gemini for Science是我们全新的实验性工具套件，旨在帮助他们探索更多假设、大规模验证工作、轻松解析文献等。🧵&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/GoogleDeepMind/status/2056808869242826957&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>行业动态 · OlmoEarth v1.1： 更高效的模型家族</title>
-      <link>https://huggingface.co/blog/allenai/olmoearth-v1-1</link>
-      <guid isPermaLink="false">linggou-cmpd04j7d01rnsljl7yv1wl28</guid>
-      <pubDate>Wed, 20 May 2026 02:38:09 +0800</pubDate>
-      <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 02:38 · Hugging Face：Blog（RSS）&lt;/p&gt;
-&lt;p&gt;Ai2（Allen Institute for AI）在Hugging Face平台发布了OlmoEarth模型家族的1.1版本。此次更新重点提升了模型的计算效率与运行性能，通过优化的模型架构与训练策略，使OlmoEarth v1.1在保持或增强任务表现的同时，显著降低了推理所需的计算资源与时间成本。这一改进旨在让该开源模型更适用于资源受限的部署场景，推动大规模语言模型的普惠应用。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://huggingface.co/blog/allenai/olmoearth-v1-1&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>行业动态 · GoogleIO发布多项Gemini更新</title>
-      <link>https://x.com/GeminiApp/status/2056805027394859137</link>
-      <guid isPermaLink="false">linggou-cmpcz81ck01idsljlbzgwzrzm</guid>
-      <pubDate>Wed, 20 May 2026 02:31:46 +0800</pubDate>
-      <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 02:31 · X：Gemini (@GeminiApp)&lt;/p&gt;
-&lt;p&gt;我们在#GoogleIO上宣布了多项Gemini更新，包括：
-- 采用神经表达技术的全新Gemini体验设计
-- 即将推出的Gemini智能体功能，含每日简报与Gemini Spark
-- Gemini Omni与3.5 Flash模型
-- 以及更多内容！
-详情请见此线程🧵&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/GeminiApp/status/2056805027394859137&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>行业动态 · 重要更新：Gemini CLI将迁移至Antigravity CLI</title>
-      <link>https://developers.googleblog.com/an-important-update-transitioning-gemini-cli-to-antigravity-cli</link>
-      <guid isPermaLink="false">linggou-cmpcyrr9h01d6sljl4ivqyml6</guid>
-      <pubDate>Wed, 20 May 2026 02:25:55 +0800</pubDate>
-      <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 02:25 · Google Developers Blog（RSS）&lt;/p&gt;
-&lt;p&gt;Google正在整合其AI终端工具，将面向社区的Gemini CLI迁移至全新平台Antigravity CLI。这款新工具采用Go语言开发，作为代理优先的平台，支持复杂的多代理工作流，并提供更快的执行速度、异步处理能力以及与Antigravity 2.0桌面应用同步的统一架构。企业客户可维持现有访问权限，但个人及免费用户必须在2026年6月18日Gemini CLI停止服务前，完成向新平台的迁移。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://developers.googleblog.com/an-important-update-transitioning-gemini-cli-to-antigravity-cli&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>技术工具 · Gemini Omni：迈向AGI的世界模型</title>
-      <link>https://x.com/kimmonismus/status/2056802929957568881</link>
-      <guid isPermaLink="false">linggou-cmpcyy35v01fjsljl8d7pfb15</guid>
-      <pubDate>Wed, 20 May 2026 02:23:26 +0800</pubDate>
-      <category>技术工具</category>
-      <description>&lt;p&gt;&lt;strong&gt;🛠️ 技术工具&lt;/strong&gt; · 今天 02:23 · X：Kim (@kimmonismus)&lt;/p&gt;
-&lt;p&gt;真正的&quot;哇&quot;时刻是 Gemini Omni。一个迈向 AGI 的世界模型。
+【引用 @Adamaestr0_】：大多数AI工具可以写作或生成图像。
 
-它可以从任何输入创建任何内容。这太疯狂了。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/kimmonismus/status/2056802929957568881&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>行业动态 · Gemini Spark：全天候个人AI代理</title>
-      <link>https://x.com/GeminiApp/status/2056801918018564538</link>
-      <guid isPermaLink="false">linggou-cmpcz81ck01ifsljlbi5lavdp</guid>
-      <pubDate>Wed, 20 May 2026 02:19:25 +0800</pubDate>
-      <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 02:19 · X：Gemini (@GeminiApp)&lt;/p&gt;
-&lt;p&gt;Gemini Spark 是您的全天候个人AI代理，帮助您驾驭数字生活。
+但这个能同时做这两件事。
 
-它将 Gemini 从一个回答您问题的助手，转变为一个在您的指导下、代表您完成工作的助手。#GoogleIO&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/GeminiApp/status/2056801918018564538&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>行业动态 · Gemini月活用户超9亿，回顾年度重大功能发布</title>
-      <link>https://x.com/GeminiApp/status/2056799436052017597</link>
-      <guid isPermaLink="false">linggou-cmpcz81ck01ijsljlls9n0jxx</guid>
-      <pubDate>Wed, 20 May 2026 02:09:33 +0800</pubDate>
-      <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 02:09 · X：Gemini (@GeminiApp)&lt;/p&gt;
-&lt;p&gt;每月有超过9亿用户使用Gemini应用。
+向你介绍 SenseNova U1。
+一个能同时思考文本和图像的AI。
 
-这一增长的重要部分源于我们快速的发布节奏。以下是过去一年我们推出的一些最重要功能的回顾。🧵 #GoogleIO&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/GeminiApp/status/2056799436052017597&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+这改变了一切 🧵&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/SenseTime_AI/status/2057049434782097851&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>行业动态 · 经验研究助手（ERA）：从Nature发表到催化计算发现</title>
-      <link>https://research.google/blog/empirical-research-assistance-era-from-nature-publication-to-catalyzing-computational-discovery</link>
-      <guid isPermaLink="false">linggou-cmpcy2cbs017hsljly8fua8xn</guid>
-      <pubDate>Wed, 20 May 2026 02:06:07 +0800</pubDate>
+      <title>行业动态 · Qwen 2026大会：AI原生云架构蓝图发布</title>
+      <link>https://x.com/alibaba_cloud/status/2057046828692934749</link>
+      <guid isPermaLink="false">linggou-cmpdxbe1707r9slk16ubu3l4a</guid>
+      <pubDate>Wed, 20 May 2026 18:32:36 +0800</pubDate>
       <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 02:06 · Google Research：Blog（网页）&lt;/p&gt;
-&lt;p&gt;Google Research开发的经验研究助手（ERA）现已在《Nature》期刊发表论文。这是一款基于Gemini的AI工具，旨在协助科学家编写专业级经验科学代码，其核心能力包括搜索文献、生成代码、探索方案并迭代优化，以加速耗时的计算实验过程。该工具已被用于构建&quot;计算发现&quot;原型，并已通过Google Labs的&quot;可信赖测试者计划&quot;向更广泛的科学家群体开放初步试用。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://research.google/blog/empirical-research-assistance-era-from-nature-publication-to-catalyzing-computational-discovery&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>行业动态 · AI搜索的新时代</title>
-      <link>https://blog.google/products-and-platforms/products/search/search-io-2026</link>
-      <guid isPermaLink="false">linggou-cmpcyioqw01c2sljlyy71uqlh</guid>
-      <pubDate>Wed, 20 May 2026 01:45:00 +0800</pubDate>
-      <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 01:45 · Google Blog：AI（RSS）&lt;/p&gt;
-&lt;p&gt;谷歌宣布了其搜索引擎与AI技术融合的最新进展，标志着AI搜索进入新阶段。此次更新旨在将搜索引擎的广度与AI的深度理解能力相结合，目标是提供更智能、更直观的搜索体验，推动搜索技术的下一代演进。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://blog.google/products-and-platforms/products/search/search-io-2026&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>行业动态 · I/O 2026： 欢迎来到自主的 Gemini 时代</title>
-      <link>https://blog.google/innovation-and-ai/sundar-pichai-io-2026</link>
-      <guid isPermaLink="false">linggou-cmpcyioqw01c0sljlnmkn1jvc</guid>
-      <pubDate>Wed, 20 May 2026 01:45:00 +0800</pubDate>
-      <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 01:45 · Google Blog：AI（RSS）&lt;/p&gt;
-&lt;p&gt;Google 在 I/O 2026 大会上宣布 Gemini 进入自主代理时代，新功能使其能够自动执行复杂任务，显著提升用户工作效率。大会展示了 Gemini 如何通过代理操作简化工作流程，实现自动化处理，例如自动管理邮件、安排日程或生成报告，帮助用户从重复性工作中解放出来，专注于创造性任务。这一更新基于先进机器学习模型，强调准确性与效率，标志着 AI 助手向更智能、更自主的方向发展。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://blog.google/innovation-and-ai/sundar-pichai-io-2026&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>行业动态 · AI Mode 如何改变美国人的搜索方式</title>
-      <link>https://blog.google/products-and-platforms/products/search/ai-mode-us-insights</link>
-      <guid isPermaLink="false">linggou-cmpcyioqw01bysljldf6c395o</guid>
-      <pubDate>Wed, 20 May 2026 01:45:00 +0800</pubDate>
-      <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 01:45 · Google Blog：AI（RSS）&lt;/p&gt;
-&lt;p&gt;AI Mode 上线一周年，美国用户搜索行为呈现关键转变。数据显示，用户正从传统的关键词输入模式逐渐转向自然语言查询，这一变化反映了AI搜索技术的普及和用户交互方式的优化。自然语言查询的使用率显著提升，体现了AI搜索在日常信息获取中的影响力增强，预示着未来搜索体验的革新方向。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://blog.google/products-and-platforms/products/search/ai-mode-us-insights&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>行业动态 · Gemini Spark：全天候自主AI助手</title>
-      <link>https://x.com/GeminiApp/status/2056792333132460322</link>
-      <guid isPermaLink="false">linggou-cmpcy5k73018bsljlb97r1dme</guid>
-      <pubDate>Wed, 20 May 2026 01:41:20 +0800</pubDate>
-      <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 01:41 · X：Gemini (@GeminiApp)&lt;/p&gt;
-&lt;p&gt;Gemini Spark 是你的新全天候个人AI代理。
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 18:32 · X：阿里云 / Alibaba Cloud (@alibaba_cloud)&lt;/p&gt;
+&lt;p&gt;Qwen Conference 2026：主题演讲议程
 
-给它一个任务，它会在后台自主工作，即使你的手机和笔记本电脑已关机。你选择启用它，它被设计为在执行重大操作前会先征询你的意见。#GoogleIO&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/GeminiApp/status/2056792333132460322&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+AI原生云、Agent原生云架构、推理的未来，以及多模态视觉技术发布。没有冗余内容，只有面向全球规模的工程蓝图。
+
+注册：https：//click.qwencloud.com/m/20000000190/&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/alibaba_cloud/status/2057046828692934749&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>行业动态 · Gemini Omni发布：多模态生成新突破</title>
-      <link>https://x.com/GoogleDeepMind/status/2056786446636212467</link>
-      <guid isPermaLink="false">linggou-cmpcx6f4300wysljlabcyj9qx</guid>
-      <pubDate>Wed, 20 May 2026 01:17:56 +0800</pubDate>
+      <title>行业动态 · Gemini 3.5 Flash登陆OpenCode平台</title>
+      <link>https://x.com/opencode/status/2057017380941795667</link>
+      <guid isPermaLink="false">linggou-cmpdtcko406t1slk1td8z5qvl</guid>
+      <pubDate>Wed, 20 May 2026 16:35:35 +0800</pubDate>
       <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 01:17 · X：Google DeepMind (@GoogleDeepMind)&lt;/p&gt;
-&lt;p&gt;我们推出Gemini Omni：这是迈向一个能从任何内容生成任何内容的模型的第一步--从视频开始。
-它结合了Gemini的智能与我们的生成式媒体系统--代表了在世界理解、多模态和编辑方面的飞跃🧵&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/GoogleDeepMind/status/2056786446636212467&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 16:35 · X：opencode (@opencode)&lt;/p&gt;
+&lt;p&gt;Gemini 3.5 Flash现已在OpenCode上线
+
+- 速度极快
+- 100万上下文
+- 定价与GLM、Kimi和DeepSeek Pro相近&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/opencode/status/2057017380941795667&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>技术工具 · Gemini Omni发布，迈向AGI新进展</title>
-      <link>https://x.com/kimmonismus/status/2056786433458000041</link>
-      <guid isPermaLink="false">linggou-cmpcws51o00sasljlxkb5o66r</guid>
-      <pubDate>Wed, 20 May 2026 01:17:53 +0800</pubDate>
-      <category>技术工具</category>
-      <description>&lt;p&gt;&lt;strong&gt;🛠️ 技术工具&lt;/strong&gt; · 今天 01:17 · X：Kim (@kimmonismus)&lt;/p&gt;
-&lt;p&gt;&quot;迈向AGI的进展&quot;：Gemini Omni
-
-- 世界模型
--Gemini Omni官方发布！！
-
-它可以从任何输入创建任何内容！！！&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/kimmonismus/status/2056786433458000041&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>行业动态 · 谷歌IO大会首日：创新与技术突破</title>
-      <link>https://x.com/GoogleDeepMind/status/2056782550924996816</link>
-      <guid isPermaLink="false">linggou-cmpcw3sqr00nysljliwr90t6j</guid>
-      <pubDate>Wed, 20 May 2026 01:02:27 +0800</pubDate>
+      <title>行业动态 · 欧盟委员会发布《欧盟人工智能法》高风险AI系统分类指导草案并开启公众咨询</title>
+      <link>https://www.dataguidance.com/news/eu-commission-publishes-draft-guidelines-classifying</link>
+      <guid isPermaLink="false">linggou-cmpdrp1y406erslk17f3hcrfi</guid>
+      <pubDate>Wed, 20 May 2026 15:53:27 +0800</pubDate>
       <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 01:02 · X：Google DeepMind (@GoogleDeepMind)&lt;/p&gt;
-&lt;p&gt;欢迎来到 #GoogleIO 的第一天。
-
-我们将分享 @Google 的最新创新、产品更新和技术突破。
-
-请就座前排，观看直播 → https：//goo.gle/499OxaJ&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/GoogleDeepMind/status/2056782550924996816&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 15:53 · DataGuidance：Artificial Intelligence（网页）&lt;/p&gt;
+&lt;p&gt;欧盟委员会于2026年5月19日发布了关于《欧盟人工智能法》第六条项下高风险AI系统分类的指导草案。该草案旨在为AI系统的提供商、部署者及市场监管机构提供明确的分类标准，以确保在欧盟范围内执法的一致性。分类主要依据AI系统的预期用途，例如作为受监管产品的组件或用于特定高风险场景。草案也规定了部分豁免条件，例如仅执行辅助性任务时可能不被视为高风险。公众咨询期至206月23日。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.dataguidance.com/news/eu-commission-publishes-draft-guidelines-classifying&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>AIGC内容创作 · NVIDIA开源首个4-bit超长视频生成基础设施</title>
-      <link>https://x.com/berryxia/status/2056767536033894825</link>
-      <guid isPermaLink="false">linggou-cmpctnv2x00aasl50qkhm1z0l</guid>
-      <pubDate>Wed, 20 May 2026 00:02:48 +0800</pubDate>
+      <title>AIGC内容创作 · Prompt驱动AI生成超真实足球自拍视频</title>
+      <link>https://x.com/PixVerse_/status/2057003487716876505</link>
+      <guid isPermaLink="false">linggou-cmpdrygmm06h6slk1p9i7u76y</guid>
+      <pubDate>Wed, 20 May 2026 15:40:23 +0800</pubDate>
       <category>AIGC内容创作</category>
-      <description>&lt;p&gt;&lt;strong&gt;📽️ AIGC 内容创作&lt;/strong&gt; · 今天 00:02 · X：Berry Xia (@berryxia)&lt;/p&gt;
-&lt;p&gt;NVIDIA研究员开源LongLive 2.0，这是首个支持4-bit量化、覆盖训练与推理全流程的端到端长视频生成基础设施。其核心技术包括FP4量化与并行加速，在5B模型上实现45.7 FPS的生成速度。该框架支持真实视频训练、蒸馏、多镜头生成、序列并行、KV缓存优化及异步解码部署，旨在解决以往长视频生成速度慢或仅限短片的瓶颈。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/berryxia/status/2056767536033894825&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;📽️ AIGC 内容创作&lt;/strong&gt; · 今天 15:40 · X：PixVerse (@PixVerse_)&lt;/p&gt;
+&lt;p&gt;这条推文展示了一个用于在PixVerse平台生成视频的复杂提示词。核心目标是制作一段在大型体育场内，五位朋友进行超真实智能手机自拍风格的视频。提示词的关键在于，它通过极其详细的设定来确保生成内容的连贯性和真实感：包括对五个角色外貌的严格一致性要求、具体的球场环境、模拟真实手机拍摄的镜头运动（如抖动、失焦）以及一系列自然的动作序列。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/PixVerse_/status/2057003487716876505&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>行业动态 · Luma Agents现已支持Seedance 2.0生成</title>
-      <link>https://x.com/LumaLabsAI/status/2056766837430600099</link>
-      <guid isPermaLink="false">linggou-cmpctnmzc009csl50wbxd15zx</guid>
-      <pubDate>Wed, 20 May 2026 00:00:01 +0800</pubDate>
+      <title>行业动态 · 开源油猴脚本实现多平台截图上传与内容处理</title>
+      <link>https://x.com/vista8/status/2056982823169568779</link>
+      <guid isPermaLink="false">linggou-cmpdoor1405odslk1agikxaqm</guid>
+      <pubDate>Wed, 20 May 2026 14:18:16 +0800</pubDate>
       <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 00:00 · X：Luma AI (@LumaLabsAI)&lt;/p&gt;
-&lt;p&gt;Luma Agents现在可以使用Seedance 2.0进行生成了。
-
-将你的下一个项目指向它，看看它能产出什么，然后继续前进。同样的工作流程，但有了更多可用内容。
-
-打开Luma Agents → http：//lumalabs.ai/app&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/LumaLabsAI/status/2056766837430600099&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 14:18 · X：Vista (@vista8)&lt;/p&gt;
+&lt;p&gt;开源油猴脚本实现小红书、抖音、微信公众号的截图粘贴自动上传，并支持YouTube字幕复制、倍速调节及内容导出至NotebookLM、ChatGPT等工具。主推文作者表示，该工具增强了将X平台内容同步至国内平台的意愿，尽管部分平台体验欠佳。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/vista8/status/2056982823169568779&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>行业动态 · Andrej加入Anthropic，马斯克也点赞</title>
-      <link>https://x.com/Yuchenj_UW/status/2056764450712256753</link>
-      <guid isPermaLink="false">linggou-cmpcth4wt0087slb7hk5e83cp</guid>
-      <pubDate>Tue, 19 May 2026 23:50:32 +0800</pubDate>
-      <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 23:50 · X：Yuchen Jin (@Yuchenj_UW)&lt;/p&gt;
-&lt;p&gt;Andrej加入了Anthropic。
-连Elon都忍不住称赞Anthropic。
-Anthropic今天在Google I/O上真是气场全开。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/Yuchenj_UW/status/2056764450712256753&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>行业动态 · 前OpenAI核心成员Andrej Karpathy选择Anthropic重返前沿LLM研究</title>
-      <link>https://the-decoder.com/prominent-ai-researcher-andrej-karpathy-picks-anthropic-over-former-home-openai-to-get-back-into-frontier-llm-research</link>
-      <guid isPermaLink="false">linggou-cmpctird30077sl50ywlas903</guid>
-      <pubDate>Tue, 19 May 2026 23:29:27 +0800</pubDate>
-      <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 23:29 · The Decoder：AI News（RSS）&lt;/p&gt;
-&lt;p&gt;著名AI研究人员Andrej Karpathy已加入Anthropic。这位前OpenAI核心团队成员兼特斯拉Autopilot架构师表示，他希望重返研发一线，称未来几年在大语言模型（LLM）前沿的研究&quot;尤其具有塑造性&quot;。他选择Anthropic而非回归前东家OpenAI，这对后者而言是一个明显的损失。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://the-decoder.com/prominent-ai-researcher-andrej-karpathy-picks-anthropic-over-former-home-openai-to-get-back-into-frontier-llm-research&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>行业动态 · OpenRouter工具调用模型现可自主进行网络搜索</title>
-      <link>https://x.com/OpenRouter/status/2056758698400452705</link>
-      <guid isPermaLink="false">linggou-cmpcsj6sz050yslae7rv43rvq</guid>
-      <pubDate>Tue, 19 May 2026 23:27:41 +0800</pubDate>
-      <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 23:27 · X：OpenRouter (@OpenRouter)&lt;/p&gt;
-&lt;p&gt;OpenRouter上的任何工具调用模型现在都可以自主调用网络搜索和网页抓取功能。
-模型可以自行决定何时搜索、搜索什么以及搜索次数。
-我们新增了@p0作为新的网络搜索提供商。了解更多：https：//openrouter.ai/announcements/agentic-web-tools&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/OpenRouter/status/2056758698400452705&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>行业动态 · Karpathy加入Anthropic团队</title>
-      <link>https://x.com/ClaudeDevs/status/2056753265346564259</link>
-      <guid isPermaLink="false">linggou-cmpcsj5pu050sslaeoga8am89</guid>
-      <pubDate>Tue, 19 May 2026 23:06:05 +0800</pubDate>
-      <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 23:06 · X：Claude Devs (@ClaudeDevs)&lt;/p&gt;
-&lt;p&gt;欢迎加入团队，Andrej！&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/ClaudeDevs/status/2056753265346564259&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>行业动态 · DAA：智能体时代的核心指标</title>
-      <link>https://x.com/Baidu_Inc/status/2056736643781165127</link>
-      <guid isPermaLink="false">linggou-cmpcq7kv204e7slaegeeljncq</guid>
-      <pubDate>Tue, 19 May 2026 22:00:02 +0800</pubDate>
-      <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 22:00 · X：百度 Baidu (@Baidu_Inc)&lt;/p&gt;
-&lt;p&gt;这里快速补充一个指标新词：DAA。
-全称 Daily Active Agents（每日活跃智能体），相当于智能体时代的 DAU。
-如果说代币经济学追踪成本，那么 DAA 追踪产出--智能体实际完成了多少工作。
-完整对比见下文 ↓&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/Baidu_Inc/status/2056736643781165127&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>行业动态 · 宣布Claude Managed Agents登陆Cloudflare</title>
-      <link>https://blog.cloudflare.com/claude-managed-agents</link>
-      <guid isPermaLink="false">linggou-cmpcr5ydw04mpslaee36vi0j9</guid>
-      <pubDate>Tue, 19 May 2026 21:00:00 +0800</pubDate>
-      <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 21:00 · Cloudflare Blog&lt;/p&gt;
-&lt;p&gt;Cloudflare宣布与Anthropic的Claude Managed Agents深度整合，提供快速、隔离的自主代码交付执行环境。该集成使开发者能够在全球范围内扩展代理工作流，同时严格控制私有后端访问权限，并支持灵活自定义代理工具及运行时配置。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://blog.cloudflare.com/claude-managed-agents&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>行业动态 · Forge：通过防护机制大幅提升8B模型性能的可靠性层</title>
-      <link>https://github.com/antoinezambelli/forge</link>
-      <guid isPermaLink="false">linggou-cmpd5r3ih015bslk1uyo2y504</guid>
-      <pubDate>Tue, 19 May 2026 20:23:07 +0800</pubDate>
-      <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 20:23 · Hacker News：AI 热帖&lt;/p&gt;
-&lt;p&gt;Forge 是一个为自托管大语言模型设计的可靠性层，专注于提升工具调用能力。它通过错误解析、重试提示、步骤强制等防护机制以及高效的上下文管理，成功将8B参数模型在复杂多步骤智能体任务中的表现从53%大幅提升至99%。其核心配置（Ministral-3 8B模型）在自建的26项评估中综合得分达86.5%。Forge 提供三种集成方式：作为全托管工作流运行器、多智能体架构的共享调度器，或嵌入自有编排循环的防护中间件，并附带一个可透明接入的OpenAI兼容代理服务器。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/antoinezambelli/forge&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>行业动态 · 推进内容溯源，构建更安全、更透明的AI生态系统</title>
-      <link>https://openai.com/index/advancing-content-provenance</link>
-      <guid isPermaLink="false">linggou-cmpcxv1cv014esljlajekrpeq</guid>
-      <pubDate>Tue, 19 May 2026 18:45:00 +0800</pubDate>
-      <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 18:45 · OpenAI：官网动态（RSS · 排除企业/客户案例）&lt;/p&gt;
-&lt;p&gt;OpenAI推出了新的AI内容溯源体系，旨在提升AI生成媒体的可信度。该体系集成了Content Credentials和SynthID两种技术标准，并配套推出了一个验证工具。此举的核心目标是帮助公众有效识别AI生成的内容，从而建立对AI媒体的信任，最终推动一个更安全、更透明的AI生态发展。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://openai.com/index/advancing-content-provenance&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>技术工具 · 地平线开源 HoloMotion-1 4 亿参数机器人小脑大模型，可实现舞蹈、健身、搬箱子等动作</title>
-      <link>https://www.ithome.com/0/952/354.htm</link>
-      <guid isPermaLink="false">linggou-cmpce9a1i01kislaea9ioa7tn</guid>
-      <pubDate>Tue, 19 May 2026 16:08:57 +0800</pubDate>
-      <category>技术工具</category>
-      <description>&lt;p&gt;&lt;strong&gt;🛠️ 技术工具&lt;/strong&gt; · 今天 16:08 · IT之家（RSS）&lt;/p&gt;
-&lt;p&gt;地平线机器人实验室发布了其开源的人形机器人全身控制模型 HoloMotion-1。这是一个拥有 4 亿参数的&quot;小脑&quot;大模型，通过 MoE 稀疏激活与 KV-cache 推理机制，在端侧实现了约 300FPS 的实时推理能力。该模型利用互联网视频、光学动捕、VR 遥操作等多种来源的动作数据进行训练，并在真实机器人上成功展示了舞蹈、爬行、健身、搬箱子等复杂动作的零样本迁移能力。相关代码与技术报告已公开。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.ithome.com/0/952/354.htm&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>行业动态 · Kimi最新融资获国资与央企加注，估值半年翻四倍</title>
-      <link>https://www.ithome.com/0/952/336.htm</link>
-      <guid isPermaLink="false">linggou-cmpcc46av011oslaeonk3qlxc</guid>
-      <pubDate>Tue, 19 May 2026 15:39:15 +0800</pubDate>
-      <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 15:39 · IT之家（RSS）&lt;/p&gt;
-&lt;p&gt;月之暗面旗下AI助手Kimi正在进行20亿美元新融资，国智投、中国移动等国资机构及央企已加入股东名单，该轮融资已进入收尾阶段。今年1月和2月，Kimi已密集完成3轮融资，累计融资超39亿美元（约376亿元人民币），最新估值相比去年11月已翻4倍有余，成为大模型创业公司中融资最多的企业。产品层面，基于Kimi K2.5模型的Composer 2.5已集成至编程应用Cursor，公司近期也发布了开源模型Kimi K2.6。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.ithome.com/0/952/336.htm&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>AIGC内容创作 · 快讯 | 字节跳动将推出Seedance 2.1，正面刚Veo 4？</title>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkwNjY3NzI2NA==&amp;mid=2247516309&amp;idx=1&amp;sn=40c3f4f98c686b6f2adb9e0bc15987d5&amp;chksm=c157a6c6fc5817f859704810fd3a449260eb5f061a583947d6606d981747d755edfb247a414f&amp;scene=0#rd</link>
-      <guid isPermaLink="false">linggou-extra-短剧自习室-2586253355725992449</guid>
-      <pubDate>Tue, 19 May 2026 23:08:00 +0800</pubDate>
+      <title>AIGC内容创作 · 中专生手搓的《丧尸清道夫》，凭什么震撼好莱坞大佬？</title>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkwNjY3NzI2NA==&amp;mid=2247516366&amp;idx=1&amp;sn=f74bfbc7913bc2eccab802e3670d8b9c&amp;chksm=c1e436968a582467a369be3902d30564222485d1bf9e69c6323445878a29a8e97d33d30651bd&amp;scene=0#rd</link>
+      <guid isPermaLink="false">linggou-extra-短剧自习室-6839309722443899142</guid>
+      <pubDate>Wed, 20 May 2026 19:29:00 +0800</pubDate>
       <category>AIGC内容创作</category>
-      <description>&lt;p&gt;&lt;strong&gt;📽️ AIGC 内容创作&lt;/strong&gt; · 今天 23:08 · 短剧自习室&lt;/p&gt;
-&lt;p&gt;Pandaily今日报道称，据知情人士透露，字节跳动正在准备发布新版本的AI视频生成模型Seedance 2.1，并强调“推出即将到来”。截至发稿前，字节跳动尚未宣布正式发布日期。报道还表示，字节跳动计划将Seedance 2.1集成到其内容创作工具套件中，包括剪映。（相关截图）据悉，该版本在生成质...&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkwNjY3NzI2NA==&amp;mid=2247516309&amp;idx=1&amp;sn=40c3f4f98c686b6f2adb9e0bc15987d5&amp;chksm=c157a6c6fc5817f859704810fd3a449260eb5f061a583947d6606d981747d755edfb247a414f&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;📽️ AIGC 内容创作&lt;/strong&gt; · 今天 19:29 · 短剧自习室&lt;/p&gt;
+&lt;p&gt;上周，抖音博主@Mx-Shell 制作的AI短片《丧尸清道夫》火遍全网。背后没有工业化团队，而是一个云南中专生靠一台电脑，花了10天时间、3000块钱做出来，效果好到让好莱坞大佬到处寻人，试图高薪聘请。截至发稿前，这部3分33秒的AI短片累计点赞量374.8万，拿下136.9万转发、5.3万评论、4...&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkwNjY3NzI2NA==&amp;mid=2247516366&amp;idx=1&amp;sn=f74bfbc7913bc2eccab802e3670d8b9c&amp;chksm=c1e436968a582467a369be3902d30564222485d1bf9e69c6323445878a29a8e97d33d30651bd&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>AIGC内容创作 · 快手8亿现金砸向短漫剧，意味着什么？</title>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkwNjY3NzI2NA==&amp;mid=2247516302&amp;idx=1&amp;sn=2fe44c7e7ea84e82e576f15c5b46040a&amp;chksm=c1bc3d433432e1cf5964018b43335289689491502d88f5067ae889e77e4c6ed2b3216c116433&amp;scene=0#rd</link>
-      <guid isPermaLink="false">linggou-extra-短剧自习室--3465855334761263697</guid>
-      <pubDate>Tue, 19 May 2026 18:36:00 +0800</pubDate>
+      <title>AIGC内容创作 · 重磅！刚刚OpenAI宣布通用模型解决困扰人类80年的单位距离问题，彻底震惊整个数学界</title>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&amp;mid=2247514989&amp;idx=1&amp;sn=5829826d64ba9e734076ab39caecb22d&amp;chksm=cfa79b6638fb233e5d2f5bdaa03cca978787be664cfc1f91eb656a8d06148d508fa2a6ba2b43&amp;scene=0#rd</link>
+      <guid isPermaLink="false">linggou-extra-AI寒武纪--5437006652232970555</guid>
+      <pubDate>Thu, 21 May 2026 07:00:00 +0800</pubDate>
       <category>AIGC内容创作</category>
-      <description>&lt;p&gt;&lt;strong&gt;📽️ AIGC 内容创作&lt;/strong&gt; · 今天 18:36 · 短剧自习室&lt;/p&gt;
-&lt;p&gt;5月19日，“热AI驱动”2026快手磁力引擎内容消费商业大会在长沙启幕，共探行业风向，共享内容价值，共启全新商业序章。大会上，快手磁力引擎内容消费、流量与搜索业务负责人孔慧指出，AI的爆发对内容行业进行了“结构性重塑”。她分享了一组关键数据：截至2026年4月，快手短剧内容日均曝光规模达1.29亿...&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkwNjY3NzI2NA==&amp;mid=2247516302&amp;idx=1&amp;sn=2fe44c7e7ea84e82e576f15c5b46040a&amp;chksm=c1bc3d433432e1cf5964018b43335289689491502d88f5067ae889e77e4c6ed2b3216c116433&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;📽️ AIGC 内容创作&lt;/strong&gt; · 今天 07:00 · AI寒武纪&lt;/p&gt;
+&lt;p&gt;↑阅读之前记得关注+星标⭐️，😄，每天才能第一时间接收到更新 OpenAI宣布AI首次自主攻克顶级数学开放问题，连证明思路都让数学家意想不到一个困扰数学界将近80年的问题，被AI解决了。而且是自主解决的，没有任何专门为这个问题设计的系统，也没有专门的数学训练。这个问题叫做平面单位距离问题，由匈牙利...&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&amp;mid=2247514989&amp;idx=1&amp;sn=5829826d64ba9e734076ab39caecb22d&amp;chksm=cfa79b6638fb233e5d2f5bdaa03cca978787be664cfc1f91eb656a8d06148d508fa2a6ba2b43&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>AIGC内容创作 · 突发！刚刚Andrej Karpathy宣布加入Anthropic</title>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&amp;mid=2247514952&amp;idx=1&amp;sn=0441a8f3107251ff5e1175237eabd123&amp;chksm=cfc6a69921b969485b2ef675c772389ae00aa82705d3c9d8bc33bb2aa3856a04a7b238b97891&amp;scene=0#rd</link>
-      <guid isPermaLink="false">linggou-extra-AI寒武纪-940010603398303977</guid>
-      <pubDate>Tue, 19 May 2026 23:27:00 +0800</pubDate>
+      <title>AIGC内容创作 · 大厂HR：AI时代，我们招什么人？</title>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzk3NTQxODIxMQ==&amp;mid=2247533360&amp;idx=1&amp;sn=aa5d12286dbc12d775c88d340b0537be&amp;chksm=c4c9e53cf3be6c2af7c9178e86a8ed93b3fb7f94fa05c234665d3ea118d6dbaeb1a2b637df4a#rd</link>
+      <guid isPermaLink="false">linggou-extra-AIGC新智界-3988631921071929444</guid>
+      <pubDate>Wed, 20 May 2026 17:17:00 +0800</pubDate>
       <category>AIGC内容创作</category>
-      <description>&lt;p&gt;&lt;strong&gt;📽️ AIGC 内容创作&lt;/strong&gt; · 今天 23:27 · AI寒武纪&lt;/p&gt;
-&lt;p&gt;AK大神刚刚宣布加入A厂，投身一线研发工作，自己的教育公司估计会暂停以后估计会有段时间看不到AK的推文了，其实AK之前有表示过自己脱离AI一线比较久了，AI发展的太快，快到他自己都焦虑，怕跟不上前沿，去年12月A厂的opus4.5对AK的冲击不小，彻底改变了他过去几十年的编程习惯，CC创始人已经表示...&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&amp;mid=2247514952&amp;idx=1&amp;sn=0441a8f3107251ff5e1175237eabd123&amp;chksm=cfc6a69921b969485b2ef675c772389ae00aa82705d3c9d8bc33bb2aa3856a04a7b238b97891&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;📽️ AIGC 内容创作&lt;/strong&gt; · 今天 17:17 · AIGC新智界&lt;/p&gt;
+&lt;p&gt;简历上写“会用AI”，已经过时了。定焦One（dingjiaoone）原创作者 | 李梦冉 王璐 王汉星 雷晶 金玙璠编辑 | 金玙璠如果你最近在找工作，或者打算跳槽，大概率会发现：现在大厂的招聘JD里，AI的含量高得吓人。两年前，如果你的简历上写着“熟练使用ChatGPT”，HR可能还会多看两眼，...&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=Mzk3NTQxODIxMQ==&amp;mid=2247533360&amp;idx=1&amp;sn=aa5d12286dbc12d775c88d340b0537be&amp;chksm=c4c9e53cf3be6c2af7c9178e86a8ed93b3fb7f94fa05c234665d3ea118d6dbaeb1a2b637df4a#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>AIGC内容创作 · 大厂代码库几百万行，Claude Code怎么跑起来的？Anthropic首次公开全套打法</title>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&amp;mid=2247514948&amp;idx=1&amp;sn=d3128948dad7db3c03ab12fc965dafaf&amp;chksm=cf1b63653cb0277f03dcbb1a062e3120f5701b311cf6ed730ebaf2e2fcb47813710542f8ba77&amp;scene=0#rd</link>
-      <guid isPermaLink="false">linggou-extra-AI寒武纪--3406051649342763082</guid>
-      <pubDate>Tue, 19 May 2026 13:38:00 +0800</pubDate>
-      <category>AIGC内容创作</category>
-      <description>&lt;p&gt;&lt;strong&gt;📽️ AIGC 内容创作&lt;/strong&gt; · 今天 13:38 · AI寒武纪&lt;/p&gt;
-&lt;p&gt;↑阅读之前记得关注+星标⭐️，😄，每天才能第一时间接收到更新  Claude Code正在被部署进数百万行代码的单体仓库、运行了数十年的遗留系统、跨几十个代码库的分布式架构，以及拥有数千名开发者的大型组织。Anthropic刚刚发布了一篇面向企业规模部署的系列文章首篇，系统性地总结了这些场景下的最...&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&amp;mid=2247514948&amp;idx=1&amp;sn=d3128948dad7db3c03ab12fc965dafaf&amp;chksm=cf1b63653cb0277f03dcbb1a062e3120f5701b311cf6ed730ebaf2e2fcb47813710542f8ba77&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>AIGC内容创作 · 抖音集团短剧版权中心：真人剧本合作政策发布，保底&amp;激励可叠加享受</title>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyNjU5MzI1OA==&amp;mid=2247575427&amp;idx=1&amp;sn=83f8154004b5237cb8cd804ed19c3798&amp;chksm=c336d730bdc8dbb312a54787e16bb404f49dd2afe2a6ea5abdd63e59826a4fb3912949d4192d&amp;scene=0#rd</link>
-      <guid isPermaLink="false">linggou-extra-短剧内行人--6253799141604559169</guid>
-      <pubDate>Tue, 19 May 2026 19:47:00 +0800</pubDate>
-      <category>AIGC内容创作</category>
-      <description>&lt;p&gt;&lt;strong&gt;📽️ AIGC 内容创作&lt;/strong&gt; · 今天 19:47 · 短剧内行人&lt;/p&gt;
-&lt;p&gt;平台地址：http://www.jintiankansha.me/t/w00nLfylql&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkyNjU5MzI1OA==&amp;mid=2247575427&amp;idx=1&amp;sn=83f8154004b5237cb8cd804ed19c3798&amp;chksm=c336d730bdc8dbb312a54787e16bb404f49dd2afe2a6ea5abdd63e59826a4fb3912949d4192d&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>行业动态 · 2026 西北首个千人规模 AI 短剧/漫剧生态发展交流会（西安站）圆满落幕</title>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkwNDYyNDk2Nw==&amp;mid=2247503836&amp;idx=1&amp;sn=cf123caa87026bda6e6123622962d9d6&amp;chksm=c1fde58301c5e1b6ddc8d5f8f003e1e811c507b4054e130789a422c00c391d9dc657ba9d6c89&amp;scene=0#rd</link>
-      <guid isPermaLink="false">linggou-extra-短剧新势力-1751879201899953147</guid>
-      <pubDate>Tue, 19 May 2026 20:28:00 +0800</pubDate>
+      <title>行业动态 · 快手杜明军：AI 赋能短剧产业升级，快手漫剧半年广告消耗增长超 18 倍</title>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkwNDYyNDk2Nw==&amp;mid=2247503866&amp;idx=1&amp;sn=06904b6a8983533df9faf09e1df091b2&amp;chksm=c1768d770ae0724b9878b7a95dc5e0cb1bc936f5643261b8bb35e7019afcb61389c7b9d5be45&amp;scene=0#rd</link>
+      <guid isPermaLink="false">linggou-extra-短剧新势力-2130088399541112408</guid>
+      <pubDate>Wed, 20 May 2026 20:23:00 +0800</pubDate>
       <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 20:28 · 短剧新势力&lt;/p&gt;
-&lt;p&gt;2026年5月16日，「AI新势能 漫剧正当红」2026 AI短剧/漫剧生态发展交流会在陕西西咸国际会议中心成功举办。作为西北首个AI短剧/漫剧全产业链展洽会，本次大会汇聚产业上下游、技术方、平台方、品牌方与创作者，围绕技术革新、产业升级、精品创作、合规运营与全球化出海展开深度研讨，为行业高质量发展...&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkwNDYyNDk2Nw==&amp;mid=2247503836&amp;idx=1&amp;sn=cf123caa87026bda6e6123622962d9d6&amp;chksm=c1fde58301c5e1b6ddc8d5f8f003e1e811c507b4054e130789a422c00c391d9dc657ba9d6c89&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 20:23 · 短剧新势力&lt;/p&gt;
+&lt;p&gt;西北首个千人规模 AI 短剧/漫剧生态发展交流会（西安站）圆满落幕。嘉宾精彩观点将持续发布。5月16日，由短剧新势力承办的2026 AI 短剧 / 漫剧生态发展交流会（西安站）成功举办，快手漫剧业务负责人杜明军受邀出席，并以《快手微短剧的发展思考与实践》为题发表主题演讲。以下为演讲全文：大家上午好，...&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkwNDYyNDk2Nw==&amp;mid=2247503866&amp;idx=1&amp;sn=06904b6a8983533df9faf09e1df091b2&amp;chksm=c1768d770ae0724b9878b7a95dc5e0cb1bc936f5643261b8bb35e7019afcb61389c7b9d5be45&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>行业动态 · 早期项目 | Chance AI获美图等数百万美元投资，用户数已达20万</title>
-      <link>https://36kr.com/p/3816947890471812?f=rss</link>
-      <guid isPermaLink="false">linggou-extra-36氪-4334473463506932531</guid>
-      <pubDate>Wed, 20 May 2026 13:05:09 +0800</pubDate>
+      <title>行业动态 · 网易520发布会：质量为先，狙击细分赛道</title>
+      <link>https://36kr.com/p/3817849322964098?f=rss</link>
+      <guid isPermaLink="false">linggou-extra-36氪--6489731653061603431</guid>
+      <pubDate>Thu, 21 May 2026 13:09:11 +0800</pubDate>
       <category>行业动态</category>
       <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; ·  · 36氪&lt;/p&gt;
-&lt;p&gt;作者丨欧雪
-  编辑丨袁斯来
-  硬氪获悉，Visual Agent（视觉智能体）创业公司Chance AI宣布完成数百万美元天使轮融资。本轮由美图领投，NYX Ventures、阿里系投资机构等跟投。融资将用于模型能力迭代、北美学生群体增长、以及社区与商业化探索。
-  Chance AI成立于2025年，核心产品是全球第一款以摄像头为主要交互入口的AI产品——Visual Agent（视觉智能体）。
-  与传统AI产品依赖输入框不同，用户打开Chance AI后直接拍摄眼前内容，系统即可理解视觉意图并提供判断、建议和行动方案。
+&lt;p&gt;5月20日，2026年『网易游戏520线上发布会』正式举办，公布了40余款游戏及IP的最新动态。其中，520发布会上公布的部分重要新品如下：&amp;nbsp;
+  《遗忘之海》
   
-  Chance AI APP 界面一览（图源/企业）
- &lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://36kr.com/p/3816947890471812?f=rss&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+  《遗忘之海》
+  本次发布会上，《遗忘之海》官宣将于5月22日开启三测前瞻直播，并于28日正式开启测试。&amp;nbsp;
+  目前来看，《遗忘之海》应该是网易游戏最受期待的新品之一。它出自《第五人格》开发团队Joker工作室，此前已经推出过两次测试，网易高层也不止一次展现过对这款产品的重视。&amp;nbsp;
+  从已有内容看，《遗忘之海》最独特的地方莫过于Joker工作室对游戏市场的一些独到理解——这点早在他们做《第五人格&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://36kr.com/p/3817849322964098?f=rss&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>行业动态 · 当“躺平”、Gap被歧视，我们该如何度过奥德赛时期？ | 职场极端气候 ②</title>
-      <link>https://36kr.com/p/3816045694098952?f=rss</link>
-      <guid isPermaLink="false">linggou-extra-36氪--8780394537663967936</guid>
-      <pubDate>Wed, 20 May 2026 13:05:09 +0800</pubDate>
+      <title>行业动态 · 第四届中国AIGC产业峰会在京顺利举办！近20位行业大咖解码Agent与非共识机遇</title>
+      <link>https://36kr.com/p/3817353357968516?f=rss</link>
+      <guid isPermaLink="false">linggou-extra-36氪-8282321648721588453</guid>
+      <pubDate>Thu, 21 May 2026 13:09:11 +0800</pubDate>
       <category>行业动态</category>
       <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; ·  · 36氪&lt;/p&gt;
-&lt;p&gt;图源：公众号「有三思 U Sense」）
-  2026年2月，小红书博主橘一橙NiceFriend发布了一条视频。她在视频里把奥德赛时期定义为“对事业、情感以及身份认同产生强烈焦虑和迷茫的阶段”，将之概括为“成年人类的未成年”。这条视频获得10万+点赞，8.6万收藏。
-  “奥德赛时期”这个词并非中文原生。2007年，《纽约时报》专栏作家大卫·布鲁克斯发表了同名评论文章，借用荷马史诗中奥德修斯战后漂泊十年才返回家乡的意象，描述青春期与成年期之间一段被拉长的过渡期。这个概念在西方世界沉寂了近二十年，却在2020年代的中国年轻人中间获得了第二次生命。
-  这个词在中文互联网的流行与古希腊史诗关系不&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://36kr.com/p/3816045694098952?f=rss&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;今日，由量子位主办的第四届中国AIGC产业峰会在京启幕。
+  2026年，AI产业一路高歌猛进。从“龙虾”到“Harness”，爆款Agent接连出圈、风靡全网。面对层出不穷的新业态与新玩法，不少从业者和普通用户都感到困惑：如何找准AI的使用方式？怎样把握产业机遇？又该如何跟上行业发展的步伐？
+  正是在这一背景下，本届大会以「@所有人，马上AI起来」为主题，集结近20位行业重磅嘉宾，联动产业头部企业、新锐创业公司、顶尖学术力量，围绕AI Agent商业化落地、多模态技术突破、千行百业场景深耕、算力基础设施变革等核心议题，开启了一场深度交流与思想碰撞。&amp;nbsp;
+  
+  嘉宾阵容堪称豪华：&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://36kr.com/p/3817353357968516?f=rss&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>AIGC内容创作 · Seedance 2.1即将推出？接近字节跳动人士：不属实</title>
-      <link>https://36kr.com/newsflashes/3817085893788546?f=rss</link>
-      <guid isPermaLink="false">linggou-extra-36氪--8509311141025173287</guid>
-      <pubDate>Wed, 20 May 2026 13:05:09 +0800</pubDate>
-      <category>AIGC内容创作</category>
-      <description>&lt;p&gt;&lt;strong&gt;📽️ AIGC 内容创作&lt;/strong&gt; ·  · 36氪&lt;/p&gt;
-&lt;p&gt;日前有市场消息称，字节跳动准备推出其AI视频生成模型Seedance 2.0的升级版本Seedance 2.1，而新模型的生成质量预计提升约20%。5月20日，接近字节跳动人士表示，市场上关于Seedance2.1即将发布的传言不属实。今年2月，字节跳动正式推出多模态AI视频生成模型Seedance 2.0，该模型支持文本、图片、音频、视频多形式混合输入，一经发布便引发业内高度关注。（每经网）&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://36kr.com/newsflashes/3817085893788546?f=rss&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>行业动态 · 商务部：中国航空根据自身航空运输发展需要，将按照商业化原则引进200架波音飞机</title>
-      <link>https://36kr.com/newsflashes/3817077321892992?f=rss</link>
-      <guid isPermaLink="false">linggou-extra-36氪--2894563118351903870</guid>
-      <pubDate>Wed, 20 May 2026 13:05:09 +0800</pubDate>
+      <title>行业动态 · 美团无人机低空配送超过90万商业化订单</title>
+      <link>https://36kr.com/newsflashes/3818484947436675?f=rss</link>
+      <guid isPermaLink="false">linggou-extra-36氪-4025888653623966493</guid>
+      <pubDate>Thu, 21 May 2026 13:09:11 +0800</pubDate>
       <category>行业动态</category>
       <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; ·  · 36氪&lt;/p&gt;
-&lt;p&gt;36氪获悉，商务部美大司负责人解读中美经贸磋商初步成果，按照中美元首达成的重要共识，中国航空根据自身航空运输发展需要，将按照商业化原则引进200架波音飞机。同时，美方将为中方提供充足的发动机、零部件供应保障。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://36kr.com/newsflashes/3817077321892992?f=rss&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>行业动态 · 阿里发布新一代千问旗舰模型Qwen3.7-Max</title>
-      <link>https://36kr.com/newsflashes/3817070340342921?f=rss</link>
-      <guid isPermaLink="false">linggou-extra-36氪-6458180876568198440</guid>
-      <pubDate>Wed, 20 May 2026 13:05:09 +0800</pubDate>
-      <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; ·  · 36氪&lt;/p&gt;
-&lt;p&gt;36氪获悉，5月20日，阿里巴巴发布全新一代千问旗舰模型Qwen3.7-Max，在三方机构Arena全球大模型盲测总榜中，Qwen3.7-Max位列国产模型第一。千问3.7面向当下智能体（Agent）全新设计，实现了编程、推理等核心能力的持续突破，甚至可全自主完成35小时的超长程智能体复杂任务：在一个全新的芯片平台上，Qwen3.7-Max通过自主编程和超1000次工具调用，实现了一个关键内核的自我进化，推理速度较原版本提升10倍。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://36kr.com/newsflashes/3817070340342921?f=rss&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;美团副总裁、无人机负责人毛一年透露，截至今日，美团无人机低空配送已经实现了超过90万的商业化订单，这个数字大概是全球第二。公开数据显示，美国Zipline目前有超过200万单商业化订单。（新浪财经）&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://36kr.com/newsflashes/3818484947436675?f=rss&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
