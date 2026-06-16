@@ -1,34 +1,30 @@
 {
-  "generated_at": "2026-06-15T14:23:33.451517+08:00",
-  "total": 78,
-  "linggou": 36,
+  "generated_at": "2026-06-16T14:33:15.710253+08:00",
+  "total": 62,
+  "linggou": 29,
   "social_topics": 3,
   "sources": {
-    "OpenAI：官网动态（RSS · 排除企业/客户案例）": 2,
-    "Gary Marcus：The Road to AI We Can Trust（RSS）": 1,
-    "X：Satya Nadella (@satyanadella)": 1,
-    "X：小互 (@xiaohu)": 1,
-    "X：Suno (@suno)": 1,
+    "IT之家（RSS）": 2,
+    "X：阿易 AI Notes (@AYi_AInotes)": 1,
+    "Qwen：Blog Retrieval（API）": 3,
+    "TechCrunch：AI（RSS）": 2,
     "X：OpenRouter (@OpenRouter)": 1,
-    "Hacker News 热门（buzzing.cc 中文翻译）": 1,
-    "Bloomberg：Technology（RSS）": 1,
-    "Ars Technica：AI（RSS）": 2,
-    "Hugging Face：Blog（RSS）": 1,
-    "IT之家（RSS）": 1,
-    "X：MiniMax (@MiniMax_AI)": 1,
-    "X：Google DeepMind (@GoogleDeepMind)": 1,
-    "短剧自习室": 4,
+    "LMSYS：Blog（Chatbot Arena 团队）": 1,
+    "OpenRouter：Announcements（RSS）": 2,
+    "The Decoder：AI News（RSS）": 1,
+    "公众号：MiniMax（稀宇科技）": 1,
+    "MarkTechPost（RSS）": 1,
+    "短剧自习室": 2,
     "AI寒武纪": 2,
-    "DataEye短剧观察": 5,
-    "短剧研究僧": 1,
+    "DataEye短剧观察": 1,
     "短剧内行人": 2,
     "AIGC新智界": 1,
-    "短剧新势力": 3,
-    "36氪": 3
+    "短剧新势力": 1,
+    "36氪": 5
   },
   "categories": {
-    "aigc_content": 10,
-    "tech_tools": 2,
-    "industry": 24
+    "aigc_content": 9,
+    "tech_tools": 5,
+    "industry": 15
   }
 }
