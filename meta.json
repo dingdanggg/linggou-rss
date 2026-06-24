@@ -1,26 +1,28 @@
 {
-  "generated_at": "2026-06-23T13:00:31.146966+08:00",
+  "generated_at": "2026-06-24T13:01:51.825770+08:00",
   "total": 57,
-  "linggou": 23,
+  "linggou": 26,
   "social_topics": 3,
   "sources": {
-    "字节 Seed：Research Feed（网页内嵌数据）": 1,
-    "Runway：News（网页）": 1,
+    "公众号：通义实验室（千问）": 1,
+    "X：Runway (@runwayml)": 1,
+    "X：Sky Computing Lab (@haoailab)": 1,
+    "X：Krea AI (@krea_ai)": 1,
+    "Anthropic：Newsroom（网页）": 1,
+    "GitHub Blog": 1,
     "Hacker News 热门（buzzing.cc 中文翻译）": 1,
-    "OpenRouter：Announcements（RSS）": 1,
-    "Google Developers Blog（RSS）": 1,
     "Hugging Face：Blog（RSS）": 1,
-    "Cursor Blog": 1,
-    "短剧自习室": 4,
-    "AI寒武纪": 1,
-    "DataEye短剧观察": 1,
-    "短剧内行人": 2,
+    "公众号：火山引擎": 1,
+    "短剧自习室": 1,
+    "AI寒武纪": 2,
+    "DataEye短剧观察": 3,
+    "AIGC新智界": 1,
     "短剧新势力": 2,
-    "36氪": 6
+    "36氪": 8
   },
   "categories": {
-    "aigc_content": 8,
+    "aigc_content": 7,
     "tech_tools": 1,
-    "industry": 14
+    "industry": 18
   }
 }
