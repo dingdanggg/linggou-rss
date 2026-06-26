@@ -5,450 +5,472 @@
     <link>https://dingdanggg.github.io/linggou-rss</link>
     <description>灵构视角 AI 资讯 · 3D资产/AIGC影视/游戏/XR/社媒运营</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 25 Jun 2026 13:05:27 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 13:08:40 +0800</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://dingdanggg.github.io/linggou-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>🏗️ 灵构视角 · 06月25日 · 共25条</title>
+      <title>🏗️ 灵构视角 · 06月26日 · 共27条</title>
       <link>https://dingdanggg.github.io/linggou-rss</link>
-      <guid isPermaLink="false">linggou-digest-2026062513</guid>
-      <pubDate>Thu, 25 Jun 2026 13:05:27 +0800</pubDate>
+      <guid isPermaLink="false">linggou-digest-2026062613</guid>
+      <pubDate>Fri, 26 Jun 2026 13:08:40 +0800</pubDate>
       <description>&lt;h2&gt;🏗️ 灵构视角&lt;/h2&gt;
-&lt;p&gt;&lt;small&gt;来源：36氪(5条)、公众号：火山引擎(2条)、短剧自习室(2条)、AI寒武纪(2条)、DataEye短剧观察(2条)、Hacker News 热门（buzzing.cc 中文翻译）(1条)、xAI：News（网页）(1条)、X：Perplexity (@perplexity_ai)(1条)、Google Research：Blog（网页）(1条)、The Decoder：AI News（RSS）(1条)、Hugging Face：Blog（RSS）(1条)、OpenRouter：Announcements（RSS）(1条)、MarkTechPost（RSS）(1条)、X：面壁智能 OpenBMB (@OpenBMB)(1条)、短剧研究僧(1条)、短剧内行人(1条)、短剧新势力(1条)&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;来源：36氪(8条)、AI寒武纪(3条)、Hacker News 热门（buzzing.cc 中文翻译）(2条)、The Decoder：AI News（RSS）(2条)、短剧新势力(2条)、IT之家（RSS）(1条)、公众号：数字生命卡兹克(1条)、X：小互 (@xiaohu)(1条)、X：Midjourney (@midjourney)(1条)、Midjourney：Updates（RSS）(1条)、Runway：News（网页）(1条)、TechCrunch：AI（RSS）(1条)、短剧自习室(1条)、DataEye短剧观察(1条)、短剧内行人(1条)&lt;/small&gt;&lt;/p&gt;
 &lt;h3&gt;📽️ AIGC 内容创作&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;1. OpenRouter 零数据留存（ZDR）实践：97 款新模型，流量占比近半&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;OpenRouter：Announcements（RSS） · 今天 00:00&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;OpenRouter 的零数据留存（ZDR）保证用户提示词和模型响应不被存储，元数据一般安全。自 1 月以来新增 97 款支持 ZDR 的模型，月度 token 量增长 4.3 倍，约占全部路由流量一半。ZDR 在三个层面执行：账户级（整个供应商开启）、护栏级（按 API Key 或组织成员限定）、单次请求级（传参数仅路由至 ZDR 端点）。企业用户可灵活选择控制粒度，避免锁定单一供应商。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://openrouter.ai/blog/insights/when-zero-means-zero&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1. Runway发布Agent 2.0&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;Runway：News（网页） · 今天 02:41&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;Runway发布Agent 2.0，帮助营销人员创建、测试和优化广告、视频及营销活动。品牌营销人员可在对话中开发活动概念、生成变体并自动本地化；绩效营销人员可上传创意并导入Meta、YouTube、TikTok或Google广告数据，由Agent分析后生成下一轮待测广告。社交媒体营销人员可一次性生成一周内容，自动裁切为9：16、16：9、1：1等格式；产品营销人员可借助Agent确定定位角度并构建活动资产。Agent 2.0面向所有用户开放。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://runwayml.com/news/introducing-agent-2&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;2. 全网一边群嘲，一边“真香”：人们讨厌的根本不是AI脸&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;短剧自习室 · 今天 17:00&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&quot;AI脸生理性厌恶&quot;冲上热搜，大量网友表示，看见AI脸就想划走。然而没过多久，另一部AI作品却惊艳了不少人。一位网友用AI手搓了一部《仙剑奇侠传》，几百万播放，评论区几乎没人怼AI，而是纷纷惊叹，AI终于做出了记忆里的《仙剑》。相关截图AI版《仙剑》并不是孤例，此前有《丧尸清道夫》出圈后好莱坞制片人...&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkwNjY3NzI2NA==&amp;mid=2247517807&amp;idx=1&amp;sn=d91dd0faefe4b4ddcbb34d243a2b636f&amp;chksm=c1c0d0615866aae9de290ae1250309267868fb1dbbb6cf76888db35de37528ba3dc60e914c3f&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2. 吸金11亿美元的《恋与深空》，狼人男主引发百万差评&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;短剧自习室 · 今天 19:27&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;6月22日，叠纸游戏突然官宣《恋与深空》第六位男主“敖尹”，并称该角色将于7月9日随6.0版本“万籁俱起”正式上线。（相关截图）然而，评论区没有出现预想中整齐划一的“认领老公”现场，反而是各个平台都刷着“你老公”的谦让之词，新男主的颜值被广泛嫌弃。玩家们的失望和愤怒铺天盖地，单条微博评论迅速突破10...&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkwNjY3NzI2NA==&amp;mid=2247517843&amp;idx=1&amp;sn=0ed012bee181c712f41328a40e405b35&amp;chksm=c142b5e565ea6566ce737700ae45893f1bf4823a3655f9afeb4339ab0628f9f268e0c589b2f2&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;3. 快讯丨广电总局公开征求微短剧发展管理新规意见&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;短剧自习室 · 今天 15:37&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;今日，国家广播电视总局发布《微短剧发展管理办法（征求意见稿）》，面向社会公开征求意见。国家层面再次为微短剧这一新兴内容形态出台系统性管理办法，标志着微短剧行业进一步走进分类分级、全链条规范管理的新阶段。征求意见稿共八章五十三条，从创作导向、分类管理、备案公示、审核许可、播出规范到法律责任，构建了覆盖...&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkwNjY3NzI2NA==&amp;mid=2247517812&amp;idx=1&amp;sn=ad339d9c5744fa286ef53adada4d969c&amp;chksm=c1cf49f36819239c42d937b6dbacc8a4f5b4d0f43ea1024876478acc514dd7d0286f1e890c81&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3. 刚刚DeepSeek宣布大规模扩张，整体至少扩员一倍，全体岗位集体喊人加入&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;AI寒武纪 · 今天 23:50&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;↑阅读之前记得关注+星标⭐️，😄，每天才能第一时间接收到更新    DeepSeek刚刚宣布整体大规模扩张！！！↑ 上下滑动查看完整图片 ↑最新的官方招聘海报提到&quot;将所有部门的规模扩大至少一倍&quot;，这是非常罕见的表态。结合背景来看，DeepSeek近期完成首轮外部融资，募资总额超过500亿元，有了钱...&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&amp;mid=2247515927&amp;idx=1&amp;sn=d9cc4077db6b03f8b085e408f8cafc34&amp;chksm=cfef90c12b2df058e5af49cc9e6c7a687d71aa6fb1a6a4df77269acb30ef3d4c8e038ff29586&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;4. 突发！OpenAI推出首款自研AI芯片：能效暴打当前SOTA，今年底G瓦级部署&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;AI寒武纪 · 今天 22:39&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;↑阅读之前记得关注+星标⭐️，😄，每天才能第一时间接收到更新 OpenAI亲手造出了第一颗芯片。刚刚，OpenAI和博通（Broadcom）联合发布了一款名为Jalapeño的AI推理芯片。这是OpenAI的第一颗自研智能处理器，也是两家公司共同规划的多代计算平台的起点。Broadcom总裁兼CEO...&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&amp;mid=2247515902&amp;idx=1&amp;sn=1fbca91d52fbf261ff87e18ba6cd0cc2&amp;chksm=cfbbae7a1562acba02062d544a6df38f92b1f6d2baee99ef25cf6eaca1a4ae54454e69fc700e&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;4. IBM炸场：人类史上第一颗0.7纳米芯片诞生，指甲盖塞进1000亿晶体管&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;AI寒武纪 · 今天 22:50&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;↑阅读之前记得关注+星标⭐️，😄，每天才能第一时间接收到更新 全球首颗亚1纳米芯片，来了。IBM今天正式宣布，推出全球首款亚1纳米节点芯片，采用全新0.7纳米（即7埃）制程工艺。这是半导体行业在逼近物理极限之际，打出的一张关键牌。一枚指甲盖，装进近1000亿颗晶体管这块芯片的晶体管密度，几乎是IB...&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&amp;mid=2247515918&amp;idx=1&amp;sn=cb46dc0ac20a455c3e5ad093a1983fc4&amp;chksm=cf9a64258c3a7648b4ce133191064bba750b5478b3b2a5f4cb10a3eba048da3e07ebfaafb7d1&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;5. Nathan Lambert：GLM-5.2是开源Agent重大突破，连锁反应将渗透进更广泛的经济体&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;AI寒武纪 · 今天 21:34&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;↑阅读之前记得关注+星标⭐️，😄，每天才能第一时间接收到更新 开源AI领域的重量级观察者 Nathan Lambert ：GLM-5.2突然能做到那些只有顶尖付费AI才能做的事：写代码、自动完成复杂任务。他把这次突破比作当年 DeepSeek R1 震惊世界的那一刻。这意味着，花大价钱垄断最强AI的...&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&amp;mid=2247515897&amp;idx=1&amp;sn=c85c25a2a6a6a30cde9654007858ac24&amp;chksm=cf0a43f3c68e70137ca7f952d91a0f3fab95ff1bf41747c253a989a957412f060d126e27d49f&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;5. 半壁江山都来了！龙虾Hermes爆火后首场智能体大会两天议程公布，下周杭州见&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;AI寒武纪 · 今天 15:57&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;2026中国AI智能体大会（AgenticAICon 2026）将于7月2-3日在杭州隆重启幕。本次大会由智东西旗下智猩猩发起主办，为期两天，由开幕式+论坛+研讨会+交流晚宴+展览区组成，将以“范式跃迁 重塑世界”为主题，邀请60+位重量级嘉宾带来致辞、报告、演讲和对话，前瞻把脉Agentic AI...&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&amp;mid=2247515911&amp;idx=1&amp;sn=f01bc951b279bc2e4a3d1fbbe9b3622c&amp;chksm=cf5111bbf012ca85fe7d5dedcb330640cd5869abaca17cfc05bb2570f27293eae7fabf0136a6&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;6. 国家广电发布《微短剧发展管理办法（征求意见稿）》，短剧人你怎么看？&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;短剧研究僧 · 今天 20:54&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;『写在前面』6月24日，国家广播电视总局发布了《微短剧发展管理办法（征求意见稿）》（以下简称为《办法》），并向社会公开征求意见。小僧仔细看了一下，这份《办法》还是有不少值得关注的地方，咱们一起看一看。——短剧研究僧『细则解读』虽然不少条款算是模式条款有点“老生常谈”，但还是有些值得说道说道的地方。首...&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkyOTY1Mzg5Mg==&amp;mid=2247489839&amp;idx=1&amp;sn=38f0fdc34a13ea466b3a4a88cfbfb9a1&amp;chksm=c2076cc4f570e5d223252a6e7334c9a6d0d63573d2c60d8c3acc7f50c540b3714dd5c28f6f76#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;6. 骂AI短剧低俗的人，可能从来没在工地上搬过砖&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;短剧内行人 · 今天 13:36&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;最近内行人刷短视频，老刷到一类 AI 生成的短剧：一开始是拍主角出海打渔，一撒网就是满船的帝王蟹，卖完数钱数到手抽筋。隔了没几天，题材又进化了 —— 这回改拍赌石，主角的眼睛有特异功能，能透过石头厚厚的表层看穿内里，一眼就知道里面是不是帝王玉。画风粗糙，剧情根本经不起推敲，但这类短剧铺天盖地地涌进信...&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkyNjU5MzI1OA==&amp;mid=2247576495&amp;idx=1&amp;sn=f084715e478b99aefea640249c0eafb9&amp;chksm=c3f56ba485f0f02e1196d9f33c68a17a167a1335fc8f27e48bcdaa7547f4527962de234f588c&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;7. 四季霸榜红果前六：《发配边关，罪妻开荒养出战神》跑出AI短剧传奇&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;短剧内行人 · 今天 14:15&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;当 AI 短剧还在被质疑“产能高于品质”“数据远不如真人剧”“爆款难以持续”时， AI 真人剧《发配边关，罪妻开荒养出战神》系列跑出了前所未有的成绩 ——6 月 18 日 - 19 日连续两日，该剧前三季霸榜红果热播榜前三席位，超越全部真人剧。第四季上线后，仍强势登上红果热播榜，形成四季作品占据红果...&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkyNjU5MzI1OA==&amp;mid=2247576489&amp;idx=1&amp;sn=2221be987ee239643a1d9e4691be8eb1&amp;chksm=c36b5c905e993c35aed1778dff3c1c369cc3c000e53630e00e6b540682cb249c76045c920b32&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;7. 4K花园宣布旗下AI工具“蝶变3.0”将于7月1日上线公测&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;36氪 · &lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;36氪获悉，日前，国内超高清技术应用企业4K花园正式宣布，旗下AI短剧画质提升工具“蝶变3.0”将于7月1日正式上线开放公测。与此同时，由其发起的“AI短剧超高清专项扶持计划”同步启动。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://36kr.com/newsflashes/3869475772257542?f=rss&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
 &lt;h3&gt;🛠️ 技术工具&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;1. Figma在Config 2026押注人类判断，画布AI能力却来自第三方&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;The Decoder：AI News（RSS） · 今天 00:49&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;Figma在Config 2026将设计画布扩展至代码、动画、3D深度和着色器效果，并集成去年收购的Weave工作流系统。新功能包括Code Layers（代码与设计并存）、Motion动画、深度层、Shader及Generative Plugins。协作方面，团队可搜索复用AI提示词、保存工作流为技能、共享插件。Figma的AI功能依赖Anthropic、OpenAI和Google等外部模型，推理成本挤压利润率。同时，Anthropic等公司的竞争产品可直接生成界面，构成威胁。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://the-decoder.com/figma-bets-on-human-judgment-at-config-2026-while-the-ai-powering-its-canvas-belongs-to-someone-else&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1. 小互开源个人IP配图技能&quot;小互IP Studio&quot;，含31个原创角色&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：小互 (@xiaohu) · 今天 09:26&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;博主小互开源个人IP配图技能&quot;小互IP Studio&quot;，包含31个原创角色（15个手绘线稿角色+16个谐音梗meme形象）及一套配图方法论。该Agent可自动读取文章、规划配图类型（情绪图/示意图/四格漫画）、生成并自查返工。默认画风为手绘线稿淡彩，另备5种皮肤（3D盲盒、黑白线稿等）可切换。安装仅需Python3，支持Claude Code、Codex等工具，需自备OpenAI兼容的图像API key（默认GPT-image-2）；也可只输出提示词手动生图。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/xiaohu/status/2070317717811540149&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;strong&gt;2. Midjourney 预览 V8.2 并加速草稿模式&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Midjourney (@midjourney) · 今天 03:11&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;Midjourney 带来两项更新。一是加入 `--preview` 参数可提前体验 V8.2 的美学与个性化效果；二是此前在 V8.1 推出的大批量草稿模式（生成 24 张低分辨率图，价格仅为标准 4 张的一半，点击 &quot;Vary&quot; 可升级为全分辨率）现在支持搭配 `--sref random` 使用，探索风格空间的速度比之前快 24 倍。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/midjourney/status/2070223272072065228&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;strong&gt;3. IBM 首度推出亚纳米级芯片技术&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;Hacker News 热门（buzzing.cc 中文翻译） · 今天 02:52&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;IBM 于 2026 年 6 月 25 日发布全球首款亚纳米级芯片技术，采用 0.7 nm（7 埃米）节点与全新三维纳米堆叠（nanostack）架构。指甲盖大小的芯片集成近 1000 亿个晶体管，密度约为 IBM 2021 年 2 nm 芯片的两倍。相比 2 nm 芯片，性能最高提升 50%，能效最高提升 70%。纳米堆叠架构还实现 SRAM 面积缩减 40%，有助于支撑先进 AI 工作负载的高带宽需求。该技术已在 VLSI 2026 会议上验证，IBM 预计 5 年内量产。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://newsroom.ibm.com/2026-06-25-ibm-debuts-worlds-first-sub-1-nanometer-chip-technology&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;strong&gt;4. Midjourney V8.1 草稿模式新增随机风格功能&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;Midjourney：Updates（RSS） · 今天 02:50&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;Midjourney V8.1 的草稿模式（draft mode）添加了随机风格功能。用户在提示词中加入 `--sref random` 即可一键生成 24 张不同风格的图片。开启草稿模式可通过点击提示栏的 ⚡ 图标或添加 `--draft` 参数。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://updates.midjourney.com/random-styles-in-draft-mode&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;strong&gt;5. 赫库兰尼姆古卷首次被完整虚拟解读&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;Hacker News 热门（buzzing.cc 中文翻译） · 今天 02:03&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;研究人员利用高分辨率X射线显微断层扫描和机器学习，在未物理展开的情况下完整虚拟展开并读取了赫库兰尼姆古卷PHerc.1667（Scroll4）。这是首卷被从头到尾连续读取的纸莎草卷，内容为斯多葛哲学论著，提及克里西普斯的侄子Aristocreon。第二卷PHerc.Paris4通过更高分辨率成像使墨水在三维数据中直接可见，独立确认了2023年大奖赛的解读。第三卷PHerc.139确定标题和作者为菲洛德穆《论诸神》第八卷。所有数据与代码已公开。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scrollprize.org/firstscroll&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
 &lt;h3&gt;📊 行业动态&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;1. Anthropic称阿里巴巴非法获取了Claude AI模型的功能&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;Hacker News 热门（buzzing.cc 中文翻译） · 今天 11:07&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;Anthropic指控阿里巴巴未经授权提取了其Claude AI模型的能力。该指控基于Anthropic的调查，认为阿里巴巴通过逆向工程或其他手段复制了Claude的核心技术。目前阿里巴巴尚未公开回应。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1. 近400家美国报纸起诉微软和OpenAI：未经授权抓取新闻内容训练AI&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;IT之家（RSS） · 今天 12:37&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;代表近400家纸媒的出版商联盟向美国纽约南区联邦地区法院起诉微软和OpenAI，指控其未经授权抓取新闻内容用于训练Copilot、ChatGPT等AI模型，侵犯版权并触犯《数字千年版权法》。起诉书称被告&quot;系统性且秘密地&quot;爬取网站，复制文章并删除版权管理信息。原告表示AI产品基于其内容创造数十亿美元价值，但出版商分文未得，称此举或成地方新闻业&quot;丧钟&quot;。OpenAI回应训练数据基于公开可获取内容且符合合理使用原则，微软未置评。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.ithome.com/0/968/872.htm&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;2. 盈透证券（Interactive Brokers）与 Grok 集成：组合分析、情景建模与实时交易指令生成&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;xAI：News（网页） · 今天 08:00&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;盈透证券（Interactive Brokers）近日与 Grok 集成，用户可在几分钟内免费关联现有账户，无需注册新账户。通过自然语言与 Grok 对话，可完成组合收益分析（如股息与利息预测）、行业/地区/经济事件的风险敞口情景建模、市场趋势研究，并直接生成对冲订单等实时交易指令，实现从数据洞察到执行决策的一体化。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.ai/news/grok-interactive-brokers&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2. Claude Code 6个实用Hook玩法&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;公众号：数字生命卡兹克 · 今天 10:02&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;Claude Code 内置近30个Hook事件（年初仅13个），本质是写死的规则脚本，运行时不消耗token。6个实用玩法：权限弹窗提醒、开机日程播报（问候+天气+飞书日程）、上下文预压缩时自动生成摘要卡片、结合Skill自动整理下载文件夹、启动后每小时久坐提醒、通过Bark实现手机/手表任务完成/失败推送。让AI从被动聊天框变为事件驱动的自动化系统。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://mp.weixin.qq.com/s/LVj2foSXi_hBRKxjuYaUyw&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;3. Perplexity推出Computer for Counsel&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Perplexity (@perplexity_ai) · 今天 03:34&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;推出 Computer for Counsel。
-
-Computer 现在连接了律师日常使用的研究数据库、文档工具和案件管理系统。可从中提取可引用来源：@midpageAI、@LegalZoom、@Docusign、@netdocuments 等。
-
-所有 Pro 和 Max 订阅用户均可使用。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/perplexity_ai/status/2069866668671766804&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3. 多数主流AI聊天机器人政治立场偏左，&quot;反觉醒&quot;模型也不例外&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;The Decoder：AI News（RSS） · 今天 00:04&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;华盛顿邮报调查显示，多数主流AI聊天机器人在政治问题上明显偏左。OpenAI GPT-5.5在80%回答中仅呈现左派论据；DeepSeek V4 Pro为70%；Anthropic Claude Opus 4.8有43%纯左、57%给出双方观点。xAI的Grok 4.3左倾回答仍多于右倾。右翼平台Gab的Arya左倾回答是右倾的12倍。Google Gemini 3.1 Pro是例外，93%回答同时呈现双方立场。特朗普推动的&quot;反觉醒&quot;AI未能改变这一格局。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://the-decoder.com/most-major-ai-chatbots-still-lean-left-on-political-questions-even-anti-woke-models-are-no-exception&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;4. 思考即回忆：推理如何解锁LLM中的参数化知识&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;Google Research：Blog（网页） · 今天 01:05&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;Google Research研究发现，推理（chain-of-thought）能帮助大语言模型（LLM）回忆简单事实，即使这些事实无需复杂推导。在Gemini-2.5 Flash和Pro以及Qwen3-32B上，启用推理后模型能够回答原本无法直接回答的简单问题，pass@k显示正确事实存在于输出分布中。该现象由两个机制驱动：一是生成的推理token充当计算缓冲，允许模型进行隐藏计算以提取参数化知识；二是推理过程中产生的相关事实起到启动效应（factual priming），帮助模型激活正确答案。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://research.google/blog/thinking-to-recall-how-reasoning-unlocks-parametric-knowledge-in-llms&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;4. General Intuition 完成 3.2 亿美元融资，用游戏数据训练通用 AI 智能体&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;TechCrunch：AI（RSS） · 今天 00:00&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;General Intuition 以 23 亿美元估值完成 3.2 亿美元融资，累计披露融资 4.54 亿美元。公司从旗下游戏剪辑平台 Medal 获取数亿小时含精确按键动作标签的游戏操作数据，训练单一模型同时驾驭 Fortnite 等虚拟环境和四足机器人。演示中，AI 智能体在游戏中连续运行 100 小时，机器人仅靠 8 分钟真实街道数据微调即可自主探索办公室。本轮由 Khosla Ventures 领投，General Catalyst、Jeff Bezos、Eric Schmidt 等参投。资金将用于通过 CoreWeave 扩大计算规模、预训练下一代模型，计划夏末前开放 API。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://techcrunch.com/2026/06/25/from-fortnite-to-robots-general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;5. NVIDIA NeMo AutoModel：一行代码加速Transformer MoE模型微调&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;Hugging Face：Blog（RSS） · 今天 00:00&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;NVIDIA NeMo AutoModel 是基于 Transformers v5 的开源库，添加 Expert Parallelism、DeepEP 融合 all-to-all 调度和 TransformerEngine 内核。在 MoE 模型微调中，相比原生 v5，训练吞吐量提升 3.4-3.7 倍，GPU 内存减少 29-32%，仅需改动一行 import。在 16 节点 128 张 H100 上全微调 Nemotron 3 Ultra 550B A55B 时，v5 因内存不足无法运行，而 AutoModel 凭借 EP=64 专家并行使训练可行。单节点 30B MoE 模型（如 Qwen3-30B-A3B）同样获得可量化的性能优势。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;5. Meta员工警告AI内容审核部署过快&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;The Decoder：AI News（RSS） · 今天 18:07&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;Meta在2025年已用大语言模型替换约一半人工审核请求，计划年底前将部分内容类型的AI审核比例提升至90%以上，每年节省数十亿美元。Meta否认成本动机，称自3月测试显示其模型错误率比人类低13%，且多捕捉10%违规。但员工指出模型仍会移除或限流无害内容，缺乏足够监督，快速部署已导致外包裁员。此外，Meta已从使用Google Gemini转向自家新基础模型Muse Spark，该模型基于人工审核员的历史决策训练。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://the-decoder.com/meta-employees-warn-ai-moderation-rollout-is-too-fast&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;6. 字节跳动技术副总裁洪定坤：AI Coding 的实践与探索&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;公众号：火山引擎 · 今天 22:02&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;在火山引擎Force大会，字节跳动技术副总裁洪定坤分享AI Coding实践。过去一年，字节AI代码贡献率增长6倍，tokens消耗增长5倍，但过度关注单一指标可能失真--TRAE团队代码超90%由AI生成，人均需求吞吐率仅提升60%。900次实验显示，主流Coding模型组合代码正确率超80%，但可交付性仅40-60分；结合Harness基建后提升至80分。AI降低编程门槛但需优化指标、治理、协作。字节探索原型驱动开发，能力沉淀至TRAE（日均Token消耗5.6万亿，增长50倍），并推出TRAE Work。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://mp.weixin.qq.com/s/mdmaAyUIvxE8WT_GEbF2wQ&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;6. 北京：微短剧规模585.7亿，增长74%！占全国58.6%份额！全国35万微短剧企业，北京4.68万家，带动就业27.3万！&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;DataEye短剧观察 · 今天 16:22&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;6月24日下午，在第四届北京网络视听艺术大会“链动艺创，新新相应——新大众文艺主题研讨”上，北京市广电局副局长级领导孟锐发布了北京广电系列蓝皮书《北京网络视听文艺发展报告（2025）》。该《报告》由北京市广电局发展中心联合中国传媒大学传媒艺术与文化研究中心编制，北京出版集团北京出版社出版。6月25日...&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkwMDYxOTYyMQ==&amp;mid=2247519138&amp;idx=1&amp;sn=9b13c918de2aa31a14fc1d271201d49d&amp;chksm=c1cdfa6fcfa7e9cd6e3bb7c86e5b7cc43b4e2fd69270accafea97937846f32c1929178c7cf27&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;7. 火山引擎推出Agent Ready基础设施，AgentKit与ArkClaw企业版升级&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;公众号：火山引擎 · 今天 18:17&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;火山引擎在FORCE大会推出面向企业智能应用的Agent Ready基础设施，构建AI云与Agent三层架构。AgentKit升级提供Identity、Runtime、Sandbox、Evaluation等模块，实现Agent可靠、可控、可衡量。Identity已接入数千家身份体系，Runtime支持长程任务和分钟级12万沙箱并发。ArkClaw企业版集成Agent广场、技能中心与企业知识库，支持IDP/SSO/OAuth及飞书、钉钉等IM入口统一管控。实践案例：海底捞门店经营Agent将小时级工作压缩到分钟级，人工跟进时长缩减70%，巡检满意度提升50%；创维酷开借助ArkClaw终端版打造AIOS，Token消耗节省50%，支撑百万级终端。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://mp.weixin.qq.com/s/83mrPAPgQRKhxLkoSvRgBQ&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;7. 阿里云内测“向尾”，入局AI互动故事赛道&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;短剧新势力 · 今天 17:12&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;6月25日，据“读佳”报道，阿里云正低调内测一款名为“向尾”的AI互动故事产品，试水AI互动内容领域。至此，腾讯、字节跳动、阿里等国内主要科技厂商均已在这一领域有所布局。创作与互动双核驱动与市面上仅能生成短篇文字的AI工具不同，“向尾”主打故事创作与沉浸式互动两大核心能力。在创作层面，产品提供三种模...&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkwNDYyNDk2Nw==&amp;mid=2247504977&amp;idx=2&amp;sn=cfe128e3abc7e47d6f23ee0c5227640f&amp;chksm=c14cc20c39841a3262f9e2c2985446fe5f0570f641279ced46b9b68fefb53e978200f56d2536&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;8. DFlash：块扩散草稿模型实现最高15倍吞吐量提升&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;MarkTechPost（RSS） · 今天 15:21&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;DFlash 由 UC San Diego 团队提出，是一种用于投机解码的轻量块扩散草稿模型。它一次前向推理生成整块 token，再由目标模型并行验证，保证输出无损。相比 EAGLE-3，DFlash 实现最高 2.5 倍加速，在 Qwen3-8B 等多种模型上平均无损加速超过 6 倍（MATH-500 达 6.08×）。在 NVIDIA Blackwell 上（TensorRT-LLM），gpt-oss-120b 模型吞吐量提升最高 15 倍，约为 EAGLE-3 的 1.5 倍。核心创新是将目标模型多层隐藏特征注入草稿模型每一层的 Key-Value 投影，使接受长度随草稿深度增长。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.marktechpost.com/2026/06/24/dflash-speculative-decoding-drafts-whole-token-blocks-in-parallel-for-up-to-15x-higher-throughput-on-nvidia-blackwell&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;8. 火山引擎罗勇：AI 如何成为内容智造原生动力？&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;短剧新势力 · 今天 17:12&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;6月24日，2026火山引擎FORCE原动力大会分论坛AI+漫短剧论坛上，火山引擎漫短剧行业负责人罗勇现场分享《从工具到引擎：内容智造与IP出海的新解法》。以下是整理现场演讲原文内容：我叫罗勇，过去一段时间主要在漫短剧赛道里，负责看行业方案。今天我分享的话题，前段时间在红果举办的董事大会上有分享过很...&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkwNDYyNDk2Nw==&amp;mid=2247504977&amp;idx=1&amp;sn=111a57c1e69af65c092d458e91c3811f&amp;chksm=c1f83cdcbfb35c1c43dd9edb15da4fda0a5e1fa3df7bcc1e04f08a56fe673f6958724c0179f8&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;9. MiniCPM-V 4.6 在 Apple Core AI 上高速运行&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：面壁智能 OpenBMB (@OpenBMB) · 今天 14:57&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;🥳感谢分享，@MLBoy_DaisukeMajima 🚀
-MiniCPM-V 4.6 在设备上以这样的速度运行，实在令人印象深刻--尤其是在 Apple Core AI 上以不到 2B 参数跑出。
-干得漂亮，推动高效多模态 AI 向前发展。🫡&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/OpenBMB/status/2069676334381728106&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;10. 酱油、漫森、花笙爆款亮眼！AI剧漫剧一批“新”题材破圈爆量！&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;DataEye短剧观察 · 今天 08:40&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;近日，DataEye研究院监测发现，AI漫剧题材创新持续突破常规，一批极具差异化的特殊题材正在集中涌现。与传统题材不同，这类漫剧要么聚焦恋综赛道，要么涉及游戏领域，借鉴游戏设定，更有甚者还将“拼好饭”写进剧本？但从市场热度表现来看，这些另类题材正凭借强新鲜感与圈层穿透力，热度表现持续走高。本期Dat...&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkwMDYxOTYyMQ==&amp;mid=2247519093&amp;idx=1&amp;sn=3444c5ade45d982554a6c7bbeb7666f4&amp;chksm=c1e284505927d126975100001205de113c75c6665fbd5bde20bc1aa9f2acedd7cca96b706a67&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;11. 重磅！《微短剧发展管理办法》要来了！严管微短剧三大分类！这些剧不得播出！剧名、台词、字幕等也有严格要求！&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;DataEye短剧观察 · 今天 14:33&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;近日，国家广播电视总局发布《关于公开征求意见的通知》。通知指出，为进一步繁荣微短剧，壮大互联网条件下新大众文艺，推动微短剧健康发展，根据《广播电视管理条例》等行政法规，国家广播电视总局组织起草了《微短剧发展管理办法（征求意见稿）》，现向社会公开征求意见。DataEye研究院注意到《微短剧发展管理办法...&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkwMDYxOTYyMQ==&amp;mid=2247519068&amp;idx=1&amp;sn=f7aff63bbecad1833224e62e0d67fdf4&amp;chksm=c19edbf5cf083b87448fd27667d9039be4fa5fe6a2f5ea520f6cc3fc64c045750eb0ccda11fb&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;12. 重拳规范微短剧！广电出台专项管理办法征求意见&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;短剧新势力 · 今天 16:17&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;6月24日，国家广播电视总局发布《微短剧发展管理办法（征求意见稿）》，向社会公开征求意见。自2022年首次纳入监管视野以来，微短剧这一新兴内容形态再次迎来国家层面的系统性规范，行业将进入分类分级、全链条管理的新阶段。意见反馈截止时间为2026年7月23日。首次官方定义：单集少于20分钟办法首次对“微...&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkwNDYyNDk2Nw==&amp;mid=2247504941&amp;idx=1&amp;sn=f70c37065f5a6da4d2d5d08408ae825e&amp;chksm=c12563d84a506020e5c0af00b6e69b10cd6076d14a583f35767e06388962cf2e2913da996826&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;13. 主题圆桌：当所有人都看到泡沫，机器人何时走入真实场景 | 36氪WAVES2026新浪潮&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;36氪 · &lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;9. 主题圆桌：我们永远赞美冒险 更早、更小、更下水｜36氪WAVES2026新浪潮&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;36氪 · &lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。
   每一年，由36氪 · 暗涌主办的WAVES大会，都是中国创投圈的年度风向标。今年的 WAVES 2026以“今年盛夏”为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业者，用14场深度圆桌、数十场独立演讲，拆解 AI、硬科技、出海、医疗等核心赛道的底层逻辑，见证那些“少数人” 的坚持，如何汇聚成改变行业的浪潮。”
   以下为对话内容，经36氪整理编辑：
   
-  巴芮｜暗涌副主编&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://36kr.com/p/3867998907667462?f=rss&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+  陆海涛｜华义创投&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://36kr.com/p/3869378164397313?f=rss&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;14. 国产航电黑马8个月融三轮，要做中国版霍尼韦尔｜36氪首发&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;36氪 · &lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;文&amp;nbsp;|&amp;nbsp;阿至
-  给飞行器做“大脑”，从来不是一件容易事，在国内尤其如此。
-  这是一个长期被欧美巨头垄断的赛道，霍尼韦尔、柯林斯宇航、泰雷兹和GE四家吃下超过八成市场份额。从当下的产业背景来看，自主航电不仅关乎中国航空产业的供应链安全，也是国产民机、eVTOL等新机型实现成本可控和商业化闭环的重要前提之一。
-  在这一核心环节，一家成立不到4年的创业公司，想通过全栈自研打破国际垄断，做自主可控的综合航电系统，沿着“先国家队后民营”的路径，推动一场自上而下的市场卡位。
-  我们了解到，云际航电已于近期连续完成pre-A和pre-A+两轮融资，规模为数千万元，投资方包括海河产&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://36kr.com/p/3868030861645058?f=rss&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;10. 氪星晚报 ｜阿福“科学减重1亿斤”行动正式上线；B站：预计到明年，视频播客日均播放时长有望达到3亿分钟&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;36氪 · &lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;大公司：
+  百度：已有1500万人使用百度AI志愿助手填报
+  36氪获悉，6月25日，百度官方发布数据：截至目前，今年高考期间累计约有2.5亿用户、超12亿人次使用了百度高考服务，其中1500万人使用百度AI志愿助手填报志愿。
+  名创优品寇维宣：乐园系门店年内破百家
+  36氪获悉，名创优品集团全球副总裁兼首席渠道发展官寇维宣透露，名创优品乐园系门店正加速扩张，预计年内全球将突破100家。依托超级IP与超级门店双轮驱动，名创优品致力于成为全球领先的IP运营平台，带领100个中国IP走向世界。
+  高考出分三日，千问志愿大模型为考生生成500万份志愿报告
+  6月25日，全国多省份高考成绩&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://36kr.com/p/3868502221018370?f=rss&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;15. 圆桌对话：诶? AI! AI这个月、AI这一年、AI这五年｜36氪WAVES2026新浪潮&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;36氪 · &lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;11. 开放麦 | 启明创投胡奇：从AI算法工程师到投资人，与AI一起走过的十年&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;36氪 · &lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。
-  每一年，由36氪 · 暗涌主办的WAVES大会，都是中国创投圈的年度风向标。今年的 WAVES 2026以“今年盛夏”为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业者，用14场深度圆桌、数十场独立演讲，拆解 AI、硬科技、出海、医疗等核心赛道的底层逻辑，见证那些“少数人” 的坚持，如何汇聚成改变行业的浪潮。”
-  以下为对话内容，经36氪整理编辑：
+  每一年，由36氪 · 暗涌主办的WAVES大会，都是中国创投圈的年度风向标。今年的 WAVES 2026以 ‘今年盛夏’ 为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业者，用14场深度圆桌、数十场独立演讲，拆解 AI、硬科技、出海、医疗等核心赛道的底层逻辑，见证那些 ‘少数人’ 的坚持，如何汇聚成改变行业的浪潮。”
+  以下为开放麦内容，经36氪整理编辑：
   
-  海若镜丨36氪暗&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://36kr.com/p/3866900608701449?f=rss&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+  胡奇｜启&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://36kr.com/p/3868349472920576?f=rss&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;16. 字节跳动申请注册豆包云商标&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;36氪 · &lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;36氪获悉，天眼查知识产权信息显示，近日，豆包关联公司北京春田知韵科技有限公司申请注册“豆包云”商标，国际分类涉及科学仪器、网站服务，当前商标状态均为等待实质审查。该公司成立于2023年7月，法定代表人为严林，注册资本100万人民币，经营范围包括计算机系统服务、数据处理服务、软件开发等，由北京抖音信息服务有限公司全资持股。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://36kr.com/newsflashes/3868087633564931?f=rss&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;12. 科氪 | 雷鸟创新 618 持续领跑 AR+智能眼镜品类，Q1 全球出货量再度登顶&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;36氪 · &lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;2026 年上半年，全球智能眼镜市场迎来爆发式增长。IDC 数据显示全球 AR 市场（含 ER）同比增长 168.6%。国内市场的强劲增势同样印证了这一行业趋势，商务部大数据显示，2026 年 1 至 3 月，中国智能眼镜网络零售销售额同比增长 161.9%，AR 眼镜的受众圈层持续拓宽，正稳步渗透大众消费市场。
+  在激烈的竞争态势下，全球领先消费级 AR 品牌雷鸟创新（RayNeo）持续巩固其头部优势。Counterpoint Research、IDC、CINNO Research 三大权威机构数据一致显示，2026 年第一季度，雷鸟创新在全球及中国 AR 眼镜市场的出货量、销量均稳居第一&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://36kr.com/p/3868204527457287?f=rss&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;17. B站：预计到明年，视频播客日均播放时长有望达到3亿分钟&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;36氪 · &lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;36氪获悉，近日，B站发布《哔哩哔哩视频播客创作手册》（1.0版本），首次系统披露平台视频播客生态的增长情况、内容特征与创作趋势。数据显示，今年5月13日，B站视频播客单日播放时长首次突破1亿分钟；预计到明年，视频播客日均播放时长有望达到3亿分钟，同比增长300%。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://36kr.com/newsflashes/3868086944027655?f=rss&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;13. 何小鹏表示小鹏智驾即将出海&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;36氪 · &lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;36氪获悉，何小鹏6月25日朋友圈发文透露，第二代VLA走向全球进入确定模式。他提及WP.29批准的DCAS UNR 171 series 02在六个月后将生效成为欧盟强制法规，“也就是从2026年底自动驾驶可以合法进入全球”。他同时预告，“敬请期待2027年在海外的小鹏汽车的VLA和VLM的入场和体验（例如海外可以用中文和当地语言混合和爱车对话和控车）”。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://36kr.com/newsflashes/3869506406733065?f=rss&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;strong&gt;14. “木头姐”出售阿里巴巴股票&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;36氪 · &lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;凯茜·伍德（Cathie Wood）旗下的基金周四抛售了阿里巴巴的美国存托凭证（ADR），而就在三周前，这些基金刚刚增持了阿里巴巴的股票。根据周四发布的交易公告，ARK旗下的三只基金共计抛售了176004股阿里巴巴股票。（新浪财经）&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://36kr.com/newsflashes/3869447714493444?f=rss&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;strong&gt;15. 腾讯云助力印尼XLSMART实现AI全链路云转型&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;36氪 · &lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;36氪获悉，6月26日，印尼运营商XLSMART宣布完成大规模公有云转型。基于XLSMART的长期数字化战略，腾讯云作为其核心云战略合作伙伴，将AI融入迁移全链路，助力项目4.5个月完成平稳迁移。迁移过程中，腾讯云团队也基于代码助手CodeBuddy和效率智能体WorkBuddy，开发了20多个云迁移Skills，覆盖从资源发现到割接验证的完整迁移生命周期。本次迁移涉及1200个微服务、1100个API及900个业务接口，平稳处理超15TB核心数据资产。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://36kr.com/newsflashes/3869433547216130?f=rss&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;</description>
     </item>
     <item>
-      <title>💡 社媒选题建议 · 06月25日 · 3条含大纲</title>
+      <title>💡 社媒选题建议 · 06月26日 · 3条含大纲</title>
       <link>https://dingdanggg.github.io/linggou-rss</link>
-      <guid isPermaLink="false">linggou-topics-2026062513</guid>
-      <pubDate>Thu, 25 Jun 2026 13:05:27 +0800</pubDate>
+      <guid isPermaLink="false">linggou-topics-2026062613</guid>
+      <pubDate>Fri, 26 Jun 2026 13:08:40 +0800</pubDate>
       <category>社媒选题</category>
       <description>&lt;h2&gt;💡 社媒选题建议&lt;/h2&gt;
 &lt;p&gt;每条选题含完整大纲，可直接展开写 1500-2000 字文章。&lt;/p&gt;
-&lt;h3&gt;选题 1：3步骤用AI手搓《仙剑》级短片，附工具链&lt;/h3&gt;
+&lt;h3&gt;选题 1：AI漫剧配图速成：31个开源角色库+4步工作流&lt;/h3&gt;
 &lt;p&gt;📱 &lt;strong&gt;平台&lt;/strong&gt;：B站、小红书&lt;/p&gt;
-&lt;p&gt;🎯 &lt;strong&gt;读者痛点&lt;/strong&gt;：全网群嘲AI脸，但有人用AI做出了几百万播放的《仙剑》短片——你差的不是工具，是这套工作流。&lt;/p&gt;
+&lt;p&gt;🎯 &lt;strong&gt;读者痛点&lt;/strong&gt;：做AI短剧/漫剧总卡在角色风格统一？免费开源31个手绘线稿角色，3分钟搞定一套配图。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;📝 文章大纲&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;
-&lt;li&gt;## 为什么AI作品被骂？两版《仙剑》差在哪（对比《仙剑》AI翻车案例与爆款《仙剑》的技术差异：面部一致性、光影、场景纵深）&lt;/li&gt;
-&lt;li&gt;## 核心工具链拆解：灵构3D模型库+AI视频生成+后期精修（灵构平台提供高精度3D角色与场景资产，配合Stable Video Diffusion或Runway Gen-3做动作生成，再用Topaz Video AI修复帧）&lt;/li&gt;
-&lt;li&gt;## 第一步：用灵构3D资产搭建“数字演员”与场景（如何从灵构平台选择符合古风设定的角色模型、调整材质与姿态，导出为AI可识别的多视角图集）&lt;/li&gt;
-&lt;li&gt;## 第二步：用AI生成动作与运镜（用ControlNet+LoRA锁定角色面部特征，通过灵构提供的骨骼绑定数据驱动动作，配合ComfyUI工作流批量生成序列帧）&lt;/li&gt;
-&lt;li&gt;## 第三步：后期优化与成片（用EbSynth提升帧间一致性，再用剪映或DaVinci Resolve叠特效、调色、加AI配音，最终输出1080P短片）&lt;/li&gt;
-&lt;li&gt;## 数据验证：从0到百万播放的投放策略（拆解爆款UP主的发布时间、标签选择、互动引导技巧，并给出B站/小红书专属标题模板）&lt;/li&gt;
+&lt;li&gt;## 为什么你的AI漫剧角色总像“拼凑物”（剖析痛点：角色风格割裂、缺乏 IP 感，引用小互IP Studio案例）&lt;/li&gt;
+&lt;li&gt;## 开源角色库有多香：31个角色+5种皮肤一次配齐（展示库内容：15个线稿角色+16个谐音梗角色，以及3D盲盒等皮肤切换方法）&lt;/li&gt;
+&lt;li&gt;## 四步工作流：从读取文章到自查返工（拆解Agent自动流程：输入文章→规划配图类型→生成→质检返工，附具体操作截图）&lt;/li&gt;
+&lt;li&gt;## 小白也能上手：Python3+Claude Code（或Codex）环境配置（硬件要求、软件安装步骤、OpenAI图像API key获取方法）&lt;/li&gt;
+&lt;li&gt;## 实战测试：用该库生成一段“赛博修仙”AI漫剧配图（对比手动绘图耗时，展示最终成片效果与输出时间）&lt;/li&gt;
+&lt;li&gt;## 进阶技巧：自定义角色与风格迁移（教你如何基于线稿角色生成专属IP，避免撞车）&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr/&gt;
-&lt;h3&gt;选题 2：AI Coding效率翻倍！5个开源工具+实战数据&lt;/h3&gt;
+&lt;h3&gt;选题 2：Runway Agent 2.0实测：如何用AI一天生成一周营销视频&lt;/h3&gt;
 &lt;p&gt;📱 &lt;strong&gt;平台&lt;/strong&gt;：B站、抖音&lt;/p&gt;
-&lt;p&gt;🎯 &lt;strong&gt;读者痛点&lt;/strong&gt;：字节副总裁曝AI代码贡献率涨6倍，但可交付率不到50%——避开这些坑，你的AI编程效率才能真翻倍。&lt;/p&gt;
+&lt;p&gt;🎯 &lt;strong&gt;读者痛点&lt;/strong&gt;：营销团队还在手动剪片？Runway刚发布Agent 2.0，自动生成、测试、本地化，一周内容一天搞定。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;📝 文章大纲&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;
-&lt;li&gt;## 字节跳动AI Coding数据背后的真相：90%AI生成率≠90%效率（解析洪定坤演讲中'可交付性仅40-60分'的真实含义，以及人均需求吞吐量仅提升60%的原因）&lt;/li&gt;
-&lt;li&gt;## 工具1：TRAE Work — 字节内部提效50倍的秘密（介绍TRAE日均Token消耗5.6万亿、增长50倍，如何用原型驱动开发模式结合AI生成代码）&lt;/li&gt;
-&lt;li&gt;## 工具2：NVIDIA NeMo AutoModel — 一行代码加速MoE模型微调（实操演示：在Qwen3-30B等模型上通过一行import实现3.4倍训练吞吐量提升，减少30%显存）&lt;/li&gt;
-&lt;li&gt;## 工具3：DFlash — 推理提速6倍的块扩散草稿模型（对比EAGLE-3，在Qwen3-8B上实现MATH-500加速6.08×，gpt-oss-120b吞吐量提升15倍的原理与配置方法）&lt;/li&gt;
-&lt;li&gt;## 实战工作流：从需求到可交付代码的5步法（1.用Grok或Perplexity做需求分析 → 2.用TRAE生成骨架 → 3.用AutoModel微调领域模型 → 4.用DFlash加速推理 → 5.用Harness基建验证可交付性）&lt;/li&gt;
-&lt;li&gt;## 避坑清单：AI编程的三大常见误区（过度依赖单一模型、忽视可交付性指标、缺乏代码治理流程——附字节900次实验总结的最佳模型组合）&lt;/li&gt;
+&lt;li&gt;## 营销人的噩梦：每周重复的剪辑、测试、修改（数据：传统团队制作一周社媒视频平均耗时20小时+）&lt;/li&gt;
+&lt;li&gt;## Agent 2.0核心能力拆解（对话式概念开发、自动生成变体、一键本地化功能演示）&lt;/li&gt;
+&lt;li&gt;## 实操步骤：从导入竞品数据到产出下一轮广告（上传Meta/TikTok/YouTube广告数据→Agent分析→生成待测变体，附数据截图）&lt;/li&gt;
+&lt;li&gt;## 自动裁切：横版视频秒变9:16、16:9、1:1（对比不同平台输出效果，展示画面构图自适应能力）&lt;/li&gt;
+&lt;li&gt;## 三种角色实战测评：品牌营销、绩效营销、社媒营销（分别测试活动概念生成、广告优化、一周内容排期，记录耗时与质量评分）&lt;/li&gt;
+&lt;li&gt;## 避坑指南：Agent 2.0的常见陷阱与优化建议（输出内容风格雷同怎么办？本地化翻译不精准如何修正？）&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr/&gt;
-&lt;h3&gt;选题 3：AI律师上线：用Perplexity自动查案写文书&lt;/h3&gt;
-&lt;p&gt;📱 &lt;strong&gt;平台&lt;/strong&gt;：小红书、B站&lt;/p&gt;
-&lt;p&gt;🎯 &lt;strong&gt;读者痛点&lt;/strong&gt;：Perplexity推出Computer for Counsel，律师日常工作流将被AI彻底重构——一分钟学会连接你的案件管理系统。&lt;/p&gt;
+&lt;h3&gt;选题 3：Midjourney草稿模式+随机风格：24张图成本直降75%&lt;/h3&gt;
+&lt;p&gt;📱 &lt;strong&gt;平台&lt;/strong&gt;：小红书&lt;/p&gt;
+&lt;p&gt;🎯 &lt;strong&gt;读者痛点&lt;/strong&gt;：MJ V8.1草稿模式更新后，生成24张不同风格的图只要原来4张的价格，你还不知道？&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;📝 文章大纲&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;
-&lt;li&gt;## Perplexity Computer for Counsel 到底能做什么？（拆解其连接midpageAI、LegalZoom、Docusign、netdocuments等工具的能力：自动提取可引用来源、生成法律摘要）&lt;/li&gt;
-&lt;li&gt;## 对比传统律师工作流：一个离婚案所花从8小时降到30分钟（以具体场景为例：资料检索2小时→1分钟，合同审查4小时→10分钟，文书撰写2小时→15分钟）&lt;/li&gt;
-&lt;li&gt;## 实操教程：5分钟配置你的AI法律助手（步骤1：订阅Perplexity Pro/Max → 步骤2：授权连接常用法律数据库和文档工具 → 步骤3：设置自然语言查询模板 → 步骤4：测试生成标准法律文书）&lt;/li&gt;
-&lt;li&gt;## 数据验证：Pro/Max用户的实际提效数据（引用官方及早期测试者反馈：检索准确率提升40%，重复工作减少70%，案件准备时间压缩至传统1/8）&lt;/li&gt;
-&lt;li&gt;## 延伸思考：零数据留存ZDR如何保护律师机密？（结合OpenRouter的ZDR实践，讲解账户级、护栏级、单次请求级三级控制，确保客户信息不被存储）&lt;/li&gt;
-&lt;li&gt;## 行业冲击与机会：AI不会取代律师，但会用AI的律师将取代不用AI的（从盈透证券与Grok集成、Figma与Anthropic合作等趋势，判断法律服务AI化的加速路径）&lt;/li&gt;
+&lt;li&gt;## 一张图4块钱？Midjourney用户的真实成本焦虑（传统模式价格对比：标准4张图 vs 草稿模式24张的价格差异）&lt;/li&gt;
+&lt;li&gt;## 草稿模式+随机风格的操作指南（两种触发方式：点击⚡图标、加入`--draft`和`--sref random`参数，配操作截图）&lt;/li&gt;
+&lt;li&gt;## 风格空间24倍速探索：如何一键扫出你的设计方向（解释`sref random`工作机制，对比V8.1之前的手动换风格效率）&lt;/li&gt;
+&lt;li&gt;## 从草稿到成品：Vary按键的使用技巧（如何将低分辨率草稿升级为全分辨率成品，保留理想风格）&lt;/li&gt;
+&lt;li&gt;## 实测案例：为一款“赛博国风”游戏角色做风格探索（展示24张草稿中的优品、升级后成片对比、总耗时测算）&lt;/li&gt;
+&lt;li&gt;## 创作者省钱攻略：草稿模式的3个高级组合技巧（搭配`--stylize`控制风格强度、配合角色参考图`--cref`稳定人设）&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr/&gt;</description>
     </item>
     <item>
-      <title>行业动态 · Anthropic称阿里巴巴非法获取了Claude AI模型的功能</title>
-      <link>https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24</link>
-      <guid isPermaLink="false">linggou-cmqsy1vs107c5slfu4fmksjzd</guid>
-      <pubDate>Thu, 25 Jun 2026 11:07:48 +0800</pubDate>
+      <title>行业动态 · 近400家美国报纸起诉微软和OpenAI：未经授权抓取新闻内容训练AI</title>
+      <link>https://www.ithome.com/0/968/872.htm</link>
+      <guid isPermaLink="false">linggou-cmqugodz30481sl80as72hqx1</guid>
+      <pubDate>Fri, 26 Jun 2026 12:37:58 +0800</pubDate>
       <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 11:07 · Hacker News 热门（buzzing.cc 中文翻译）&lt;/p&gt;
-&lt;p&gt;Anthropic指控阿里巴巴未经授权提取了其Claude AI模型的能力。该指控基于Anthropic的调查，认为阿里巴巴通过逆向工程或其他手段复制了Claude的核心技术。目前阿里巴巴尚未公开回应。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 12:37 · IT之家（RSS）&lt;/p&gt;
+&lt;p&gt;代表近400家纸媒的出版商联盟向美国纽约南区联邦地区法院起诉微软和OpenAI，指控其未经授权抓取新闻内容用于训练Copilot、ChatGPT等AI模型，侵犯版权并触犯《数字千年版权法》。起诉书称被告&quot;系统性且秘密地&quot;爬取网站，复制文章并删除版权管理信息。原告表示AI产品基于其内容创造数十亿美元价值，但出版商分文未得，称此举或成地方新闻业&quot;丧钟&quot;。OpenAI回应训练数据基于公开可获取内容且符合合理使用原则，微软未置评。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.ithome.com/0/968/872.htm&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>行业动态 · 盈透证券（Interactive Brokers）与 Grok 集成：组合分析、情景建模与实时交易指令生成</title>
-      <link>https://x.ai/news/grok-interactive-brokers</link>
-      <guid isPermaLink="false">linggou-cmqst0js5060tslfu7s6uxjhf</guid>
-      <pubDate>Thu, 25 Jun 2026 08:00:00 +0800</pubDate>
+      <title>行业动态 · Claude Code 6个实用Hook玩法</title>
+      <link>https://mp.weixin.qq.com/s/LVj2foSXi_hBRKxjuYaUyw</link>
+      <guid isPermaLink="false">linggou-cmquanuro02prsl8053rbhfjl</guid>
+      <pubDate>Fri, 26 Jun 2026 10:02:00 +0800</pubDate>
       <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 08:00 · xAI：News（网页）&lt;/p&gt;
-&lt;p&gt;盈透证券（Interactive Brokers）近日与 Grok 集成，用户可在几分钟内免费关联现有账户，无需注册新账户。通过自然语言与 Grok 对话，可完成组合收益分析（如股息与利息预测）、行业/地区/经济事件的风险敞口情景建模、市场趋势研究，并直接生成对冲订单等实时交易指令，实现从数据洞察到执行决策的一体化。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.ai/news/grok-interactive-brokers&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 10:02 · 公众号：数字生命卡兹克&lt;/p&gt;
+&lt;p&gt;Claude Code 内置近30个Hook事件（年初仅13个），本质是写死的规则脚本，运行时不消耗token。6个实用玩法：权限弹窗提醒、开机日程播报（问候+天气+飞书日程）、上下文预压缩时自动生成摘要卡片、结合Skill自动整理下载文件夹、启动后每小时久坐提醒、通过Bark实现手机/手表任务完成/失败推送。让AI从被动聊天框变为事件驱动的自动化系统。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://mp.weixin.qq.com/s/LVj2foSXi_hBRKxjuYaUyw&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>行业动态 · Perplexity推出Computer for Counsel</title>
-      <link>https://x.com/perplexity_ai/status/2069866668671766804</link>
-      <guid isPermaLink="false">linggou-cmqshf6dl0354slfug4vof984</guid>
-      <pubDate>Thu, 25 Jun 2026 03:34:04 +0800</pubDate>
-      <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 03:34 · X：Perplexity (@perplexity_ai)&lt;/p&gt;
-&lt;p&gt;推出 Computer for Counsel。
-
-Computer 现在连接了律师日常使用的研究数据库、文档工具和案件管理系统。可从中提取可引用来源：@midpageAI、@LegalZoom、@Docusign、@netdocuments 等。
-
-所有 Pro 和 Max 订阅用户均可使用。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/perplexity_ai/status/2069866668671766804&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>行业动态 · 思考即回忆：推理如何解锁LLM中的参数化知识</title>
-      <link>https://research.google/blog/thinking-to-recall-how-reasoning-unlocks-parametric-knowledge-in-llms</link>
-      <guid isPermaLink="false">linggou-cmqsbr8l701ndslfubzp0hnmi</guid>
-      <pubDate>Thu, 25 Jun 2026 01:05:40 +0800</pubDate>
-      <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 01:05 · Google Research：Blog（网页）&lt;/p&gt;
-&lt;p&gt;Google Research研究发现，推理（chain-of-thought）能帮助大语言模型（LLM）回忆简单事实，即使这些事实无需复杂推导。在Gemini-2.5 Flash和Pro以及Qwen3-32B上，启用推理后模型能够回答原本无法直接回答的简单问题，pass@k显示正确事实存在于输出分布中。该现象由两个机制驱动：一是生成的推理token充当计算缓冲，允许模型进行隐藏计算以提取参数化知识；二是推理过程中产生的相关事实起到启动效应（factual priming），帮助模型激活正确答案。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://research.google/blog/thinking-to-recall-how-reasoning-unlocks-parametric-knowledge-in-llms&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>技术工具 · Figma在Config 2026押注人类判断，画布AI能力却来自第三方</title>
-      <link>https://the-decoder.com/figma-bets-on-human-judgment-at-config-2026-while-the-ai-powering-its-canvas-belongs-to-someone-else</link>
-      <guid isPermaLink="false">linggou-cmqsbrhhm01o1slfu2kei9qhy</guid>
-      <pubDate>Thu, 25 Jun 2026 00:49:01 +0800</pubDate>
+      <title>技术工具 · 小互开源个人IP配图技能&quot;小互IP Studio&quot;，含31个原创角色</title>
+      <link>https://x.com/xiaohu/status/2070317717811540149</link>
+      <guid isPermaLink="false">linggou-cmqu93tek02e2sl80iom0bica</guid>
+      <pubDate>Fri, 26 Jun 2026 09:26:23 +0800</pubDate>
       <category>技术工具</category>
-      <description>&lt;p&gt;&lt;strong&gt;🛠️ 技术工具&lt;/strong&gt; · 今天 00:49 · The Decoder：AI News（RSS）&lt;/p&gt;
-&lt;p&gt;Figma在Config 2026将设计画布扩展至代码、动画、3D深度和着色器效果，并集成去年收购的Weave工作流系统。新功能包括Code Layers（代码与设计并存）、Motion动画、深度层、Shader及Generative Plugins。协作方面，团队可搜索复用AI提示词、保存工作流为技能、共享插件。Figma的AI功能依赖Anthropic、OpenAI和Google等外部模型，推理成本挤压利润率。同时，Anthropic等公司的竞争产品可直接生成界面，构成威胁。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://the-decoder.com/figma-bets-on-human-judgment-at-config-2026-while-the-ai-powering-its-canvas-belongs-to-someone-else&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;🛠️ 技术工具&lt;/strong&gt; · 今天 09:26 · X：小互 (@xiaohu)&lt;/p&gt;
+&lt;p&gt;博主小互开源个人IP配图技能&quot;小互IP Studio&quot;，包含31个原创角色（15个手绘线稿角色+16个谐音梗meme形象）及一套配图方法论。该Agent可自动读取文章、规划配图类型（情绪图/示意图/四格漫画）、生成并自查返工。默认画风为手绘线稿淡彩，另备5种皮肤（3D盲盒、黑白线稿等）可切换。安装仅需Python3，支持Claude Code、Codex等工具，需自备OpenAI兼容的图像API key（默认GPT-image-2）；也可只输出提示词手动生图。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/xiaohu/status/2070317717811540149&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>行业动态 · NVIDIA NeMo AutoModel：一行代码加速Transformer MoE模型微调</title>
-      <link>https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel</link>
-      <guid isPermaLink="false">linggou-cmqs9yjcy0187slfupnhipvhf</guid>
-      <pubDate>Thu, 25 Jun 2026 00:00:13 +0800</pubDate>
-      <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 00:00 · Hugging Face：Blog（RSS）&lt;/p&gt;
-&lt;p&gt;NVIDIA NeMo AutoModel 是基于 Transformers v5 的开源库，添加 Expert Parallelism、DeepEP 融合 all-to-all 调度和 TransformerEngine 内核。在 MoE 模型微调中，相比原生 v5，训练吞吐量提升 3.4-3.7 倍，GPU 内存减少 29-32%，仅需改动一行 import。在 16 节点 128 张 H100 上全微调 Nemotron 3 Ultra 550B A55B 时，v5 因内存不足无法运行，而 AutoModel 凭借 EP=64 专家并行使训练可行。单节点 30B MoE 模型（如 Qwen3-30B-A3B）同样获得可量化的性能优势。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <title>技术工具 · Midjourney 预览 V8.2 并加速草稿模式</title>
+      <link>https://x.com/midjourney/status/2070223272072065228</link>
+      <guid isPermaLink="false">linggou-cmqtvqfrt07aksl0et0cawoue</guid>
+      <pubDate>Fri, 26 Jun 2026 03:11:05 +0800</pubDate>
+      <category>技术工具</category>
+      <description>&lt;p&gt;&lt;strong&gt;🛠️ 技术工具&lt;/strong&gt; · 今天 03:11 · X：Midjourney (@midjourney)&lt;/p&gt;
+&lt;p&gt;Midjourney 带来两项更新。一是加入 `--preview` 参数可提前体验 V8.2 的美学与个性化效果；二是此前在 V8.1 推出的大批量草稿模式（生成 24 张低分辨率图，价格仅为标准 4 张的一半，点击 &quot;Vary&quot; 可升级为全分辨率）现在支持搭配 `--sref random` 使用，探索风格空间的速度比之前快 24 倍。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/midjourney/status/2070223272072065228&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>AIGC内容创作 · OpenRouter 零数据留存（ZDR）实践：97 款新模型，流量占比近半</title>
-      <link>https://openrouter.ai/blog/insights/when-zero-means-zero</link>
-      <guid isPermaLink="false">linggou-cmqsi8c9303azslfuexk0h241</guid>
-      <pubDate>Thu, 25 Jun 2026 00:00:00 +0800</pubDate>
+      <title>技术工具 · IBM 首度推出亚纳米级芯片技术</title>
+      <link>https://newsroom.ibm.com/2026-06-25-ibm-debuts-worlds-first-sub-1-nanometer-chip-technology</link>
+      <guid isPermaLink="false">linggou-cmqtvbv4r076ssl0e588aopiw</guid>
+      <pubDate>Fri, 26 Jun 2026 02:52:05 +0800</pubDate>
+      <category>技术工具</category>
+      <description>&lt;p&gt;&lt;strong&gt;🛠️ 技术工具&lt;/strong&gt; · 今天 02:52 · Hacker News 热门（buzzing.cc 中文翻译）&lt;/p&gt;
+&lt;p&gt;IBM 于 2026 年 6 月 25 日发布全球首款亚纳米级芯片技术，采用 0.7 nm（7 埃米）节点与全新三维纳米堆叠（nanostack）架构。指甲盖大小的芯片集成近 1000 亿个晶体管，密度约为 IBM 2021 年 2 nm 芯片的两倍。相比 2 nm 芯片，性能最高提升 50%，能效最高提升 70%。纳米堆叠架构还实现 SRAM 面积缩减 40%，有助于支撑先进 AI 工作负载的高带宽需求。该技术已在 VLSI 2026 会议上验证，IBM 预计 5 年内量产。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://newsroom.ibm.com/2026-06-25-ibm-debuts-worlds-first-sub-1-nanometer-chip-technology&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>技术工具 · Midjourney V8.1 草稿模式新增随机风格功能</title>
+      <link>https://updates.midjourney.com/random-styles-in-draft-mode</link>
+      <guid isPermaLink="false">linggou-cmqtv6jlv0766sl0eixynhk6m</guid>
+      <pubDate>Fri, 26 Jun 2026 02:50:16 +0800</pubDate>
+      <category>技术工具</category>
+      <description>&lt;p&gt;&lt;strong&gt;🛠️ 技术工具&lt;/strong&gt; · 今天 02:50 · Midjourney：Updates（RSS）&lt;/p&gt;
+&lt;p&gt;Midjourney V8.1 的草稿模式（draft mode）添加了随机风格功能。用户在提示词中加入 `--sref random` 即可一键生成 24 张不同风格的图片。开启草稿模式可通过点击提示栏的 ⚡ 图标或添加 `--draft` 参数。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://updates.midjourney.com/random-styles-in-draft-mode&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AIGC内容创作 · Runway发布Agent 2.0</title>
+      <link>https://runwayml.com/news/introducing-agent-2</link>
+      <guid isPermaLink="false">linggou-cmqtun7jv06zvsl0ejc2rnrpp</guid>
+      <pubDate>Fri, 26 Jun 2026 02:41:58 +0800</pubDate>
       <category>AIGC内容创作</category>
-      <description>&lt;p&gt;&lt;strong&gt;📽️ AIGC 内容创作&lt;/strong&gt; · 今天 00:00 · OpenRouter：Announcements（RSS）&lt;/p&gt;
-&lt;p&gt;OpenRouter 的零数据留存（ZDR）保证用户提示词和模型响应不被存储，元数据一般安全。自 1 月以来新增 97 款支持 ZDR 的模型，月度 token 量增长 4.3 倍，约占全部路由流量一半。ZDR 在三个层面执行：账户级（整个供应商开启）、护栏级（按 API Key 或组织成员限定）、单次请求级（传参数仅路由至 ZDR 端点）。企业用户可灵活选择控制粒度，避免锁定单一供应商。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://openrouter.ai/blog/insights/when-zero-means-zero&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;📽️ AIGC 内容创作&lt;/strong&gt; · 今天 02:41 · Runway：News（网页）&lt;/p&gt;
+&lt;p&gt;Runway发布Agent 2.0，帮助营销人员创建、测试和优化广告、视频及营销活动。品牌营销人员可在对话中开发活动概念、生成变体并自动本地化；绩效营销人员可上传创意并导入Meta、YouTube、TikTok或Google广告数据，由Agent分析后生成下一轮待测广告。社交媒体营销人员可一次性生成一周内容，自动裁切为9：16、16：9、1：1等格式；产品营销人员可借助Agent确定定位角度并构建活动资产。Agent 2.0面向所有用户开放。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://runwayml.com/news/introducing-agent-2&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>行业动态 · 字节跳动技术副总裁洪定坤：AI Coding 的实践与探索</title>
-      <link>https://mp.weixin.qq.com/s/mdmaAyUIvxE8WT_GEbF2wQ</link>
-      <guid isPermaLink="false">linggou-cmqs68cgx0090slfuumt36jny</guid>
-      <pubDate>Wed, 24 Jun 2026 22:02:42 +0800</pubDate>
+      <title>技术工具 · 赫库兰尼姆古卷首次被完整虚拟解读</title>
+      <link>https://scrollprize.org/firstscroll</link>
+      <guid isPermaLink="false">linggou-cmqtu9a7r06x3sl0exw2blt0o</guid>
+      <pubDate>Fri, 26 Jun 2026 02:03:58 +0800</pubDate>
+      <category>技术工具</category>
+      <description>&lt;p&gt;&lt;strong&gt;🛠️ 技术工具&lt;/strong&gt; · 今天 02:03 · Hacker News 热门（buzzing.cc 中文翻译）&lt;/p&gt;
+&lt;p&gt;研究人员利用高分辨率X射线显微断层扫描和机器学习，在未物理展开的情况下完整虚拟展开并读取了赫库兰尼姆古卷PHerc.1667（Scroll4）。这是首卷被从头到尾连续读取的纸莎草卷，内容为斯多葛哲学论著，提及克里西普斯的侄子Aristocreon。第二卷PHerc.Paris4通过更高分辨率成像使墨水在三维数据中直接可见，独立确认了2023年大奖赛的解读。第三卷PHerc.139确定标题和作者为菲洛德穆《论诸神》第八卷。所有数据与代码已公开。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scrollprize.org/firstscroll&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>行业动态 · 多数主流AI聊天机器人政治立场偏左，&quot;反觉醒&quot;模型也不例外</title>
+      <link>https://the-decoder.com/most-major-ai-chatbots-still-lean-left-on-political-questions-even-anti-woke-models-are-no-exception</link>
+      <guid isPermaLink="false">linggou-cmqtp5syl05k5sl0ec5cvuedt</guid>
+      <pubDate>Fri, 26 Jun 2026 00:04:32 +0800</pubDate>
       <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 22:02 · 公众号：火山引擎&lt;/p&gt;
-&lt;p&gt;在火山引擎Force大会，字节跳动技术副总裁洪定坤分享AI Coding实践。过去一年，字节AI代码贡献率增长6倍，tokens消耗增长5倍，但过度关注单一指标可能失真--TRAE团队代码超90%由AI生成，人均需求吞吐率仅提升60%。900次实验显示，主流Coding模型组合代码正确率超80%，但可交付性仅40-60分；结合Harness基建后提升至80分。AI降低编程门槛但需优化指标、治理、协作。字节探索原型驱动开发，能力沉淀至TRAE（日均Token消耗5.6万亿，增长50倍），并推出TRAE Work。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://mp.weixin.qq.com/s/mdmaAyUIvxE8WT_GEbF2wQ&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 00:04 · The Decoder：AI News（RSS）&lt;/p&gt;
+&lt;p&gt;华盛顿邮报调查显示，多数主流AI聊天机器人在政治问题上明显偏左。OpenAI GPT-5.5在80%回答中仅呈现左派论据；DeepSeek V4 Pro为70%；Anthropic Claude Opus 4.8有43%纯左、57%给出双方观点。xAI的Grok 4.3左倾回答仍多于右倾。右翼平台Gab的Arya左倾回答是右倾的12倍。Google Gemini 3.1 Pro是例外，93%回答同时呈现双方立场。特朗普推动的&quot;反觉醒&quot;AI未能改变这一格局。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://the-decoder.com/most-major-ai-chatbots-still-lean-left-on-political-questions-even-anti-woke-models-are-no-exception&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>行业动态 · 火山引擎推出Agent Ready基础设施，AgentKit与ArkClaw企业版升级</title>
-      <link>https://mp.weixin.qq.com/s/83mrPAPgQRKhxLkoSvRgBQ</link>
-      <guid isPermaLink="false">linggou-cmqrxnmqg0p2zslp51p8cc1ln</guid>
-      <pubDate>Wed, 24 Jun 2026 18:17:58 +0800</pubDate>
+      <title>行业动态 · General Intuition 完成 3.2 亿美元融资，用游戏数据训练通用 AI 智能体</title>
+      <link>https://techcrunch.com/2026/06/25/from-fortnite-to-robots-general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world</link>
+      <guid isPermaLink="false">linggou-cmqtq76j105ubsl0e8j4fy8se</guid>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0800</pubDate>
       <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 18:17 · 公众号：火山引擎&lt;/p&gt;
-&lt;p&gt;火山引擎在FORCE大会推出面向企业智能应用的Agent Ready基础设施，构建AI云与Agent三层架构。AgentKit升级提供Identity、Runtime、Sandbox、Evaluation等模块，实现Agent可靠、可控、可衡量。Identity已接入数千家身份体系，Runtime支持长程任务和分钟级12万沙箱并发。ArkClaw企业版集成Agent广场、技能中心与企业知识库，支持IDP/SSO/OAuth及飞书、钉钉等IM入口统一管控。实践案例：海底捞门店经营Agent将小时级工作压缩到分钟级，人工跟进时长缩减70%，巡检满意度提升50%；创维酷开借助ArkClaw终端版打造AIOS，Token消耗节省50%，支撑百万级终端。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://mp.weixin.qq.com/s/83mrPAPgQRKhxLkoSvRgBQ&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 00:00 · TechCrunch：AI（RSS）&lt;/p&gt;
+&lt;p&gt;General Intuition 以 23 亿美元估值完成 3.2 亿美元融资，累计披露融资 4.54 亿美元。公司从旗下游戏剪辑平台 Medal 获取数亿小时含精确按键动作标签的游戏操作数据，训练单一模型同时驾驭 Fortnite 等虚拟环境和四足机器人。演示中，AI 智能体在游戏中连续运行 100 小时，机器人仅靠 8 分钟真实街道数据微调即可自主探索办公室。本轮由 Khosla Ventures 领投，General Catalyst、Jeff Bezos、Eric Schmidt 等参投。资金将用于通过 CoreWeave 扩大计算规模、预训练下一代模型，计划夏末前开放 API。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://techcrunch.com/2026/06/25/from-fortnite-to-robots-general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>行业动态 · DFlash：块扩散草稿模型实现最高15倍吞吐量提升</title>
-      <link>https://www.marktechpost.com/2026/06/24/dflash-speculative-decoding-drafts-whole-token-blocks-in-parallel-for-up-to-15x-higher-throughput-on-nvidia-blackwell</link>
-      <guid isPermaLink="false">linggou-cmqrrgnay0n08slp5phvdk394</guid>
-      <pubDate>Wed, 24 Jun 2026 15:21:10 +0800</pubDate>
+      <title>行业动态 · Meta员工警告AI内容审核部署过快</title>
+      <link>https://the-decoder.com/meta-employees-warn-ai-moderation-rollout-is-too-fast</link>
+      <guid isPermaLink="false">linggou-cmqtc9nw602azsl0e4dvg4t64</guid>
+      <pubDate>Thu, 25 Jun 2026 18:07:19 +0800</pubDate>
       <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 15:21 · MarkTechPost（RSS）&lt;/p&gt;
-&lt;p&gt;DFlash 由 UC San Diego 团队提出，是一种用于投机解码的轻量块扩散草稿模型。它一次前向推理生成整块 token，再由目标模型并行验证，保证输出无损。相比 EAGLE-3，DFlash 实现最高 2.5 倍加速，在 Qwen3-8B 等多种模型上平均无损加速超过 6 倍（MATH-500 达 6.08×）。在 NVIDIA Blackwell 上（TensorRT-LLM），gpt-oss-120b 模型吞吐量提升最高 15 倍，约为 EAGLE-3 的 1.5 倍。核心创新是将目标模型多层隐藏特征注入草稿模型每一层的 Key-Value 投影，使接受长度随草稿深度增长。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.marktechpost.com/2026/06/24/dflash-speculative-decoding-drafts-whole-token-blocks-in-parallel-for-up-to-15x-higher-throughput-on-nvidia-blackwell&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 18:07 · The Decoder：AI News（RSS）&lt;/p&gt;
+&lt;p&gt;Meta在2025年已用大语言模型替换约一半人工审核请求，计划年底前将部分内容类型的AI审核比例提升至90%以上，每年节省数十亿美元。Meta否认成本动机，称自3月测试显示其模型错误率比人类低13%，且多捕捉10%违规。但员工指出模型仍会移除或限流无害内容，缺乏足够监督，快速部署已导致外包裁员。此外，Meta已从使用Google Gemini转向自家新基础模型Muse Spark，该模型基于人工审核员的历史决策训练。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://the-decoder.com/meta-employees-warn-ai-moderation-rollout-is-too-fast&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>行业动态 · MiniCPM-V 4.6 在 Apple Core AI 上高速运行</title>
-      <link>https://x.com/OpenBMB/status/2069676334381728106</link>
-      <guid isPermaLink="false">linggou-cmqrqhlvx0mr7slp5atv7dptr</guid>
-      <pubDate>Wed, 24 Jun 2026 14:57:45 +0800</pubDate>
-      <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 14:57 · X：面壁智能 OpenBMB (@OpenBMB)&lt;/p&gt;
-&lt;p&gt;🥳感谢分享，@MLBoy_DaisukeMajima 🚀
-MiniCPM-V 4.6 在设备上以这样的速度运行，实在令人印象深刻--尤其是在 Apple Core AI 上以不到 2B 参数跑出。
-干得漂亮，推动高效多模态 AI 向前发展。🫡&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/OpenBMB/status/2069676334381728106&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>AIGC内容创作 · 全网一边群嘲，一边“真香”：人们讨厌的根本不是AI脸</title>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkwNjY3NzI2NA==&amp;mid=2247517807&amp;idx=1&amp;sn=d91dd0faefe4b4ddcbb34d243a2b636f&amp;chksm=c1c0d0615866aae9de290ae1250309267868fb1dbbb6cf76888db35de37528ba3dc60e914c3f&amp;scene=0#rd</link>
-      <guid isPermaLink="false">linggou-extra-短剧自习室--986659207363977941</guid>
-      <pubDate>Wed, 24 Jun 2026 17:00:00 +0800</pubDate>
+      <title>AIGC内容创作 · 吸金11亿美元的《恋与深空》，狼人男主引发百万差评</title>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkwNjY3NzI2NA==&amp;mid=2247517843&amp;idx=1&amp;sn=0ed012bee181c712f41328a40e405b35&amp;chksm=c142b5e565ea6566ce737700ae45893f1bf4823a3655f9afeb4339ab0628f9f268e0c589b2f2&amp;scene=0#rd</link>
+      <guid isPermaLink="false">linggou-extra-短剧自习室-1349326603055635148</guid>
+      <pubDate>Thu, 25 Jun 2026 19:27:00 +0800</pubDate>
       <category>AIGC内容创作</category>
-      <description>&lt;p&gt;&lt;strong&gt;📽️ AIGC 内容创作&lt;/strong&gt; · 今天 17:00 · 短剧自习室&lt;/p&gt;
-&lt;p&gt;&quot;AI脸生理性厌恶&quot;冲上热搜，大量网友表示，看见AI脸就想划走。然而没过多久，另一部AI作品却惊艳了不少人。一位网友用AI手搓了一部《仙剑奇侠传》，几百万播放，评论区几乎没人怼AI，而是纷纷惊叹，AI终于做出了记忆里的《仙剑》。相关截图AI版《仙剑》并不是孤例，此前有《丧尸清道夫》出圈后好莱坞制片人...&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkwNjY3NzI2NA==&amp;mid=2247517807&amp;idx=1&amp;sn=d91dd0faefe4b4ddcbb34d243a2b636f&amp;chksm=c1c0d0615866aae9de290ae1250309267868fb1dbbb6cf76888db35de37528ba3dc60e914c3f&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;📽️ AIGC 内容创作&lt;/strong&gt; · 今天 19:27 · 短剧自习室&lt;/p&gt;
+&lt;p&gt;6月22日，叠纸游戏突然官宣《恋与深空》第六位男主“敖尹”，并称该角色将于7月9日随6.0版本“万籁俱起”正式上线。（相关截图）然而，评论区没有出现预想中整齐划一的“认领老公”现场，反而是各个平台都刷着“你老公”的谦让之词，新男主的颜值被广泛嫌弃。玩家们的失望和愤怒铺天盖地，单条微博评论迅速突破10...&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkwNjY3NzI2NA==&amp;mid=2247517843&amp;idx=1&amp;sn=0ed012bee181c712f41328a40e405b35&amp;chksm=c142b5e565ea6566ce737700ae45893f1bf4823a3655f9afeb4339ab0628f9f268e0c589b2f2&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>AIGC内容创作 · 快讯丨广电总局公开征求微短剧发展管理新规意见</title>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkwNjY3NzI2NA==&amp;mid=2247517812&amp;idx=1&amp;sn=ad339d9c5744fa286ef53adada4d969c&amp;chksm=c1cf49f36819239c42d937b6dbacc8a4f5b4d0f43ea1024876478acc514dd7d0286f1e890c81&amp;scene=0#rd</link>
-      <guid isPermaLink="false">linggou-extra-短剧自习室--4027933885107395659</guid>
-      <pubDate>Wed, 24 Jun 2026 15:37:00 +0800</pubDate>
+      <title>AIGC内容创作 · 刚刚DeepSeek宣布大规模扩张，整体至少扩员一倍，全体岗位集体喊人加入</title>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&amp;mid=2247515927&amp;idx=1&amp;sn=d9cc4077db6b03f8b085e408f8cafc34&amp;chksm=cfef90c12b2df058e5af49cc9e6c7a687d71aa6fb1a6a4df77269acb30ef3d4c8e038ff29586&amp;scene=0#rd</link>
+      <guid isPermaLink="false">linggou-extra-AI寒武纪-1851316006035721742</guid>
+      <pubDate>Thu, 25 Jun 2026 23:50:00 +0800</pubDate>
       <category>AIGC内容创作</category>
-      <description>&lt;p&gt;&lt;strong&gt;📽️ AIGC 内容创作&lt;/strong&gt; · 今天 15:37 · 短剧自习室&lt;/p&gt;
-&lt;p&gt;今日，国家广播电视总局发布《微短剧发展管理办法（征求意见稿）》，面向社会公开征求意见。国家层面再次为微短剧这一新兴内容形态出台系统性管理办法，标志着微短剧行业进一步走进分类分级、全链条规范管理的新阶段。征求意见稿共八章五十三条，从创作导向、分类管理、备案公示、审核许可、播出规范到法律责任，构建了覆盖...&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkwNjY3NzI2NA==&amp;mid=2247517812&amp;idx=1&amp;sn=ad339d9c5744fa286ef53adada4d969c&amp;chksm=c1cf49f36819239c42d937b6dbacc8a4f5b4d0f43ea1024876478acc514dd7d0286f1e890c81&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;📽️ AIGC 内容创作&lt;/strong&gt; · 今天 23:50 · AI寒武纪&lt;/p&gt;
+&lt;p&gt;↑阅读之前记得关注+星标⭐️，😄，每天才能第一时间接收到更新    DeepSeek刚刚宣布整体大规模扩张！！！↑ 上下滑动查看完整图片 ↑最新的官方招聘海报提到&quot;将所有部门的规模扩大至少一倍&quot;，这是非常罕见的表态。结合背景来看，DeepSeek近期完成首轮外部融资，募资总额超过500亿元，有了钱...&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&amp;mid=2247515927&amp;idx=1&amp;sn=d9cc4077db6b03f8b085e408f8cafc34&amp;chksm=cfef90c12b2df058e5af49cc9e6c7a687d71aa6fb1a6a4df77269acb30ef3d4c8e038ff29586&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>AIGC内容创作 · 突发！OpenAI推出首款自研AI芯片：能效暴打当前SOTA，今年底G瓦级部署</title>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&amp;mid=2247515902&amp;idx=1&amp;sn=1fbca91d52fbf261ff87e18ba6cd0cc2&amp;chksm=cfbbae7a1562acba02062d544a6df38f92b1f6d2baee99ef25cf6eaca1a4ae54454e69fc700e&amp;scene=0#rd</link>
-      <guid isPermaLink="false">linggou-extra-AI寒武纪-2710988012935427758</guid>
-      <pubDate>Wed, 24 Jun 2026 22:39:00 +0800</pubDate>
+      <title>AIGC内容创作 · IBM炸场：人类史上第一颗0.7纳米芯片诞生，指甲盖塞进1000亿晶体管</title>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&amp;mid=2247515918&amp;idx=1&amp;sn=cb46dc0ac20a455c3e5ad093a1983fc4&amp;chksm=cf9a64258c3a7648b4ce133191064bba750b5478b3b2a5f4cb10a3eba048da3e07ebfaafb7d1&amp;scene=0#rd</link>
+      <guid isPermaLink="false">linggou-extra-AI寒武纪--1418419540646056031</guid>
+      <pubDate>Thu, 25 Jun 2026 22:50:00 +0800</pubDate>
       <category>AIGC内容创作</category>
-      <description>&lt;p&gt;&lt;strong&gt;📽️ AIGC 内容创作&lt;/strong&gt; · 今天 22:39 · AI寒武纪&lt;/p&gt;
-&lt;p&gt;↑阅读之前记得关注+星标⭐️，😄，每天才能第一时间接收到更新 OpenAI亲手造出了第一颗芯片。刚刚，OpenAI和博通（Broadcom）联合发布了一款名为Jalapeño的AI推理芯片。这是OpenAI的第一颗自研智能处理器，也是两家公司共同规划的多代计算平台的起点。Broadcom总裁兼CEO...&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&amp;mid=2247515902&amp;idx=1&amp;sn=1fbca91d52fbf261ff87e18ba6cd0cc2&amp;chksm=cfbbae7a1562acba02062d544a6df38f92b1f6d2baee99ef25cf6eaca1a4ae54454e69fc700e&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;📽️ AIGC 内容创作&lt;/strong&gt; · 今天 22:50 · AI寒武纪&lt;/p&gt;
+&lt;p&gt;↑阅读之前记得关注+星标⭐️，😄，每天才能第一时间接收到更新 全球首颗亚1纳米芯片，来了。IBM今天正式宣布，推出全球首款亚1纳米节点芯片，采用全新0.7纳米（即7埃）制程工艺。这是半导体行业在逼近物理极限之际，打出的一张关键牌。一枚指甲盖，装进近1000亿颗晶体管这块芯片的晶体管密度，几乎是IB...&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&amp;mid=2247515918&amp;idx=1&amp;sn=cb46dc0ac20a455c3e5ad093a1983fc4&amp;chksm=cf9a64258c3a7648b4ce133191064bba750b5478b3b2a5f4cb10a3eba048da3e07ebfaafb7d1&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>AIGC内容创作 · Nathan Lambert：GLM-5.2是开源Agent重大突破，连锁反应将渗透进更广泛的经济体</title>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&amp;mid=2247515897&amp;idx=1&amp;sn=c85c25a2a6a6a30cde9654007858ac24&amp;chksm=cf0a43f3c68e70137ca7f952d91a0f3fab95ff1bf41747c253a989a957412f060d126e27d49f&amp;scene=0#rd</link>
-      <guid isPermaLink="false">linggou-extra-AI寒武纪-3123958844031629811</guid>
-      <pubDate>Wed, 24 Jun 2026 21:34:00 +0800</pubDate>
+      <title>AIGC内容创作 · 半壁江山都来了！龙虾Hermes爆火后首场智能体大会两天议程公布，下周杭州见</title>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&amp;mid=2247515911&amp;idx=1&amp;sn=f01bc951b279bc2e4a3d1fbbe9b3622c&amp;chksm=cf5111bbf012ca85fe7d5dedcb330640cd5869abaca17cfc05bb2570f27293eae7fabf0136a6&amp;scene=0#rd</link>
+      <guid isPermaLink="false">linggou-extra-AI寒武纪--1873598071709860476</guid>
+      <pubDate>Thu, 25 Jun 2026 15:57:00 +0800</pubDate>
       <category>AIGC内容创作</category>
-      <description>&lt;p&gt;&lt;strong&gt;📽️ AIGC 内容创作&lt;/strong&gt; · 今天 21:34 · AI寒武纪&lt;/p&gt;
-&lt;p&gt;↑阅读之前记得关注+星标⭐️，😄，每天才能第一时间接收到更新 开源AI领域的重量级观察者 Nathan Lambert ：GLM-5.2突然能做到那些只有顶尖付费AI才能做的事：写代码、自动完成复杂任务。他把这次突破比作当年 DeepSeek R1 震惊世界的那一刻。这意味着，花大价钱垄断最强AI的...&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&amp;mid=2247515897&amp;idx=1&amp;sn=c85c25a2a6a6a30cde9654007858ac24&amp;chksm=cf0a43f3c68e70137ca7f952d91a0f3fab95ff1bf41747c253a989a957412f060d126e27d49f&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;📽️ AIGC 内容创作&lt;/strong&gt; · 今天 15:57 · AI寒武纪&lt;/p&gt;
+&lt;p&gt;2026中国AI智能体大会（AgenticAICon 2026）将于7月2-3日在杭州隆重启幕。本次大会由智东西旗下智猩猩发起主办，为期两天，由开幕式+论坛+研讨会+交流晚宴+展览区组成，将以“范式跃迁 重塑世界”为主题，邀请60+位重量级嘉宾带来致辞、报告、演讲和对话，前瞻把脉Agentic AI...&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&amp;mid=2247515911&amp;idx=1&amp;sn=f01bc951b279bc2e4a3d1fbbe9b3622c&amp;chksm=cf5111bbf012ca85fe7d5dedcb330640cd5869abaca17cfc05bb2570f27293eae7fabf0136a6&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>行业动态 · 酱油、漫森、花笙爆款亮眼！AI剧漫剧一批“新”题材破圈爆量！</title>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkwMDYxOTYyMQ==&amp;mid=2247519093&amp;idx=1&amp;sn=3444c5ade45d982554a6c7bbeb7666f4&amp;chksm=c1e284505927d126975100001205de113c75c6665fbd5bde20bc1aa9f2acedd7cca96b706a67&amp;scene=0#rd</link>
-      <guid isPermaLink="false">linggou-extra-DataEye短剧观察--4796712231652465432</guid>
-      <pubDate>Thu, 25 Jun 2026 08:40:00 +0800</pubDate>
+      <title>行业动态 · 北京：微短剧规模585.7亿，增长74%！占全国58.6%份额！全国35万微短剧企业，北京4.68万家，带动就业27.3万！</title>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkwMDYxOTYyMQ==&amp;mid=2247519138&amp;idx=1&amp;sn=9b13c918de2aa31a14fc1d271201d49d&amp;chksm=c1cdfa6fcfa7e9cd6e3bb7c86e5b7cc43b4e2fd69270accafea97937846f32c1929178c7cf27&amp;scene=0#rd</link>
+      <guid isPermaLink="false">linggou-extra-DataEye短剧观察-7778749175823129597</guid>
+      <pubDate>Thu, 25 Jun 2026 16:22:00 +0800</pubDate>
       <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 08:40 · DataEye短剧观察&lt;/p&gt;
-&lt;p&gt;近日，DataEye研究院监测发现，AI漫剧题材创新持续突破常规，一批极具差异化的特殊题材正在集中涌现。与传统题材不同，这类漫剧要么聚焦恋综赛道，要么涉及游戏领域，借鉴游戏设定，更有甚者还将“拼好饭”写进剧本？但从市场热度表现来看，这些另类题材正凭借强新鲜感与圈层穿透力，热度表现持续走高。本期Dat...&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkwMDYxOTYyMQ==&amp;mid=2247519093&amp;idx=1&amp;sn=3444c5ade45d982554a6c7bbeb7666f4&amp;chksm=c1e284505927d126975100001205de113c75c6665fbd5bde20bc1aa9f2acedd7cca96b706a67&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 16:22 · DataEye短剧观察&lt;/p&gt;
+&lt;p&gt;6月24日下午，在第四届北京网络视听艺术大会“链动艺创，新新相应——新大众文艺主题研讨”上，北京市广电局副局长级领导孟锐发布了北京广电系列蓝皮书《北京网络视听文艺发展报告（2025）》。该《报告》由北京市广电局发展中心联合中国传媒大学传媒艺术与文化研究中心编制，北京出版集团北京出版社出版。6月25日...&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkwMDYxOTYyMQ==&amp;mid=2247519138&amp;idx=1&amp;sn=9b13c918de2aa31a14fc1d271201d49d&amp;chksm=c1cdfa6fcfa7e9cd6e3bb7c86e5b7cc43b4e2fd69270accafea97937846f32c1929178c7cf27&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>行业动态 · 重磅！《微短剧发展管理办法》要来了！严管微短剧三大分类！这些剧不得播出！剧名、台词、字幕等也有严格要求！</title>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkwMDYxOTYyMQ==&amp;mid=2247519068&amp;idx=1&amp;sn=f7aff63bbecad1833224e62e0d67fdf4&amp;chksm=c19edbf5cf083b87448fd27667d9039be4fa5fe6a2f5ea520f6cc3fc64c045750eb0ccda11fb&amp;scene=0#rd</link>
-      <guid isPermaLink="false">linggou-extra-DataEye短剧观察--4568399269099677083</guid>
-      <pubDate>Wed, 24 Jun 2026 14:33:00 +0800</pubDate>
-      <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 14:33 · DataEye短剧观察&lt;/p&gt;
-&lt;p&gt;近日，国家广播电视总局发布《关于公开征求意见的通知》。通知指出，为进一步繁荣微短剧，壮大互联网条件下新大众文艺，推动微短剧健康发展，根据《广播电视管理条例》等行政法规，国家广播电视总局组织起草了《微短剧发展管理办法（征求意见稿）》，现向社会公开征求意见。DataEye研究院注意到《微短剧发展管理办法...&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkwMDYxOTYyMQ==&amp;mid=2247519068&amp;idx=1&amp;sn=f7aff63bbecad1833224e62e0d67fdf4&amp;chksm=c19edbf5cf083b87448fd27667d9039be4fa5fe6a2f5ea520f6cc3fc64c045750eb0ccda11fb&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>AIGC内容创作 · 国家广电发布《微短剧发展管理办法（征求意见稿）》，短剧人你怎么看？</title>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyOTY1Mzg5Mg==&amp;mid=2247489839&amp;idx=1&amp;sn=38f0fdc34a13ea466b3a4a88cfbfb9a1&amp;chksm=c2076cc4f570e5d223252a6e7334c9a6d0d63573d2c60d8c3acc7f50c540b3714dd5c28f6f76#rd</link>
-      <guid isPermaLink="false">linggou-extra-短剧研究僧-6752696763757326537</guid>
-      <pubDate>Wed, 24 Jun 2026 20:54:00 +0800</pubDate>
+      <title>AIGC内容创作 · 骂AI短剧低俗的人，可能从来没在工地上搬过砖</title>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkyNjU5MzI1OA==&amp;mid=2247576495&amp;idx=1&amp;sn=f084715e478b99aefea640249c0eafb9&amp;chksm=c3f56ba485f0f02e1196d9f33c68a17a167a1335fc8f27e48bcdaa7547f4527962de234f588c&amp;scene=0#rd</link>
+      <guid isPermaLink="false">linggou-extra-短剧内行人--822455260916264190</guid>
+      <pubDate>Thu, 25 Jun 2026 13:36:00 +0800</pubDate>
       <category>AIGC内容创作</category>
-      <description>&lt;p&gt;&lt;strong&gt;📽️ AIGC 内容创作&lt;/strong&gt; · 今天 20:54 · 短剧研究僧&lt;/p&gt;
-&lt;p&gt;『写在前面』6月24日，国家广播电视总局发布了《微短剧发展管理办法（征求意见稿）》（以下简称为《办法》），并向社会公开征求意见。小僧仔细看了一下，这份《办法》还是有不少值得关注的地方，咱们一起看一看。——短剧研究僧『细则解读』虽然不少条款算是模式条款有点“老生常谈”，但还是有些值得说道说道的地方。首...&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkyOTY1Mzg5Mg==&amp;mid=2247489839&amp;idx=1&amp;sn=38f0fdc34a13ea466b3a4a88cfbfb9a1&amp;chksm=c2076cc4f570e5d223252a6e7334c9a6d0d63573d2c60d8c3acc7f50c540b3714dd5c28f6f76#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;📽️ AIGC 内容创作&lt;/strong&gt; · 今天 13:36 · 短剧内行人&lt;/p&gt;
+&lt;p&gt;最近内行人刷短视频，老刷到一类 AI 生成的短剧：一开始是拍主角出海打渔，一撒网就是满船的帝王蟹，卖完数钱数到手抽筋。隔了没几天，题材又进化了 —— 这回改拍赌石，主角的眼睛有特异功能，能透过石头厚厚的表层看穿内里，一眼就知道里面是不是帝王玉。画风粗糙，剧情根本经不起推敲，但这类短剧铺天盖地地涌进信...&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkyNjU5MzI1OA==&amp;mid=2247576495&amp;idx=1&amp;sn=f084715e478b99aefea640249c0eafb9&amp;chksm=c3f56ba485f0f02e1196d9f33c68a17a167a1335fc8f27e48bcdaa7547f4527962de234f588c&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>AIGC内容创作 · 四季霸榜红果前六：《发配边关，罪妻开荒养出战神》跑出AI短剧传奇</title>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyNjU5MzI1OA==&amp;mid=2247576489&amp;idx=1&amp;sn=2221be987ee239643a1d9e4691be8eb1&amp;chksm=c36b5c905e993c35aed1778dff3c1c369cc3c000e53630e00e6b540682cb249c76045c920b32&amp;scene=0#rd</link>
-      <guid isPermaLink="false">linggou-extra-短剧内行人--2596226648961097823</guid>
-      <pubDate>Wed, 24 Jun 2026 14:15:00 +0800</pubDate>
-      <category>AIGC内容创作</category>
-      <description>&lt;p&gt;&lt;strong&gt;📽️ AIGC 内容创作&lt;/strong&gt; · 今天 14:15 · 短剧内行人&lt;/p&gt;
-&lt;p&gt;当 AI 短剧还在被质疑“产能高于品质”“数据远不如真人剧”“爆款难以持续”时， AI 真人剧《发配边关，罪妻开荒养出战神》系列跑出了前所未有的成绩 ——6 月 18 日 - 19 日连续两日，该剧前三季霸榜红果热播榜前三席位，超越全部真人剧。第四季上线后，仍强势登上红果热播榜，形成四季作品占据红果...&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkyNjU5MzI1OA==&amp;mid=2247576489&amp;idx=1&amp;sn=2221be987ee239643a1d9e4691be8eb1&amp;chksm=c36b5c905e993c35aed1778dff3c1c369cc3c000e53630e00e6b540682cb249c76045c920b32&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>行业动态 · 重拳规范微短剧！广电出台专项管理办法征求意见</title>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkwNDYyNDk2Nw==&amp;mid=2247504941&amp;idx=1&amp;sn=f70c37065f5a6da4d2d5d08408ae825e&amp;chksm=c12563d84a506020e5c0af00b6e69b10cd6076d14a583f35767e06388962cf2e2913da996826&amp;scene=0#rd</link>
-      <guid isPermaLink="false">linggou-extra-短剧新势力-1883657615804667897</guid>
-      <pubDate>Wed, 24 Jun 2026 16:17:00 +0800</pubDate>
+      <title>行业动态 · 阿里云内测“向尾”，入局AI互动故事赛道</title>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkwNDYyNDk2Nw==&amp;mid=2247504977&amp;idx=2&amp;sn=cfe128e3abc7e47d6f23ee0c5227640f&amp;chksm=c14cc20c39841a3262f9e2c2985446fe5f0570f641279ced46b9b68fefb53e978200f56d2536&amp;scene=0#rd</link>
+      <guid isPermaLink="false">linggou-extra-短剧新势力--3243386603776685025</guid>
+      <pubDate>Thu, 25 Jun 2026 17:12:00 +0800</pubDate>
       <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 16:17 · 短剧新势力&lt;/p&gt;
-&lt;p&gt;6月24日，国家广播电视总局发布《微短剧发展管理办法（征求意见稿）》，向社会公开征求意见。自2022年首次纳入监管视野以来，微短剧这一新兴内容形态再次迎来国家层面的系统性规范，行业将进入分类分级、全链条管理的新阶段。意见反馈截止时间为2026年7月23日。首次官方定义：单集少于20分钟办法首次对“微...&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkwNDYyNDk2Nw==&amp;mid=2247504941&amp;idx=1&amp;sn=f70c37065f5a6da4d2d5d08408ae825e&amp;chksm=c12563d84a506020e5c0af00b6e69b10cd6076d14a583f35767e06388962cf2e2913da996826&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 17:12 · 短剧新势力&lt;/p&gt;
+&lt;p&gt;6月25日，据“读佳”报道，阿里云正低调内测一款名为“向尾”的AI互动故事产品，试水AI互动内容领域。至此，腾讯、字节跳动、阿里等国内主要科技厂商均已在这一领域有所布局。创作与互动双核驱动与市面上仅能生成短篇文字的AI工具不同，“向尾”主打故事创作与沉浸式互动两大核心能力。在创作层面，产品提供三种模...&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkwNDYyNDk2Nw==&amp;mid=2247504977&amp;idx=2&amp;sn=cfe128e3abc7e47d6f23ee0c5227640f&amp;chksm=c14cc20c39841a3262f9e2c2985446fe5f0570f641279ced46b9b68fefb53e978200f56d2536&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>行业动态 · 主题圆桌：当所有人都看到泡沫，机器人何时走入真实场景 | 36氪WAVES2026新浪潮</title>
-      <link>https://36kr.com/p/3867998907667462?f=rss</link>
-      <guid isPermaLink="false">linggou-extra-36氪--2625782964742030861</guid>
-      <pubDate>Thu, 25 Jun 2026 13:05:27 +0800</pubDate>
+      <title>行业动态 · 火山引擎罗勇：AI 如何成为内容智造原生动力？</title>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkwNDYyNDk2Nw==&amp;mid=2247504977&amp;idx=1&amp;sn=111a57c1e69af65c092d458e91c3811f&amp;chksm=c1f83cdcbfb35c1c43dd9edb15da4fda0a5e1fa3df7bcc1e04f08a56fe673f6958724c0179f8&amp;scene=0#rd</link>
+      <guid isPermaLink="false">linggou-extra-短剧新势力--4205460666110671257</guid>
+      <pubDate>Thu, 25 Jun 2026 17:12:00 +0800</pubDate>
+      <category>行业动态</category>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 17:12 · 短剧新势力&lt;/p&gt;
+&lt;p&gt;6月24日，2026火山引擎FORCE原动力大会分论坛AI+漫短剧论坛上，火山引擎漫短剧行业负责人罗勇现场分享《从工具到引擎：内容智造与IP出海的新解法》。以下是整理现场演讲原文内容：我叫罗勇，过去一段时间主要在漫短剧赛道里，负责看行业方案。今天我分享的话题，前段时间在红果举办的董事大会上有分享过很...&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkwNDYyNDk2Nw==&amp;mid=2247504977&amp;idx=1&amp;sn=111a57c1e69af65c092d458e91c3811f&amp;chksm=c1f83cdcbfb35c1c43dd9edb15da4fda0a5e1fa3df7bcc1e04f08a56fe673f6958724c0179f8&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>行业动态 · 主题圆桌：我们永远赞美冒险 更早、更小、更下水｜36氪WAVES2026新浪潮</title>
+      <link>https://36kr.com/p/3869378164397313?f=rss</link>
+      <guid isPermaLink="false">linggou-extra-36氪-6116674312950073568</guid>
+      <pubDate>Fri, 26 Jun 2026 13:08:40 +0800</pubDate>
       <category>行业动态</category>
       <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; ·  · 36氪&lt;/p&gt;
 &lt;p&gt;“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。
   每一年，由36氪 · 暗涌主办的WAVES大会，都是中国创投圈的年度风向标。今年的 WAVES 2026以“今年盛夏”为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业者，用14场深度圆桌、数十场独立演讲，拆解 AI、硬科技、出海、医疗等核心赛道的底层逻辑，见证那些“少数人” 的坚持，如何汇聚成改变行业的浪潮。”
   以下为对话内容，经36氪整理编辑：
   
-  巴芮｜暗涌副主编&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://36kr.com/p/3867998907667462?f=rss&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+  陆海涛｜华义创投&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://36kr.com/p/3869378164397313?f=rss&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>行业动态 · 国产航电黑马8个月融三轮，要做中国版霍尼韦尔｜36氪首发</title>
-      <link>https://36kr.com/p/3868030861645058?f=rss</link>
-      <guid isPermaLink="false">linggou-extra-36氪-1974571351269682422</guid>
-      <pubDate>Thu, 25 Jun 2026 13:05:27 +0800</pubDate>
+      <title>行业动态 · 氪星晚报 ｜阿福“科学减重1亿斤”行动正式上线；B站：预计到明年，视频播客日均播放时长有望达到3亿分钟</title>
+      <link>https://36kr.com/p/3868502221018370?f=rss</link>
+      <guid isPermaLink="false">linggou-extra-36氪-3259211826081917276</guid>
+      <pubDate>Fri, 26 Jun 2026 13:08:40 +0800</pubDate>
       <category>行业动态</category>
       <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; ·  · 36氪&lt;/p&gt;
-&lt;p&gt;文&amp;nbsp;|&amp;nbsp;阿至
-  给飞行器做“大脑”，从来不是一件容易事，在国内尤其如此。
-  这是一个长期被欧美巨头垄断的赛道，霍尼韦尔、柯林斯宇航、泰雷兹和GE四家吃下超过八成市场份额。从当下的产业背景来看，自主航电不仅关乎中国航空产业的供应链安全，也是国产民机、eVTOL等新机型实现成本可控和商业化闭环的重要前提之一。
-  在这一核心环节，一家成立不到4年的创业公司，想通过全栈自研打破国际垄断，做自主可控的综合航电系统，沿着“先国家队后民营”的路径，推动一场自上而下的市场卡位。
-  我们了解到，云际航电已于近期连续完成pre-A和pre-A+两轮融资，规模为数千万元，投资方包括海河产&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://36kr.com/p/3868030861645058?f=rss&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;大公司：
+  百度：已有1500万人使用百度AI志愿助手填报
+  36氪获悉，6月25日，百度官方发布数据：截至目前，今年高考期间累计约有2.5亿用户、超12亿人次使用了百度高考服务，其中1500万人使用百度AI志愿助手填报志愿。
+  名创优品寇维宣：乐园系门店年内破百家
+  36氪获悉，名创优品集团全球副总裁兼首席渠道发展官寇维宣透露，名创优品乐园系门店正加速扩张，预计年内全球将突破100家。依托超级IP与超级门店双轮驱动，名创优品致力于成为全球领先的IP运营平台，带领100个中国IP走向世界。
+  高考出分三日，千问志愿大模型为考生生成500万份志愿报告
+  6月25日，全国多省份高考成绩&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://36kr.com/p/3868502221018370?f=rss&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>行业动态 · 圆桌对话：诶? AI! AI这个月、AI这一年、AI这五年｜36氪WAVES2026新浪潮</title>
-      <link>https://36kr.com/p/3866900608701449?f=rss</link>
-      <guid isPermaLink="false">linggou-extra-36氪--4357887622818464393</guid>
-      <pubDate>Thu, 25 Jun 2026 13:05:27 +0800</pubDate>
+      <title>行业动态 · 开放麦 | 启明创投胡奇：从AI算法工程师到投资人，与AI一起走过的十年</title>
+      <link>https://36kr.com/p/3868349472920576?f=rss</link>
+      <guid isPermaLink="false">linggou-extra-36氪-2485125295903033384</guid>
+      <pubDate>Fri, 26 Jun 2026 13:08:40 +0800</pubDate>
       <category>行业动态</category>
       <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; ·  · 36氪&lt;/p&gt;
 &lt;p&gt;“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。
-  每一年，由36氪 · 暗涌主办的WAVES大会，都是中国创投圈的年度风向标。今年的 WAVES 2026以“今年盛夏”为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业者，用14场深度圆桌、数十场独立演讲，拆解 AI、硬科技、出海、医疗等核心赛道的底层逻辑，见证那些“少数人” 的坚持，如何汇聚成改变行业的浪潮。”
-  以下为对话内容，经36氪整理编辑：
+  每一年，由36氪 · 暗涌主办的WAVES大会，都是中国创投圈的年度风向标。今年的 WAVES 2026以 ‘今年盛夏’ 为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业者，用14场深度圆桌、数十场独立演讲，拆解 AI、硬科技、出海、医疗等核心赛道的底层逻辑，见证那些 ‘少数人’ 的坚持，如何汇聚成改变行业的浪潮。”
+  以下为开放麦内容，经36氪整理编辑：
   
-  海若镜丨36氪暗&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://36kr.com/p/3866900608701449?f=rss&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+  胡奇｜启&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://36kr.com/p/3868349472920576?f=rss&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>行业动态 · 字节跳动申请注册豆包云商标</title>
-      <link>https://36kr.com/newsflashes/3868087633564931?f=rss</link>
-      <guid isPermaLink="false">linggou-extra-36氪-6195377173545417053</guid>
-      <pubDate>Thu, 25 Jun 2026 13:05:27 +0800</pubDate>
+      <title>行业动态 · 科氪 | 雷鸟创新 618 持续领跑 AR+智能眼镜品类，Q1 全球出货量再度登顶</title>
+      <link>https://36kr.com/p/3868204527457287?f=rss</link>
+      <guid isPermaLink="false">linggou-extra-36氪--8495826959825454334</guid>
+      <pubDate>Fri, 26 Jun 2026 13:08:40 +0800</pubDate>
       <category>行业动态</category>
       <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; ·  · 36氪&lt;/p&gt;
-&lt;p&gt;36氪获悉，天眼查知识产权信息显示，近日，豆包关联公司北京春田知韵科技有限公司申请注册“豆包云”商标，国际分类涉及科学仪器、网站服务，当前商标状态均为等待实质审查。该公司成立于2023年7月，法定代表人为严林，注册资本100万人民币，经营范围包括计算机系统服务、数据处理服务、软件开发等，由北京抖音信息服务有限公司全资持股。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://36kr.com/newsflashes/3868087633564931?f=rss&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;2026 年上半年，全球智能眼镜市场迎来爆发式增长。IDC 数据显示全球 AR 市场（含 ER）同比增长 168.6%。国内市场的强劲增势同样印证了这一行业趋势，商务部大数据显示，2026 年 1 至 3 月，中国智能眼镜网络零售销售额同比增长 161.9%，AR 眼镜的受众圈层持续拓宽，正稳步渗透大众消费市场。
+  在激烈的竞争态势下，全球领先消费级 AR 品牌雷鸟创新（RayNeo）持续巩固其头部优势。Counterpoint Research、IDC、CINNO Research 三大权威机构数据一致显示，2026 年第一季度，雷鸟创新在全球及中国 AR 眼镜市场的出货量、销量均稳居第一&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://36kr.com/p/3868204527457287?f=rss&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>行业动态 · B站：预计到明年，视频播客日均播放时长有望达到3亿分钟</title>
-      <link>https://36kr.com/newsflashes/3868086944027655?f=rss</link>
-      <guid isPermaLink="false">linggou-extra-36氪-6916635291831596569</guid>
-      <pubDate>Thu, 25 Jun 2026 13:05:27 +0800</pubDate>
+      <title>行业动态 · 何小鹏表示小鹏智驾即将出海</title>
+      <link>https://36kr.com/newsflashes/3869506406733065?f=rss</link>
+      <guid isPermaLink="false">linggou-extra-36氪-2310268622460303500</guid>
+      <pubDate>Fri, 26 Jun 2026 13:08:40 +0800</pubDate>
       <category>行业动态</category>
       <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; ·  · 36氪&lt;/p&gt;
-&lt;p&gt;36氪获悉，近日，B站发布《哔哩哔哩视频播客创作手册》（1.0版本），首次系统披露平台视频播客生态的增长情况、内容特征与创作趋势。数据显示，今年5月13日，B站视频播客单日播放时长首次突破1亿分钟；预计到明年，视频播客日均播放时长有望达到3亿分钟，同比增长300%。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://36kr.com/newsflashes/3868086944027655?f=rss&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;36氪获悉，何小鹏6月25日朋友圈发文透露，第二代VLA走向全球进入确定模式。他提及WP.29批准的DCAS UNR 171 series 02在六个月后将生效成为欧盟强制法规，“也就是从2026年底自动驾驶可以合法进入全球”。他同时预告，“敬请期待2027年在海外的小鹏汽车的VLA和VLM的入场和体验（例如海外可以用中文和当地语言混合和爱车对话和控车）”。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://36kr.com/newsflashes/3869506406733065?f=rss&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AIGC内容创作 · 4K花园宣布旗下AI工具“蝶变3.0”将于7月1日上线公测</title>
+      <link>https://36kr.com/newsflashes/3869475772257542?f=rss</link>
+      <guid isPermaLink="false">linggou-extra-36氪-3510286558250308692</guid>
+      <pubDate>Fri, 26 Jun 2026 13:08:40 +0800</pubDate>
+      <category>AIGC内容创作</category>
+      <description>&lt;p&gt;&lt;strong&gt;📽️ AIGC 内容创作&lt;/strong&gt; ·  · 36氪&lt;/p&gt;
+&lt;p&gt;36氪获悉，日前，国内超高清技术应用企业4K花园正式宣布，旗下AI短剧画质提升工具“蝶变3.0”将于7月1日正式上线开放公测。与此同时，由其发起的“AI短剧超高清专项扶持计划”同步启动。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://36kr.com/newsflashes/3869475772257542?f=rss&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>行业动态 · “木头姐”出售阿里巴巴股票</title>
+      <link>https://36kr.com/newsflashes/3869447714493444?f=rss</link>
+      <guid isPermaLink="false">linggou-extra-36氪--3546172654966879281</guid>
+      <pubDate>Fri, 26 Jun 2026 13:08:40 +0800</pubDate>
+      <category>行业动态</category>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; ·  · 36氪&lt;/p&gt;
+&lt;p&gt;凯茜·伍德（Cathie Wood）旗下的基金周四抛售了阿里巴巴的美国存托凭证（ADR），而就在三周前，这些基金刚刚增持了阿里巴巴的股票。根据周四发布的交易公告，ARK旗下的三只基金共计抛售了176004股阿里巴巴股票。（新浪财经）&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://36kr.com/newsflashes/3869447714493444?f=rss&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>行业动态 · 腾讯云助力印尼XLSMART实现AI全链路云转型</title>
+      <link>https://36kr.com/newsflashes/3869433547216130?f=rss</link>
+      <guid isPermaLink="false">linggou-extra-36氪--7566925611456574956</guid>
+      <pubDate>Fri, 26 Jun 2026 13:08:40 +0800</pubDate>
+      <category>行业动态</category>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; ·  · 36氪&lt;/p&gt;
+&lt;p&gt;36氪获悉，6月26日，印尼运营商XLSMART宣布完成大规模公有云转型。基于XLSMART的长期数字化战略，腾讯云作为其核心云战略合作伙伴，将AI融入迁移全链路，助力项目4.5个月完成平稳迁移。迁移过程中，腾讯云团队也基于代码助手CodeBuddy和效率智能体WorkBuddy，开发了20多个云迁移Skills，覆盖从资源发现到割接验证的完整迁移生命周期。本次迁移涉及1200个微服务、1100个API及900个业务接口，平稳处理超15TB核心数据资产。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://36kr.com/newsflashes/3869433547216130?f=rss&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

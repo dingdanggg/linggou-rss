@@ -1,30 +1,28 @@
 {
-  "generated_at": "2026-06-25T13:05:27.348462+08:00",
-  "total": 58,
-  "linggou": 25,
+  "generated_at": "2026-06-26T13:08:40.296578+08:00",
+  "total": 57,
+  "linggou": 27,
   "social_topics": 3,
   "sources": {
-    "Hacker News 热门（buzzing.cc 中文翻译）": 1,
-    "xAI：News（网页）": 1,
-    "X：Perplexity (@perplexity_ai)": 1,
-    "Google Research：Blog（网页）": 1,
-    "The Decoder：AI News（RSS）": 1,
-    "Hugging Face：Blog（RSS）": 1,
-    "OpenRouter：Announcements（RSS）": 1,
-    "公众号：火山引擎": 2,
-    "MarkTechPost（RSS）": 1,
-    "X：面壁智能 OpenBMB (@OpenBMB)": 1,
-    "短剧自习室": 2,
-    "AI寒武纪": 2,
-    "DataEye短剧观察": 2,
-    "短剧研究僧": 1,
+    "IT之家（RSS）": 1,
+    "公众号：数字生命卡兹克": 1,
+    "X：小互 (@xiaohu)": 1,
+    "X：Midjourney (@midjourney)": 1,
+    "Hacker News 热门（buzzing.cc 中文翻译）": 2,
+    "Midjourney：Updates（RSS）": 1,
+    "Runway：News（网页）": 1,
+    "The Decoder：AI News（RSS）": 2,
+    "TechCrunch：AI（RSS）": 1,
+    "短剧自习室": 1,
+    "AI寒武纪": 3,
+    "DataEye短剧观察": 1,
     "短剧内行人": 1,
-    "短剧新势力": 1,
-    "36氪": 5
+    "短剧新势力": 2,
+    "36氪": 8
   },
   "categories": {
     "aigc_content": 7,
-    "tech_tools": 1,
-    "industry": 17
+    "tech_tools": 5,
+    "industry": 15
   }
 }
