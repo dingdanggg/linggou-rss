@@ -1,28 +1,30 @@
 {
-  "generated_at": "2026-06-26T13:08:40.296578+08:00",
-  "total": 57,
-  "linggou": 27,
+  "generated_at": "2026-06-29T13:50:43.727543+08:00",
+  "total": 71,
+  "linggou": 32,
   "social_topics": 3,
   "sources": {
-    "IT之家（RSS）": 1,
-    "公众号：数字生命卡兹克": 1,
-    "X：小互 (@xiaohu)": 1,
-    "X：Midjourney (@midjourney)": 1,
-    "Hacker News 热门（buzzing.cc 中文翻译）": 2,
-    "Midjourney：Updates（RSS）": 1,
-    "Runway：News（网页）": 1,
+    "Nathan Lambert：Interconnects（RSS）": 1,
     "The Decoder：AI News（RSS）": 2,
-    "TechCrunch：AI（RSS）": 1,
-    "短剧自习室": 1,
-    "AI寒武纪": 3,
-    "DataEye短剧观察": 1,
+    "X：cb_doge (@cb_doge)": 1,
+    "X：Berry Xia (@berryxia)": 1,
+    "MarkTechPost（RSS）": 2,
+    "X：Runway (@runwayml)": 1,
+    "Ars Technica：AI（RSS）": 1,
+    "Hacker News：AI 热帖": 1,
+    "Dwarkesh Patel：Podcast & Blog（RSS）": 1,
+    "X：阿易 AI Notes (@AYi_AInotes)": 1,
+    "短剧自习室": 4,
+    "AI寒武纪": 4,
+    "DataEye短剧观察": 3,
     "短剧内行人": 1,
-    "短剧新势力": 2,
-    "36氪": 8
+    "AIGC新智界": 1,
+    "短剧新势力": 3,
+    "36氪": 4
   },
   "categories": {
-    "aigc_content": 7,
-    "tech_tools": 5,
-    "industry": 15
+    "aigc_content": 11,
+    "tech_tools": 0,
+    "industry": 21
   }
 }
