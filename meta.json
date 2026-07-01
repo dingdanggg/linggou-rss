@@ -1,30 +1,29 @@
 {
-  "generated_at": "2026-06-30T13:03:15.199478+08:00",
-  "total": 60,
-  "linggou": 23,
+  "generated_at": "2026-07-01T13:21:09.574827+08:00",
+  "total": 56,
+  "linggou": 22,
   "social_topics": 3,
   "sources": {
-    "X：小互 (@xiaohu)": 1,
     "公众号：数字生命卡兹克": 1,
-    "公众号：卡尔的AI沃茨": 1,
-    "X：Emad Mostaque (@EMostaque)": 1,
-    "Hacker News 热门（buzzing.cc 中文翻译）": 1,
-    "X：Berry Xia (@berryxia)": 1,
-    "The Decoder：AI News（RSS）": 3,
-    "X：AI at Meta (@AIatMeta)": 1,
-    "公众号：小红书技术（dots.llm）": 1,
-    "MarkTechPost（RSS）": 1,
-    "OpenAI：官网动态（RSS · 排除企业/客户案例）": 1,
-    "短剧自习室": 2,
-    "AI寒武纪": 1,
-    "DataEye短剧观察": 3,
-    "短剧内行人": 1,
+    "X：NotebookLM (@NotebookLM)": 1,
+    "TechCrunch：AI（RSS）": 1,
+    "Anthropic：Newsroom（网页）": 1,
+    "Claude：Blog（网页）": 1,
+    "Google Developers Blog（RSS）": 1,
+    "Apple：Newsroom（RSS）": 1,
+    "Simon Willison 博客": 1,
+    "Google DeepMind：Blog（RSS）": 1,
+    "Dwarkesh Patel：Podcast & Blog（RSS）": 1,
+    "The Decoder：AI News（RSS）": 1,
+    "AI寒武纪": 2,
+    "DataEye短剧观察": 2,
     "AIGC新智界": 1,
-    "36氪": 2
+    "短剧新势力": 1,
+    "36氪": 5
   },
   "categories": {
     "aigc_content": 6,
     "tech_tools": 1,
-    "industry": 16
+    "industry": 15
   }
 }
