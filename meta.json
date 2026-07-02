@@ -1,29 +1,23 @@
 {
-  "generated_at": "2026-07-01T13:21:09.574827+08:00",
-  "total": 56,
-  "linggou": 22,
+  "generated_at": "2026-07-02T12:57:09.081220+08:00",
+  "total": 49,
+  "linggou": 16,
   "social_topics": 3,
   "sources": {
-    "公众号：数字生命卡兹克": 1,
-    "X：NotebookLM (@NotebookLM)": 1,
-    "TechCrunch：AI（RSS）": 1,
-    "Anthropic：Newsroom（网页）": 1,
-    "Claude：Blog（网页）": 1,
+    "X：邵猛 (@shao__meng)": 1,
     "Google Developers Blog（RSS）": 1,
-    "Apple：Newsroom（RSS）": 1,
-    "Simon Willison 博客": 1,
-    "Google DeepMind：Blog（RSS）": 1,
-    "Dwarkesh Patel：Podcast & Blog（RSS）": 1,
-    "The Decoder：AI News（RSS）": 1,
-    "AI寒武纪": 2,
-    "DataEye短剧观察": 2,
-    "AIGC新智界": 1,
+    "TechCrunch：AI（RSS）": 1,
+    "Cloudflare Blog": 1,
+    "MarkTechPost（RSS）": 1,
+    "短剧自习室": 4,
+    "AI寒武纪": 1,
+    "短剧内行人": 1,
     "短剧新势力": 1,
-    "36氪": 5
+    "36氪": 4
   },
   "categories": {
-    "aigc_content": 6,
-    "tech_tools": 1,
-    "industry": 15
+    "aigc_content": 7,
+    "tech_tools": 0,
+    "industry": 9
   }
 }
