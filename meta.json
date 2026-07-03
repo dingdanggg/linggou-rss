@@ -1,23 +1,28 @@
 {
-  "generated_at": "2026-07-02T12:57:09.081220+08:00",
-  "total": 49,
-  "linggou": 16,
+  "generated_at": "2026-07-03T12:41:02.134157+08:00",
+  "total": 59,
+  "linggou": 22,
   "social_topics": 3,
   "sources": {
-    "X：邵猛 (@shao__meng)": 1,
-    "Google Developers Blog（RSS）": 1,
+    "IT之家（RSS）": 2,
+    "公众号：数字生命卡兹克": 1,
     "TechCrunch：AI（RSS）": 1,
-    "Cloudflare Blog": 1,
-    "MarkTechPost（RSS）": 1,
-    "短剧自习室": 4,
+    "LMSYS：Blog（Chatbot Arena 团队）": 1,
+    "X：Kim (@kimmonismus)": 1,
+    "The Decoder：AI News（RSS）": 1,
+    "X：邵猛 (@shao__meng)": 1,
+    "公众号：千问APP（阿里）": 1,
+    "Hacker News 热门（buzzing.cc 中文翻译）": 1,
+    "短剧自习室": 3,
     "AI寒武纪": 1,
     "短剧内行人": 1,
+    "AIGC新智界": 1,
     "短剧新势力": 1,
-    "36氪": 4
+    "36氪": 5
   },
   "categories": {
-    "aigc_content": 7,
-    "tech_tools": 0,
-    "industry": 9
+    "aigc_content": 10,
+    "tech_tools": 2,
+    "industry": 10
   }
 }
