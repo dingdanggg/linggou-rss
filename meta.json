@@ -1,28 +1,31 @@
 {
-  "generated_at": "2026-07-03T12:41:02.134157+08:00",
-  "total": 59,
-  "linggou": 22,
+  "generated_at": "2026-07-06T13:11:14.912759+08:00",
+  "total": 66,
+  "linggou": 29,
   "social_topics": 3,
   "sources": {
-    "IT之家（RSS）": 2,
-    "公众号：数字生命卡兹克": 1,
-    "TechCrunch：AI（RSS）": 1,
-    "LMSYS：Blog（Chatbot Arena 团队）": 1,
-    "X：Kim (@kimmonismus)": 1,
+    "MarkTechPost（RSS）": 2,
+    "公众号：卡尔的AI沃茨": 1,
+    "X：Rohan Paul (@rohanpaul_ai)": 1,
+    "X：美团 LongCat (@Meituan_LongCat)": 1,
     "The Decoder：AI News（RSS）": 1,
-    "X：邵猛 (@shao__meng)": 1,
-    "公众号：千问APP（阿里）": 1,
-    "Hacker News 热门（buzzing.cc 中文翻译）": 1,
+    "IT之家（RSS）": 1,
+    "Hacker News 热门（buzzing.cc 中文翻译）": 2,
+    "X：歸藏 (@op7418)": 1,
+    "公众号：生数科技（Vidu·视频）": 1,
+    "公众号：京东JoyAI": 1,
+    "公众号：面壁智能（MiniCPM）": 1,
+    "X：阿里云 / Alibaba Cloud (@alibaba_cloud)": 1,
     "短剧自习室": 3,
-    "AI寒武纪": 1,
-    "短剧内行人": 1,
-    "AIGC新智界": 1,
+    "AI寒武纪": 2,
+    "DataEye短剧观察": 5,
+    "短剧研究僧": 1,
     "短剧新势力": 1,
-    "36氪": 5
+    "36氪": 3
   },
   "categories": {
-    "aigc_content": 10,
-    "tech_tools": 2,
-    "industry": 10
+    "aigc_content": 9,
+    "tech_tools": 4,
+    "industry": 16
   }
 }
