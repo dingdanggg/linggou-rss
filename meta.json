@@ -1,20 +1,29 @@
 {
-  "generated_at": "2026-07-07T12:51:46.975221+08:00",
-  "total": 40,
-  "linggou": 14,
+  "generated_at": "2026-07-08T12:14:17.113689+08:00",
+  "total": 62,
+  "linggou": 27,
   "social_topics": 3,
   "sources": {
-    "短剧自习室": 3,
-    "AI寒武纪": 1,
-    "DataEye短剧观察": 1,
-    "短剧内行人": 2,
-    "AIGC新智界": 1,
-    "短剧新势力": 2,
-    "36氪": 4
+    "MarkTechPost（RSS）": 1,
+    "Hacker News 热门（buzzing.cc 中文翻译）": 3,
+    "X：Krea AI (@krea_ai)": 1,
+    "X：AI at Meta (@AIatMeta)": 1,
+    "X：NotebookLM (@NotebookLM)": 1,
+    "Claude：Blog（网页）": 2,
+    "Hacker News：AI 热帖": 1,
+    "X：Rohan Paul (@rohanpaul_ai)": 1,
+    "X：Elvis Saravia (@omarsar0, DAIR.AI)": 1,
+    "TechCrunch：AI（RSS）": 1,
+    "X：Ethan Mollick (@emollick)": 1,
+    "短剧自习室": 4,
+    "AI寒武纪": 2,
+    "短剧内行人": 1,
+    "短剧新势力": 1,
+    "36氪": 5
   },
   "categories": {
-    "aigc_content": 8,
-    "tech_tools": 1,
-    "industry": 5
+    "aigc_content": 10,
+    "tech_tools": 3,
+    "industry": 14
   }
 }
