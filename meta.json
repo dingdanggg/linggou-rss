@@ -1,24 +1,25 @@
 {
-  "generated_at": "2026-07-23T12:14:26.824627+08:00",
-  "total": 53,
-  "linggou": 22,
+  "generated_at": "2026-07-24T12:13:41.305895+08:00",
+  "total": 51,
+  "linggou": 28,
   "social_topics": 3,
   "sources": {
-    "公众号：小红书技术（dots.llm）": 2,
-    "X：Sundar Pichai (@sundarpichai)": 1,
+    "Hacker News 热门（buzzing.cc 中文翻译）": 2,
+    "Claude：Blog（网页）": 1,
     "The Decoder：AI News（RSS）": 1,
-    "X：Microsoft Research (@MSFTResearch)": 1,
-    "X：Elvis Saravia (@omarsar0, DAIR.AI)": 1,
-    "X：SemiAnalysis (@SemiAnalysis_)": 1,
-    "短剧自习室": 2,
+    "X：Satya Nadella (@satyanadella)": 1,
+    "The Verge：AI（RSS）": 1,
+    "X：通义千问 / Qwen (@Alibaba_Qwen)": 1,
+    "公众号：昆仑万维（天工）": 1,
+    "公众号：数字生命卡兹克": 1,
+    "短剧自习室": 3,
     "AI寒武纪": 1,
-    "DataEye短剧观察": 2,
-    "短剧新势力": 2,
-    "36氪": 8
+    "短剧内行人": 2,
+    "36氪": 13
   },
   "categories": {
-    "aigc_content": 4,
-    "tech_tools": 1,
-    "industry": 17
+    "aigc_content": 11,
+    "tech_tools": 3,
+    "industry": 14
   }
 }
