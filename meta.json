@@ -1,28 +1,25 @@
 {
-  "generated_at": "2026-07-27T12:35:58.750287+08:00",
-  "total": 71,
-  "linggou": 33,
+  "generated_at": "2026-07-28T12:08:49.538486+08:00",
+  "total": 49,
+  "linggou": 21,
   "social_topics": 3,
   "sources": {
-    "X：Suno (@suno)": 1,
-    "IT之家（RSS）": 2,
-    "Midjourney：Updates（RSS）": 1,
-    "Anthropic：Research（发表成果 · 网页）": 1,
-    "X：Runway (@runwayml)": 1,
-    "X：Satya Nadella (@satyanadella)": 1,
-    "Hacker News 热门（buzzing.cc 中文翻译）": 1,
+    "Anthropic：Newsroom（网页）": 1,
     "The Decoder：AI News（RSS）": 1,
-    "短剧自习室": 5,
-    "AI寒武纪": 4,
-    "DataEye短剧观察": 5,
-    "短剧内行人": 2,
-    "AIGC新智界": 1,
-    "短剧新势力": 3,
-    "36氪": 4
+    "X：Kimi.ai (@Kimi_Moonshot)": 2,
+    "MarkTechPost（RSS）": 1,
+    "GitHub Blog": 2,
+    "TechCrunch：AI（RSS）": 1,
+    "短剧自习室": 3,
+    "AI寒武纪": 1,
+    "DataEye短剧观察": 1,
+    "短剧内行人": 1,
+    "短剧新势力": 2,
+    "36氪": 5
   },
   "categories": {
-    "aigc_content": 15,
-    "tech_tools": 3,
+    "aigc_content": 6,
+    "tech_tools": 0,
     "industry": 15
   }
 }
