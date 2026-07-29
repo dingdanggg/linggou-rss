@@ -1,25 +1,24 @@
 {
-  "generated_at": "2026-07-28T12:08:49.538486+08:00",
-  "total": 49,
-  "linggou": 21,
+  "generated_at": "2026-07-29T12:11:16.426984+08:00",
+  "total": 58,
+  "linggou": 17,
   "social_topics": 3,
   "sources": {
-    "Anthropic：Newsroom（网页）": 1,
-    "The Decoder：AI News（RSS）": 1,
-    "X：Kimi.ai (@Kimi_Moonshot)": 2,
+    "X：Anthropic (@AnthropicAI)": 2,
+    "X：Andrew Ng（DeepLearning.AI 创始人） (@AndrewYNg)": 1,
+    "Hacker News 热门（buzzing.cc 中文翻译）": 1,
+    "Google Blog：AI（RSS）": 1,
     "MarkTechPost（RSS）": 1,
-    "GitHub Blog": 2,
-    "TechCrunch：AI（RSS）": 1,
+    "公众号：火山引擎": 1,
+    "IT之家（RSS）": 1,
     "短剧自习室": 3,
-    "AI寒武纪": 1,
-    "DataEye短剧观察": 1,
-    "短剧内行人": 1,
-    "短剧新势力": 2,
-    "36氪": 5
+    "短剧内行人": 3,
+    "短剧新势力": 1,
+    "36氪": 2
   },
   "categories": {
-    "aigc_content": 6,
+    "aigc_content": 7,
     "tech_tools": 0,
-    "industry": 15
+    "industry": 10
   }
 }
