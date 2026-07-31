@@ -1,21 +1,26 @@
 {
-  "generated_at": "2026-07-30T11:56:08.015473+08:00",
-  "total": 46,
-  "linggou": 17,
+  "generated_at": "2026-07-31T12:21:06.904986+08:00",
+  "total": 57,
+  "linggou": 20,
   "social_topics": 3,
   "sources": {
-    "X：腾讯混元 (@TencentHunyuan)": 2,
     "X：Replit (@Replit)": 1,
+    "X：Anthropic (@AnthropicAI)": 1,
+    "X：Gemini (@GeminiApp)": 1,
+    "X：Google AI (@GoogleAI)": 1,
+    "字节 Seed：Research Feed（网页内嵌数据）": 1,
     "LMSYS：Blog（Chatbot Arena 团队）": 1,
-    "X：Sherwin Wu（@sherwinwu）": 1,
-    "X：Perplexity (@perplexity_ai)": 1,
-    "TechCrunch：AI（RSS）": 1,
-    "Dwarkesh Patel：Podcast & Blog（RSS）": 1,
     "OpenAI：官网动态（RSS · 排除企业/客户案例）": 1,
-    "36氪": 8
+    "MarkTechPost（RSS）": 1,
+    "短剧自习室": 2,
+    "AI寒武纪": 3,
+    "DataEye短剧观察": 1,
+    "短剧内行人": 1,
+    "短剧新势力": 3,
+    "36氪": 2
   },
   "categories": {
-    "aigc_content": 4,
+    "aigc_content": 7,
     "tech_tools": 1,
     "industry": 12
   }
