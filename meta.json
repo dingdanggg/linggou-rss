@@ -1,29 +1,28 @@
 {
-  "generated_at": "2026-08-03T12:29:12.439195+08:00",
-  "total": 65,
-  "linggou": 34,
+  "generated_at": "2026-08-04T12:13:19.248497+08:00",
+  "total": 51,
+  "linggou": 22,
   "social_topics": 3,
   "sources": {
-    "Qwen：Blog Retrieval（API）": 1,
-    "Gary Marcus：The Road to AI We Can Trust（RSS）": 1,
-    "X：Elon Musk (@elonmusk, xAI)": 1,
-    "The Decoder：AI News（RSS）": 1,
-    "X：Artificial Analysis (@ArtificialAnlys)": 1,
-    "Simon Willison 博客": 1,
-    "X：阿易 AI Notes (@AYi_AInotes)": 1,
-    "X：面壁智能 OpenBMB (@OpenBMB)": 1,
-    "MiniMax：Blog（网页）": 1,
-    "X：DeepSeek (@deepseek_ai)": 1,
-    "短剧自习室": 5,
-    "AI寒武纪": 3,
+    "公众号：数字生命卡兹克": 1,
+    "TechCrunch：AI（RSS）": 1,
+    "X：Greg Brockman (@gdb)": 1,
+    "X：Thariq (@trq212)": 1,
+    "Runway：News（网页）": 1,
+    "X：Microsoft Research (@MSFTResearch)": 1,
+    "The Verge：AI（RSS）": 1,
+    "X：商汤 SenseTime (@SenseTime_AI)": 1,
+    "Google AI：DEV 作者专属（RSS）": 1,
+    "Cloudflare Blog": 3,
+    "X：Kimi.ai (@Kimi_Moonshot)": 1,
+    "AI寒武纪": 1,
     "DataEye短剧观察": 3,
-    "短剧内行人": 2,
-    "短剧新势力": 3,
-    "36氪": 8
+    "短剧新势力": 2,
+    "36氪": 3
   },
   "categories": {
-    "aigc_content": 11,
-    "tech_tools": 1,
-    "industry": 22
+    "aigc_content": 2,
+    "tech_tools": 3,
+    "industry": 17
   }
 }
