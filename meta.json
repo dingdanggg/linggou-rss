@@ -1,30 +1,23 @@
 {
-  "generated_at": "2026-08-06T12:11:27.531682+08:00",
-  "total": 36,
-  "linggou": 27,
+  "generated_at": "2026-08-07T11:48:35.070555+08:00",
+  "total": 26,
+  "linggou": 14,
   "social_topics": 3,
   "sources": {
-    "Hacker News 热门（buzzing.cc 中文翻译）": 1,
-    "公众号：卡尔的AI沃茨": 1,
-    "MarkTechPost（RSS）": 2,
-    "Simon Willison 博客": 2,
-    "X：AI Safety Memes (@AISafetyMemes)": 1,
-    "X：Jeff Dean (@JeffDean)": 1,
-    "X：Demis Hassabis (@demishassabis)": 1,
-    "X：阿易 AI Notes (@AYi_AInotes)": 1,
-    "AI as Normal Technology（RSS）": 1,
-    "Cloudflare Blog": 4,
-    "IT之家（RSS）": 1,
-    "X：Elon Musk (@elonmusk, xAI)": 1,
-    "短剧自习室": 4,
-    "AI寒武纪": 3,
+    "Anthropic：Newsroom（网页）": 1,
+    "GitHub Blog": 1,
+    "公众号：千问APP（阿里）": 1,
+    "The Verge：AI（RSS）": 1,
+    "NVIDIA Blog（RSS）": 1,
+    "X：面壁智能 OpenBMB (@OpenBMB)": 1,
+    "短剧自习室": 3,
     "DataEye短剧观察": 1,
-    "短剧内行人": 1,
-    "短剧新势力": 1
+    "短剧内行人": 2,
+    "短剧新势力": 2
   },
   "categories": {
-    "aigc_content": 8,
-    "tech_tools": 3,
-    "industry": 16
+    "aigc_content": 6,
+    "tech_tools": 1,
+    "industry": 7
   }
 }
