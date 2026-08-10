@@ -1,23 +1,28 @@
 {
-  "generated_at": "2026-08-07T11:48:35.070555+08:00",
-  "total": 26,
-  "linggou": 14,
+  "generated_at": "2026-08-10T11:10:36.757073+08:00",
+  "total": 49,
+  "linggou": 28,
   "social_topics": 3,
   "sources": {
-    "Anthropic：Newsroom（网页）": 1,
-    "GitHub Blog": 1,
     "公众号：千问APP（阿里）": 1,
-    "The Verge：AI（RSS）": 1,
-    "NVIDIA Blog（RSS）": 1,
-    "X：面壁智能 OpenBMB (@OpenBMB)": 1,
-    "短剧自习室": 3,
-    "DataEye短剧观察": 1,
-    "短剧内行人": 2,
+    "MarkTechPost（RSS）": 1,
+    "Hacker News 热门（buzzing.cc 中文翻译）": 2,
+    "IT之家（RSS）": 1,
+    "Ars Technica：AI（RSS）": 1,
+    "X：Claude Devs (@ClaudeDevs)": 1,
+    "The Decoder：AI News（RSS）": 1,
+    "X：Runway (@runwayml)": 1,
+    "公众号：小红书技术（dots.llm）": 1,
+    "公众号：火山引擎": 1,
+    "短剧自习室": 5,
+    "AI寒武纪": 1,
+    "DataEye短剧观察": 5,
+    "短剧内行人": 4,
     "短剧新势力": 2
   },
   "categories": {
-    "aigc_content": 6,
+    "aigc_content": 12,
     "tech_tools": 1,
-    "industry": 7
+    "industry": 15
   }
 }
