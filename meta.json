@@ -1,28 +1,24 @@
 {
-  "generated_at": "2026-08-10T11:10:36.757073+08:00",
-  "total": 49,
-  "linggou": 28,
+  "generated_at": "2026-08-11T11:03:14.860668+08:00",
+  "total": 21,
+  "linggou": 15,
   "social_topics": 3,
   "sources": {
-    "公众号：千问APP（阿里）": 1,
-    "MarkTechPost（RSS）": 1,
-    "Hacker News 热门（buzzing.cc 中文翻译）": 2,
-    "IT之家（RSS）": 1,
-    "Ars Technica：AI（RSS）": 1,
-    "X：Claude Devs (@ClaudeDevs)": 1,
-    "The Decoder：AI News（RSS）": 1,
-    "X：Runway (@runwayml)": 1,
-    "公众号：小红书技术（dots.llm）": 1,
-    "公众号：火山引擎": 1,
-    "短剧自习室": 5,
-    "AI寒武纪": 1,
-    "DataEye短剧观察": 5,
-    "短剧内行人": 4,
+    "X：Jensen Huang (@JensenHuang)": 1,
+    "Anthropic：Research（发表成果 · 网页）": 1,
+    "LMSYS：Blog（Chatbot Arena 团队）": 1,
+    "X：AI at Meta (@AIatMeta)": 1,
+    "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)": 1,
+    "OpenAI：官网动态（RSS · 排除企业/客户案例）": 1,
+    "X：通义千问 / Qwen (@Alibaba_Qwen)": 1,
+    "短剧自习室": 3,
+    "AI寒武纪": 2,
+    "短剧内行人": 1,
     "短剧新势力": 2
   },
   "categories": {
-    "aigc_content": 12,
+    "aigc_content": 6,
     "tech_tools": 1,
-    "industry": 15
+    "industry": 8
   }
 }
