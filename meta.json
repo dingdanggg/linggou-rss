@@ -1,26 +1,22 @@
 {
-  "generated_at": "2026-08-12T11:22:20.398310+08:00",
-  "total": 29,
-  "linggou": 18,
+  "generated_at": "2026-08-13T11:25:55.673847+08:00",
+  "total": 19,
+  "linggou": 12,
   "social_topics": 3,
   "sources": {
-    "X：Runway (@runwayml)": 1,
-    "The Decoder：AI News（RSS）": 1,
-    "X：Sundar Pichai (@sundarpichai)": 1,
-    "Google Blog：AI（RSS）": 1,
-    "Dwarkesh Patel：Podcast & Blog（RSS）": 1,
-    "LMSYS：Blog（Chatbot Arena 团队）": 2,
-    "NVIDIA Blog（RSS）": 1,
-    "公众号：智谱（GLM）": 1,
-    "MarkTechPost（RSS）": 1,
-    "短剧自习室": 3,
+    "GitHub Blog": 1,
+    "Google Research：Blog（网页）": 1,
+    "IT之家（RSS）": 1,
+    "Hacker News 热门（buzzing.cc 中文翻译）": 1,
+    "短剧自习室": 2,
     "AI寒武纪": 1,
-    "DataEye短剧观察": 3,
-    "短剧内行人": 1
+    "DataEye短剧观察": 2,
+    "短剧内行人": 1,
+    "短剧新势力": 2
   },
   "categories": {
-    "aigc_content": 7,
+    "aigc_content": 4,
     "tech_tools": 1,
-    "industry": 10
+    "industry": 7
   }
 }
