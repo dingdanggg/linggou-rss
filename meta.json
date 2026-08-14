@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-08-13T11:25:55.673847+08:00",
-  "total": 19,
-  "linggou": 12,
+  "generated_at": "2026-08-14T11:23:22.811053+08:00",
+  "total": 20,
+  "linggou": 14,
   "social_topics": 3,
   "sources": {
-    "GitHub Blog": 1,
-    "Google Research：Blog（网页）": 1,
-    "IT之家（RSS）": 1,
-    "Hacker News 热门（buzzing.cc 中文翻译）": 1,
-    "短剧自习室": 2,
-    "AI寒武纪": 1,
-    "DataEye短剧观察": 2,
+    "公众号：数字生命卡兹克": 2,
+    "X：DeepSeek (@deepseek_ai)": 1,
+    "Cursor Blog": 1,
+    "OpenAI：官网动态（RSS · 排除企业/客户案例）": 1,
+    "公众号：小红书技术（dots.llm）": 1,
+    "短剧自习室": 3,
+    "AI寒武纪": 2,
     "短剧内行人": 1,
     "短剧新势力": 2
   },
   "categories": {
-    "aigc_content": 4,
-    "tech_tools": 1,
-    "industry": 7
+    "aigc_content": 6,
+    "tech_tools": 0,
+    "industry": 8
   }
 }
