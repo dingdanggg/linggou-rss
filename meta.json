@@ -1,22 +1,25 @@
 {
-  "generated_at": "2026-08-14T11:23:22.811053+08:00",
-  "total": 20,
-  "linggou": 14,
-  "social_topics": 3,
+  "generated_at": "2026-08-17T10:18:45.893270+08:00",
+  "total": 26,
+  "linggou": 22,
+  "social_topics": 0,
   "sources": {
-    "公众号：数字生命卡兹克": 2,
-    "X：DeepSeek (@deepseek_ai)": 1,
-    "Cursor Blog": 1,
-    "OpenAI：官网动态（RSS · 排除企业/客户案例）": 1,
+    "The Decoder：AI News（RSS）": 1,
+    "X：Gemini (@GeminiApp)": 1,
+    "X：通义千问 / Qwen (@Alibaba_Qwen)": 1,
+    "Ars Technica：AI（RSS）": 1,
     "公众号：小红书技术（dots.llm）": 1,
+    "X：硅基流动 SiliconFlow (@SiliconFlowAI)": 1,
+    "公众号：蚂蚁百灵（Ling）": 1,
     "短剧自习室": 3,
     "AI寒武纪": 2,
-    "短剧内行人": 1,
+    "DataEye短剧观察": 4,
+    "短剧内行人": 4,
     "短剧新势力": 2
   },
   "categories": {
-    "aigc_content": 6,
+    "aigc_content": 9,
     "tech_tools": 0,
-    "industry": 8
+    "industry": 13
   }
 }
