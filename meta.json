@@ -1,19 +1,21 @@
 {
-  "generated_at": "2026-08-18T10:14:38.781068+08:00",
-  "total": 16,
-  "linggou": 8,
+  "generated_at": "2026-08-19T10:17:23.545834+08:00",
+  "total": 19,
+  "linggou": 13,
   "social_topics": 0,
   "sources": {
-    "X：Jensen Huang (@JensenHuang)": 1,
-    "短剧自习室": 1,
+    "Hacker News 热门（buzzing.cc 中文翻译）": 1,
+    "OpenAI：官网动态（RSS · 排除企业/客户案例）": 1,
+    "Google AI：DEV 作者专属（RSS）": 1,
+    "短剧自习室": 3,
     "AI寒武纪": 1,
-    "DataEye短剧观察": 2,
+    "DataEye短剧观察": 3,
     "短剧内行人": 1,
     "短剧新势力": 2
   },
   "categories": {
-    "aigc_content": 3,
+    "aigc_content": 5,
     "tech_tools": 0,
-    "industry": 5
+    "industry": 8
   }
 }
