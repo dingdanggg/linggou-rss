@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-08-19T10:17:23.545834+08:00",
-  "total": 19,
-  "linggou": 13,
+  "generated_at": "2026-08-20T10:15:57.082915+08:00",
+  "total": 12,
+  "linggou": 10,
   "social_topics": 0,
   "sources": {
-    "Hacker News 热门（buzzing.cc 中文翻译）": 1,
-    "OpenAI：官网动态（RSS · 排除企业/客户案例）": 1,
-    "Google AI：DEV 作者专属（RSS）": 1,
-    "短剧自习室": 3,
-    "AI寒武纪": 1,
-    "DataEye短剧观察": 3,
+    "X：Sky Computing Lab (@haoailab)": 1,
+    "LMSYS：Blog（Chatbot Arena 团队）": 1,
+    "Hugging Face：Blog（RSS）": 1,
+    "短剧自习室": 1,
+    "AI寒武纪": 2,
+    "DataEye短剧观察": 2,
     "短剧内行人": 1,
-    "短剧新势力": 2
+    "短剧新势力": 1
   },
   "categories": {
     "aigc_content": 5,
     "tech_tools": 0,
-    "industry": 8
+    "industry": 5
   }
 }
