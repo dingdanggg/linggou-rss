@@ -1,21 +1,18 @@
 {
-  "generated_at": "2026-08-21T10:22:25.307351+08:00",
-  "total": 13,
-  "linggou": 12,
+  "generated_at": "2026-08-24T10:21:49.700583+08:00",
+  "total": 23,
+  "linggou": 15,
   "social_topics": 0,
   "sources": {
-    "Claude：Blog（网页）": 2,
-    "Hugging Face：Blog（RSS）": 1,
-    "Mistral AI：News（网页）": 1,
-    "Google Cloud：Databases（RSS）": 1,
-    "IT之家（RSS）": 1,
-    "短剧自习室": 3,
-    "DataEye短剧观察": 2,
-    "短剧内行人": 1
+    "短剧自习室": 4,
+    "AI寒武纪": 3,
+    "DataEye短剧观察": 4,
+    "短剧内行人": 3,
+    "短剧新势力": 1
   },
   "categories": {
-    "aigc_content": 4,
+    "aigc_content": 10,
     "tech_tools": 0,
-    "industry": 8
+    "industry": 5
   }
 }
