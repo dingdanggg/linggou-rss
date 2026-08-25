@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-08-24T10:21:49.700583+08:00",
-  "total": 23,
-  "linggou": 15,
+  "generated_at": "2026-08-25T10:17:25.566687+08:00",
+  "total": 9,
+  "linggou": 7,
   "social_topics": 0,
   "sources": {
-    "短剧自习室": 4,
-    "AI寒武纪": 3,
-    "DataEye短剧观察": 4,
-    "短剧内行人": 3,
+    "Meta Engineering Blog（RSS）": 1,
+    "NVIDIA Blog（RSS）": 1,
+    "短剧自习室": 3,
+    "AI寒武纪": 1,
     "短剧新势力": 1
   },
   "categories": {
-    "aigc_content": 10,
+    "aigc_content": 4,
     "tech_tools": 0,
-    "industry": 5
+    "industry": 3
   }
 }
