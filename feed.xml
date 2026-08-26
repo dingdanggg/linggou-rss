@@ -5,116 +5,144 @@
     <link>https://dingdanggg.github.io/linggou-rss</link>
     <description>灵构视角 AI 资讯 · 3D资产/AIGC影视/游戏/XR/社媒运营</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 25 Aug 2026 10:17:25 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 10:23:51 +0800</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://dingdanggg.github.io/linggou-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>🏗️ 灵构视角 · 08月25日 · 共7条</title>
+      <title>🏗️ 灵构视角 · 08月26日 · 共9条</title>
       <link>https://dingdanggg.github.io/linggou-rss</link>
-      <guid isPermaLink="false">linggou-digest-2026082510</guid>
-      <pubDate>Tue, 25 Aug 2026 10:17:25 +0800</pubDate>
+      <guid isPermaLink="false">linggou-digest-2026082610</guid>
+      <pubDate>Wed, 26 Aug 2026 10:23:51 +0800</pubDate>
       <description>&lt;h2&gt;🏗️ 灵构视角&lt;/h2&gt;
-&lt;p&gt;&lt;small&gt;来源：短剧自习室(3条)、Meta Engineering Blog（RSS）(1条)、NVIDIA Blog（RSS）(1条)、AI寒武纪(1条)、短剧新势力(1条)&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;来源：短剧自习室(2条)、DataEye短剧观察(2条)、X：Andrew Ng（DeepLearning.AI 创始人） (@AndrewYNg)(1条)、X：Google AI (@GoogleAI)(1条)、Dwarkesh Patel：Podcast &amp; Blog（RSS）(1条)、短剧内行人(1条)、短剧新势力(1条)&lt;/small&gt;&lt;/p&gt;
 &lt;h3&gt;📽️ AIGC 内容创作&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;1. AI短剧周报 | “断层榜一”的AI漫剧，周播放增量超15亿&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;短剧自习室 · 今天 18:27&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;1、播放量和供给情况上周（2026-08-17 ~ 2026-08-23），抖音集团端原生AI短剧播放增量约710亿，环比增长约13.5%。整体来看，除8月17日外，其余6天播放增量均超100亿，日均约101.4亿，播放表现整体较为强劲。从日趋势看，8月17日播放增量为77.3亿，随后快速回升，8月...&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkwNjY3NzI2NA==&amp;mid=2247520795&amp;idx=1&amp;sn=27cdee5e9415fc3863a6cd4162f4ca67&amp;chksm=c1edd16d86db2305c6ef117dc1c9b2d2b8d55cbccd609c1d629d9c39fa845cf72b509b05efe0&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1. 真人短剧招商合作提报指引 | 优质作品可参与品牌合作撮合&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;短剧自习室 · 今天 20:02&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;为帮助短剧合作方拓展内容商业化合作机会，平台面向优质真人短剧项目开放招商合作提报。符合条件的项目完成提报后，将进入平台招商评估，参与后续品牌合作撮合，有机会额外获得数十万到百万量级的商业化收入，且商业化合作内容不影响产能计入和获得平台其他活动激励。如您有正在筹备、拍摄或计划上线的真人短剧项目，且希望...&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkwNjY3NzI2NA==&amp;mid=2247520831&amp;idx=1&amp;sn=278b4645bd890dff2e76822cf9356c4a&amp;chksm=c1a09b4e2506054f05b11ff547deef04561b2c19d4dc112d235c7b80dfc033ace21ef4f20cae&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;2. TikTok短剧7月分账破2亿：3家版权方月入超千万，超百家收入翻倍&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;短剧自习室 · 今天 17:59&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;今日，TikTok短剧7月分成战报正式发布：单月总分成突破2900万美元（折合人民币超2亿元），高增长态势持续领跑。（完整长图在文末）综合已发布的战报统计，今年1月到7月TikTok短剧累计分成已突破1.1亿美元（约8.06亿元人民币）。从赛道表现来看，本土AI剧同比增长34%；翻译剧单月分成达到7...&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkwNjY3NzI2NA==&amp;mid=2247520794&amp;idx=1&amp;sn=54c46ecdbc250f60e3f9e66d248cdf2e&amp;chksm=c1da179606b6a45b242d232c3d23ec7ad072fcf5676a18605e23a74b1a8d53abac88bffa2f1f&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2. 913%增长背后，拉美是短剧出海下一个爆点？&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;短剧自习室 · 今天 17:03&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;20世纪80年代，一部名叫《女奴》的巴西电视剧，曾在中国掀起收视热潮，用万人空巷来描述也不足为过。它属于拉丁美洲特有的一种电视剧类型——Telenovela（电视小说剧），情节高潮迭起、充满抓马与浪漫色彩。女主角扮演者卢塞莉亚·桑托斯甚至凭借该剧，成为金鹰奖有史以来第一位、也是唯一外籍“视后”。19...&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkwNjY3NzI2NA==&amp;mid=2247520825&amp;idx=1&amp;sn=feadc944a70f74f2d0284beecf3f43e1&amp;chksm=c101c0128c970f65d233d9cdab71b56b8641a41e5d537716dbcfa2e1b4f138be4f8df32ac776&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;3. 快讯 | 月之暗面前产品负责人推出AI短剧Agent&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;短剧自习室 · 今天 11:30&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;据公众号“读佳”消息，月之暗面前产品负责人明超平最近做了一款AI Agent产品，名为“Ai做短剧”。产品Slogan：一句话，一部剧。跟市面上大部分AI短剧的 Agent工具类似，在“Ai做短剧”里，用户只需要输入剧本，就能借助AI进行自动拆解，也可以在平台设定角色和场景资产，AI会辅助生成分镜和...&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkwNjY3NzI2NA==&amp;mid=2247520768&amp;idx=1&amp;sn=8918f728d93dfa2c3f0a9c7520f0c97d&amp;chksm=c127bc39a3bf04b2d65764fa5910e7e07274ec7728d5bdee7df615b1f50e76ca1dd3d072f5c4&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;4. OpenAI总裁底牌全交了：买下地球上所有的算力&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;AI寒武纪 · 今天 22:05&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;↑阅读之前记得关注+星标⭐️，😄，每天才能第一时间接收到更新 OpenAI总裁 Greg Brockman最近接受了一场45分钟的深度访谈。聊了很多：Agent、AGI、医疗、竞争。但反复把他拉回来的，只有一个词：算力。他的核心判断只有一句话：这个世界在很长时间内都不会有足够的算力。整篇采访，几乎...&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&amp;mid=2247517050&amp;idx=1&amp;sn=81e5ec4e25f52478a1e97743ea3b4c2e&amp;chksm=cf8fdbc28060f06cd0a7f995fd701a18ec11a936bd33483be5f1ebb1081a3ca11f9370a5f8cf&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3. 当AI重新定义影视生产，爱奇艺如何陪伴创作者进入下一阶段？&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;短剧内行人 · 今天 18:31&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;个人创作者希望借助AI降低制作成本、提升创作效率；成熟团队关注如何获得更稳定的项目机会与商业回报；行业整体则期待在内容供给增长的背景下，探索更健康、可持续的发展模式。8月20日，短剧内行人招募到的爱奇艺创作者大会参会创作者——创神文化科技（重庆）有限公司负责人兼番剧《神印王座》导演骆创、北京红豆杉影...&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkyNjU5MzI1OA==&amp;mid=2247578282&amp;idx=1&amp;sn=2301010f577b35990554098b391ed3a9&amp;chksm=c33cababf8c3a65b43c551d4a925dba1a116e84ea31469615a2ed9bc7772042eccb3aef8a76f&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
 &lt;h3&gt;📊 行业动态&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;1. MetaRoCE：为 AI 规模以太网打造的全新 RDMA 传输协议&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;Meta Engineering Blog（RSS） · 今天 02:02&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;Meta 设计并开源了 MetaRoCE，一个专为 AI 工作负载在通用以太网上打造的 RDMA 传输协议，已通过 Open Compute Project（OCP）发布规范、参考软件实现和合规测试套件。该协议将智能移至端点，原生支持乱序交付、多路径、无损容忍和双向拥塞控制，无需 PFC，可在百万 GPU 规模下提供高吞吐、低尾延迟。现有 RDMA Verbs API 和软件栈无需修改即可运行。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://engineering.fb.com/2026/08/24/networking-traffic/metaroce-rdma-transport-ai-ethernet&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1. OpenWorker 新版发布，内置网络安全智能体&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Andrew Ng（DeepLearning.AI 创始人） (@AndrewYNg) · 今天 02:16&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;Andrew Ng 旗下开源智能体 OpenWorker 发布新版，强化安全工作流。其 harness 完全开源，安全团队可审计无后门。新版内置代码漏洞扫描、依赖供应链注入检测和云安全配置检查三类网络安全智能体，并支持本地运行开源权重模型以保护敏感代码。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/AndrewYNg/status/2092315079576555806&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;2. NVIDIA Vera Rubin NVL72 树立 AI 智能体效率新标准：每瓦特工作量提升至 30 倍&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;NVIDIA Blog（RSS） · 今天 23:00&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;NVIDIA 实测数据显示，Vera Rubin NVL72 在智能体工作负载下每兆瓦吞吐量较 GB300 NVL72 最高提升 30 倍，每百万 token 成本降低至 35 倍。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://blogs.nvidia.com/blog/vera-rubin-nvl72-efficiency-ai-agents&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2. WeatherNext 预测气旋：提前五天预警五级飓风&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Google AI (@GoogleAI) · 今天 23:37&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;Google AI 发布 WeatherNext 气旋预测模型，可同时预测风暴路径、强度和规模，比现有系统多提供一整天的预警时间。该模型在 2025 飓风季实战测试中，提前五天预测飓风 Melissa 在牙买加的五级登陆，系美国国家飓风中心首次实时使用 AI 模型。模型单场风暴可生成多达 1000 次模拟，代码与权重已开源。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/GoogleAI/status/2092275116503707733&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;3. AI“盗脸融声”持续发酵！多位顶流明星艺人遭侵权，监管之下为何依旧泛滥？&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;短剧新势力 · 今天 16:53&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;技术红利与侵权红线的博弈，正在撕裂AI短剧行业刚刚起步的声誉地基。近一个月，短剧行业最密集的热搜关键词不是爆款剧名，而是“侵权”与“维权”。从顶流演员到头部配音员，从AI漫剧到商业广告，未经授权“盗脸融声”的侵权事件接连引爆舆论，监管收紧、平台严查之下，侵权内容依然源源不断。AI短剧赛道狂奔之下，技...&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkwNDYyNDk2Nw==&amp;mid=2247506828&amp;idx=1&amp;sn=c865cafa21d5adce521ebf20e8092b81&amp;chksm=c1a015dfcf1f2452a4e433aac34bbfcb3101fc290b9d5710c048b3baab47385589eb29fb7b3c&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3. Dylan Patel：Anthropic 与 OpenAI 到 2028 年将控制全球大部分算力&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;Dwarkesh Patel：Podcast &amp; Blog（RSS） · 今天 23:32&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;在最新一期播客中，SemiAnalysis 创始人 Dylan Patel 与 Dwarkesh Patel 讨论实验室经济学，预计 Anthropic 和 OpenAI 到 2028 年将控制全球大部分可用 FLOPs，因其能更好变现算力并出价高于其他方。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.dwarkesh.com/p/dylan-patel-3&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;strong&gt;4. 网易文学、晋江、爱奇艺前主创下场押注AI赛道！独家专访潮汐剧场：百人团队，月产近百部AI剧！&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;DataEye短剧观察 · 今天 16:47&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;近期，DataEye研究院注意到，新发行平台“潮汐剧场”表现出色，7月平台共计上线64部AI新剧，播放增量达数十亿，位居行业第五。潮汐剧场是从真人短剧赛道跨界入局的玩家，曾推出《出狱后，厉先生宠她上瘾》《傅总，您的三岁小债主上门了》《全员恶仙：我有一座种仙观》等爆款短剧。（来源：DataEye剧查查...&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkwMDYxOTYyMQ==&amp;mid=2247523105&amp;idx=1&amp;sn=91c12ee1222d2f177e9f3029a7c6902f&amp;chksm=c137100bc7b06add7780216c7ce0884bad4f39f3ee3419623538d12ef78a73001d8d5a20de65&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;strong&gt;5. 离谱！AI剧开始卷集数：一部788集，付费模式狂揽18亿播放！&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;DataEye短剧观察 · 今天 11:07&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;近期，DataEye研究院发现，一小批AI剧漫剧开始猛卷集数了，且成绩亮眼！卷：集数近千！但单集时长不足1分钟DataEye剧查查数据显示，半亩文剧社出品的《谁说纨绔不能当状元》一部剧竟有788集！该剧目前在抖音端（付费模式下）已狂揽超17.8亿播放，红果最高热度则高达5952万，可谓“付免双爆”，...&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkwMDYxOTYyMQ==&amp;mid=2247523088&amp;idx=1&amp;sn=1fb305375171ba0e21f0fe53c87719b5&amp;chksm=c1c937b60f9b01d07f7237cea1120cc7e29e842f2e8c3fa0ead4c40cf430121974e53743efb6&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;strong&gt;6. 福州收官｜AI 短剧出海竞争白热化，如何跑通 IP 到海外变现最短路径？&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;短剧新势力 · 今天 12:46&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;8月20日，由小五兄弟联合商汤Seko发起的&quot;链通全球，剧创价值——2026 AI短剧出海全链路变现行业沙龙&quot;在福建福州圆满落幕。 本次活动汇聚了Google、商汤Seko、麦芽、DataEye等产业链各环节头部力量，聚焦AI剧行业版权方、自制方、承制方等核心决策者，围绕从内容制作、海外分发到广告变...&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkwNDYyNDk2Nw==&amp;mid=2247506854&amp;idx=1&amp;sn=5ef6a9f6a4f48a1586aa9d0b428065b2&amp;chksm=c10b89db864b9c2792bff584a13b749629e64cba482a3268502ac2770584fc059a9e13a72cfa&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;</description>
     </item>
     <item>
-      <title>行业动态 · MetaRoCE：为 AI 规模以太网打造的全新 RDMA 传输协议</title>
-      <link>https://engineering.fb.com/2026/08/24/networking-traffic/metaroce-rdma-transport-ai-ethernet</link>
-      <guid isPermaLink="false">linggou-cmt7nq1d02bs1ro7373u88po4</guid>
-      <pubDate>Tue, 25 Aug 2026 02:02:29 +0800</pubDate>
+      <title>行业动态 · OpenWorker 新版发布，内置网络安全智能体</title>
+      <link>https://x.com/AndrewYNg/status/2092315079576555806</link>
+      <guid isPermaLink="false">linggou-cmt90wf1p06j9roly5e34fmu3</guid>
+      <pubDate>Wed, 26 Aug 2026 02:16:02 +0800</pubDate>
       <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 02:02 · Meta Engineering Blog（RSS）&lt;/p&gt;
-&lt;p&gt;Meta 设计并开源了 MetaRoCE，一个专为 AI 工作负载在通用以太网上打造的 RDMA 传输协议，已通过 Open Compute Project（OCP）发布规范、参考软件实现和合规测试套件。该协议将智能移至端点，原生支持乱序交付、多路径、无损容忍和双向拥塞控制，无需 PFC，可在百万 GPU 规模下提供高吞吐、低尾延迟。现有 RDMA Verbs API 和软件栈无需修改即可运行。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://engineering.fb.com/2026/08/24/networking-traffic/metaroce-rdma-transport-ai-ethernet&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 02:16 · X：Andrew Ng（DeepLearning.AI 创始人） (@AndrewYNg)&lt;/p&gt;
+&lt;p&gt;Andrew Ng 旗下开源智能体 OpenWorker 发布新版，强化安全工作流。其 harness 完全开源，安全团队可审计无后门。新版内置代码漏洞扫描、依赖供应链注入检测和云安全配置检查三类网络安全智能体，并支持本地运行开源权重模型以保护敏感代码。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/AndrewYNg/status/2092315079576555806&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>行业动态 · NVIDIA Vera Rubin NVL72 树立 AI 智能体效率新标准：每瓦特工作量提升至 30 倍</title>
-      <link>https://blogs.nvidia.com/blog/vera-rubin-nvl72-efficiency-ai-agents</link>
-      <guid isPermaLink="false">linggou-cmt7e0g7y232wro738qg82x67</guid>
-      <pubDate>Mon, 24 Aug 2026 23:00:19 +0800</pubDate>
+      <title>行业动态 · WeatherNext 预测气旋：提前五天预警五级飓风</title>
+      <link>https://x.com/GoogleAI/status/2092275116503707733</link>
+      <guid isPermaLink="false">linggou-cmt8uphwp3qmhro73czv8pbpv</guid>
+      <pubDate>Tue, 25 Aug 2026 23:37:15 +0800</pubDate>
       <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 23:00 · NVIDIA Blog（RSS）&lt;/p&gt;
-&lt;p&gt;NVIDIA 实测数据显示，Vera Rubin NVL72 在智能体工作负载下每兆瓦吞吐量较 GB300 NVL72 最高提升 30 倍，每百万 token 成本降低至 35 倍。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://blogs.nvidia.com/blog/vera-rubin-nvl72-efficiency-ai-agents&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 23:37 · X：Google AI (@GoogleAI)&lt;/p&gt;
+&lt;p&gt;Google AI 发布 WeatherNext 气旋预测模型，可同时预测风暴路径、强度和规模，比现有系统多提供一整天的预警时间。该模型在 2025 飓风季实战测试中，提前五天预测飓风 Melissa 在牙买加的五级登陆，系美国国家飓风中心首次实时使用 AI 模型。模型单场风暴可生成多达 1000 次模拟，代码与权重已开源。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/GoogleAI/status/2092275116503707733&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>AIGC内容创作 · AI短剧周报 | “断层榜一”的AI漫剧，周播放增量超15亿</title>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkwNjY3NzI2NA==&amp;mid=2247520795&amp;idx=1&amp;sn=27cdee5e9415fc3863a6cd4162f4ca67&amp;chksm=c1edd16d86db2305c6ef117dc1c9b2d2b8d55cbccd609c1d629d9c39fa845cf72b509b05efe0&amp;scene=0#rd</link>
-      <guid isPermaLink="false">linggou-extra-短剧自习室-1701051392280525470</guid>
-      <pubDate>Mon, 24 Aug 2026 18:27:00 +0800</pubDate>
-      <category>AIGC内容创作</category>
-      <description>&lt;p&gt;&lt;strong&gt;📽️ AIGC 内容创作&lt;/strong&gt; · 今天 18:27 · 短剧自习室&lt;/p&gt;
-&lt;p&gt;1、播放量和供给情况上周（2026-08-17 ~ 2026-08-23），抖音集团端原生AI短剧播放增量约710亿，环比增长约13.5%。整体来看，除8月17日外，其余6天播放增量均超100亿，日均约101.4亿，播放表现整体较为强劲。从日趋势看，8月17日播放增量为77.3亿，随后快速回升，8月...&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkwNjY3NzI2NA==&amp;mid=2247520795&amp;idx=1&amp;sn=27cdee5e9415fc3863a6cd4162f4ca67&amp;chksm=c1edd16d86db2305c6ef117dc1c9b2d2b8d55cbccd609c1d629d9c39fa845cf72b509b05efe0&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>AIGC内容创作 · TikTok短剧7月分账破2亿：3家版权方月入超千万，超百家收入翻倍</title>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkwNjY3NzI2NA==&amp;mid=2247520794&amp;idx=1&amp;sn=54c46ecdbc250f60e3f9e66d248cdf2e&amp;chksm=c1da179606b6a45b242d232c3d23ec7ad072fcf5676a18605e23a74b1a8d53abac88bffa2f1f&amp;scene=0#rd</link>
-      <guid isPermaLink="false">linggou-extra-短剧自习室--508608240523887960</guid>
-      <pubDate>Mon, 24 Aug 2026 17:59:00 +0800</pubDate>
-      <category>AIGC内容创作</category>
-      <description>&lt;p&gt;&lt;strong&gt;📽️ AIGC 内容创作&lt;/strong&gt; · 今天 17:59 · 短剧自习室&lt;/p&gt;
-&lt;p&gt;今日，TikTok短剧7月分成战报正式发布：单月总分成突破2900万美元（折合人民币超2亿元），高增长态势持续领跑。（完整长图在文末）综合已发布的战报统计，今年1月到7月TikTok短剧累计分成已突破1.1亿美元（约8.06亿元人民币）。从赛道表现来看，本土AI剧同比增长34%；翻译剧单月分成达到7...&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkwNjY3NzI2NA==&amp;mid=2247520794&amp;idx=1&amp;sn=54c46ecdbc250f60e3f9e66d248cdf2e&amp;chksm=c1da179606b6a45b242d232c3d23ec7ad072fcf5676a18605e23a74b1a8d53abac88bffa2f1f&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>AIGC内容创作 · 快讯 | 月之暗面前产品负责人推出AI短剧Agent</title>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkwNjY3NzI2NA==&amp;mid=2247520768&amp;idx=1&amp;sn=8918f728d93dfa2c3f0a9c7520f0c97d&amp;chksm=c127bc39a3bf04b2d65764fa5910e7e07274ec7728d5bdee7df615b1f50e76ca1dd3d072f5c4&amp;scene=0#rd</link>
-      <guid isPermaLink="false">linggou-extra-短剧自习室--5466577436674521937</guid>
-      <pubDate>Mon, 24 Aug 2026 11:30:00 +0800</pubDate>
-      <category>AIGC内容创作</category>
-      <description>&lt;p&gt;&lt;strong&gt;📽️ AIGC 内容创作&lt;/strong&gt; · 今天 11:30 · 短剧自习室&lt;/p&gt;
-&lt;p&gt;据公众号“读佳”消息，月之暗面前产品负责人明超平最近做了一款AI Agent产品，名为“Ai做短剧”。产品Slogan：一句话，一部剧。跟市面上大部分AI短剧的 Agent工具类似，在“Ai做短剧”里，用户只需要输入剧本，就能借助AI进行自动拆解，也可以在平台设定角色和场景资产，AI会辅助生成分镜和...&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkwNjY3NzI2NA==&amp;mid=2247520768&amp;idx=1&amp;sn=8918f728d93dfa2c3f0a9c7520f0c97d&amp;chksm=c127bc39a3bf04b2d65764fa5910e7e07274ec7728d5bdee7df615b1f50e76ca1dd3d072f5c4&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>AIGC内容创作 · OpenAI总裁底牌全交了：买下地球上所有的算力</title>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&amp;mid=2247517050&amp;idx=1&amp;sn=81e5ec4e25f52478a1e97743ea3b4c2e&amp;chksm=cf8fdbc28060f06cd0a7f995fd701a18ec11a936bd33483be5f1ebb1081a3ca11f9370a5f8cf&amp;scene=0#rd</link>
-      <guid isPermaLink="false">linggou-extra-AI寒武纪--4332520013385196220</guid>
-      <pubDate>Mon, 24 Aug 2026 22:05:00 +0800</pubDate>
-      <category>AIGC内容创作</category>
-      <description>&lt;p&gt;&lt;strong&gt;📽️ AIGC 内容创作&lt;/strong&gt; · 今天 22:05 · AI寒武纪&lt;/p&gt;
-&lt;p&gt;↑阅读之前记得关注+星标⭐️，😄，每天才能第一时间接收到更新 OpenAI总裁 Greg Brockman最近接受了一场45分钟的深度访谈。聊了很多：Agent、AGI、医疗、竞争。但反复把他拉回来的，只有一个词：算力。他的核心判断只有一句话：这个世界在很长时间内都不会有足够的算力。整篇采访，几乎...&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&amp;mid=2247517050&amp;idx=1&amp;sn=81e5ec4e25f52478a1e97743ea3b4c2e&amp;chksm=cf8fdbc28060f06cd0a7f995fd701a18ec11a936bd33483be5f1ebb1081a3ca11f9370a5f8cf&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>行业动态 · AI“盗脸融声”持续发酵！多位顶流明星艺人遭侵权，监管之下为何依旧泛滥？</title>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkwNDYyNDk2Nw==&amp;mid=2247506828&amp;idx=1&amp;sn=c865cafa21d5adce521ebf20e8092b81&amp;chksm=c1a015dfcf1f2452a4e433aac34bbfcb3101fc290b9d5710c048b3baab47385589eb29fb7b3c&amp;scene=0#rd</link>
-      <guid isPermaLink="false">linggou-extra-短剧新势力--7733185017447828320</guid>
-      <pubDate>Mon, 24 Aug 2026 16:53:00 +0800</pubDate>
+      <title>行业动态 · Dylan Patel：Anthropic 与 OpenAI 到 2028 年将控制全球大部分算力</title>
+      <link>https://www.dwarkesh.com/p/dylan-patel-3</link>
+      <guid isPermaLink="false">linggou-cmt8vaqtw3r29ro73d67v03bc</guid>
+      <pubDate>Tue, 25 Aug 2026 23:32:57 +0800</pubDate>
       <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 16:53 · 短剧新势力&lt;/p&gt;
-&lt;p&gt;技术红利与侵权红线的博弈，正在撕裂AI短剧行业刚刚起步的声誉地基。近一个月，短剧行业最密集的热搜关键词不是爆款剧名，而是“侵权”与“维权”。从顶流演员到头部配音员，从AI漫剧到商业广告，未经授权“盗脸融声”的侵权事件接连引爆舆论，监管收紧、平台严查之下，侵权内容依然源源不断。AI短剧赛道狂奔之下，技...&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkwNDYyNDk2Nw==&amp;mid=2247506828&amp;idx=1&amp;sn=c865cafa21d5adce521ebf20e8092b81&amp;chksm=c1a015dfcf1f2452a4e433aac34bbfcb3101fc290b9d5710c048b3baab47385589eb29fb7b3c&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 23:32 · Dwarkesh Patel：Podcast &amp; Blog（RSS）&lt;/p&gt;
+&lt;p&gt;在最新一期播客中，SemiAnalysis 创始人 Dylan Patel 与 Dwarkesh Patel 讨论实验室经济学，预计 Anthropic 和 OpenAI 到 2028 年将控制全球大部分可用 FLOPs，因其能更好变现算力并出价高于其他方。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.dwarkesh.com/p/dylan-patel-3&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AIGC内容创作 · 真人短剧招商合作提报指引 | 优质作品可参与品牌合作撮合</title>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkwNjY3NzI2NA==&amp;mid=2247520831&amp;idx=1&amp;sn=278b4645bd890dff2e76822cf9356c4a&amp;chksm=c1a09b4e2506054f05b11ff547deef04561b2c19d4dc112d235c7b80dfc033ace21ef4f20cae&amp;scene=0#rd</link>
+      <guid isPermaLink="false">linggou-extra-短剧自习室--2382402855890670511</guid>
+      <pubDate>Tue, 25 Aug 2026 20:02:00 +0800</pubDate>
+      <category>AIGC内容创作</category>
+      <description>&lt;p&gt;&lt;strong&gt;📽️ AIGC 内容创作&lt;/strong&gt; · 今天 20:02 · 短剧自习室&lt;/p&gt;
+&lt;p&gt;为帮助短剧合作方拓展内容商业化合作机会，平台面向优质真人短剧项目开放招商合作提报。符合条件的项目完成提报后，将进入平台招商评估，参与后续品牌合作撮合，有机会额外获得数十万到百万量级的商业化收入，且商业化合作内容不影响产能计入和获得平台其他活动激励。如您有正在筹备、拍摄或计划上线的真人短剧项目，且希望...&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkwNjY3NzI2NA==&amp;mid=2247520831&amp;idx=1&amp;sn=278b4645bd890dff2e76822cf9356c4a&amp;chksm=c1a09b4e2506054f05b11ff547deef04561b2c19d4dc112d235c7b80dfc033ace21ef4f20cae&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AIGC内容创作 · 913%增长背后，拉美是短剧出海下一个爆点？</title>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkwNjY3NzI2NA==&amp;mid=2247520825&amp;idx=1&amp;sn=feadc944a70f74f2d0284beecf3f43e1&amp;chksm=c101c0128c970f65d233d9cdab71b56b8641a41e5d537716dbcfa2e1b4f138be4f8df32ac776&amp;scene=0#rd</link>
+      <guid isPermaLink="false">linggou-extra-短剧自习室--3584112053257672851</guid>
+      <pubDate>Tue, 25 Aug 2026 17:03:00 +0800</pubDate>
+      <category>AIGC内容创作</category>
+      <description>&lt;p&gt;&lt;strong&gt;📽️ AIGC 内容创作&lt;/strong&gt; · 今天 17:03 · 短剧自习室&lt;/p&gt;
+&lt;p&gt;20世纪80年代，一部名叫《女奴》的巴西电视剧，曾在中国掀起收视热潮，用万人空巷来描述也不足为过。它属于拉丁美洲特有的一种电视剧类型——Telenovela（电视小说剧），情节高潮迭起、充满抓马与浪漫色彩。女主角扮演者卢塞莉亚·桑托斯甚至凭借该剧，成为金鹰奖有史以来第一位、也是唯一外籍“视后”。19...&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkwNjY3NzI2NA==&amp;mid=2247520825&amp;idx=1&amp;sn=feadc944a70f74f2d0284beecf3f43e1&amp;chksm=c101c0128c970f65d233d9cdab71b56b8641a41e5d537716dbcfa2e1b4f138be4f8df32ac776&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>行业动态 · 网易文学、晋江、爱奇艺前主创下场押注AI赛道！独家专访潮汐剧场：百人团队，月产近百部AI剧！</title>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkwMDYxOTYyMQ==&amp;mid=2247523105&amp;idx=1&amp;sn=91c12ee1222d2f177e9f3029a7c6902f&amp;chksm=c137100bc7b06add7780216c7ce0884bad4f39f3ee3419623538d12ef78a73001d8d5a20de65&amp;scene=0#rd</link>
+      <guid isPermaLink="false">linggou-extra-DataEye短剧观察--3488800745820445539</guid>
+      <pubDate>Tue, 25 Aug 2026 16:47:00 +0800</pubDate>
+      <category>行业动态</category>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 16:47 · DataEye短剧观察&lt;/p&gt;
+&lt;p&gt;近期，DataEye研究院注意到，新发行平台“潮汐剧场”表现出色，7月平台共计上线64部AI新剧，播放增量达数十亿，位居行业第五。潮汐剧场是从真人短剧赛道跨界入局的玩家，曾推出《出狱后，厉先生宠她上瘾》《傅总，您的三岁小债主上门了》《全员恶仙：我有一座种仙观》等爆款短剧。（来源：DataEye剧查查...&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkwMDYxOTYyMQ==&amp;mid=2247523105&amp;idx=1&amp;sn=91c12ee1222d2f177e9f3029a7c6902f&amp;chksm=c137100bc7b06add7780216c7ce0884bad4f39f3ee3419623538d12ef78a73001d8d5a20de65&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>行业动态 · 离谱！AI剧开始卷集数：一部788集，付费模式狂揽18亿播放！</title>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkwMDYxOTYyMQ==&amp;mid=2247523088&amp;idx=1&amp;sn=1fb305375171ba0e21f0fe53c87719b5&amp;chksm=c1c937b60f9b01d07f7237cea1120cc7e29e842f2e8c3fa0ead4c40cf430121974e53743efb6&amp;scene=0#rd</link>
+      <guid isPermaLink="false">linggou-extra-DataEye短剧观察-5616452495810333058</guid>
+      <pubDate>Tue, 25 Aug 2026 11:07:00 +0800</pubDate>
+      <category>行业动态</category>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 11:07 · DataEye短剧观察&lt;/p&gt;
+&lt;p&gt;近期，DataEye研究院发现，一小批AI剧漫剧开始猛卷集数了，且成绩亮眼！卷：集数近千！但单集时长不足1分钟DataEye剧查查数据显示，半亩文剧社出品的《谁说纨绔不能当状元》一部剧竟有788集！该剧目前在抖音端（付费模式下）已狂揽超17.8亿播放，红果最高热度则高达5952万，可谓“付免双爆”，...&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkwMDYxOTYyMQ==&amp;mid=2247523088&amp;idx=1&amp;sn=1fb305375171ba0e21f0fe53c87719b5&amp;chksm=c1c937b60f9b01d07f7237cea1120cc7e29e842f2e8c3fa0ead4c40cf430121974e53743efb6&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AIGC内容创作 · 当AI重新定义影视生产，爱奇艺如何陪伴创作者进入下一阶段？</title>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkyNjU5MzI1OA==&amp;mid=2247578282&amp;idx=1&amp;sn=2301010f577b35990554098b391ed3a9&amp;chksm=c33cababf8c3a65b43c551d4a925dba1a116e84ea31469615a2ed9bc7772042eccb3aef8a76f&amp;scene=0#rd</link>
+      <guid isPermaLink="false">linggou-extra-短剧内行人-4094955159006326196</guid>
+      <pubDate>Tue, 25 Aug 2026 18:31:00 +0800</pubDate>
+      <category>AIGC内容创作</category>
+      <description>&lt;p&gt;&lt;strong&gt;📽️ AIGC 内容创作&lt;/strong&gt; · 今天 18:31 · 短剧内行人&lt;/p&gt;
+&lt;p&gt;个人创作者希望借助AI降低制作成本、提升创作效率；成熟团队关注如何获得更稳定的项目机会与商业回报；行业整体则期待在内容供给增长的背景下，探索更健康、可持续的发展模式。8月20日，短剧内行人招募到的爱奇艺创作者大会参会创作者——创神文化科技（重庆）有限公司负责人兼番剧《神印王座》导演骆创、北京红豆杉影...&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkyNjU5MzI1OA==&amp;mid=2247578282&amp;idx=1&amp;sn=2301010f577b35990554098b391ed3a9&amp;chksm=c33cababf8c3a65b43c551d4a925dba1a116e84ea31469615a2ed9bc7772042eccb3aef8a76f&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>行业动态 · 福州收官｜AI 短剧出海竞争白热化，如何跑通 IP 到海外变现最短路径？</title>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkwNDYyNDk2Nw==&amp;mid=2247506854&amp;idx=1&amp;sn=5ef6a9f6a4f48a1586aa9d0b428065b2&amp;chksm=c10b89db864b9c2792bff584a13b749629e64cba482a3268502ac2770584fc059a9e13a72cfa&amp;scene=0#rd</link>
+      <guid isPermaLink="false">linggou-extra-短剧新势力-5707008492557635654</guid>
+      <pubDate>Tue, 25 Aug 2026 12:46:00 +0800</pubDate>
+      <category>行业动态</category>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 12:46 · 短剧新势力&lt;/p&gt;
+&lt;p&gt;8月20日，由小五兄弟联合商汤Seko发起的&quot;链通全球，剧创价值——2026 AI短剧出海全链路变现行业沙龙&quot;在福建福州圆满落幕。 本次活动汇聚了Google、商汤Seko、麦芽、DataEye等产业链各环节头部力量，聚焦AI剧行业版权方、自制方、承制方等核心决策者，围绕从内容制作、海外分发到广告变...&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkwNDYyNDk2Nw==&amp;mid=2247506854&amp;idx=1&amp;sn=5ef6a9f6a4f48a1586aa9d0b428065b2&amp;chksm=c10b89db864b9c2792bff584a13b749629e64cba482a3268502ac2770584fc059a9e13a72cfa&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
