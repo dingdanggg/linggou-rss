@@ -1,20 +1,24 @@
 {
-  "generated_at": "2026-08-26T10:23:51.270313+08:00",
-  "total": 13,
-  "linggou": 9,
+  "generated_at": "2026-08-27T18:55:32.071133+08:00",
+  "total": 23,
+  "linggou": 14,
   "social_topics": 0,
   "sources": {
-    "X：Andrew Ng（DeepLearning.AI 创始人） (@AndrewYNg)": 1,
-    "X：Google AI (@GoogleAI)": 1,
-    "Dwarkesh Patel：Podcast & Blog（RSS）": 1,
+    "IT之家（RSS）": 1,
+    "Google Research：Blog（网页）": 1,
+    "Anthropic：Research（发表成果 · 网页）": 1,
+    "Claude：Blog（网页）": 1,
+    "Google DeepMind：Blog（RSS）": 1,
+    "Qwen：Blog Retrieval（API）": 1,
     "短剧自习室": 2,
-    "DataEye短剧观察": 2,
+    "AI寒武纪": 2,
+    "DataEye短剧观察": 1,
     "短剧内行人": 1,
-    "短剧新势力": 1
+    "短剧新势力": 2
   },
   "categories": {
-    "aigc_content": 3,
+    "aigc_content": 6,
     "tech_tools": 0,
-    "industry": 6
+    "industry": 8
   }
 }
