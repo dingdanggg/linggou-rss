@@ -1,19 +1,23 @@
 {
-  "generated_at": "2026-08-28T20:31:13.596774+08:00",
-  "total": 12,
-  "linggou": 8,
+  "generated_at": "2026-08-31T14:42:12.749898+08:00",
+  "total": 33,
+  "linggou": 22,
   "social_topics": 0,
   "sources": {
-    "Hacker News 热门（buzzing.cc 中文翻译）": 2,
-    "公众号：腾讯混元": 1,
-    "Midjourney：Updates（RSS）": 1,
-    "LMSYS：Blog（Chatbot Arena 团队）": 1,
+    "Ethan Mollick：One Useful Thing（RSS）": 1,
     "The Decoder：AI News（RSS）": 1,
-    "短剧自习室": 2
+    "Dwarkesh Patel：Podcast & Blog（RSS）": 1,
+    "Google AI：DEV 作者专属（RSS）": 1,
+    "Hacker News 热门（buzzing.cc 中文翻译）": 2,
+    "短剧自习室": 4,
+    "AI寒武纪": 5,
+    "DataEye短剧观察": 5,
+    "短剧内行人": 1,
+    "短剧新势力": 1
   },
   "categories": {
-    "aigc_content": 4,
-    "tech_tools": 2,
-    "industry": 2
+    "aigc_content": 10,
+    "tech_tools": 1,
+    "industry": 11
   }
 }
