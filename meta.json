@@ -1,23 +1,21 @@
 {
-  "generated_at": "2026-08-31T14:42:12.749898+08:00",
-  "total": 33,
-  "linggou": 22,
+  "generated_at": "2026-09-01T14:02:16.104304+08:00",
+  "total": 13,
+  "linggou": 11,
   "social_topics": 0,
   "sources": {
-    "Ethan Mollick：One Useful Thing（RSS）": 1,
-    "The Decoder：AI News（RSS）": 1,
-    "Dwarkesh Patel：Podcast & Blog（RSS）": 1,
-    "Google AI：DEV 作者专属（RSS）": 1,
-    "Hacker News 热门（buzzing.cc 中文翻译）": 2,
-    "短剧自习室": 4,
-    "AI寒武纪": 5,
-    "DataEye短剧观察": 5,
-    "短剧内行人": 1,
+    "X：Anthropic (@AnthropicAI)": 1,
+    "Runway：News（网页）": 1,
+    "Gary Marcus：The Road to AI We Can Trust（RSS）": 1,
+    "短剧自习室": 2,
+    "AI寒武纪": 1,
+    "DataEye短剧观察": 1,
+    "短剧内行人": 3,
     "短剧新势力": 1
   },
   "categories": {
-    "aigc_content": 10,
-    "tech_tools": 1,
-    "industry": 11
+    "aigc_content": 7,
+    "tech_tools": 0,
+    "industry": 4
   }
 }
