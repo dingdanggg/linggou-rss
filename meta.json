@@ -1,21 +1,25 @@
 {
-  "generated_at": "2026-09-01T14:02:16.104304+08:00",
-  "total": 13,
-  "linggou": 11,
+  "generated_at": "2026-09-02T13:28:04.199654+08:00",
+  "total": 19,
+  "linggou": 14,
   "social_topics": 0,
   "sources": {
-    "X：Anthropic (@AnthropicAI)": 1,
-    "Runway：News（网页）": 1,
-    "Gary Marcus：The Road to AI We Can Trust（RSS）": 1,
+    "公众号：数字生命卡兹克": 1,
+    "X：通义千问 / Qwen (@Alibaba_Qwen)": 1,
+    "Berkeley RDI：Blog（AI 安全与评测）": 1,
+    "X：Rohan Paul (@rohanpaul_ai)": 2,
+    "X：Artificial Analysis (@ArtificialAnlys)": 1,
+    "X：OpenRouter (@OpenRouter)": 1,
+    "OpenAI：官网动态（RSS · 排除企业/客户案例）": 1,
     "短剧自习室": 2,
     "AI寒武纪": 1,
     "DataEye短剧观察": 1,
-    "短剧内行人": 3,
+    "短剧内行人": 1,
     "短剧新势力": 1
   },
   "categories": {
-    "aigc_content": 7,
-    "tech_tools": 0,
-    "industry": 4
+    "aigc_content": 4,
+    "tech_tools": 1,
+    "industry": 9
   }
 }
