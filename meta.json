@@ -1,25 +1,21 @@
 {
-  "generated_at": "2026-09-02T13:28:04.199654+08:00",
-  "total": 19,
-  "linggou": 14,
+  "generated_at": "2026-09-03T13:29:33.119257+08:00",
+  "total": 21,
+  "linggou": 13,
   "social_topics": 0,
   "sources": {
-    "公众号：数字生命卡兹克": 1,
-    "X：通义千问 / Qwen (@Alibaba_Qwen)": 1,
-    "Berkeley RDI：Blog（AI 安全与评测）": 1,
-    "X：Rohan Paul (@rohanpaul_ai)": 2,
-    "X：Artificial Analysis (@ArtificialAnlys)": 1,
-    "X：OpenRouter (@OpenRouter)": 1,
-    "OpenAI：官网动态（RSS · 排除企业/客户案例）": 1,
-    "短剧自习室": 2,
-    "AI寒武纪": 1,
-    "DataEye短剧观察": 1,
-    "短剧内行人": 1,
-    "短剧新势力": 1
+    "Hacker News 热门（buzzing.cc 中文翻译）": 1,
+    "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)": 2,
+    "IT之家（RSS）": 1,
+    "X：Kim (@kimmonismus)": 1,
+    "Google AI：DEV 作者专属（RSS）": 1,
+    "短剧自习室": 3,
+    "AI寒武纪": 3,
+    "DataEye短剧观察": 1
   },
   "categories": {
-    "aigc_content": 4,
-    "tech_tools": 1,
-    "industry": 9
+    "aigc_content": 6,
+    "tech_tools": 0,
+    "industry": 7
   }
 }
