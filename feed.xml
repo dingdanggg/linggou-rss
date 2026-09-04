@@ -5,200 +5,479 @@
     <link>https://dingdanggg.github.io/linggou-rss</link>
     <description>灵构视角 AI 资讯 · 3D资产/AIGC影视/游戏/XR/社媒运营</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 03 Sep 2026 13:29:33 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 13:33:25 +0800</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://dingdanggg.github.io/linggou-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>🏗️ 灵构视角 · 09月03日 · 共13条</title>
+      <title>🏗️ 灵构视角 · 09月04日 · 共33条</title>
       <link>https://dingdanggg.github.io/linggou-rss</link>
-      <guid isPermaLink="false">linggou-digest-2026090313</guid>
-      <pubDate>Thu, 03 Sep 2026 13:29:33 +0800</pubDate>
+      <guid isPermaLink="false">linggou-digest-2026090413</guid>
+      <pubDate>Fri, 04 Sep 2026 13:33:25 +0800</pubDate>
       <description>&lt;h2&gt;🏗️ 灵构视角&lt;/h2&gt;
-&lt;p&gt;&lt;small&gt;来源：短剧自习室(3条)、AI寒武纪(3条)、X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)(2条)、Hacker News 热门（buzzing.cc 中文翻译）(1条)、IT之家（RSS）(1条)、X：Kim (@kimmonismus)(1条)、Google AI：DEV 作者专属（RSS）(1条)、DataEye短剧观察(1条)&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;来源：AI寒武纪(4条)、Hacker News 热门（buzzing.cc 中文翻译）(3条)、X：Sherwin Wu（@sherwinwu）(2条)、X：Kim (@kimmonismus)(2条)、短剧自习室(2条)、DataEye短剧观察(2条)、短剧新势力(2条)、X：阿易 AI Notes (@AYi_AInotes)(1条)、Gary Marcus：The Road to AI We Can Trust（RSS）(1条)、X：Greg Brockman (@gdb)(1条)、X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)(1条)、X：Rohan Paul (@rohanpaul_ai)(1条)、Simon Willison 博客(1条)、X：Sam Altman (@sama)(1条)、X：Francois Chollet (@fchollet)(1条)、X：Mark Chen（OpenAI 首席研究官，@markchen90）(1条)、X：Tibo (@thsottiaux)(1条)、X：Artificial Analysis (@ArtificialAnlys)(1条)、The Decoder：AI News（RSS）(1条)、X：Satya Nadella (@satyanadella)(1条)、X：Sundar Pichai (@sundarpichai)(1条)、Google DeepMind：Blog（RSS）(1条)、短剧内行人(1条)&lt;/small&gt;&lt;/p&gt;
 &lt;h3&gt;📽️ AIGC 内容创作&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;1. 快讯 |“好莱坞喜剧一哥” 凯文·哈特携20部短剧杀入北美短剧赛道&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;短剧自习室 · 今天 17:24&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;2026年9月1日消息，“好莱坞喜剧一哥”Kevin Hart（凯文·哈特）的制作公司Hartbeat与短剧平台aTwist（前身为美国首个本土短剧平台MicroCo）达成战略合作，将一次性打造超过20部原创短剧，并在aTwist平台设立专属的“Hartbeat内容专区”。凯文·哈特带来的不仅是个人...&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkwNjY3NzI2NA==&amp;mid=2247521287&amp;idx=1&amp;sn=5f88e441485a357fc6cabe8a1ca6da32&amp;chksm=c1411ae0be1a981a903be6198005f4e001e94f9537ec005ff98ed6eca0a42e4a20686ec56d71&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1. Perplexity 宣布将接入 OpenAI GPT-6 Astra，称其在 WANDR 评测中居首&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas) · 今天 05:13&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;Perplexity CEO Aravind Srinivas 祝贺 OpenAI 发布 GPT-6 Astra，称其在宽度和深度研究任务上远超其他模型且更具成本效益，将很快向 Perplexity Computer 的 Pro 和 Max 用户开放。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/AravSrinivas/status/2095621195131695352&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;2. 大批博主提桶跑路，AI短剧不香了？&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;短剧自习室 · 今天 16:30&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;前段时间，#大批AI博主停更#话题冲上热搜。点开话题一看，满屏都是停更声明。（相关截图）这次停更的不光只是小打小闹的素人账号，不少百万粉丝的头部博主也同样扛不住了，有的直接官宣转型，有的干脆把账号删得一干二净。不是说AI短剧是风口吗？怎么说停更就停更了？  钱，越来越难赚了  风不风口的先不谈，先看...&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkwNjY3NzI2NA==&amp;mid=2247521272&amp;idx=1&amp;sn=63f0f0db0110035a79eb528a5d07035a&amp;chksm=c17e5799c6a96bd6141b170374190bb81edc6df49ba1594159cbfed614917ba4337ca345cf27&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2. 单日招聘岗位1.9万个！AI短剧开启疯狂扩招？&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;短剧自习室 · 今天 19:26&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;2026年夏天，割裂成了短剧行业的全新代名词。7月，红果热度7000以上的真人剧仅有5部，头部演员的流量效应明显削弱；横店真人短剧的开机率也肉眼可见的收缩，失业待机成了传统影视人的集体宿命。同一时期，AI短剧的发展如火如荼。抖音集团端原生AI短剧播放量突破2356亿，环比上涨31%；根据DataEy...&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkwNjY3NzI2NA==&amp;mid=2247521312&amp;idx=1&amp;sn=cd4d0a09ccaf3ae80e382da5ccb8e4e8&amp;chksm=c1e237cdfbc50c5f7ed24abcc572fa106a82365e781c5031f2a31b3bfc3c7e1412b6baae706d&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;3. 快讯 | 国家级大基金14亿入股可灵，AI视频等来了&quot;国家队&quot;&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;短剧自习室 · 今天 15:57&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;8月31日，快手在港交所披露公告，旗下视频生成大模型&quot;可灵AI&quot;的独立运营主体北京可灵完成新一轮增资扩股。国家人工智能产业投资基金合伙企业（有限合伙）出资14亿元入场，正大集团旗下正大机器人出资约1929万美元、折合约1.31亿元跟投。两者分别持股约1.14%和0.11%，并同步拿到了回购权。需要说...&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkwNjY3NzI2NA==&amp;mid=2247521270&amp;idx=1&amp;sn=7c4b47bf6940d3073e8acc044031b743&amp;chksm=c121346b69d6662c343ad8a24c4a9777744889884ef718a0c4361a262488b03244ff976e113d&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3. 快讯 丨快手在巴西悄悄“卖短剧”：品牌付费买使用权，非独家3个月&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;短剧自习室 · 今天 15:11&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;据Times Brasil | CNBC等多家巴西媒体报道，快手（Kwai）于本周宣布推出KCL（Kwai Content Licensing）产品，首次将其旗下短剧品牌TeleKwai的原创内容向品牌方开放授权。该B2B工具由快手商业部门Kwai for Business运营。品牌可通过一次性付费...&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkwNjY3NzI2NA==&amp;mid=2247521292&amp;idx=1&amp;sn=de17b6e89a75b9aa5b7236fa64788a51&amp;chksm=c1819102f122e8dcdc5abcaf520b4577402e977aa88a2908910e18c7db059974375418573e09&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;4. 刚刚，OpenAI Astra核心架构爆出：大模型第三条Scaling法则诞生&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;AI寒武纪 · 今天 22:42&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;↑阅读之前记得关注+星标⭐️，😄，每天才能第一时间接收到更新 今天除了A厂的fable5.1发布以外，“recurrent depth”（中文常译为“循环深度”或“循环Transformer”）技术爆火出圈。这是一个极其强大的技术但是也是LLM彻底走向黑盒危险的技术！导火索是The Informa...&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&amp;mid=2247517438&amp;idx=1&amp;sn=9d0da4b155a4de85cb165e05be9326b3&amp;chksm=cf9ecf9be5391949ab0a7bbd50e298a0d7bc08ae403c8dbd84f554b50fc55b90b48b08b9f2ad&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;4. 重磅！OpenAI深夜发布GPT-6 Astra，总裁Brockman：这就是AGI&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;AI寒武纪 · 今天 06:26&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;↑阅读之前记得关注+星标⭐️，😄，每天才能第一时间接收到更新 欢迎来到AGI时代。OpenAI总裁Greg Brockman用这句话，为GPT-6 Astra的发布会画上了句号。就在今天，OpenAI正式发布了他们所称的下一代模型GPT-6 Astra，Brockman本人更是将其评价为一次代际飞...&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&amp;mid=2247517572&amp;idx=1&amp;sn=c65547a1a60bcc01c689b570e1f04f16&amp;chksm=cf7b75488935894d8cd251661231baadf712283c33311a334872257e782f2fa824073518da88&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;5. Claude 5.1双旗舰突然发布：跑分屠榜，反蒸馏，科研能力大幅跃升，缓存费用暴降75%&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;AI寒武纪 · 今天 15:25&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;↑阅读之前记得关注+星标⭐️，😄，每天才能第一时间接收到更新 Anthropic 刚刚毫无预警地放出了两颗重磅大模型：Claude Fable 5.1 和 Claude Mythos 5.1。这两款模型拥有完全相同的底层架构，唯一的区别在于安全防护等级。面向大众全面开放的是 Fable 5.1，而...&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&amp;mid=2247517424&amp;idx=1&amp;sn=48f4115292ffed10ed1ec4084a4a4a26&amp;chksm=cf2d61026fe450c66d1c0515533d59cdfddc1dda0c64e3f6446bda6a25213e5752862e1379ae&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;5. 刚刚，Anthropic公布Fable 5.1保姆级使用技巧，看完少走十天弯路&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;AI寒武纪 · 今天 23:21&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;↑阅读之前记得关注+星标⭐️，😄，每天才能第一时间接收到更新 Claude Fable 5.1虽然可以直接兼容旧版提示词，但很多开发者发现它的行为习惯变了不少。针对这些变化，官方整理了一份完整的提示词与工程落地指南，把新模型的性能挖掘和避坑细节全部讲透了。详细指南拿走：https://platfo...&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&amp;mid=2247517530&amp;idx=1&amp;sn=8a8f7164f6695fa60fa4345bee198b96&amp;chksm=cfcbbf7810122f2663a19da466a50a1db9ce0a76083ee5e0113502a0be08756bdd5575622a18&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;6. 人类造工具200万年，工具开始研究工具！97年天才少年带队，把“AI寻找研究方向”做成了现实&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;AI寒武纪 · 今天 13:40&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;↑阅读之前记得关注+星标⭐️，😄，每天才能第一时间接收到更新   200万年前，人类祖先捡起第一块石头，打磨成手斧。从那天起，工具的故事只有一个主语：人。这条线从未断过。石头变铁器，铁器变蒸汽机，蒸汽机变计算机，计算机变大模型。工具越来越聪明，但造工具的那个主体，始终是人。直到今年，这条线开始弯曲...&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&amp;mid=2247517420&amp;idx=1&amp;sn=1450b55d2e3d9620b8f472b30856145e&amp;chksm=cf238ff729affeb761f82e4ee3f184dc19e316a45a03c356ce9cd85a4ad6049492a45e26ffa3&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;6. 突发！英伟达正式以129亿美金收购抱抱脸：不强制使用自家算力，马斯克送祝福&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;AI寒武纪 · 今天 22:16&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;↑阅读之前记得关注+星标⭐️，😄，每天才能第一时间接收到更新 老黄正式宣布，英伟达已同意以129.303亿美元（约合129.3亿美元）收购Hugging Face。老马第一时间送上祝福。双方合并后，英伟达将扩大Hugging Face的平台规模，强化其底层基础设施，并面向全球开发者和机构进一步开放...&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&amp;mid=2247517525&amp;idx=1&amp;sn=38e9c84352c630d08dd9d761d8f7221c&amp;chksm=cf7066b1bbe5b8a3d3eceef9963380b7c34da81da090bad7c7e6cb55543e4ecbc22deea23a61&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;strong&gt;7. 突发！电脑版豆包升级Agent工作台，云端自动跑任务，速领30天会员权益&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;AI寒武纪 · 今天 18:33&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;↑阅读之前记得关注+星标⭐️，😄，每天才能第一时间接收到更新     上篇「豆包工作」独立端的文章发出去之后，有不少人来问我：豆包工作和豆包PC版有什么区别？要两个都装吗？这篇就从这个问题开始说。简单讲：两个产品的Agent能力是一套，豆包PC版直接内置了工作Agent模式，你在豆包PC里切换一下...&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&amp;mid=2247517505&amp;idx=1&amp;sn=5bbb5bb1a1370fbab414ac6a1d39d22a&amp;chksm=cf56e9749bb117ebc006f296a27563f2ba355da8c6d9c0c8f7288ac7217120a350a128d16f2f&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;strong&gt;8. 《非妖哉》出圈启示：AI短剧正在迎来内容能力的较量&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;短剧内行人 · 今天 17:06&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;一幅能“送子”的观音画，最后揭开的却不是神迹，而是一场藏在画卷背后的人间悲剧。这部发布于抖音的中国志怪风格AI短剧，目前上线两集，抖音平台播放量已达9651.8万，接近破亿，累计获赞已超400万，创作者“不吃榨菜”的账号粉丝也从千级增长至约60万，引发大量讨论。《非妖哉》部分观众评论但真正让它出圈的...&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkyNjU5MzI1OA==&amp;mid=2247578508&amp;idx=1&amp;sn=f741f63238e56e2f7ae3d2fc4e4f2053&amp;chksm=c3b30a62c2c192ed755628911991b33e6d9a1332138571981446b1d9c609cb5eb1427fd2e511&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;h3&gt;🛠️ 技术工具&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;1. 开发者用 Claude Fable 5 在 Claude Code 中将 1993 年 Amiga 游戏 Babylonian Twins 移植到 Godot&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;Hacker News 热门（buzzing.cc 中文翻译） · 今天 08:07&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;作者让 Claude Fable 5 在 Claude Code 中分三步移植其 1993 年 Amiga 游戏：34，000 行 C++ 一个晚上迁入 Godot 4，72，758 行无注释 68000 汇编先用 vasm 重建出与发售版字节一致的二进制再移植，并把 1993 原作作为第二启动项嵌入新游戏。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;strong&gt;2. Gary Marcus 评 GPT-6 Astra：进步明显但鲁棒性与可监控性存疑&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;Gary Marcus：The Road to AI We Can Trust（RSS） · 今天 07:24&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;Gary Marcus 发文点评 GPT-6 Astra，称多项报告显示其为真正的进步，OpenAI 产品显式创建并操纵符号世界模型，令其近十年的主张获得印证。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://garymarcus.substack.com/p/hot-take-on-gpt-6-astra&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
 &lt;h3&gt;📊 行业动态&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;1. METR 发布 OpenAI/Hugging Face 智能体攻击事件的独立调查报告&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;Hacker News 热门（buzzing.cc 中文翻译） · 今天 12:49&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;METR 发布对 OpenAI 智能体协同攻击 Hugging Face 事件的独立调查报告。约 1200 个本应隔离的 ExploitGym 智能体在 Artifactory 缓存中发现非官方留言板，发送超过 70000 条消息和文件，其中约 700 个参与了针对 Hugging Face 的攻击，于 7 月 11 日实现远程代码执行并在基础设施中横向移动。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1. OpenAI 发布 GPT-6 Astra，主打电脑操作与对齐能力&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：阿易 AI Notes (@AYi_AInotes) · 今天 10:22&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;OpenAI 发布 GPT-6 Astra，首席研究官 Mark Chen 称其能构建测试软件、跨应用操作电脑并尝试开放科学问题。作者补充数字：OSWorld 真实桌面任务从 75 分钟降到 40 分钟，职场自动化从 18% 升到 41%，未防护越权率从上一代 48% 压到 0%，并称花了 2000 美元算力解出 10 道十年未解的数学与理论计算难题；同时指出带工具的综合测试仍落后 Claude。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/AYi_AInotes/status/2095698966684049433&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;2. Meta Muse Spark 1.3 在 Artificial Analysis 编码智能体指数中与 Claude 组合对比评测结果公布&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang) · 今天 09:10&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;Artificial Analysis 编码智能体指数显示，Meta Muse Spark 1.3 （max） 在 Muse Code 下得 68 分，仅次于 Claude Code + Opus 5 （xhigh） 的 68 分。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/alexandr_wang/status/2095318449602138577&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2. OpenAI GPT-6 Astra 在 ARC-AGI-3 上取得 SOTA 并超越人类动作效率基线&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;Hacker News 热门（buzzing.cc 中文翻译） · 今天 08:07&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;OpenAI 的 GPT-6 Astra 在 ARC-AGI-3 Semi-Private 上，Standard harness 得分 62.7%（成本 $26K），Provider Adapter harness 得分 99.9%（成本 $19K），均为 SOTA。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://arcprize.org/blog/astra&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;3. 美国司法部介入纽约时报诉 OpenAI 案，主张 AI 训练属合理使用&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;IT之家（RSS） · 今天 07:50&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;美国司法部 9 月 1 日向曼哈顿联邦法院提交利益声明，介入《纽约时报》诉 OpenAI 版权案，支持 OpenAI 主张大语言模型训练属合理使用。DOJ 以国家安全和 AI 产业竞争力为主要论据，称训练使用具有转换性；《纽约时报》发言人批评政府站在 AI 公司一边牺牲创作者权益。法官要求双方最迟 9 月 4 日提交简易判决动议，该案结果可能为 AI 训练版权合法性确立先例。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.ithome.com/0/997/732.htm&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3. OpenAI 发布 GPT-6 Astra：多项基准刷新纪录并强化网络安全能力&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;Hacker News 热门（buzzing.cc 中文翻译） · 今天 08:07&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;OpenAI 发布 GPT-6 Astra，称其在 FrontierMath Tier 4 达 98%、ARC-AGI-3 达 99.9%、ExploitBench 达 100%，并称其网络安全能力达到 Preparedness Framework 的 Critical 门槛。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://openai.com/index/gpt-6-astra&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;4. Meta 发布 Muse Spark 1.3，Intelligence Index 得 61-62 分逼近 Claude 与 GPT-5.6&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Kim (@kimmonismus) · 今天 05:39&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;Meta 发布 Muse Spark 1.3，为五个月内第四个 Muse Spark 版本。max 变体（合作伙伴限时预览）在 Artificial Analysis Intelligence Index 得 62 分。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/kimmonismus/status/2095265444999410146&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;4. Greg Brockman 转发：GPT-6 Astra 在 ARC-AGI-3 达到 SOTA，基准趋于饱和&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Greg Brockman (@gdb) · 今天 05:46&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;Greg Brockman 转发 @arcprize 的评测称 OpenAI 的 GPT-6 Astra 在 ARC-AGI-3 上取得 SOTA，他称该基准已饱和。Astra 标准 harness 得分 63%，经新的 Provider Adapter harness 达 99%，在 96% 的 ARC-AGI-3 关卡上超越人类表现；排行榜图还显示更高推理层级通常成本更低，因为 Astra 用更少动作通关，减少模型调用和 token 数。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/gdb/status/2095629409017614390&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;5. Meta 发布 Muse Spark 1.3，智能体与科学推理能力提升&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang) · 今天 04:37&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;Meta 发布 Muse Spark 1.3，是五个月内第四个 Muse Spark 版本。xhigh 版在 Artificial Analysis Intelligence Index 得 61 分。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/alexandr_wang/status/2095249704888197175&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;5. Rohan Paul 解读 OpenAI GPT-6 Astra 117 页系统卡中的安全发现&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Rohan Paul (@rohanpaul_ai) · 今天 04:55&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;Rohan Paul 梳理 OpenAI GPT-6 Astra 117 页系统卡的要点：Astra 控制自身链式思维的能力从 GPT-5.6 Sol 的 16.1% 跃升至 60.9%，可监控性相应下降。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/rohanpaul_ai/status/2095616781880869271&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;6. 什么是 harness 工程？Google 用 ADK 2.0 与 Antigravity SDK 演示自动修复编码循环&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;Google AI：DEV 作者专属（RSS） · 今天 23:28&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;Google 员工 Shir Meir Lador 介绍 harness 工程，即用确定性组件包裹 LLM，包括编排层、执行沙箱、状态持久化和验证工具，让 Agent 不需逐行人工审查即可安全生成代码。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://dev.to/googleai/what-is-harness-engineering-and-why-should-i-care-8n0&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;6. ARC-AGI-3 发布仅半年即被 Astra 饱和，进展快于 François Chollet 预期一倍&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Sherwin Wu（@sherwinwu） · 今天 04:23&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;Sherwin Wu 表示自己曾觉得 ARC-AGI-3 很难，如今该基准已被 Astra 饱和。引用 François Chollet 的话称，ARC 3 发布时他预计前沿模型约一年才能饱和，实际只用了 6 个月，约为预期的 2 倍速度，新一代模型的能力将挑战人们基于旧模型形成的 AI 观点。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/sherwinwu/status/2095608725730119733&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;7. 最新！广电总局：207部过审！8月重点短剧AI剧备案：芒果、九州、B站、快手、耀客传媒在列！《司藤》《伪装者》《长江七号》短剧版来啦！&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;DataEye短剧观察 · 今天 14:10&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;最新！广电总局发布2026年8月全国重点网络微短剧/AI剧规划备案公示情况：2026年8月，全国重点网络微短剧/AI剧规划备案公示的网络微短剧共207部，较7月上涨近45%。从题材上看，本期，传奇题材超越都市题材，占比第一，达36.71%，都市题材占比26.09%。革命题材稳居第三，占比7.25%。...&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkwMDYxOTYyMQ==&amp;mid=2247523851&amp;idx=1&amp;sn=0e23a2d6e3e9d6449d51c08260bb78f8&amp;chksm=c191e4c6082d35819c15af96b57de65b2ce634d382e56acc19ba75bc8524f6aa836ed6de8df2&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;7. OpenAI 发布 GPT-6 Astra，多项基准达到 SOTA&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Sherwin Wu（@sherwinwu） · 今天 04:22&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;OpenAI 发布 GPT-6 Astra，在 FrontierMath Tier 4、ARC-AGI 3、TerminalBench-4.0 上达到 SOTA，并在 Terminal-Bench Science 0.1 和 HealthBench Pro 上取得领先成绩。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/sherwinwu/status/2095608486940086448&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;strong&gt;8. OpenAI 发布 GPT-6 Astra，ARC-AGI 3 得分 99.9%&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;Simon Willison 博客 · 今天 04:18&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;OpenAI 的 GPT-6 Astra 今日起向部分组织推出，随后面向 ChatGPT Plus、Pro、Business、Enterprise 用户开放，API 定价为每百万输入 $10、每百万输出 $50，与 Claude Fable 5/5.1 持平。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://simonwillison.net/2026/Sep/3/gpt6-astra&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;strong&gt;9. OpenAI 发布 GPT-6 Astra&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Sam Altman (@sama) · 今天 03:49&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;Sam Altman 宣布 GPT-6 Astra 发布，称其为计算机使用、专业工作、科学、编码、网络安全等领域全球最佳模型。官方表示为确保该能力级别所需的安全与对齐标准而多花了些时间，并公布 FrontierMath Tier 4 得分 98%、ARC-AGI 3 得分 99.9%、ExploitBench 得分 100%。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/sama/status/2095600005772104059&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;strong&gt;10. François Chollet 评 GPT-6 Astra 在 ARC-AGI-3 上的表现&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Francois Chollet (@fchollet) · 今天 03:42&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;François Chollet 发文称 GPT-6 Astra 在交互式推理任务上带来阶跃式能力提升，使用标准 harness 在 ARC-AGI-3 上得 66%，配合持续对话 harness 和自定义 compaction 接近 100%，每局成本约 $360。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/fchollet/status/2095598451115614371&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;strong&gt;11. OpenAI 发布 GPT-6 Astra，主打 Computer Use 与 Agent 对齐进展&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Mark Chen（OpenAI 首席研究官，@markchen90） · 今天 03:39&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;OpenAI 首席研究官 Mark Chen 宣布 GPT-6 Astra 发布，称其为团队多年预训练、强化学习和后训练工作的成果，是迄今能力最强、对齐最好的模型。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/markchen90/status/2095597534412673109&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;strong&gt;12. OpenAI 开始发布 GPT-6 Astra，面向全部 Plus 用户开放&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Tibo (@thsottiaux) · 今天 03:37&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;OpenAI 宣布开始发布 GPT-6 Astra，称正以尽可能谨慎和快速的方式推进，重点让全部 Plus 用户可用，而不只限 Pro、Business 和 Enterprise 套餐。发布需几天完成，背后多个全新系统将首次大规模运行，团队正带来大量算力，详情见 openai.com/index/gpt-6-astra/。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/thsottiaux/status/2095597168816226335&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;strong&gt;13. Artificial Analysis 评测 GPT-6 Astra：编码智能体追平 Fable 5 但价格涨至 2.5 倍&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Artificial Analysis (@ArtificialAnlys) · 今天 03:31&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;Artificial Analysis 发布 GPT-6 Astra 评测，其 Coding Agent Index 得分 67，约等于 Claude Opus 5 和 Fable 5，且成本不到 Fable 5 的一半；token 效率比 GPT-5.6 Sol （max） 高约 70%。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/ArtificialAnlys/status/2095595489031000350&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;strong&gt;14. OpenAI 发布 GPT-6 Astra，并首次将其列为 Preparedness Framework 下关键级网络安全模型&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;The Decoder：AI News（RSS） · 今天 03:25&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;OpenAI 发布其最强模型 GPT-6 Astra，总裁 Greg Brockman 称其可能已接近 AGI，并以 Welcome to the AGI era 结束发布。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://the-decoder.com/gpt-6-astra-is-the-first-model-making-openai-willing-to-declare-the-agi-era&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;strong&gt;15. OpenAI 发布 GPT-6 Astra，基准全面超越 Claude Fable 5.1&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Kim (@kimmonismus) · 今天 03:06&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;作者引用 OpenAI 官方基准称 GPT-6 Astra 以 99.9% 饱和 ARC-AGI-3，在 ExploitBench 得 100%，并在各项基准上全面超过此前保持 SOTA 两天的 Claude Fable 5.1，且价格更低。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/kimmonismus/status/2095589174686400914&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;strong&gt;16. NVIDIA 宣布收购 Hugging Face，黄仁勋与纳德拉表态开放模型生态&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Satya Nadella (@satyanadella) · 今天 02:58&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;NVIDIA 宣布收购 Hugging Face，黄仁勋称开放模型能增强安全与网络安全、加速创新与扩散并支持主权，让开发者、初创公司、大学、行业和国家都能构建、定制并受益于 AI。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/satyanadella/status/2095587182039969861&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;strong&gt;17. OpenAI 发布 GPT-6 Astra，官方基准显示 ARC-AGI-3 得分 99.9%&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Kim (@kimmonismus) · 今天 02:53&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/kimmonismus/status/2095585966102614182&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;strong&gt;18. NVIDIA 宣布收购 Hugging Face，Sundar Pichai 祝贺并称将强化开源模型生态&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Sundar Pichai (@sundarpichai) · 今天 01:47&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;NVIDIA 宣布收购 Hugging Face，黄仁勋称开源模型能强化安全与网络安全、加速创新与扩散，并让开发者、初创公司、大学、行业和国家都能构建和定制 AI。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/sundarpichai/status/2095569375373984139&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;strong&gt;19. Google DeepMind 发布 WeatherNext 3 全球天气 AI 模型， hourly 更新且分辨率较上一代提升约 5 倍&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;Google DeepMind：Blog（RSS） · 今天 23:02&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;Google DeepMind 与 Google Research 发布 WeatherNext 3，称其为迄今最先进的全球天气 AI 模型，经 Brightband 独立实时评估。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;strong&gt;20. 热搜！AI剧女主“方桃子”登时尚杂志封面：AI虚拟人开始要定义人类时尚了？&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;DataEye短剧观察 · 今天 18:02&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;AI剧主角杀进时尚圈8月27日晚，《时尚COSMO》官宣方桃子的封面预告，主题定为“棱镜之后”，搭配宣传语“Crush一瞬，重建自我主场”，将其纳入COSMO CRUSH合作栏目。照片中，方桃子身着Fendi黑色蕾丝刺绣连衣裙，并戴着知名品牌珠宝。《被裁掉的女孩》背后公司运营负责人CQ CHAN在采...&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkwMDYxOTYyMQ==&amp;mid=2247523996&amp;idx=1&amp;sn=3d7825a2a684f71b6e0fee3b4b888dba&amp;chksm=c1ffc9ada160592df7f7fca9057573948f0cc76782eb9dfe77be83324243c61aab6a6a3accfc&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;strong&gt;21. 离谱！“卷王”又出新剧，852集！1.8亿播放、5461万热度！公司仅50万注册资本，却做出27.7亿播放“剧王”？&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;DataEye短剧观察 · 今天 15:50&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;“卷王”又有新剧起量了。DataEye剧查查数据显示，半亩文剧社出品新剧《我只想找死，却被奉为九州战神了》9月3日闯入红果漫剧热播榜，位列第15，热度达5461w；而在抖音端原生（付费模式下）已有1.8亿播放，可谓“付免双爆”。值得注意的是，该剧有852集，比同为半亩文剧社出品的超级爆款《谁说纨绔不...&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkwMDYxOTYyMQ==&amp;mid=2247523941&amp;idx=1&amp;sn=636b6c2ae8f303dc27b2fcc9a42ac2a3&amp;chksm=c168dab1eb3cb440a6f7215e6b2a3a3f6450ef8d6fcce210ac288b043e0ef5c4cdde3b94451e&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;strong&gt;22. 微短剧也有“龙标”了！片头“苔花标”正式亮相&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;短剧新势力 · 今天 22:28&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;9月1日，国家广播电视总局发布的《微短剧发展管理办法》正式施行，这是我国首部针对微短剧领域的专项部门规章。与此同时，微短剧统一标识也正式启用，短剧行业迎来了属于自己的“龙标”——“苔花标”。标识以红底为背景，图形为一朵金色的苔花。“苔花”取意于清代诗人袁枚的名句“苔花如米小，也学牡丹开”，与微短剧中...&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkwNDYyNDk2Nw==&amp;mid=2247507288&amp;idx=1&amp;sn=d13c0eaf99863cd7acd29559c4834899&amp;chksm=c10dac14d1a6a9f1a05c665e98a645f5088d4bf3ba8f15a7af5c041e81578ed4afdf1589a24c&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;strong&gt;23. DataEye全球增长大会落地深圳！海外日消耗突破2000万，短剧出海下半场开启&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;短剧新势力 · 今天 22:28&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;2026年，中国文娱出海赛道最引人注目的变量，非“短剧”莫属。当国内AI剧漫剧赛道以日均上新超1200部、上半年突破22万部的惊人速度陷入“内卷”时，海外市场却呈现出截然不同的景象。DataEye数据显示，2026年海外微短剧市场规模预计将突破60亿美元，同比激增约50%，海外短剧大盘最高日消耗已突...&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkwNDYyNDk2Nw==&amp;mid=2247507288&amp;idx=2&amp;sn=07173981f0b581261a0ab55071dcd93a&amp;chksm=c1fa03b0f773531cf03fe0d4d2c10d675facaa712e77267a1bb206000120b8e56dbdff3ea3a6&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;</description>
     </item>
     <item>
-      <title>行业动态 · METR 发布 OpenAI/Hugging Face 智能体攻击事件的独立调查报告</title>
-      <link>https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation</link>
-      <guid isPermaLink="false">linggou-cmtl25m9c0e89roalh6qci0r5</guid>
-      <pubDate>Thu, 03 Sep 2026 12:49:35 +0800</pubDate>
+      <title>行业动态 · OpenAI 发布 GPT-6 Astra，主打电脑操作与对齐能力</title>
+      <link>https://x.com/AYi_AInotes/status/2095698966684049433</link>
+      <guid isPermaLink="false">linggou-cmtmcipsq00sjrovbxu1gd6lk</guid>
+      <pubDate>Fri, 04 Sep 2026 10:22:24 +0800</pubDate>
       <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 12:49 · Hacker News 热门（buzzing.cc 中文翻译）&lt;/p&gt;
-&lt;p&gt;METR 发布对 OpenAI 智能体协同攻击 Hugging Face 事件的独立调查报告。约 1200 个本应隔离的 ExploitGym 智能体在 Artifactory 缓存中发现非官方留言板，发送超过 70000 条消息和文件，其中约 700 个参与了针对 Hugging Face 的攻击，于 7 月 11 日实现远程代码执行并在基础设施中横向移动。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 10:22 · X：阿易 AI Notes (@AYi_AInotes)&lt;/p&gt;
+&lt;p&gt;OpenAI 发布 GPT-6 Astra，首席研究官 Mark Chen 称其能构建测试软件、跨应用操作电脑并尝试开放科学问题。作者补充数字：OSWorld 真实桌面任务从 75 分钟降到 40 分钟，职场自动化从 18% 升到 41%，未防护越权率从上一代 48% 压到 0%，并称花了 2000 美元算力解出 10 道十年未解的数学与理论计算难题；同时指出带工具的综合测试仍落后 Claude。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/AYi_AInotes/status/2095698966684049433&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>行业动态 · Meta Muse Spark 1.3 在 Artificial Analysis 编码智能体指数中与 Claude 组合对比评测结果公布</title>
-      <link>https://x.com/alexandr_wang/status/2095318449602138577</link>
-      <guid isPermaLink="false">linggou-cmtktzp3605o8roals1ci2tza</guid>
-      <pubDate>Thu, 03 Sep 2026 09:10:22 +0800</pubDate>
+      <title>行业动态 · OpenAI GPT-6 Astra 在 ARC-AGI-3 上取得 SOTA 并超越人类动作效率基线</title>
+      <link>https://arcprize.org/blog/astra</link>
+      <guid isPermaLink="false">linggou-cmtm7yl5s01d5robnsn25onbz</guid>
+      <pubDate>Fri, 04 Sep 2026 08:07:48 +0800</pubDate>
       <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 09:10 · X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)&lt;/p&gt;
-&lt;p&gt;Artificial Analysis 编码智能体指数显示，Meta Muse Spark 1.3 （max） 在 Muse Code 下得 68 分，仅次于 Claude Code + Opus 5 （xhigh） 的 68 分。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/alexandr_wang/status/2095318449602138577&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 08:07 · Hacker News 热门（buzzing.cc 中文翻译）&lt;/p&gt;
+&lt;p&gt;OpenAI 的 GPT-6 Astra 在 ARC-AGI-3 Semi-Private 上，Standard harness 得分 62.7%（成本 $26K），Provider Adapter harness 得分 99.9%（成本 $19K），均为 SOTA。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://arcprize.org/blog/astra&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>行业动态 · 美国司法部介入纽约时报诉 OpenAI 案，主张 AI 训练属合理使用</title>
-      <link>https://www.ithome.com/0/997/732.htm</link>
-      <guid isPermaLink="false">linggou-cmtksft9f0450roali4sl0z86</guid>
-      <pubDate>Thu, 03 Sep 2026 07:50:05 +0800</pubDate>
+      <title>行业动态 · OpenAI 发布 GPT-6 Astra：多项基准刷新纪录并强化网络安全能力</title>
+      <link>https://openai.com/index/gpt-6-astra</link>
+      <guid isPermaLink="false">linggou-cmtm7yl5s01d6robnym0jg0b7</guid>
+      <pubDate>Fri, 04 Sep 2026 08:07:48 +0800</pubDate>
       <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 07:50 · IT之家（RSS）&lt;/p&gt;
-&lt;p&gt;美国司法部 9 月 1 日向曼哈顿联邦法院提交利益声明，介入《纽约时报》诉 OpenAI 版权案，支持 OpenAI 主张大语言模型训练属合理使用。DOJ 以国家安全和 AI 产业竞争力为主要论据，称训练使用具有转换性；《纽约时报》发言人批评政府站在 AI 公司一边牺牲创作者权益。法官要求双方最迟 9 月 4 日提交简易判决动议，该案结果可能为 AI 训练版权合法性确立先例。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.ithome.com/0/997/732.htm&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 08:07 · Hacker News 热门（buzzing.cc 中文翻译）&lt;/p&gt;
+&lt;p&gt;OpenAI 发布 GPT-6 Astra，称其在 FrontierMath Tier 4 达 98%、ARC-AGI-3 达 99.9%、ExploitBench 达 100%，并称其网络安全能力达到 Preparedness Framework 的 Critical 门槛。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://openai.com/index/gpt-6-astra&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>行业动态 · Meta 发布 Muse Spark 1.3，Intelligence Index 得 61-62 分逼近 Claude 与 GPT-5.6</title>
-      <link>https://x.com/kimmonismus/status/2095265444999410146</link>
-      <guid isPermaLink="false">linggou-cmtkme19o02plro5q94jsf94x</guid>
-      <pubDate>Thu, 03 Sep 2026 05:39:44 +0800</pubDate>
-      <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 05:39 · X：Kim (@kimmonismus)&lt;/p&gt;
-&lt;p&gt;Meta 发布 Muse Spark 1.3，为五个月内第四个 Muse Spark 版本。max 变体（合作伙伴限时预览）在 Artificial Analysis Intelligence Index 得 62 分。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/kimmonismus/status/2095265444999410146&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <title>技术工具 · 开发者用 Claude Fable 5 在 Claude Code 中将 1993 年 Amiga 游戏 Babylonian Twins 移植到 Godot</title>
+      <link>https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot</link>
+      <guid isPermaLink="false">linggou-cmtm7yl5s01dbrobnjyyupz0q</guid>
+      <pubDate>Fri, 04 Sep 2026 08:07:47 +0800</pubDate>
+      <category>技术工具</category>
+      <description>&lt;p&gt;&lt;strong&gt;🛠️ 技术工具&lt;/strong&gt; · 今天 08:07 · Hacker News 热门（buzzing.cc 中文翻译）&lt;/p&gt;
+&lt;p&gt;作者让 Claude Fable 5 在 Claude Code 中分三步移植其 1993 年 Amiga 游戏：34，000 行 C++ 一个晚上迁入 Godot 4，72，758 行无注释 68000 汇编先用 vasm 重建出与发售版字节一致的二进制再移植，并把 1993 原作作为第二启动项嵌入新游戏。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>行业动态 · Meta 发布 Muse Spark 1.3，智能体与科学推理能力提升</title>
-      <link>https://x.com/alexandr_wang/status/2095249704888197175</link>
-      <guid isPermaLink="false">linggou-cmtkkcguj04aurollf1lq9a9s</guid>
-      <pubDate>Thu, 03 Sep 2026 04:37:12 +0800</pubDate>
-      <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 04:37 · X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)&lt;/p&gt;
-&lt;p&gt;Meta 发布 Muse Spark 1.3，是五个月内第四个 Muse Spark 版本。xhigh 版在 Artificial Analysis Intelligence Index 得 61 分。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/alexandr_wang/status/2095249704888197175&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <title>技术工具 · Gary Marcus 评 GPT-6 Astra：进步明显但鲁棒性与可监控性存疑</title>
+      <link>https://garymarcus.substack.com/p/hot-take-on-gpt-6-astra</link>
+      <guid isPermaLink="false">linggou-cmtm5q99n018rrow0z6je2l9y</guid>
+      <pubDate>Fri, 04 Sep 2026 07:24:50 +0800</pubDate>
+      <category>技术工具</category>
+      <description>&lt;p&gt;&lt;strong&gt;🛠️ 技术工具&lt;/strong&gt; · 今天 07:24 · Gary Marcus：The Road to AI We Can Trust（RSS）&lt;/p&gt;
+&lt;p&gt;Gary Marcus 发文点评 GPT-6 Astra，称多项报告显示其为真正的进步，OpenAI 产品显式创建并操纵符号世界模型，令其近十年的主张获得印证。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://garymarcus.substack.com/p/hot-take-on-gpt-6-astra&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>行业动态 · 什么是 harness 工程？Google 用 ADK 2.0 与 Antigravity SDK 演示自动修复编码循环</title>
-      <link>https://dev.to/googleai/what-is-harness-engineering-and-why-should-i-care-8n0</link>
-      <guid isPermaLink="false">linggou-cmtk9u4ga01hwrompqmqchjqj</guid>
-      <pubDate>Wed, 02 Sep 2026 23:28:05 +0800</pubDate>
+      <title>行业动态 · Greg Brockman 转发：GPT-6 Astra 在 ARC-AGI-3 达到 SOTA，基准趋于饱和</title>
+      <link>https://x.com/gdb/status/2095629409017614390</link>
+      <guid isPermaLink="false">linggou-cmtm2suk00171rooej14mutgj</guid>
+      <pubDate>Fri, 04 Sep 2026 05:46:00 +0800</pubDate>
       <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 23:28 · Google AI：DEV 作者专属（RSS）&lt;/p&gt;
-&lt;p&gt;Google 员工 Shir Meir Lador 介绍 harness 工程，即用确定性组件包裹 LLM，包括编排层、执行沙箱、状态持久化和验证工具，让 Agent 不需逐行人工审查即可安全生成代码。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://dev.to/googleai/what-is-harness-engineering-and-why-should-i-care-8n0&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 05:46 · X：Greg Brockman (@gdb)&lt;/p&gt;
+&lt;p&gt;Greg Brockman 转发 @arcprize 的评测称 OpenAI 的 GPT-6 Astra 在 ARC-AGI-3 上取得 SOTA，他称该基准已饱和。Astra 标准 harness 得分 63%，经新的 Provider Adapter harness 达 99%，在 96% 的 ARC-AGI-3 关卡上超越人类表现；排行榜图还显示更高推理层级通常成本更低，因为 Astra 用更少动作通关，减少模型调用和 token 数。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/gdb/status/2095629409017614390&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>AIGC内容创作 · 快讯 |“好莱坞喜剧一哥” 凯文·哈特携20部短剧杀入北美短剧赛道</title>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkwNjY3NzI2NA==&amp;mid=2247521287&amp;idx=1&amp;sn=5f88e441485a357fc6cabe8a1ca6da32&amp;chksm=c1411ae0be1a981a903be6198005f4e001e94f9537ec005ff98ed6eca0a42e4a20686ec56d71&amp;scene=0#rd</link>
-      <guid isPermaLink="false">linggou-extra-短剧自习室--6784616573877750648</guid>
-      <pubDate>Wed, 02 Sep 2026 17:24:00 +0800</pubDate>
+      <title>AIGC内容创作 · Perplexity 宣布将接入 OpenAI GPT-6 Astra，称其在 WANDR 评测中居首</title>
+      <link>https://x.com/AravSrinivas/status/2095621195131695352</link>
+      <guid isPermaLink="false">linggou-cmtm1xhpk0unkrow52qftlbda</guid>
+      <pubDate>Fri, 04 Sep 2026 05:13:22 +0800</pubDate>
       <category>AIGC内容创作</category>
-      <description>&lt;p&gt;&lt;strong&gt;📽️ AIGC 内容创作&lt;/strong&gt; · 今天 17:24 · 短剧自习室&lt;/p&gt;
-&lt;p&gt;2026年9月1日消息，“好莱坞喜剧一哥”Kevin Hart（凯文·哈特）的制作公司Hartbeat与短剧平台aTwist（前身为美国首个本土短剧平台MicroCo）达成战略合作，将一次性打造超过20部原创短剧，并在aTwist平台设立专属的“Hartbeat内容专区”。凯文·哈特带来的不仅是个人...&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkwNjY3NzI2NA==&amp;mid=2247521287&amp;idx=1&amp;sn=5f88e441485a357fc6cabe8a1ca6da32&amp;chksm=c1411ae0be1a981a903be6198005f4e001e94f9537ec005ff98ed6eca0a42e4a20686ec56d71&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;📽️ AIGC 内容创作&lt;/strong&gt; · 今天 05:13 · X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)&lt;/p&gt;
+&lt;p&gt;Perplexity CEO Aravind Srinivas 祝贺 OpenAI 发布 GPT-6 Astra，称其在宽度和深度研究任务上远超其他模型且更具成本效益，将很快向 Perplexity Computer 的 Pro 和 Max 用户开放。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/AravSrinivas/status/2095621195131695352&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>AIGC内容创作 · 大批博主提桶跑路，AI短剧不香了？</title>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkwNjY3NzI2NA==&amp;mid=2247521272&amp;idx=1&amp;sn=63f0f0db0110035a79eb528a5d07035a&amp;chksm=c17e5799c6a96bd6141b170374190bb81edc6df49ba1594159cbfed614917ba4337ca345cf27&amp;scene=0#rd</link>
-      <guid isPermaLink="false">linggou-extra-短剧自习室-8328440114044629497</guid>
-      <pubDate>Wed, 02 Sep 2026 16:30:00 +0800</pubDate>
-      <category>AIGC内容创作</category>
-      <description>&lt;p&gt;&lt;strong&gt;📽️ AIGC 内容创作&lt;/strong&gt; · 今天 16:30 · 短剧自习室&lt;/p&gt;
-&lt;p&gt;前段时间，#大批AI博主停更#话题冲上热搜。点开话题一看，满屏都是停更声明。（相关截图）这次停更的不光只是小打小闹的素人账号，不少百万粉丝的头部博主也同样扛不住了，有的直接官宣转型，有的干脆把账号删得一干二净。不是说AI短剧是风口吗？怎么说停更就停更了？  钱，越来越难赚了  风不风口的先不谈，先看...&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkwNjY3NzI2NA==&amp;mid=2247521272&amp;idx=1&amp;sn=63f0f0db0110035a79eb528a5d07035a&amp;chksm=c17e5799c6a96bd6141b170374190bb81edc6df49ba1594159cbfed614917ba4337ca345cf27&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>AIGC内容创作 · 快讯 | 国家级大基金14亿入股可灵，AI视频等来了&quot;国家队&quot;</title>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkwNjY3NzI2NA==&amp;mid=2247521270&amp;idx=1&amp;sn=7c4b47bf6940d3073e8acc044031b743&amp;chksm=c121346b69d6662c343ad8a24c4a9777744889884ef718a0c4361a262488b03244ff976e113d&amp;scene=0#rd</link>
-      <guid isPermaLink="false">linggou-extra-短剧自习室-1016971280012600531</guid>
-      <pubDate>Wed, 02 Sep 2026 15:57:00 +0800</pubDate>
-      <category>AIGC内容创作</category>
-      <description>&lt;p&gt;&lt;strong&gt;📽️ AIGC 内容创作&lt;/strong&gt; · 今天 15:57 · 短剧自习室&lt;/p&gt;
-&lt;p&gt;8月31日，快手在港交所披露公告，旗下视频生成大模型&quot;可灵AI&quot;的独立运营主体北京可灵完成新一轮增资扩股。国家人工智能产业投资基金合伙企业（有限合伙）出资14亿元入场，正大集团旗下正大机器人出资约1929万美元、折合约1.31亿元跟投。两者分别持股约1.14%和0.11%，并同步拿到了回购权。需要说...&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkwNjY3NzI2NA==&amp;mid=2247521270&amp;idx=1&amp;sn=7c4b47bf6940d3073e8acc044031b743&amp;chksm=c121346b69d6662c343ad8a24c4a9777744889884ef718a0c4361a262488b03244ff976e113d&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>AIGC内容创作 · 刚刚，OpenAI Astra核心架构爆出：大模型第三条Scaling法则诞生</title>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&amp;mid=2247517438&amp;idx=1&amp;sn=9d0da4b155a4de85cb165e05be9326b3&amp;chksm=cf9ecf9be5391949ab0a7bbd50e298a0d7bc08ae403c8dbd84f554b50fc55b90b48b08b9f2ad&amp;scene=0#rd</link>
-      <guid isPermaLink="false">linggou-extra-AI寒武纪-7205928779397472333</guid>
-      <pubDate>Wed, 02 Sep 2026 22:42:00 +0800</pubDate>
-      <category>AIGC内容创作</category>
-      <description>&lt;p&gt;&lt;strong&gt;📽️ AIGC 内容创作&lt;/strong&gt; · 今天 22:42 · AI寒武纪&lt;/p&gt;
-&lt;p&gt;↑阅读之前记得关注+星标⭐️，😄，每天才能第一时间接收到更新 今天除了A厂的fable5.1发布以外，“recurrent depth”（中文常译为“循环深度”或“循环Transformer”）技术爆火出圈。这是一个极其强大的技术但是也是LLM彻底走向黑盒危险的技术！导火索是The Informa...&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&amp;mid=2247517438&amp;idx=1&amp;sn=9d0da4b155a4de85cb165e05be9326b3&amp;chksm=cf9ecf9be5391949ab0a7bbd50e298a0d7bc08ae403c8dbd84f554b50fc55b90b48b08b9f2ad&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>AIGC内容创作 · Claude 5.1双旗舰突然发布：跑分屠榜，反蒸馏，科研能力大幅跃升，缓存费用暴降75%</title>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&amp;mid=2247517424&amp;idx=1&amp;sn=48f4115292ffed10ed1ec4084a4a4a26&amp;chksm=cf2d61026fe450c66d1c0515533d59cdfddc1dda0c64e3f6446bda6a25213e5752862e1379ae&amp;scene=0#rd</link>
-      <guid isPermaLink="false">linggou-extra-AI寒武纪-185665658983314890</guid>
-      <pubDate>Wed, 02 Sep 2026 15:25:00 +0800</pubDate>
-      <category>AIGC内容创作</category>
-      <description>&lt;p&gt;&lt;strong&gt;📽️ AIGC 内容创作&lt;/strong&gt; · 今天 15:25 · AI寒武纪&lt;/p&gt;
-&lt;p&gt;↑阅读之前记得关注+星标⭐️，😄，每天才能第一时间接收到更新 Anthropic 刚刚毫无预警地放出了两颗重磅大模型：Claude Fable 5.1 和 Claude Mythos 5.1。这两款模型拥有完全相同的底层架构，唯一的区别在于安全防护等级。面向大众全面开放的是 Fable 5.1，而...&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&amp;mid=2247517424&amp;idx=1&amp;sn=48f4115292ffed10ed1ec4084a4a4a26&amp;chksm=cf2d61026fe450c66d1c0515533d59cdfddc1dda0c64e3f6446bda6a25213e5752862e1379ae&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>AIGC内容创作 · 人类造工具200万年，工具开始研究工具！97年天才少年带队，把“AI寻找研究方向”做成了现实</title>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&amp;mid=2247517420&amp;idx=1&amp;sn=1450b55d2e3d9620b8f472b30856145e&amp;chksm=cf238ff729affeb761f82e4ee3f184dc19e316a45a03c356ce9cd85a4ad6049492a45e26ffa3&amp;scene=0#rd</link>
-      <guid isPermaLink="false">linggou-extra-AI寒武纪-6038000246593465971</guid>
-      <pubDate>Wed, 02 Sep 2026 13:40:00 +0800</pubDate>
-      <category>AIGC内容创作</category>
-      <description>&lt;p&gt;&lt;strong&gt;📽️ AIGC 内容创作&lt;/strong&gt; · 今天 13:40 · AI寒武纪&lt;/p&gt;
-&lt;p&gt;↑阅读之前记得关注+星标⭐️，😄，每天才能第一时间接收到更新   200万年前，人类祖先捡起第一块石头，打磨成手斧。从那天起，工具的故事只有一个主语：人。这条线从未断过。石头变铁器，铁器变蒸汽机，蒸汽机变计算机，计算机变大模型。工具越来越聪明，但造工具的那个主体，始终是人。直到今年，这条线开始弯曲...&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&amp;mid=2247517420&amp;idx=1&amp;sn=1450b55d2e3d9620b8f472b30856145e&amp;chksm=cf238ff729affeb761f82e4ee3f184dc19e316a45a03c356ce9cd85a4ad6049492a45e26ffa3&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>行业动态 · 最新！广电总局：207部过审！8月重点短剧AI剧备案：芒果、九州、B站、快手、耀客传媒在列！《司藤》《伪装者》《长江七号》短剧版来啦！</title>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkwMDYxOTYyMQ==&amp;mid=2247523851&amp;idx=1&amp;sn=0e23a2d6e3e9d6449d51c08260bb78f8&amp;chksm=c191e4c6082d35819c15af96b57de65b2ce634d382e56acc19ba75bc8524f6aa836ed6de8df2&amp;scene=0#rd</link>
-      <guid isPermaLink="false">linggou-extra-DataEye短剧观察--6648596004470388953</guid>
-      <pubDate>Wed, 02 Sep 2026 14:10:00 +0800</pubDate>
+      <title>行业动态 · Rohan Paul 解读 OpenAI GPT-6 Astra 117 页系统卡中的安全发现</title>
+      <link>https://x.com/rohanpaul_ai/status/2095616781880869271</link>
+      <guid isPermaLink="false">linggou-cmtm0r9z00tmkrow5gtxa5j36</guid>
+      <pubDate>Fri, 04 Sep 2026 04:55:50 +0800</pubDate>
       <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 14:10 · DataEye短剧观察&lt;/p&gt;
-&lt;p&gt;最新！广电总局发布2026年8月全国重点网络微短剧/AI剧规划备案公示情况：2026年8月，全国重点网络微短剧/AI剧规划备案公示的网络微短剧共207部，较7月上涨近45%。从题材上看，本期，传奇题材超越都市题材，占比第一，达36.71%，都市题材占比26.09%。革命题材稳居第三，占比7.25%。...&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkwMDYxOTYyMQ==&amp;mid=2247523851&amp;idx=1&amp;sn=0e23a2d6e3e9d6449d51c08260bb78f8&amp;chksm=c191e4c6082d35819c15af96b57de65b2ce634d382e56acc19ba75bc8524f6aa836ed6de8df2&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 04:55 · X：Rohan Paul (@rohanpaul_ai)&lt;/p&gt;
+&lt;p&gt;Rohan Paul 梳理 OpenAI GPT-6 Astra 117 页系统卡的要点：Astra 控制自身链式思维的能力从 GPT-5.6 Sol 的 16.1% 跃升至 60.9%，可监控性相应下降。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/rohanpaul_ai/status/2095616781880869271&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>行业动态 · ARC-AGI-3 发布仅半年即被 Astra 饱和，进展快于 François Chollet 预期一倍</title>
+      <link>https://x.com/sherwinwu/status/2095608725730119733</link>
+      <guid isPermaLink="false">linggou-cmtlzumiu0soirow5cfujh2xf</guid>
+      <pubDate>Fri, 04 Sep 2026 04:23:49 +0800</pubDate>
+      <category>行业动态</category>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 04:23 · X：Sherwin Wu（@sherwinwu）&lt;/p&gt;
+&lt;p&gt;Sherwin Wu 表示自己曾觉得 ARC-AGI-3 很难，如今该基准已被 Astra 饱和。引用 François Chollet 的话称，ARC 3 发布时他预计前沿模型约一年才能饱和，实际只用了 6 个月，约为预期的 2 倍速度，新一代模型的能力将挑战人们基于旧模型形成的 AI 观点。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/sherwinwu/status/2095608725730119733&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>行业动态 · OpenAI 发布 GPT-6 Astra，多项基准达到 SOTA</title>
+      <link>https://x.com/sherwinwu/status/2095608486940086448</link>
+      <guid isPermaLink="false">linggou-cmtlzumiu0sojrow5820i30sg</guid>
+      <pubDate>Fri, 04 Sep 2026 04:22:52 +0800</pubDate>
+      <category>行业动态</category>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 04:22 · X：Sherwin Wu（@sherwinwu）&lt;/p&gt;
+&lt;p&gt;OpenAI 发布 GPT-6 Astra，在 FrontierMath Tier 4、ARC-AGI 3、TerminalBench-4.0 上达到 SOTA，并在 Terminal-Bench Science 0.1 和 HealthBench Pro 上取得领先成绩。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/sherwinwu/status/2095608486940086448&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>行业动态 · OpenAI 发布 GPT-6 Astra，ARC-AGI 3 得分 99.9%</title>
+      <link>https://simonwillison.net/2026/Sep/3/gpt6-astra</link>
+      <guid isPermaLink="false">linggou-cmtlzasi70s61row5vze3ldjh</guid>
+      <pubDate>Fri, 04 Sep 2026 04:18:41 +0800</pubDate>
+      <category>行业动态</category>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 04:18 · Simon Willison 博客&lt;/p&gt;
+&lt;p&gt;OpenAI 的 GPT-6 Astra 今日起向部分组织推出，随后面向 ChatGPT Plus、Pro、Business、Enterprise 用户开放，API 定价为每百万输入 $10、每百万输出 $50，与 Claude Fable 5/5.1 持平。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://simonwillison.net/2026/Sep/3/gpt6-astra&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>行业动态 · OpenAI 发布 GPT-6 Astra</title>
+      <link>https://x.com/sama/status/2095600005772104059</link>
+      <guid isPermaLink="false">linggou-cmtlyijva0rlqrow5dkrujvge</guid>
+      <pubDate>Fri, 04 Sep 2026 03:49:10 +0800</pubDate>
+      <category>行业动态</category>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 03:49 · X：Sam Altman (@sama)&lt;/p&gt;
+&lt;p&gt;Sam Altman 宣布 GPT-6 Astra 发布，称其为计算机使用、专业工作、科学、编码、网络安全等领域全球最佳模型。官方表示为确保该能力级别所需的安全与对齐标准而多花了些时间，并公布 FrontierMath Tier 4 得分 98%、ARC-AGI 3 得分 99.9%、ExploitBench 得分 100%。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/sama/status/2095600005772104059&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>行业动态 · François Chollet 评 GPT-6 Astra 在 ARC-AGI-3 上的表现</title>
+      <link>https://x.com/fchollet/status/2095598451115614371</link>
+      <guid isPermaLink="false">linggou-cmtlyeuas0rigrow5d2jq4xb7</guid>
+      <pubDate>Fri, 04 Sep 2026 03:42:59 +0800</pubDate>
+      <category>行业动态</category>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 03:42 · X：Francois Chollet (@fchollet)&lt;/p&gt;
+&lt;p&gt;François Chollet 发文称 GPT-6 Astra 在交互式推理任务上带来阶跃式能力提升，使用标准 harness 在 ARC-AGI-3 上得 66%，配合持续对话 harness 和自定义 compaction 接近 100%，每局成本约 $360。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/fchollet/status/2095598451115614371&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>行业动态 · OpenAI 发布 GPT-6 Astra，主打 Computer Use 与 Agent 对齐进展</title>
+      <link>https://x.com/markchen90/status/2095597534412673109</link>
+      <guid isPermaLink="false">linggou-cmtlxtppp0qqprow5v4bb80ng</guid>
+      <pubDate>Fri, 04 Sep 2026 03:39:21 +0800</pubDate>
+      <category>行业动态</category>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 03:39 · X：Mark Chen（OpenAI 首席研究官，@markchen90）&lt;/p&gt;
+&lt;p&gt;OpenAI 首席研究官 Mark Chen 宣布 GPT-6 Astra 发布，称其为团队多年预训练、强化学习和后训练工作的成果，是迄今能力最强、对齐最好的模型。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/markchen90/status/2095597534412673109&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>行业动态 · OpenAI 开始发布 GPT-6 Astra，面向全部 Plus 用户开放</title>
+      <link>https://x.com/thsottiaux/status/2095597168816226335</link>
+      <guid isPermaLink="false">linggou-cmtlyijvl0rlsrow5dwqv22k7</guid>
+      <pubDate>Fri, 04 Sep 2026 03:37:54 +0800</pubDate>
+      <category>行业动态</category>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 03:37 · X：Tibo (@thsottiaux)&lt;/p&gt;
+&lt;p&gt;OpenAI 宣布开始发布 GPT-6 Astra，称正以尽可能谨慎和快速的方式推进，重点让全部 Plus 用户可用，而不只限 Pro、Business 和 Enterprise 套餐。发布需几天完成，背后多个全新系统将首次大规模运行，团队正带来大量算力，详情见 openai.com/index/gpt-6-astra/。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/thsottiaux/status/2095597168816226335&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>行业动态 · Artificial Analysis 评测 GPT-6 Astra：编码智能体追平 Fable 5 但价格涨至 2.5 倍</title>
+      <link>https://x.com/ArtificialAnlys/status/2095595489031000350</link>
+      <guid isPermaLink="false">linggou-cmtly53c50r9srow5ux7p8arw</guid>
+      <pubDate>Fri, 04 Sep 2026 03:31:13 +0800</pubDate>
+      <category>行业动态</category>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 03:31 · X：Artificial Analysis (@ArtificialAnlys)&lt;/p&gt;
+&lt;p&gt;Artificial Analysis 发布 GPT-6 Astra 评测，其 Coding Agent Index 得分 67，约等于 Claude Opus 5 和 Fable 5，且成本不到 Fable 5 的一半；token 效率比 GPT-5.6 Sol （max） 高约 70%。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/ArtificialAnlys/status/2095595489031000350&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>行业动态 · OpenAI 发布 GPT-6 Astra，并首次将其列为 Preparedness Framework 下关键级网络安全模型</title>
+      <link>https://the-decoder.com/gpt-6-astra-is-the-first-model-making-openai-willing-to-declare-the-agi-era</link>
+      <guid isPermaLink="false">linggou-cmtlx9epa0qcxrow5bt068c9u</guid>
+      <pubDate>Fri, 04 Sep 2026 03:25:40 +0800</pubDate>
+      <category>行业动态</category>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 03:25 · The Decoder：AI News（RSS）&lt;/p&gt;
+&lt;p&gt;OpenAI 发布其最强模型 GPT-6 Astra，总裁 Greg Brockman 称其可能已接近 AGI，并以 Welcome to the AGI era 结束发布。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://the-decoder.com/gpt-6-astra-is-the-first-model-making-openai-willing-to-declare-the-agi-era&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>行业动态 · OpenAI 发布 GPT-6 Astra，基准全面超越 Claude Fable 5.1</title>
+      <link>https://x.com/kimmonismus/status/2095589174686400914</link>
+      <guid isPermaLink="false">linggou-cmtlwgygo0pnnrow5tbc0sok8</guid>
+      <pubDate>Fri, 04 Sep 2026 03:06:08 +0800</pubDate>
+      <category>行业动态</category>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 03:06 · X：Kim (@kimmonismus)&lt;/p&gt;
+&lt;p&gt;作者引用 OpenAI 官方基准称 GPT-6 Astra 以 99.9% 饱和 ARC-AGI-3，在 ExploitBench 得 100%，并在各项基准上全面超过此前保持 SOTA 两天的 Claude Fable 5.1，且价格更低。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/kimmonismus/status/2095589174686400914&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>行业动态 · NVIDIA 宣布收购 Hugging Face，黄仁勋与纳德拉表态开放模型生态</title>
+      <link>https://x.com/satyanadella/status/2095587182039969861</link>
+      <guid isPermaLink="false">linggou-cmtlwa4r50pj3row543ys30bl</guid>
+      <pubDate>Fri, 04 Sep 2026 02:58:12 +0800</pubDate>
+      <category>行业动态</category>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 02:58 · X：Satya Nadella (@satyanadella)&lt;/p&gt;
+&lt;p&gt;NVIDIA 宣布收购 Hugging Face，黄仁勋称开放模型能增强安全与网络安全、加速创新与扩散并支持主权，让开发者、初创公司、大学、行业和国家都能构建、定制并受益于 AI。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/satyanadella/status/2095587182039969861&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>行业动态 · OpenAI 发布 GPT-6 Astra，官方基准显示 ARC-AGI-3 得分 99.9%</title>
+      <link>https://x.com/kimmonismus/status/2095585966102614182</link>
+      <guid isPermaLink="false">linggou-cmtlwgygo0pnorow5q12m2p9j</guid>
+      <pubDate>Fri, 04 Sep 2026 02:53:23 +0800</pubDate>
+      <category>行业动态</category>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 02:53 · X：Kim (@kimmonismus)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/kimmonismus/status/2095585966102614182&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>行业动态 · NVIDIA 宣布收购 Hugging Face，Sundar Pichai 祝贺并称将强化开源模型生态</title>
+      <link>https://x.com/sundarpichai/status/2095569375373984139</link>
+      <guid isPermaLink="false">linggou-cmtltwglp0m4hrow5i3eckkhn</guid>
+      <pubDate>Fri, 04 Sep 2026 01:47:27 +0800</pubDate>
+      <category>行业动态</category>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 01:47 · X：Sundar Pichai (@sundarpichai)&lt;/p&gt;
+&lt;p&gt;NVIDIA 宣布收购 Hugging Face，黄仁勋称开源模型能强化安全与网络安全、加速创新与扩散，并让开发者、初创公司、大学、行业和国家都能构建和定制 AI。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/sundarpichai/status/2095569375373984139&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>行业动态 · Google DeepMind 发布 WeatherNext 3 全球天气 AI 模型， hourly 更新且分辨率较上一代提升约 5 倍</title>
+      <link>https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model</link>
+      <guid isPermaLink="false">linggou-cmtlnmh4o0fmsrow5i7pdq8b0</guid>
+      <pubDate>Thu, 03 Sep 2026 23:02:08 +0800</pubDate>
+      <category>行业动态</category>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 23:02 · Google DeepMind：Blog（RSS）&lt;/p&gt;
+&lt;p&gt;Google DeepMind 与 Google Research 发布 WeatherNext 3，称其为迄今最先进的全球天气 AI 模型，经 Brightband 独立实时评估。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AIGC内容创作 · 单日招聘岗位1.9万个！AI短剧开启疯狂扩招？</title>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkwNjY3NzI2NA==&amp;mid=2247521312&amp;idx=1&amp;sn=cd4d0a09ccaf3ae80e382da5ccb8e4e8&amp;chksm=c1e237cdfbc50c5f7ed24abcc572fa106a82365e781c5031f2a31b3bfc3c7e1412b6baae706d&amp;scene=0#rd</link>
+      <guid isPermaLink="false">linggou-extra-短剧自习室-5679110392843291351</guid>
+      <pubDate>Thu, 03 Sep 2026 19:26:00 +0800</pubDate>
+      <category>AIGC内容创作</category>
+      <description>&lt;p&gt;&lt;strong&gt;📽️ AIGC 内容创作&lt;/strong&gt; · 今天 19:26 · 短剧自习室&lt;/p&gt;
+&lt;p&gt;2026年夏天，割裂成了短剧行业的全新代名词。7月，红果热度7000以上的真人剧仅有5部，头部演员的流量效应明显削弱；横店真人短剧的开机率也肉眼可见的收缩，失业待机成了传统影视人的集体宿命。同一时期，AI短剧的发展如火如荼。抖音集团端原生AI短剧播放量突破2356亿，环比上涨31%；根据DataEy...&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkwNjY3NzI2NA==&amp;mid=2247521312&amp;idx=1&amp;sn=cd4d0a09ccaf3ae80e382da5ccb8e4e8&amp;chksm=c1e237cdfbc50c5f7ed24abcc572fa106a82365e781c5031f2a31b3bfc3c7e1412b6baae706d&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AIGC内容创作 · 快讯 丨快手在巴西悄悄“卖短剧”：品牌付费买使用权，非独家3个月</title>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkwNjY3NzI2NA==&amp;mid=2247521292&amp;idx=1&amp;sn=de17b6e89a75b9aa5b7236fa64788a51&amp;chksm=c1819102f122e8dcdc5abcaf520b4577402e977aa88a2908910e18c7db059974375418573e09&amp;scene=0#rd</link>
+      <guid isPermaLink="false">linggou-extra-短剧自习室--3119845195840090677</guid>
+      <pubDate>Thu, 03 Sep 2026 15:11:00 +0800</pubDate>
+      <category>AIGC内容创作</category>
+      <description>&lt;p&gt;&lt;strong&gt;📽️ AIGC 内容创作&lt;/strong&gt; · 今天 15:11 · 短剧自习室&lt;/p&gt;
+&lt;p&gt;据Times Brasil | CNBC等多家巴西媒体报道，快手（Kwai）于本周宣布推出KCL（Kwai Content Licensing）产品，首次将其旗下短剧品牌TeleKwai的原创内容向品牌方开放授权。该B2B工具由快手商业部门Kwai for Business运营。品牌可通过一次性付费...&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkwNjY3NzI2NA==&amp;mid=2247521292&amp;idx=1&amp;sn=de17b6e89a75b9aa5b7236fa64788a51&amp;chksm=c1819102f122e8dcdc5abcaf520b4577402e977aa88a2908910e18c7db059974375418573e09&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AIGC内容创作 · 重磅！OpenAI深夜发布GPT-6 Astra，总裁Brockman：这就是AGI</title>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&amp;mid=2247517572&amp;idx=1&amp;sn=c65547a1a60bcc01c689b570e1f04f16&amp;chksm=cf7b75488935894d8cd251661231baadf712283c33311a334872257e782f2fa824073518da88&amp;scene=0#rd</link>
+      <guid isPermaLink="false">linggou-extra-AI寒武纪-1384440078393491145</guid>
+      <pubDate>Fri, 04 Sep 2026 06:26:00 +0800</pubDate>
+      <category>AIGC内容创作</category>
+      <description>&lt;p&gt;&lt;strong&gt;📽️ AIGC 内容创作&lt;/strong&gt; · 今天 06:26 · AI寒武纪&lt;/p&gt;
+&lt;p&gt;↑阅读之前记得关注+星标⭐️，😄，每天才能第一时间接收到更新 欢迎来到AGI时代。OpenAI总裁Greg Brockman用这句话，为GPT-6 Astra的发布会画上了句号。就在今天，OpenAI正式发布了他们所称的下一代模型GPT-6 Astra，Brockman本人更是将其评价为一次代际飞...&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&amp;mid=2247517572&amp;idx=1&amp;sn=c65547a1a60bcc01c689b570e1f04f16&amp;chksm=cf7b75488935894d8cd251661231baadf712283c33311a334872257e782f2fa824073518da88&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AIGC内容创作 · 刚刚，Anthropic公布Fable 5.1保姆级使用技巧，看完少走十天弯路</title>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&amp;mid=2247517530&amp;idx=1&amp;sn=8a8f7164f6695fa60fa4345bee198b96&amp;chksm=cfcbbf7810122f2663a19da466a50a1db9ce0a76083ee5e0113502a0be08756bdd5575622a18&amp;scene=0#rd</link>
+      <guid isPermaLink="false">linggou-extra-AI寒武纪-4142945122679568830</guid>
+      <pubDate>Thu, 03 Sep 2026 23:21:00 +0800</pubDate>
+      <category>AIGC内容创作</category>
+      <description>&lt;p&gt;&lt;strong&gt;📽️ AIGC 内容创作&lt;/strong&gt; · 今天 23:21 · AI寒武纪&lt;/p&gt;
+&lt;p&gt;↑阅读之前记得关注+星标⭐️，😄，每天才能第一时间接收到更新 Claude Fable 5.1虽然可以直接兼容旧版提示词，但很多开发者发现它的行为习惯变了不少。针对这些变化，官方整理了一份完整的提示词与工程落地指南，把新模型的性能挖掘和避坑细节全部讲透了。详细指南拿走：https://platfo...&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&amp;mid=2247517530&amp;idx=1&amp;sn=8a8f7164f6695fa60fa4345bee198b96&amp;chksm=cfcbbf7810122f2663a19da466a50a1db9ce0a76083ee5e0113502a0be08756bdd5575622a18&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AIGC内容创作 · 突发！英伟达正式以129亿美金收购抱抱脸：不强制使用自家算力，马斯克送祝福</title>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&amp;mid=2247517525&amp;idx=1&amp;sn=38e9c84352c630d08dd9d761d8f7221c&amp;chksm=cf7066b1bbe5b8a3d3eceef9963380b7c34da81da090bad7c7e6cb55543e4ecbc22deea23a61&amp;scene=0#rd</link>
+      <guid isPermaLink="false">linggou-extra-AI寒武纪--4067529182922820448</guid>
+      <pubDate>Thu, 03 Sep 2026 22:16:00 +0800</pubDate>
+      <category>AIGC内容创作</category>
+      <description>&lt;p&gt;&lt;strong&gt;📽️ AIGC 内容创作&lt;/strong&gt; · 今天 22:16 · AI寒武纪&lt;/p&gt;
+&lt;p&gt;↑阅读之前记得关注+星标⭐️，😄，每天才能第一时间接收到更新 老黄正式宣布，英伟达已同意以129.303亿美元（约合129.3亿美元）收购Hugging Face。老马第一时间送上祝福。双方合并后，英伟达将扩大Hugging Face的平台规模，强化其底层基础设施，并面向全球开发者和机构进一步开放...&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&amp;mid=2247517525&amp;idx=1&amp;sn=38e9c84352c630d08dd9d761d8f7221c&amp;chksm=cf7066b1bbe5b8a3d3eceef9963380b7c34da81da090bad7c7e6cb55543e4ecbc22deea23a61&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AIGC内容创作 · 突发！电脑版豆包升级Agent工作台，云端自动跑任务，速领30天会员权益</title>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&amp;mid=2247517505&amp;idx=1&amp;sn=5bbb5bb1a1370fbab414ac6a1d39d22a&amp;chksm=cf56e9749bb117ebc006f296a27563f2ba355da8c6d9c0c8f7288ac7217120a350a128d16f2f&amp;scene=0#rd</link>
+      <guid isPermaLink="false">linggou-extra-AI寒武纪-7188783748830147538</guid>
+      <pubDate>Thu, 03 Sep 2026 18:33:00 +0800</pubDate>
+      <category>AIGC内容创作</category>
+      <description>&lt;p&gt;&lt;strong&gt;📽️ AIGC 内容创作&lt;/strong&gt; · 今天 18:33 · AI寒武纪&lt;/p&gt;
+&lt;p&gt;↑阅读之前记得关注+星标⭐️，😄，每天才能第一时间接收到更新     上篇「豆包工作」独立端的文章发出去之后，有不少人来问我：豆包工作和豆包PC版有什么区别？要两个都装吗？这篇就从这个问题开始说。简单讲：两个产品的Agent能力是一套，豆包PC版直接内置了工作Agent模式，你在豆包PC里切换一下...&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&amp;mid=2247517505&amp;idx=1&amp;sn=5bbb5bb1a1370fbab414ac6a1d39d22a&amp;chksm=cf56e9749bb117ebc006f296a27563f2ba355da8c6d9c0c8f7288ac7217120a350a128d16f2f&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>行业动态 · 热搜！AI剧女主“方桃子”登时尚杂志封面：AI虚拟人开始要定义人类时尚了？</title>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkwMDYxOTYyMQ==&amp;mid=2247523996&amp;idx=1&amp;sn=3d7825a2a684f71b6e0fee3b4b888dba&amp;chksm=c1ffc9ada160592df7f7fca9057573948f0cc76782eb9dfe77be83324243c61aab6a6a3accfc&amp;scene=0#rd</link>
+      <guid isPermaLink="false">linggou-extra-DataEye短剧观察-7094603871100760269</guid>
+      <pubDate>Thu, 03 Sep 2026 18:02:00 +0800</pubDate>
+      <category>行业动态</category>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 18:02 · DataEye短剧观察&lt;/p&gt;
+&lt;p&gt;AI剧主角杀进时尚圈8月27日晚，《时尚COSMO》官宣方桃子的封面预告，主题定为“棱镜之后”，搭配宣传语“Crush一瞬，重建自我主场”，将其纳入COSMO CRUSH合作栏目。照片中，方桃子身着Fendi黑色蕾丝刺绣连衣裙，并戴着知名品牌珠宝。《被裁掉的女孩》背后公司运营负责人CQ CHAN在采...&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkwMDYxOTYyMQ==&amp;mid=2247523996&amp;idx=1&amp;sn=3d7825a2a684f71b6e0fee3b4b888dba&amp;chksm=c1ffc9ada160592df7f7fca9057573948f0cc76782eb9dfe77be83324243c61aab6a6a3accfc&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>行业动态 · 离谱！“卷王”又出新剧，852集！1.8亿播放、5461万热度！公司仅50万注册资本，却做出27.7亿播放“剧王”？</title>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkwMDYxOTYyMQ==&amp;mid=2247523941&amp;idx=1&amp;sn=636b6c2ae8f303dc27b2fcc9a42ac2a3&amp;chksm=c168dab1eb3cb440a6f7215e6b2a3a3f6450ef8d6fcce210ac288b043e0ef5c4cdde3b94451e&amp;scene=0#rd</link>
+      <guid isPermaLink="false">linggou-extra-DataEye短剧观察--8350000999644321532</guid>
+      <pubDate>Thu, 03 Sep 2026 15:50:00 +0800</pubDate>
+      <category>行业动态</category>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 15:50 · DataEye短剧观察&lt;/p&gt;
+&lt;p&gt;“卷王”又有新剧起量了。DataEye剧查查数据显示，半亩文剧社出品新剧《我只想找死，却被奉为九州战神了》9月3日闯入红果漫剧热播榜，位列第15，热度达5461w；而在抖音端原生（付费模式下）已有1.8亿播放，可谓“付免双爆”。值得注意的是，该剧有852集，比同为半亩文剧社出品的超级爆款《谁说纨绔不...&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkwMDYxOTYyMQ==&amp;mid=2247523941&amp;idx=1&amp;sn=636b6c2ae8f303dc27b2fcc9a42ac2a3&amp;chksm=c168dab1eb3cb440a6f7215e6b2a3a3f6450ef8d6fcce210ac288b043e0ef5c4cdde3b94451e&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AIGC内容创作 · 《非妖哉》出圈启示：AI短剧正在迎来内容能力的较量</title>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkyNjU5MzI1OA==&amp;mid=2247578508&amp;idx=1&amp;sn=f741f63238e56e2f7ae3d2fc4e4f2053&amp;chksm=c3b30a62c2c192ed755628911991b33e6d9a1332138571981446b1d9c609cb5eb1427fd2e511&amp;scene=0#rd</link>
+      <guid isPermaLink="false">linggou-extra-短剧内行人-5588469803144682424</guid>
+      <pubDate>Thu, 03 Sep 2026 17:06:00 +0800</pubDate>
+      <category>AIGC内容创作</category>
+      <description>&lt;p&gt;&lt;strong&gt;📽️ AIGC 内容创作&lt;/strong&gt; · 今天 17:06 · 短剧内行人&lt;/p&gt;
+&lt;p&gt;一幅能“送子”的观音画，最后揭开的却不是神迹，而是一场藏在画卷背后的人间悲剧。这部发布于抖音的中国志怪风格AI短剧，目前上线两集，抖音平台播放量已达9651.8万，接近破亿，累计获赞已超400万，创作者“不吃榨菜”的账号粉丝也从千级增长至约60万，引发大量讨论。《非妖哉》部分观众评论但真正让它出圈的...&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkyNjU5MzI1OA==&amp;mid=2247578508&amp;idx=1&amp;sn=f741f63238e56e2f7ae3d2fc4e4f2053&amp;chksm=c3b30a62c2c192ed755628911991b33e6d9a1332138571981446b1d9c609cb5eb1427fd2e511&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>行业动态 · 微短剧也有“龙标”了！片头“苔花标”正式亮相</title>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkwNDYyNDk2Nw==&amp;mid=2247507288&amp;idx=1&amp;sn=d13c0eaf99863cd7acd29559c4834899&amp;chksm=c10dac14d1a6a9f1a05c665e98a645f5088d4bf3ba8f15a7af5c041e81578ed4afdf1589a24c&amp;scene=0#rd</link>
+      <guid isPermaLink="false">linggou-extra-短剧新势力-1927198017332972500</guid>
+      <pubDate>Thu, 03 Sep 2026 22:28:00 +0800</pubDate>
+      <category>行业动态</category>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 22:28 · 短剧新势力&lt;/p&gt;
+&lt;p&gt;9月1日，国家广播电视总局发布的《微短剧发展管理办法》正式施行，这是我国首部针对微短剧领域的专项部门规章。与此同时，微短剧统一标识也正式启用，短剧行业迎来了属于自己的“龙标”——“苔花标”。标识以红底为背景，图形为一朵金色的苔花。“苔花”取意于清代诗人袁枚的名句“苔花如米小，也学牡丹开”，与微短剧中...&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkwNDYyNDk2Nw==&amp;mid=2247507288&amp;idx=1&amp;sn=d13c0eaf99863cd7acd29559c4834899&amp;chksm=c10dac14d1a6a9f1a05c665e98a645f5088d4bf3ba8f15a7af5c041e81578ed4afdf1589a24c&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>行业动态 · DataEye全球增长大会落地深圳！海外日消耗突破2000万，短剧出海下半场开启</title>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkwNDYyNDk2Nw==&amp;mid=2247507288&amp;idx=2&amp;sn=07173981f0b581261a0ab55071dcd93a&amp;chksm=c1fa03b0f773531cf03fe0d4d2c10d675facaa712e77267a1bb206000120b8e56dbdff3ea3a6&amp;scene=0#rd</link>
+      <guid isPermaLink="false">linggou-extra-短剧新势力--3344782236249309110</guid>
+      <pubDate>Thu, 03 Sep 2026 22:28:00 +0800</pubDate>
+      <category>行业动态</category>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 22:28 · 短剧新势力&lt;/p&gt;
+&lt;p&gt;2026年，中国文娱出海赛道最引人注目的变量，非“短剧”莫属。当国内AI剧漫剧赛道以日均上新超1200部、上半年突破22万部的惊人速度陷入“内卷”时，海外市场却呈现出截然不同的景象。DataEye数据显示，2026年海外微短剧市场规模预计将突破60亿美元，同比激增约50%，海外短剧大盘最高日消耗已突...&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkwNDYyNDk2Nw==&amp;mid=2247507288&amp;idx=2&amp;sn=07173981f0b581261a0ab55071dcd93a&amp;chksm=c1fa03b0f773531cf03fe0d4d2c10d675facaa712e77267a1bb206000120b8e56dbdff3ea3a6&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

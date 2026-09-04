@@ -1,21 +1,36 @@
 {
-  "generated_at": "2026-09-03T13:29:33.119257+08:00",
-  "total": 21,
-  "linggou": 13,
+  "generated_at": "2026-09-04T13:33:25.854531+08:00",
+  "total": 48,
+  "linggou": 33,
   "social_topics": 0,
   "sources": {
-    "Hacker News 热门（buzzing.cc 中文翻译）": 1,
-    "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)": 2,
-    "IT之家（RSS）": 1,
-    "X：Kim (@kimmonismus)": 1,
-    "Google AI：DEV 作者专属（RSS）": 1,
-    "短剧自习室": 3,
-    "AI寒武纪": 3,
-    "DataEye短剧观察": 1
+    "X：阿易 AI Notes (@AYi_AInotes)": 1,
+    "Hacker News 热门（buzzing.cc 中文翻译）": 3,
+    "Gary Marcus：The Road to AI We Can Trust（RSS）": 1,
+    "X：Greg Brockman (@gdb)": 1,
+    "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)": 1,
+    "X：Rohan Paul (@rohanpaul_ai)": 1,
+    "X：Sherwin Wu（@sherwinwu）": 2,
+    "Simon Willison 博客": 1,
+    "X：Sam Altman (@sama)": 1,
+    "X：Francois Chollet (@fchollet)": 1,
+    "X：Mark Chen（OpenAI 首席研究官，@markchen90）": 1,
+    "X：Tibo (@thsottiaux)": 1,
+    "X：Artificial Analysis (@ArtificialAnlys)": 1,
+    "The Decoder：AI News（RSS）": 1,
+    "X：Kim (@kimmonismus)": 2,
+    "X：Satya Nadella (@satyanadella)": 1,
+    "X：Sundar Pichai (@sundarpichai)": 1,
+    "Google DeepMind：Blog（RSS）": 1,
+    "短剧自习室": 2,
+    "AI寒武纪": 4,
+    "DataEye短剧观察": 2,
+    "短剧内行人": 1,
+    "短剧新势力": 2
   },
   "categories": {
-    "aigc_content": 6,
-    "tech_tools": 0,
-    "industry": 7
+    "aigc_content": 8,
+    "tech_tools": 2,
+    "industry": 23
   }
 }
