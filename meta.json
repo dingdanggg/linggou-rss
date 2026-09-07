@@ -1,36 +1,25 @@
 {
-  "generated_at": "2026-09-04T13:33:25.854531+08:00",
-  "total": 48,
-  "linggou": 33,
+  "generated_at": "2026-09-07T13:43:14.351082+08:00",
+  "total": 39,
+  "linggou": 19,
   "social_topics": 0,
   "sources": {
-    "X：阿易 AI Notes (@AYi_AInotes)": 1,
-    "Hacker News 热门（buzzing.cc 中文翻译）": 3,
-    "Gary Marcus：The Road to AI We Can Trust（RSS）": 1,
-    "X：Greg Brockman (@gdb)": 1,
-    "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)": 1,
-    "X：Rohan Paul (@rohanpaul_ai)": 1,
-    "X：Sherwin Wu（@sherwinwu）": 2,
-    "Simon Willison 博客": 1,
-    "X：Sam Altman (@sama)": 1,
-    "X：Francois Chollet (@fchollet)": 1,
-    "X：Mark Chen（OpenAI 首席研究官，@markchen90）": 1,
-    "X：Tibo (@thsottiaux)": 1,
-    "X：Artificial Analysis (@ArtificialAnlys)": 1,
-    "The Decoder：AI News（RSS）": 1,
-    "X：Kim (@kimmonismus)": 2,
-    "X：Satya Nadella (@satyanadella)": 1,
-    "X：Sundar Pichai (@sundarpichai)": 1,
-    "Google DeepMind：Blog（RSS）": 1,
-    "短剧自习室": 2,
-    "AI寒武纪": 4,
-    "DataEye短剧观察": 2,
+    "公众号：数字生命卡兹克": 2,
+    "X：Rohan Paul (@rohanpaul_ai)": 2,
+    "OpenAI：官网动态（RSS · 排除企业/客户案例）": 1,
+    "X：Testing Catalog (@testingcatalog)": 1,
+    "The Decoder：AI News（RSS）": 2,
+    "X：Anthropic (@AnthropicAI)": 1,
+    "GitHub Blog": 1,
+    "短剧自习室": 1,
+    "AI寒武纪": 5,
+    "DataEye短剧观察": 1,
     "短剧内行人": 1,
-    "短剧新势力": 2
+    "短剧新势力": 1
   },
   "categories": {
-    "aigc_content": 8,
+    "aigc_content": 7,
     "tech_tools": 2,
-    "industry": 23
+    "industry": 10
   }
 }
