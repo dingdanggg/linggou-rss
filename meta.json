@@ -1,25 +1,19 @@
 {
-  "generated_at": "2026-09-07T13:43:14.351082+08:00",
-  "total": 39,
-  "linggou": 19,
+  "generated_at": "2026-09-08T13:38:26.351168+08:00",
+  "total": 8,
+  "linggou": 7,
   "social_topics": 0,
   "sources": {
-    "公众号：数字生命卡兹克": 2,
-    "X：Rohan Paul (@rohanpaul_ai)": 2,
-    "OpenAI：官网动态（RSS · 排除企业/客户案例）": 1,
-    "X：Testing Catalog (@testingcatalog)": 1,
-    "The Decoder：AI News（RSS）": 2,
-    "X：Anthropic (@AnthropicAI)": 1,
-    "GitHub Blog": 1,
-    "短剧自习室": 1,
-    "AI寒武纪": 5,
+    "X：Mistral AI (@MistralAI)": 1,
+    "公众号：数字生命卡兹克": 1,
+    "The Decoder：AI News（RSS）": 1,
+    "短剧自习室": 2,
     "DataEye短剧观察": 1,
-    "短剧内行人": 1,
     "短剧新势力": 1
   },
   "categories": {
-    "aigc_content": 7,
-    "tech_tools": 2,
-    "industry": 10
+    "aigc_content": 2,
+    "tech_tools": 1,
+    "industry": 4
   }
 }

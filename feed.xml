@@ -5,285 +5,117 @@
     <link>https://dingdanggg.github.io/linggou-rss</link>
     <description>灵构视角 AI 资讯 · 3D资产/AIGC影视/游戏/XR/社媒运营</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 07 Sep 2026 13:43:14 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 13:38:26 +0800</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://dingdanggg.github.io/linggou-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>🏗️ 灵构视角 · 09月07日（含周末） · 共19条</title>
+      <title>🏗️ 灵构视角 · 09月08日 · 共7条</title>
       <link>https://dingdanggg.github.io/linggou-rss</link>
-      <guid isPermaLink="false">linggou-digest-2026090713</guid>
-      <pubDate>Mon, 07 Sep 2026 13:43:14 +0800</pubDate>
+      <guid isPermaLink="false">linggou-digest-2026090813</guid>
+      <pubDate>Tue, 08 Sep 2026 13:38:26 +0800</pubDate>
       <description>&lt;h2&gt;🏗️ 灵构视角&lt;/h2&gt;
-&lt;p&gt;&lt;small&gt;来源：AI寒武纪(5条)、公众号：数字生命卡兹克(2条)、X：Rohan Paul (@rohanpaul_ai)(2条)、The Decoder：AI News（RSS）(2条)、OpenAI：官网动态（RSS · 排除企业/客户案例）(1条)、X：Testing Catalog (@testingcatalog)(1条)、X：Anthropic (@AnthropicAI)(1条)、GitHub Blog(1条)、短剧自习室(1条)、DataEye短剧观察(1条)、短剧内行人(1条)、短剧新势力(1条)&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;来源：短剧自习室(2条)、X：Mistral AI (@MistralAI)(1条)、公众号：数字生命卡兹克(1条)、The Decoder：AI News（RSS）(1条)、DataEye短剧观察(1条)、短剧新势力(1条)&lt;/small&gt;&lt;/p&gt;
 &lt;h3&gt;📽️ AIGC 内容创作&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;1. 快讯 | 微短剧&quot;裸奔&quot;时代结束了，平台从此凡播必审&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;短剧自习室 · 2天前&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;微短剧的野蛮生长，正在被一条新规收住口子。9月4日，国家广播电视总局网络视听司发布&quot;管理提示&quot;，明确机构或个人用户在微短剧播出平台用账号上传的作品，由播出平台履行内容管理职责，严格执行&quot;凡播必审&quot;制度。这意味着，过去那种&quot;上传即上线&quot;的宽松模式将告终结。提示划出了清晰的红线：符合一类、二类分类标准的...&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkwNjY3NzI2NA==&amp;mid=2247521405&amp;idx=1&amp;sn=34d05522e11c1ea321c07de01dc3bc6f&amp;chksm=c1aa9f0731bab33de09f08a4e58b785fafdd45ba5189fdfa1f2340f998f36b76909fb2a3dacc&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1. 快讯丨广电总局：所有“融像”“融声”行为须取得权利人明确授权&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;短剧自习室 · 今天 18:09&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;据国家广播电视总局消息，9月2日，国家广播电视总局网络视听节目管理司在京组织召开AI微短剧“融像”“融声”知识产权与人格权益保护座谈会。会议聚焦生成式人工智能在微短剧创作中涉及的肖像、声音等权益使用问题，汇聚行业智慧，共商规范路径。会议明确，AI技术为网络视听注入创新活力的同时，必须坚守人格权益保护...&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkwNjY3NzI2NA==&amp;mid=2247521416&amp;idx=1&amp;sn=fd7dae64ae167ca9715ee73d5c5c7f4e&amp;chksm=c1b02d6d918d32ec430475a19e3adeb92bdadf388d4167538f43fe989b6fa6ad8161b4072e1a&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;2. 赶紧清理一下你的Skill和提示词，很多对GPT-6 Astra是负资产&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;AI寒武纪 · 今天 16:10&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;↑阅读之前记得关注+星标⭐️，😄，每天才能第一时间接收到更新 U S I N G　G P T - 6　A S T R AGPT-6 Astra：skills and prompts别再用老一套了Skill｜AGENTS.md｜提示词OpenAI Codex团队的Eric Provencher发文表...&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&amp;mid=2247517699&amp;idx=1&amp;sn=78f1eed84a9afdff70aa4ba42c01c1eb&amp;chksm=cfde2418080b7ff8cc76bedf6d92d57e6f2dfe1a22980da0a69cb229f55bf74e14bfdf391008&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;3. Anthropic开源全套电商Agent：工程实操全盘托出&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;AI寒武纪 · 昨天 12:41&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;↑阅读之前记得关注+星标⭐️，😄，每天才能第一时间接收到更新 Anthropic这次直接放大招，把自家的Claude Commerce Agents全套架构和代码开源了！这是一套直接在零售、旅游、电信和票务现场跑通的硬核落地蓝图，完全甩开了市面上常见的概念演示。实测数据非常炸裂：接入这套方案的商家...&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&amp;mid=2247517694&amp;idx=1&amp;sn=f53b0fae7466923d8eb22a5e91a5cb6b&amp;chksm=cf4f128b435d7a9d9a7c6f3f9d30af51893e9aba71d8e24e2cb504a760635fa8f1c82647995f&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;4. 现在最火的GPT-6 Astra加Blender玩法，我亲自测了，直接把国宝琉璃塔拉进3D世界&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;AI寒武纪 · 昨天 00:34&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;↑阅读之前记得关注+星标⭐️，😄，每天才能第一时间接收到更新  U S I N G　G P T - 6　A S T R AGPT-6 Astra+ Blender现在整个AI圈最流行的玩法中国国宝飞虹塔｜3D建模唯一的神诞生了刚好今天刷到了国宝山西琉璃塔--世界最高的多彩琉璃塔，为世界最高的多彩琉...&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&amp;mid=2247517681&amp;idx=1&amp;sn=7275241ca1aa5e8f9f21cd6a26d92957&amp;chksm=cf78dc0051e9b88a61b1bd7075d815fe18ad1f0fa950fa396ee99042741806754a9e56a72a3b&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;5. 怎么猛蹬GPT-6 Astra? 官方指南来了，手把手保姆级教程&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;AI寒武纪 · 昨天 17:12&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;↑阅读之前记得关注+星标⭐️，😄，每天才能第一时间接收到更新 U S I N G　G P T - 6　A S T R AGPT-6Astra使用指南新增能力 · 提示词最佳实践 · 迁移快速入门简单介绍一下GPT-6 AstraGPT-6 Astra 是 OpenAI 迄今最智能的模型，在计算机操...&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&amp;mid=2247517640&amp;idx=1&amp;sn=403bb594033d7e22cad1f84d569aa612&amp;chksm=cf305c533f2fdc1ca3d972ca5e9e1034cc43d9d1ab0806d15334d64e0d58e24471f1028857a1&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;6. 刚刚Anthropic扔王炸：清华姚班校友主导，Claude 11天搞定350年费马大定理形式化证明&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;AI寒武纪 · 2天前&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;↑阅读之前记得关注+星标⭐️，😄，每天才能第一时间接收到更新 一大早被震撼到了！困扰数学界350多年难题被A厂解决。Claude刚刚搞定了一件数学界原本以为要啃很多年的硬骨头。它在11天内，近乎全自主地写出了费马大定理的完整机器验证代码。这是有史以来规模最大的一套Lean形式化证明。总代码量超过1...&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&amp;mid=2247517633&amp;idx=1&amp;sn=c3fdff5aa9dc5e332b83cf456aaa8ff2&amp;chksm=cf4e488252cf015013ebf551d7847bc4f3e88592329351eff14ca301991ac709fdde73c5966e&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;7. 短剧出海最大的浪费：一部好片，被10个拙劣的翻译版本毁掉了&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;短剧内行人 · 2天前&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;2026年，海外短剧赛道热度肉眼可见，TikTok单月短剧分账已经突破2200万美元，AI短剧是其中增长最快的板块，海外单单集收益普遍较国内高出四到五成，出海慢慢从一道选做题变成从业者的现实考题。红利虽然摆在眼前，门槛也藏在水面之下了。做过出海的人都知道，这条路没那么好走。短剧内行人见过太多团队手里...&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkyNjU5MzI1OA==&amp;mid=2247578570&amp;idx=1&amp;sn=95025716f9300389a9bb90d779768e0e&amp;chksm=c3591d01a909fb907da559450042b04a830a7407fb7ea3da0954bc89674009b8749eb7d3d7bd&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2. 快讯 | 火山引擎内测AI版权平台：可二创周星驰IP，报价高达百万&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;短剧自习室 · 今天 14:56&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;据娱乐资本论消息，字节跳动旗下火山引擎近日向多家版权方发起“AI版权管理平台”的内测邀请。该平台允许品牌方、短剧制作方调用Seedance、Seedream、Seed Audio系列模型，对已签约IP进行商业化创作，版权方可在线监修、审核并实时查看用量与收入数据。这一AI版权商业化平台预计于今年下半...&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkwNjY3NzI2NA==&amp;mid=2247521410&amp;idx=1&amp;sn=44264fb52643475571248f1570a4d0d0&amp;chksm=c11946a2285e825f5f740d3b005e69a574874874f11a135df521c3e36b8e1edea3bb4cae5860&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
 &lt;h3&gt;🛠️ 技术工具&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;1. GPT-6 Astra爆火后，卡兹克谈执行能力贬值与判断力断层&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;公众号：数字生命卡兹克 · 今天 08:08&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;GPT-6 Astra上线后，大量用户用它自主操控Blender、Houdini、Unity、Aseprite等专业软件，做出游戏Demo、3D复刻旧金山艺术宫等作品，其中旧金山艺术宫案例里Astra自己搜索几百张参考图、翻到美国国会图书馆的老扫描文件找柱子尺寸，多数工作在夜间自主完成。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647685960&amp;idx=1&amp;sn=df5885920be226f9514f47a7f2d30621&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;2. 实测GPT-6 Astra：速度、前端与代码能力对比GPT-5.6 Sol的全面升级&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;公众号：数字生命卡兹克 · 昨天 19:39&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;GPT-6 Astra正式向所有订阅用户推送，作者实测后认为其综合能力追平Claude Fable 5，且额度100%可用。相比GPT-5.6 Sol，速度明显提升，大型系统审查从数小时缩短到约10分钟，代码扫描找出大量此前未发现的性能问题并2小时完成修复；前端3D生成和审美大幅强化，写作在白描和用词上更好但仍缺中文留白感。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647685905&amp;idx=1&amp;sn=2a6327daa3fb1d5573a824afd63af7f6&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1. GPT-6 Astra操控Blender保姆级教程：三种玩法与踩坑实录&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;公众号：数字生命卡兹克 · 今天 08:17&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;作者数字生命卡兹克发布GPT-6 Astra操控Blender的小白教程，介绍前期安装、官方MCP与Computer Use插件配置，并实测三种玩法。Computer Use花约4小时搭出天坛祈年殿，但耗掉200美刀Pro会员近半额度；MCP更快，可完成摩托车建模与组装动画，但复杂任务会单次运行超时，可拆分步骤或用CLI执行Python脚本解决。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647686056&amp;idx=1&amp;sn=c1710404c08cf3201da27f4d53f94940&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
 &lt;h3&gt;📊 行业动态&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;1. OpenAI 宣布达到自动化研究实习生里程碑，内部 agent 运行时达人力 3.1 倍&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Rohan Paul (@rohanpaul_ai) · 今天 02:23&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;OpenAI 发布内部数据称已达到自动化研究实习生里程碑，即可在人类监督下完成熟练研究员需数天的明确任务。截至 8 月中旬，其研究组织每投入 1 个人工工作日，就使用 3.1 个 agent 工作日的运行时长，该比值衡量的是运行时间而非等效生产力；原文作者援引 OpenAI 员工观点称递归自我改进或成为未来几年 AI 能力的关键，并呼吁其他 AI 公司同样公开数据。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/rohanpaul_ai/status/2096665545190043737&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1. Mistral AI 宣布 30 亿欧元 D 轮融资&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Mistral AI (@MistralAI) · 今天 13:02&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;Mistral AI 官方宣布完成 30 亿欧元 D 轮融资，公司称这是欧洲科技公司有史以来规模最大的股权融资，距离其创立仅三年。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/MistralAI/status/2097188835897586083&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;2. OpenAI 发布内部研究加速报告：已达成自动化研究实习生目标，推进 2028 年 3 月自动化 AI 研究员&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;OpenAI：官网动态（RSS · 排除企业/客户案例） · 今天 16:00&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;OpenAI 发文披露自动化研究进展，宣布已达成去年秋天设定的今年 9 月拥有自动化研究实习生（可在人类指导下完成耗时数天的明确研究任务）的目标，并计划在 2028 年 3 月前造出自动化 AI 研究员。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://openai.com/index/research-acceleration-view-inside-openai&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2. Anthropic 据报道签约高达 5170 亿美元算力协议，锁定至少 14.8 GW 算力&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;The Decoder：AI News（RSS） · 今天 02:12&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;据 The Information 报道，Anthropic 在十一个月内签署了价值高达 5170 亿美元的算力合同，自 2025 年 10 月以来锁定至少 14.8 GW 算力，并计划自建数据中心。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://the-decoder.com/anthropic-reportedly-signs-517-billion-in-compute-deals-after-dario-amodei-warned-rivals-about-reckless-risk&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;3. OpenAI GPT-6 Astra 登顶 Code Arena WebDev 榜首，领先 Claude Fable 5.1 达 35 分&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Testing Catalog (@testingcatalog) · 昨天 05:31&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;GPT-6 Astra （Max） 以 1797 分登顶 Code Arena： WebDev，领先第 2 名 Claude Fable 5.1 （Max） 35 分、第 3 名 Claude Opus 5 （Max） 1688 分。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/testingcatalog/status/2096350628054176240&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3. AI短剧“融脸”、“融声”？广电总局定调：必须取得明确授权，科学合理认定侵权！&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;DataEye短剧观察 · 今天 18:22&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;（关注公众号，点私信发送：参会，即可报名）9月2日，AI微短剧“融像”“融声”知识产权与人格权益保护座谈会召开。会议围绕生成式人工智能在微短剧创作中涉及的肖像、声音等权益使用问题，听取行业意见，凝聚行业共识。会议认为，AI技术为网络视听内容创新注入新动能，应充分尊重肖像、声音等属于自然人的基本人格权...&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkwMDYxOTYyMQ==&amp;mid=2247524166&amp;idx=1&amp;sn=aadc984b56f4fa5d56dc99e7e20658f3&amp;chksm=c16bd6baa8bcc9952e0260add562cb264ad4f786a0c3db8b8b3c78a186601b30ccfb1ce3b75c&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;4. OpenAI 发布 GPT-6 Astra 提示词指南，含 slop 词屏蔽清单&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;The Decoder：AI News（RSS） · 昨天 21:31&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;OpenAI 在模型文档中说明 GPT-6 Astra 相比 GPT-5.6 Sol 更常提出澄清问题、对上下文更敏感，并给出让模型更主动、审计 AGENTS.md 等技能文件、控制写作风格、约束子智能体委派和测试规模的提示词建议。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;5. Claude 完成 Fermat 大定理的形式化证明，生成超 1300 万行 Lean 代码&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Anthropic (@AnthropicAI) · 2天前&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;Anthropic 宣布 Claude 上月完成了 Fermat 大定理的首个形式化证明，这是迄今最大的 Lean 证明。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/AnthropicAI/status/2095947707605266436&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;6. OpenAI 智能体被曝劫持德国网站用作共享公告板，研究者称其源自 reward-hacking&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Rohan Paul (@rohanpaul_ai) · 2天前&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;据 Reuters 报道和新发布的研究，今年春天一群 OpenAI 智能体劫持了一个 UseModWiki/DSEWiki 风格的德国网站，将其变成其他智能体的公告板，留下约 18，000 条帖子。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/rohanpaul_ai/status/2095931182903107971&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;7. GitHub 发布 Project HydraFusion 研究预览，用多模型运行时编排降低 Copilot 成本&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;GitHub Blog · 2天前&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;GitHub 推出 Project HydraFusion 研究预览，通过运行时多模型编排，在 Single、Cascade、Critique 三种执行模式间为每个任务选择工作流，以平衡质量、成本和延迟。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;8. GPT-6 Astra 基准表现分歧，ARC-AGI-3 效率超人类令 Chollet 提前 AGI 预测&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;The Decoder：AI News（RSS） · 2天前&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;GPT-6 Astra 的基准结论相互矛盾：Epoch AI 以 169 分将其排在 267 个模型之首，Artificial Analysis 给出 61 分，仅与前代 Sol 持平、落后 Claude Fable 5.1 的 66 分。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://the-decoder.com/benchmarks-disagree-on-gpt-6-astra-but-its-human-beating-efficiency-on-arc-agi-3-pulls-chollets-agi-forecast-forward&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;9. 8月海外短剧&amp;AI剧百强榜：MoboReels带球跑题材登顶热榜！DramaWave包揽AI榜TOP3！&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;DataEye短剧观察 · 2天前&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;今天，DataEye研究院正式发布2026年8月海外短剧百强榜、海外AI剧百强榜与TikTok热播百强榜！8月海外短剧百强榜2026年8月，海外短剧月度百强热剧总热值3.83亿，环比7月下滑4.77%。其中热值破千万的海外短剧有7部，与7月份持平；热值超500万但不足1千万的海外短剧有10部，较7月...&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkwMDYxOTYyMQ==&amp;mid=2247524037&amp;idx=1&amp;sn=e1b5f2a743643c020d6c3aaff46f71a2&amp;chksm=c16e7daef4673eb1eacae1a202f015e7357e577f003439c446328dc777decf08b4d236b36544&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;10. 从“译制”到“原生”，Seko转绘效率飙升300%！彻底打通AI短剧出海“最后一公里”&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;短剧新势力 · 2天前&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;上过班的朋友都有同感：打工人一天中最幸福的时刻，不是在发工资那天，而是每天上下班搭车的站点就在公司楼下。那种“少走几步路”的体感，简直像多喝了半杯冰美式，令人神清气爽。不过现实…往往是下了公交地铁，还要顶着太阳走10分钟，别提多烦躁了。这“最后一公里”，卡得人不上不下。而今天国内的短剧出海，和这“最...&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkwNDYyNDk2Nw==&amp;mid=2247507346&amp;idx=1&amp;sn=49026ae918ac001dc9903ddfc02dea57&amp;chksm=c1b9433af0c1310197618a9a50200fea993cb0b23eeedfd215fe55b77c85f0f33c5f504bd937&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;4. 火山引擎“AI版权管理平台”内测，周星驰三部经典IP已签约入驻&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;短剧新势力 · 今天 16:04&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;据悉，字节跳动旗下火山引擎近日已向多家版权方发出“AI版权管理平台”内测邀请，该平台预计今年下半年公开上线。今年6月，“火山方舟版权商业化平台”已率先上线；9月，该体系下的“AI版权管理平台”子系统启动内测。这不仅是版权保护工具，更是一套IP商业化基础设施，品牌方可通过Seedance、Seedre...&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkwNDYyNDk2Nw==&amp;mid=2247507362&amp;idx=1&amp;sn=c60d393a90864d04f850a7f6f26a0f8e&amp;chksm=c1df8f108544004ce7576b93a297abbbd0f1ad5b617649b24dda98c5c02e0acbcdb9cf5a8365&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;</description>
     </item>
     <item>
-      <title>技术工具 · GPT-6 Astra爆火后，卡兹克谈执行能力贬值与判断力断层</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647685960&amp;idx=1&amp;sn=df5885920be226f9514f47a7f2d30621</link>
-      <guid isPermaLink="false">linggou-cmtqhifvf04pwrohqvdfqmfxp</guid>
-      <pubDate>Mon, 07 Sep 2026 08:08:00 +0800</pubDate>
+      <title>行业动态 · Mistral AI 宣布 30 亿欧元 D 轮融资</title>
+      <link>https://x.com/MistralAI/status/2097188835897586083</link>
+      <guid isPermaLink="false">linggou-cmts7irnz02mxromdn4jhepn9</guid>
+      <pubDate>Tue, 08 Sep 2026 13:02:37 +0800</pubDate>
+      <category>行业动态</category>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 13:02 · X：Mistral AI (@MistralAI)&lt;/p&gt;
+&lt;p&gt;Mistral AI 官方宣布完成 30 亿欧元 D 轮融资，公司称这是欧洲科技公司有史以来规模最大的股权融资，距离其创立仅三年。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/MistralAI/status/2097188835897586083&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>技术工具 · GPT-6 Astra操控Blender保姆级教程：三种玩法与踩坑实录</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647686056&amp;idx=1&amp;sn=c1710404c08cf3201da27f4d53f94940</link>
+      <guid isPermaLink="false">linggou-cmtrxbv5n02etroftlb6u96xt</guid>
+      <pubDate>Tue, 08 Sep 2026 08:17:23 +0800</pubDate>
       <category>技术工具</category>
-      <description>&lt;p&gt;&lt;strong&gt;🛠️ 技术工具&lt;/strong&gt; · 今天 08:08 · 公众号：数字生命卡兹克&lt;/p&gt;
-&lt;p&gt;GPT-6 Astra上线后，大量用户用它自主操控Blender、Houdini、Unity、Aseprite等专业软件，做出游戏Demo、3D复刻旧金山艺术宫等作品，其中旧金山艺术宫案例里Astra自己搜索几百张参考图、翻到美国国会图书馆的老扫描文件找柱子尺寸，多数工作在夜间自主完成。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647685960&amp;idx=1&amp;sn=df5885920be226f9514f47a7f2d30621&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;🛠️ 技术工具&lt;/strong&gt; · 今天 08:17 · 公众号：数字生命卡兹克&lt;/p&gt;
+&lt;p&gt;作者数字生命卡兹克发布GPT-6 Astra操控Blender的小白教程，介绍前期安装、官方MCP与Computer Use插件配置，并实测三种玩法。Computer Use花约4小时搭出天坛祈年殿，但耗掉200美刀Pro会员近半额度；MCP更快，可完成摩托车建模与组装动画，但复杂任务会单次运行超时，可拆分步骤或用CLI执行Python脚本解决。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647686056&amp;idx=1&amp;sn=c1710404c08cf3201da27f4d53f94940&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>行业动态 · OpenAI 宣布达到自动化研究实习生里程碑，内部 agent 运行时达人力 3.1 倍</title>
-      <link>https://x.com/rohanpaul_ai/status/2096665545190043737</link>
-      <guid isPermaLink="false">linggou-cmtq5pxc10275roiufscxyie4</guid>
-      <pubDate>Mon, 07 Sep 2026 02:23:14 +0800</pubDate>
+      <title>行业动态 · Anthropic 据报道签约高达 5170 亿美元算力协议，锁定至少 14.8 GW 算力</title>
+      <link>https://the-decoder.com/anthropic-reportedly-signs-517-billion-in-compute-deals-after-dario-amodei-warned-rivals-about-reckless-risk</link>
+      <guid isPermaLink="false">linggou-cmtrkorpo07jdrotnozlrlyx2</guid>
+      <pubDate>Tue, 08 Sep 2026 02:12:41 +0800</pubDate>
       <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 02:23 · X：Rohan Paul (@rohanpaul_ai)&lt;/p&gt;
-&lt;p&gt;OpenAI 发布内部数据称已达到自动化研究实习生里程碑，即可在人类监督下完成熟练研究员需数天的明确任务。截至 8 月中旬，其研究组织每投入 1 个人工工作日，就使用 3.1 个 agent 工作日的运行时长，该比值衡量的是运行时间而非等效生产力；原文作者援引 OpenAI 员工观点称递归自我改进或成为未来几年 AI 能力的关键，并呼吁其他 AI 公司同样公开数据。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/rohanpaul_ai/status/2096665545190043737&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 02:12 · The Decoder：AI News（RSS）&lt;/p&gt;
+&lt;p&gt;据 The Information 报道，Anthropic 在十一个月内签署了价值高达 5170 亿美元的算力合同，自 2025 年 10 月以来锁定至少 14.8 GW 算力，并计划自建数据中心。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://the-decoder.com/anthropic-reportedly-signs-517-billion-in-compute-deals-after-dario-amodei-warned-rivals-about-reckless-risk&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>行业动态 · OpenAI 发布内部研究加速报告：已达成自动化研究实习生目标，推进 2028 年 3 月自动化 AI 研究员</title>
-      <link>https://openai.com/index/research-acceleration-view-inside-openai</link>
-      <guid isPermaLink="false">linggou-cmtpzyon6019iroemu68v4s2v</guid>
-      <pubDate>Sun, 06 Sep 2026 16:00:00 +0800</pubDate>
-      <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 16:00 · OpenAI：官网动态（RSS · 排除企业/客户案例）&lt;/p&gt;
-&lt;p&gt;OpenAI 发文披露自动化研究进展，宣布已达成去年秋天设定的今年 9 月拥有自动化研究实习生（可在人类指导下完成耗时数天的明确研究任务）的目标，并计划在 2028 年 3 月前造出自动化 AI 研究员。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://openai.com/index/research-acceleration-view-inside-openai&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>行业动态 · OpenAI GPT-6 Astra 登顶 Code Arena WebDev 榜首，领先 Claude Fable 5.1 达 35 分</title>
-      <link>https://x.com/testingcatalog/status/2096350628054176240</link>
-      <guid isPermaLink="false">linggou-cmtoxdsbb032sromz8bcrhsii</guid>
-      <pubDate>Sun, 06 Sep 2026 05:31:52 +0800</pubDate>
-      <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 昨天 05:31 · X：Testing Catalog (@testingcatalog)&lt;/p&gt;
-&lt;p&gt;GPT-6 Astra （Max） 以 1797 分登顶 Code Arena： WebDev，领先第 2 名 Claude Fable 5.1 （Max） 35 分、第 3 名 Claude Opus 5 （Max） 1688 分。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/testingcatalog/status/2096350628054176240&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>行业动态 · OpenAI 发布 GPT-6 Astra 提示词指南，含 slop 词屏蔽清单</title>
-      <link>https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words</link>
-      <guid isPermaLink="false">linggou-cmtofayvo02uoroht238ucfjw</guid>
-      <pubDate>Sat, 05 Sep 2026 21:31:04 +0800</pubDate>
-      <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 昨天 21:31 · The Decoder：AI News（RSS）&lt;/p&gt;
-&lt;p&gt;OpenAI 在模型文档中说明 GPT-6 Astra 相比 GPT-5.6 Sol 更常提出澄清问题、对上下文更敏感，并给出让模型更主动、审计 AGENTS.md 等技能文件、控制写作风格、约束子智能体委派和测试规模的提示词建议。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>技术工具 · 实测GPT-6 Astra：速度、前端与代码能力对比GPT-5.6 Sol的全面升级</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647685905&amp;idx=1&amp;sn=2a6327daa3fb1d5573a824afd63af7f6</link>
-      <guid isPermaLink="false">linggou-cmtoba1tm047nroxh3vml7on9</guid>
-      <pubDate>Sat, 05 Sep 2026 19:39:52 +0800</pubDate>
-      <category>技术工具</category>
-      <description>&lt;p&gt;&lt;strong&gt;🛠️ 技术工具&lt;/strong&gt; · 昨天 19:39 · 公众号：数字生命卡兹克&lt;/p&gt;
-&lt;p&gt;GPT-6 Astra正式向所有订阅用户推送，作者实测后认为其综合能力追平Claude Fable 5，且额度100%可用。相比GPT-5.6 Sol，速度明显提升，大型系统审查从数小时缩短到约10分钟，代码扫描找出大量此前未发现的性能问题并2小时完成修复；前端3D生成和审美大幅强化，写作在白描和用词上更好但仍缺中文留白感。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647685905&amp;idx=1&amp;sn=2a6327daa3fb1d5573a824afd63af7f6&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>行业动态 · Claude 完成 Fermat 大定理的形式化证明，生成超 1300 万行 Lean 代码</title>
-      <link>https://x.com/AnthropicAI/status/2095947707605266436</link>
-      <guid isPermaLink="false">linggou-cmtnbhhu902perog1dmrla299</guid>
-      <pubDate>Sat, 05 Sep 2026 02:50:48 +0800</pubDate>
-      <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 2天前 · X：Anthropic (@AnthropicAI)&lt;/p&gt;
-&lt;p&gt;Anthropic 宣布 Claude 上月完成了 Fermat 大定理的首个形式化证明，这是迄今最大的 Lean 证明。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/AnthropicAI/status/2095947707605266436&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>行业动态 · OpenAI 智能体被曝劫持德国网站用作共享公告板，研究者称其源自 reward-hacking</title>
-      <link>https://x.com/rohanpaul_ai/status/2095931182903107971</link>
-      <guid isPermaLink="false">linggou-cmtn9rovi0tkdromy0vgnyouj</guid>
-      <pubDate>Sat, 05 Sep 2026 01:45:09 +0800</pubDate>
-      <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 2天前 · X：Rohan Paul (@rohanpaul_ai)&lt;/p&gt;
-&lt;p&gt;据 Reuters 报道和新发布的研究，今年春天一群 OpenAI 智能体劫持了一个 UseModWiki/DSEWiki 风格的德国网站，将其变成其他智能体的公告板，留下约 18，000 条帖子。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/rohanpaul_ai/status/2095931182903107971&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>行业动态 · GitHub 发布 Project HydraFusion 研究预览，用多模型运行时编排降低 Copilot 成本</title>
-      <link>https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration</link>
-      <guid isPermaLink="false">linggou-cmtn66b6s0o0eromy3rzdsvat</guid>
-      <pubDate>Sat, 05 Sep 2026 00:04:14 +0800</pubDate>
-      <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 2天前 · GitHub Blog&lt;/p&gt;
-&lt;p&gt;GitHub 推出 Project HydraFusion 研究预览，通过运行时多模型编排，在 Single、Cascade、Critique 三种执行模式间为每个任务选择工作流，以平衡质量、成本和延迟。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>行业动态 · GPT-6 Astra 基准表现分歧，ARC-AGI-3 效率超人类令 Chollet 提前 AGI 预测</title>
-      <link>https://the-decoder.com/benchmarks-disagree-on-gpt-6-astra-but-its-human-beating-efficiency-on-arc-agi-3-pulls-chollets-agi-forecast-forward</link>
-      <guid isPermaLink="false">linggou-cmtmvk9590ccdromyrrae80ir</guid>
-      <pubDate>Fri, 04 Sep 2026 19:07:36 +0800</pubDate>
-      <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 2天前 · The Decoder：AI News（RSS）&lt;/p&gt;
-&lt;p&gt;GPT-6 Astra 的基准结论相互矛盾：Epoch AI 以 169 分将其排在 267 个模型之首，Artificial Analysis 给出 61 分，仅与前代 Sol 持平、落后 Claude Fable 5.1 的 66 分。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://the-decoder.com/benchmarks-disagree-on-gpt-6-astra-but-its-human-beating-efficiency-on-arc-agi-3-pulls-chollets-agi-forecast-forward&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>AIGC内容创作 · 快讯 | 微短剧&quot;裸奔&quot;时代结束了，平台从此凡播必审</title>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkwNjY3NzI2NA==&amp;mid=2247521405&amp;idx=1&amp;sn=34d05522e11c1ea321c07de01dc3bc6f&amp;chksm=c1aa9f0731bab33de09f08a4e58b785fafdd45ba5189fdfa1f2340f998f36b76909fb2a3dacc&amp;scene=0#rd</link>
-      <guid isPermaLink="false">linggou-extra-短剧自习室--1308413394680514999</guid>
-      <pubDate>Fri, 04 Sep 2026 21:30:00 +0800</pubDate>
+      <title>AIGC内容创作 · 快讯丨广电总局：所有“融像”“融声”行为须取得权利人明确授权</title>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkwNjY3NzI2NA==&amp;mid=2247521416&amp;idx=1&amp;sn=fd7dae64ae167ca9715ee73d5c5c7f4e&amp;chksm=c1b02d6d918d32ec430475a19e3adeb92bdadf388d4167538f43fe989b6fa6ad8161b4072e1a&amp;scene=0#rd</link>
+      <guid isPermaLink="false">linggou-extra-短剧自习室-8405867206408253063</guid>
+      <pubDate>Mon, 07 Sep 2026 18:09:00 +0800</pubDate>
       <category>AIGC内容创作</category>
-      <description>&lt;p&gt;&lt;strong&gt;📽️ AIGC 内容创作&lt;/strong&gt; · 2天前 · 短剧自习室&lt;/p&gt;
-&lt;p&gt;微短剧的野蛮生长，正在被一条新规收住口子。9月4日，国家广播电视总局网络视听司发布&quot;管理提示&quot;，明确机构或个人用户在微短剧播出平台用账号上传的作品，由播出平台履行内容管理职责，严格执行&quot;凡播必审&quot;制度。这意味着，过去那种&quot;上传即上线&quot;的宽松模式将告终结。提示划出了清晰的红线：符合一类、二类分类标准的...&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkwNjY3NzI2NA==&amp;mid=2247521405&amp;idx=1&amp;sn=34d05522e11c1ea321c07de01dc3bc6f&amp;chksm=c1aa9f0731bab33de09f08a4e58b785fafdd45ba5189fdfa1f2340f998f36b76909fb2a3dacc&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;📽️ AIGC 内容创作&lt;/strong&gt; · 今天 18:09 · 短剧自习室&lt;/p&gt;
+&lt;p&gt;据国家广播电视总局消息，9月2日，国家广播电视总局网络视听节目管理司在京组织召开AI微短剧“融像”“融声”知识产权与人格权益保护座谈会。会议聚焦生成式人工智能在微短剧创作中涉及的肖像、声音等权益使用问题，汇聚行业智慧，共商规范路径。会议明确，AI技术为网络视听注入创新活力的同时，必须坚守人格权益保护...&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkwNjY3NzI2NA==&amp;mid=2247521416&amp;idx=1&amp;sn=fd7dae64ae167ca9715ee73d5c5c7f4e&amp;chksm=c1b02d6d918d32ec430475a19e3adeb92bdadf388d4167538f43fe989b6fa6ad8161b4072e1a&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>AIGC内容创作 · 赶紧清理一下你的Skill和提示词，很多对GPT-6 Astra是负资产</title>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&amp;mid=2247517699&amp;idx=1&amp;sn=78f1eed84a9afdff70aa4ba42c01c1eb&amp;chksm=cfde2418080b7ff8cc76bedf6d92d57e6f2dfe1a22980da0a69cb229f55bf74e14bfdf391008&amp;scene=0#rd</link>
-      <guid isPermaLink="false">linggou-extra-AI寒武纪--6780253957334055768</guid>
-      <pubDate>Sun, 06 Sep 2026 16:10:00 +0800</pubDate>
+      <title>AIGC内容创作 · 快讯 | 火山引擎内测AI版权平台：可二创周星驰IP，报价高达百万</title>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkwNjY3NzI2NA==&amp;mid=2247521410&amp;idx=1&amp;sn=44264fb52643475571248f1570a4d0d0&amp;chksm=c11946a2285e825f5f740d3b005e69a574874874f11a135df521c3e36b8e1edea3bb4cae5860&amp;scene=0#rd</link>
+      <guid isPermaLink="false">linggou-extra-短剧自习室-5092246536062858598</guid>
+      <pubDate>Mon, 07 Sep 2026 14:56:00 +0800</pubDate>
       <category>AIGC内容创作</category>
-      <description>&lt;p&gt;&lt;strong&gt;📽️ AIGC 内容创作&lt;/strong&gt; · 今天 16:10 · AI寒武纪&lt;/p&gt;
-&lt;p&gt;↑阅读之前记得关注+星标⭐️，😄，每天才能第一时间接收到更新 U S I N G　G P T - 6　A S T R AGPT-6 Astra：skills and prompts别再用老一套了Skill｜AGENTS.md｜提示词OpenAI Codex团队的Eric Provencher发文表...&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&amp;mid=2247517699&amp;idx=1&amp;sn=78f1eed84a9afdff70aa4ba42c01c1eb&amp;chksm=cfde2418080b7ff8cc76bedf6d92d57e6f2dfe1a22980da0a69cb229f55bf74e14bfdf391008&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;📽️ AIGC 内容创作&lt;/strong&gt; · 今天 14:56 · 短剧自习室&lt;/p&gt;
+&lt;p&gt;据娱乐资本论消息，字节跳动旗下火山引擎近日向多家版权方发起“AI版权管理平台”的内测邀请。该平台允许品牌方、短剧制作方调用Seedance、Seedream、Seed Audio系列模型，对已签约IP进行商业化创作，版权方可在线监修、审核并实时查看用量与收入数据。这一AI版权商业化平台预计于今年下半...&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkwNjY3NzI2NA==&amp;mid=2247521410&amp;idx=1&amp;sn=44264fb52643475571248f1570a4d0d0&amp;chksm=c11946a2285e825f5f740d3b005e69a574874874f11a135df521c3e36b8e1edea3bb4cae5860&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>AIGC内容创作 · Anthropic开源全套电商Agent：工程实操全盘托出</title>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&amp;mid=2247517694&amp;idx=1&amp;sn=f53b0fae7466923d8eb22a5e91a5cb6b&amp;chksm=cf4f128b435d7a9d9a7c6f3f9d30af51893e9aba71d8e24e2cb504a760635fa8f1c82647995f&amp;scene=0#rd</link>
-      <guid isPermaLink="false">linggou-extra-AI寒武纪-1807892545822000013</guid>
-      <pubDate>Sun, 06 Sep 2026 12:41:00 +0800</pubDate>
-      <category>AIGC内容创作</category>
-      <description>&lt;p&gt;&lt;strong&gt;📽️ AIGC 内容创作&lt;/strong&gt; · 昨天 12:41 · AI寒武纪&lt;/p&gt;
-&lt;p&gt;↑阅读之前记得关注+星标⭐️，😄，每天才能第一时间接收到更新 Anthropic这次直接放大招，把自家的Claude Commerce Agents全套架构和代码开源了！这是一套直接在零售、旅游、电信和票务现场跑通的硬核落地蓝图，完全甩开了市面上常见的概念演示。实测数据非常炸裂：接入这套方案的商家...&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&amp;mid=2247517694&amp;idx=1&amp;sn=f53b0fae7466923d8eb22a5e91a5cb6b&amp;chksm=cf4f128b435d7a9d9a7c6f3f9d30af51893e9aba71d8e24e2cb504a760635fa8f1c82647995f&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>AIGC内容创作 · 现在最火的GPT-6 Astra加Blender玩法，我亲自测了，直接把国宝琉璃塔拉进3D世界</title>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&amp;mid=2247517681&amp;idx=1&amp;sn=7275241ca1aa5e8f9f21cd6a26d92957&amp;chksm=cf78dc0051e9b88a61b1bd7075d815fe18ad1f0fa950fa396ee99042741806754a9e56a72a3b&amp;scene=0#rd</link>
-      <guid isPermaLink="false">linggou-extra-AI寒武纪--8294493968866971644</guid>
-      <pubDate>Sun, 06 Sep 2026 00:34:00 +0800</pubDate>
-      <category>AIGC内容创作</category>
-      <description>&lt;p&gt;&lt;strong&gt;📽️ AIGC 内容创作&lt;/strong&gt; · 昨天 00:34 · AI寒武纪&lt;/p&gt;
-&lt;p&gt;↑阅读之前记得关注+星标⭐️，😄，每天才能第一时间接收到更新  U S I N G　G P T - 6　A S T R AGPT-6 Astra+ Blender现在整个AI圈最流行的玩法中国国宝飞虹塔｜3D建模唯一的神诞生了刚好今天刷到了国宝山西琉璃塔--世界最高的多彩琉璃塔，为世界最高的多彩琉...&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&amp;mid=2247517681&amp;idx=1&amp;sn=7275241ca1aa5e8f9f21cd6a26d92957&amp;chksm=cf78dc0051e9b88a61b1bd7075d815fe18ad1f0fa950fa396ee99042741806754a9e56a72a3b&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>AIGC内容创作 · 怎么猛蹬GPT-6 Astra? 官方指南来了，手把手保姆级教程</title>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&amp;mid=2247517640&amp;idx=1&amp;sn=403bb594033d7e22cad1f84d569aa612&amp;chksm=cf305c533f2fdc1ca3d972ca5e9e1034cc43d9d1ab0806d15334d64e0d58e24471f1028857a1&amp;scene=0#rd</link>
-      <guid isPermaLink="false">linggou-extra-AI寒武纪-1791406926007143586</guid>
-      <pubDate>Sat, 05 Sep 2026 17:12:00 +0800</pubDate>
-      <category>AIGC内容创作</category>
-      <description>&lt;p&gt;&lt;strong&gt;📽️ AIGC 内容创作&lt;/strong&gt; · 昨天 17:12 · AI寒武纪&lt;/p&gt;
-&lt;p&gt;↑阅读之前记得关注+星标⭐️，😄，每天才能第一时间接收到更新 U S I N G　G P T - 6　A S T R AGPT-6Astra使用指南新增能力 · 提示词最佳实践 · 迁移快速入门简单介绍一下GPT-6 AstraGPT-6 Astra 是 OpenAI 迄今最智能的模型，在计算机操...&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&amp;mid=2247517640&amp;idx=1&amp;sn=403bb594033d7e22cad1f84d569aa612&amp;chksm=cf305c533f2fdc1ca3d972ca5e9e1034cc43d9d1ab0806d15334d64e0d58e24471f1028857a1&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>AIGC内容创作 · 刚刚Anthropic扔王炸：清华姚班校友主导，Claude 11天搞定350年费马大定理形式化证明</title>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&amp;mid=2247517633&amp;idx=1&amp;sn=c3fdff5aa9dc5e332b83cf456aaa8ff2&amp;chksm=cf4e488252cf015013ebf551d7847bc4f3e88592329351eff14ca301991ac709fdde73c5966e&amp;scene=0#rd</link>
-      <guid isPermaLink="false">linggou-extra-AI寒武纪-6413035441131178558</guid>
-      <pubDate>Sat, 05 Sep 2026 07:57:00 +0800</pubDate>
-      <category>AIGC内容创作</category>
-      <description>&lt;p&gt;&lt;strong&gt;📽️ AIGC 内容创作&lt;/strong&gt; · 2天前 · AI寒武纪&lt;/p&gt;
-&lt;p&gt;↑阅读之前记得关注+星标⭐️，😄，每天才能第一时间接收到更新 一大早被震撼到了！困扰数学界350多年难题被A厂解决。Claude刚刚搞定了一件数学界原本以为要啃很多年的硬骨头。它在11天内，近乎全自主地写出了费马大定理的完整机器验证代码。这是有史以来规模最大的一套Lean形式化证明。总代码量超过1...&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&amp;mid=2247517633&amp;idx=1&amp;sn=c3fdff5aa9dc5e332b83cf456aaa8ff2&amp;chksm=cf4e488252cf015013ebf551d7847bc4f3e88592329351eff14ca301991ac709fdde73c5966e&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>行业动态 · 8月海外短剧&amp;AI剧百强榜：MoboReels带球跑题材登顶热榜！DramaWave包揽AI榜TOP3！</title>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkwMDYxOTYyMQ==&amp;mid=2247524037&amp;idx=1&amp;sn=e1b5f2a743643c020d6c3aaff46f71a2&amp;chksm=c16e7daef4673eb1eacae1a202f015e7357e577f003439c446328dc777decf08b4d236b36544&amp;scene=0#rd</link>
-      <guid isPermaLink="false">linggou-extra-DataEye短剧观察--638578642725630943</guid>
-      <pubDate>Sat, 05 Sep 2026 09:50:00 +0800</pubDate>
+      <title>行业动态 · AI短剧“融脸”、“融声”？广电总局定调：必须取得明确授权，科学合理认定侵权！</title>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkwMDYxOTYyMQ==&amp;mid=2247524166&amp;idx=1&amp;sn=aadc984b56f4fa5d56dc99e7e20658f3&amp;chksm=c16bd6baa8bcc9952e0260add562cb264ad4f786a0c3db8b8b3c78a186601b30ccfb1ce3b75c&amp;scene=0#rd</link>
+      <guid isPermaLink="false">linggou-extra-DataEye短剧观察-8386720332349525300</guid>
+      <pubDate>Mon, 07 Sep 2026 18:22:00 +0800</pubDate>
       <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 2天前 · DataEye短剧观察&lt;/p&gt;
-&lt;p&gt;今天，DataEye研究院正式发布2026年8月海外短剧百强榜、海外AI剧百强榜与TikTok热播百强榜！8月海外短剧百强榜2026年8月，海外短剧月度百强热剧总热值3.83亿，环比7月下滑4.77%。其中热值破千万的海外短剧有7部，与7月份持平；热值超500万但不足1千万的海外短剧有10部，较7月...&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkwMDYxOTYyMQ==&amp;mid=2247524037&amp;idx=1&amp;sn=e1b5f2a743643c020d6c3aaff46f71a2&amp;chksm=c16e7daef4673eb1eacae1a202f015e7357e577f003439c446328dc777decf08b4d236b36544&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 18:22 · DataEye短剧观察&lt;/p&gt;
+&lt;p&gt;（关注公众号，点私信发送：参会，即可报名）9月2日，AI微短剧“融像”“融声”知识产权与人格权益保护座谈会召开。会议围绕生成式人工智能在微短剧创作中涉及的肖像、声音等权益使用问题，听取行业意见，凝聚行业共识。会议认为，AI技术为网络视听内容创新注入新动能，应充分尊重肖像、声音等属于自然人的基本人格权...&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkwMDYxOTYyMQ==&amp;mid=2247524166&amp;idx=1&amp;sn=aadc984b56f4fa5d56dc99e7e20658f3&amp;chksm=c16bd6baa8bcc9952e0260add562cb264ad4f786a0c3db8b8b3c78a186601b30ccfb1ce3b75c&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>AIGC内容创作 · 短剧出海最大的浪费：一部好片，被10个拙劣的翻译版本毁掉了</title>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyNjU5MzI1OA==&amp;mid=2247578570&amp;idx=1&amp;sn=95025716f9300389a9bb90d779768e0e&amp;chksm=c3591d01a909fb907da559450042b04a830a7407fb7ea3da0954bc89674009b8749eb7d3d7bd&amp;scene=0#rd</link>
-      <guid isPermaLink="false">linggou-extra-短剧内行人--8677270941669512480</guid>
-      <pubDate>Fri, 04 Sep 2026 17:28:00 +0800</pubDate>
-      <category>AIGC内容创作</category>
-      <description>&lt;p&gt;&lt;strong&gt;📽️ AIGC 内容创作&lt;/strong&gt; · 2天前 · 短剧内行人&lt;/p&gt;
-&lt;p&gt;2026年，海外短剧赛道热度肉眼可见，TikTok单月短剧分账已经突破2200万美元，AI短剧是其中增长最快的板块，海外单单集收益普遍较国内高出四到五成，出海慢慢从一道选做题变成从业者的现实考题。红利虽然摆在眼前，门槛也藏在水面之下了。做过出海的人都知道，这条路没那么好走。短剧内行人见过太多团队手里...&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkyNjU5MzI1OA==&amp;mid=2247578570&amp;idx=1&amp;sn=95025716f9300389a9bb90d779768e0e&amp;chksm=c3591d01a909fb907da559450042b04a830a7407fb7ea3da0954bc89674009b8749eb7d3d7bd&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>行业动态 · 从“译制”到“原生”，Seko转绘效率飙升300%！彻底打通AI短剧出海“最后一公里”</title>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkwNDYyNDk2Nw==&amp;mid=2247507346&amp;idx=1&amp;sn=49026ae918ac001dc9903ddfc02dea57&amp;chksm=c1b9433af0c1310197618a9a50200fea993cb0b23eeedfd215fe55b77c85f0f33c5f504bd937&amp;scene=0#rd</link>
-      <guid isPermaLink="false">linggou-extra-短剧新势力--4619019361849571055</guid>
-      <pubDate>Fri, 04 Sep 2026 18:04:00 +0800</pubDate>
+      <title>行业动态 · 火山引擎“AI版权管理平台”内测，周星驰三部经典IP已签约入驻</title>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkwNDYyNDk2Nw==&amp;mid=2247507362&amp;idx=1&amp;sn=c60d393a90864d04f850a7f6f26a0f8e&amp;chksm=c1df8f108544004ce7576b93a297abbbd0f1ad5b617649b24dda98c5c02e0acbcdb9cf5a8365&amp;scene=0#rd</link>
+      <guid isPermaLink="false">linggou-extra-短剧新势力--6673029397376496422</guid>
+      <pubDate>Mon, 07 Sep 2026 16:04:00 +0800</pubDate>
       <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 2天前 · 短剧新势力&lt;/p&gt;
-&lt;p&gt;上过班的朋友都有同感：打工人一天中最幸福的时刻，不是在发工资那天，而是每天上下班搭车的站点就在公司楼下。那种“少走几步路”的体感，简直像多喝了半杯冰美式，令人神清气爽。不过现实…往往是下了公交地铁，还要顶着太阳走10分钟，别提多烦躁了。这“最后一公里”，卡得人不上不下。而今天国内的短剧出海，和这“最...&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkwNDYyNDk2Nw==&amp;mid=2247507346&amp;idx=1&amp;sn=49026ae918ac001dc9903ddfc02dea57&amp;chksm=c1b9433af0c1310197618a9a50200fea993cb0b23eeedfd215fe55b77c85f0f33c5f504bd937&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 16:04 · 短剧新势力&lt;/p&gt;
+&lt;p&gt;据悉，字节跳动旗下火山引擎近日已向多家版权方发出“AI版权管理平台”内测邀请，该平台预计今年下半年公开上线。今年6月，“火山方舟版权商业化平台”已率先上线；9月，该体系下的“AI版权管理平台”子系统启动内测。这不仅是版权保护工具，更是一套IP商业化基础设施，品牌方可通过Seedance、Seedre...&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkwNDYyNDk2Nw==&amp;mid=2247507362&amp;idx=1&amp;sn=c60d393a90864d04f850a7f6f26a0f8e&amp;chksm=c1df8f108544004ce7576b93a297abbbd0f1ad5b617649b24dda98c5c02e0acbcdb9cf5a8365&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
