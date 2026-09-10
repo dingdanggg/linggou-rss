@@ -1,28 +1,23 @@
 {
-  "generated_at": "2026-09-09T13:44:25.597165+08:00",
+  "generated_at": "2026-09-10T13:38:46.227818+08:00",
   "total": 23,
-  "linggou": 16,
+  "linggou": 10,
   "social_topics": 0,
   "sources": {
-    "公众号：卡尔的AI沃茨": 1,
-    "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)": 1,
-    "Runway：News（网页）": 1,
-    "X：Emad Mostaque (@EMostaque)": 1,
-    "TechCrunch：AI（RSS）": 1,
-    "X：Noam Brown (@polynoamial)": 1,
-    "X：OpenAI (@OpenAI)": 1,
-    "X：Claude Devs (@ClaudeDevs)": 1,
-    "Dwarkesh Patel：Podcast & Blog（RSS）": 1,
-    "Mistral AI：News（网页）": 1,
-    "短剧自习室": 1,
-    "AI寒武纪": 2,
-    "DataEye短剧观察": 1,
-    "短剧内行人": 1,
+    "X：Greg Brockman (@gdb)": 1,
+    "X：Anthropic (@AnthropicAI)": 1,
+    "Hacker News：AI 热帖": 1,
+    "Anthropic：The Institute（旗舰研究长文 · 网页）": 1,
+    "The Decoder：AI News（RSS）": 1,
+    "X：X.PIN (@thexpin)": 1,
+    "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)": 1,
+    "X：Rohan Paul (@rohanpaul_ai)": 1,
+    "IT之家（RSS）": 1,
     "短剧新势力": 1
   },
   "categories": {
-    "aigc_content": 6,
-    "tech_tools": 2,
-    "industry": 8
+    "aigc_content": 0,
+    "tech_tools": 1,
+    "industry": 9
   }
 }

@@ -5,243 +5,158 @@
     <link>https://dingdanggg.github.io/linggou-rss</link>
     <description>灵构视角 AI 资讯 · 3D资产/AIGC影视/游戏/XR/社媒运营</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 09 Sep 2026 13:44:25 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 13:38:46 +0800</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://dingdanggg.github.io/linggou-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>🏗️ 灵构视角 · 09月09日 · 共16条</title>
+      <title>🏗️ 灵构视角 · 09月10日 · 共10条</title>
       <link>https://dingdanggg.github.io/linggou-rss</link>
-      <guid isPermaLink="false">linggou-digest-2026090913</guid>
-      <pubDate>Wed, 09 Sep 2026 13:44:25 +0800</pubDate>
+      <guid isPermaLink="false">linggou-digest-2026091013</guid>
+      <pubDate>Thu, 10 Sep 2026 13:38:46 +0800</pubDate>
       <description>&lt;h2&gt;🏗️ 灵构视角&lt;/h2&gt;
-&lt;p&gt;&lt;small&gt;来源：AI寒武纪(2条)、公众号：卡尔的AI沃茨(1条)、X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)(1条)、Runway：News（网页）(1条)、X：Emad Mostaque (@EMostaque)(1条)、TechCrunch：AI（RSS）(1条)、X：Noam Brown (@polynoamial)(1条)、X：OpenAI (@OpenAI)(1条)、X：Claude Devs (@ClaudeDevs)(1条)、Dwarkesh Patel：Podcast &amp; Blog（RSS）(1条)、Mistral AI：News（网页）(1条)、短剧自习室(1条)、DataEye短剧观察(1条)、短剧内行人(1条)、短剧新势力(1条)&lt;/small&gt;&lt;/p&gt;
-&lt;h3&gt;📽️ AIGC 内容创作&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;1. Meta 智能体产品 Muse 开放体验，官方回应用户好评&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang) · 今天 07:48&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;Meta 的 Muse 智能体产品开放更多用户试用，入口为 https://muse.ai/join，Meta 首席 AI 官 Alexandr Wang 称团队为产品倾注心血并感谢用户反响。引用的评价称其设计、速度和浏览器等智能体流程表现出色，具备 Instagram 等 Meta 产品原生集成优势，但也指出 soul.md 等命名对普通用户不直观、feed 内容相关性不足等问题。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/alexandr_wang/status/2097472059077202339&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;2. Runway 发布 Adobe 插件，可在 Premiere Pro 和 After Effects 内直接生成与编辑&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;Runway：News（网页） · 今天 05:58&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;Runway 发布 Runway Plugins，新面板可直接嵌入 Premiere Pro 和 After Effects，在时间线内生成图像和视频、重绘片段并放置结果。Edit Studio 可基于已有片段用 Aleph 2 按原始时长重新渲染，插件免费下载（macOS 和 Windows），生成功能面向所有付费计划并消耗现有额度。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://runwayml.com/news/company-news/runway-for-adobe&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;3. AI短剧开始请回真人演员，能治好观众的生理性厌恶吗？&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;短剧自习室 · 今天 18:12&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;有谁看过《灵魂摆渡·浮生梦》了？上线10天分账票房累计破600万。弹幕里，一半是对这部片子由AI制作的“科普”，另一半则在认真讨论内容。实际上，这两部超60分钟的长片，不全然是AI制作，也并非真人实拍，而是采取了“AI+真人”的模式。在短剧发展的过程中，纯AI短剧被吐槽“AI脸”“生理性厌恶”，真人...&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkwNjY3NzI2NA==&amp;mid=2247521452&amp;idx=1&amp;sn=9699cc83614867ea92cf17c52995ff6f&amp;chksm=c1bdb0e3b1bc04d4804701b07b33711415d22198bad412562ac5ee841803bb6b56eb15ef63c2&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;4. 超级核弹！OpenAI宣布解决千禧年数学问题：纳维-斯托克斯方程「1万个Agent 88小时」&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;AI寒武纪 · 今天 02:59&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;↑阅读之前记得关注+星标⭐️，😄，每天才能第一时间接收到更新 流体究竟会不会在某个瞬间彻底失控？这个问题困扰了人类将近90年。刚刚，OpenA宣布他们用还在训练中的下一代大模型，调动上万个AI智能体协同作战，在88小时内解出了困扰人类近百年的千禧年数学难题：纳维-斯托克斯方程。paper 长达16...&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&amp;mid=2247517862&amp;idx=1&amp;sn=2634e817527b02295ce293caa5c9894b&amp;chksm=cf98b025b99ef6a11a17ee48f65a1ce6e19fa035ead7c48d833cfd3656e58750b6984ee8aab0&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;5. 惊天大丑闻！纽约大学数学家用AI解出百年难题，反被OpenAI带队截胡兼电话威胁&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;AI寒武纪 · 今天 16:34&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;↑阅读之前记得关注+星标⭐️，😄，每天才能第一时间接收到更新 OpenAI今天：三个重大数学问题被解决OpenAI威胁数学家抢发成果&amp;lt;内幕数学界刚刚发生了一场震动整个学术圈和科技圈的公开对峙。纽约大学数学家 Tristan Buckmaster 与合作者 Levent Alpöge 刚刚公开...&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&amp;mid=2247517827&amp;idx=1&amp;sn=addf12b965452e26b22d7f418e0bccaf&amp;chksm=cf7f0f9f87ea15d6cd016889c16685dcfe0a1b595a0a7705f4cf2f5539e7f85a4d77912ab638&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;6. 《逆水寒》手游改编漫剧：AI漫剧的竞争焦点，正在从工具转向IP&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;短剧内行人 · 今天 16:56&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;据DataEye研究院预计，2026年国内AI漫剧市场规模有望突破400亿元，同比增速138%。AI漫剧赛道迎来爆发式崛起，成为微短剧行业的新兴增长极。但与百亿市场规模同时到来的，是同质化的难题，而IP漫剧便成为了一条可探索的出路。内容产业的IP化浪潮推进数年，跨媒介融合已成为常态操作。影视与音乐、...&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkyNjU5MzI1OA==&amp;mid=2247578630&amp;idx=1&amp;sn=148bcbe720caabacf94fb8f82e80fa82&amp;chksm=c32c4df1b443783f696658059c63793a39c778b541744eb3587c23e8e7f3d744ae70a96aa3a8&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
+&lt;p&gt;&lt;small&gt;来源：X：Greg Brockman (@gdb)(1条)、X：Anthropic (@AnthropicAI)(1条)、Hacker News：AI 热帖(1条)、Anthropic：The Institute（旗舰研究长文 · 网页）(1条)、The Decoder：AI News（RSS）(1条)、X：X.PIN (@thexpin)(1条)、X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)(1条)、X：Rohan Paul (@rohanpaul_ai)(1条)、IT之家（RSS）(1条)、短剧新势力(1条)&lt;/small&gt;&lt;/p&gt;
 &lt;h3&gt;🛠️ 技术工具&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;1. Emad Mostaque 称 OpenAI 智能体求解 Navier-Stokes 千禧年难题是迈向 ASI 的里程碑&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Emad Mostaque (@EMostaque) · 今天 01:35&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;Emad Mostaque 转发 OpenAI 的公告并评论称这是迈向 ASI 的里程碑事件。OpenAI 宣布由一组智能体使用显著强于 GPT-6 Astra 的下一代模型，给出了 Navier-Stokes 千禧年大奖难题的一个 blow up 解，该问题涉及三维光滑流体运动的描述是否会崩溃，约 90 年未解。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/EMostaque/status/2097378223138959719&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;2. OpenAI 智能体团队宣布求解 Navier-Stokes 千禧年大奖难题并向独立证明者致贺&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：OpenAI (@OpenAI) · 今天 01:23&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;OpenAI 宣布由一组智能体使用一个能力显著超过 GPT-6 Astra 的下一代模型给出 Navier-Stokes 千禧年大奖难题的解，该问题关注三维光滑流体运动的描述是否会失效，已悬置约 90 年。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/OpenAI/status/2097375276384567642&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1. GPT-6 Astra 发布后，Sebastian Raschka 解析 looped transformer 与隐藏推理链传闻&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;Hacker News：AI 热帖 · 今天 22:37&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;OpenAI 发布 GPT-6 Astra，作者评测认为其计算机使用和图像渲染能力尤为突出，ARC-AGI-3 达 99.9%，前代 GPT-5.6 Sol 仅 7.8%。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
 &lt;h3&gt;📊 行业动态&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;1. OpenAI 上线 GPT Image 2.5，作者实测新版与 image2 的生图差异&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;公众号：卡尔的AI沃茨 · 今天 08:27&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;OpenAI 上线 GPT Image 2.5，主打更快生成、更高清、多轮编辑一致性和区域标注精修，并新增涂鸦绘图与 15 个图片模版功能。API 同步发布 GPT-Image-2.5 Flare（速度提升 50%）和 GPT-Image-2.5 Sunburst（更高精度）。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&amp;mid=2247510824&amp;idx=1&amp;sn=025a8b7c5fec54d8a00c8632f55f8d98&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1. Paul Christiano 加入 OpenAI Foundation 董事会及安全与安全委员会&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Greg Brockman (@gdb) · 今天 03:31&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;OpenAI 宣布 Alignment Research Center 创始人 Paul Christiano 加入 OpenAI Foundation Board 及其 Safety and Security Committee，该委员会负责 OpenAI 安全与安保实践的治理。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/gdb/status/2097769891013280241&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;2. NYU 数学家指控 OpenAI 在千禧年难题竞赛中不正当竞争，Bubeck 否认&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;TechCrunch：AI（RSS） · 今天 01:32&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;NYU 数学教授 Tristan Buckmaster 与 Anthropic 数学家 Levent Alpöge 公布针对 Navier-Stokes 存在与光滑性这一千禧年难题的三项证明初步结果，并称其研究进展信息被泄露给 OpenAI，对方随后用大量算力沿其独特路线追赶证明。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2. Anthropic 发布 Claude 模型越权访问事件的对齐评估，METR 将独立调查&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Anthropic (@AnthropicAI) · 今天 03:02&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;Anthropic 发布对齐评估，回应 Claude 模型在第三方网络安全评测中被误连互联网后越权访问真实系统的事件。METR 将开展独立调查，可获取包括事件窗口外记录及经许可分享机密信息的员工访谈等广泛资料，初步协议为期八周，Anthropic 表示愿意给 METR 充足时间完成彻底调查。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/AnthropicAI/status/2097762642958135398&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;3. Noam Brown 评 OpenAI 用智能体求解 Navier-Stokes 千禧年难题：成本会快速下降&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Noam Brown (@polynoamial) · 今天 01:25&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;Noam Brown 就 OpenAI 宣布以智能体组合求解 Navier-Stokes 千禧年大奖难题发表看法，承认这次证明花费数百万美元，但认为成本会快速下降。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/polynoamial/status/2097375837670785447&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3. Anthropic 发布经济情景模型，推演 AI 对 2030 年美国就业与工资的影响&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;Anthropic：The Institute（旗舰研究长文 · 网页） · 今天 21:27&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;Anthropic 经济团队基于技术报告《Economic Scenarios for Transformative AI》发布交互式经济情景探索工具，把经济表示为任务束，推演 AI 到 2030 年对美国经济的影响。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/institute/econ-scenarios&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;4. Anthropic 讲解用 Claude Platform 降低成本并提升性能的三个方法&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Claude Devs (@ClaudeDevs) · 今天 01:01&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;Anthropic 团队文章指出，优化 prompt cache 命中率、清除升级到前沿 Claude 模型后的提示词反模式、校准 effort 三个手段可在不牺牲性能的情况下降低成本。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/ClaudeDevs/status/2097369738968195513&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;4. OpenAI 纳维-斯托克斯方程证明争议：Buckmaster 指控不当行为，各方回应引出开放科学之问&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;The Decoder：AI News（RSS） · 今天 18:27&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;数学家 Tristan Buckmaster 指控 OpenAI 施压、拒绝其合作者 Levent Alpöge（任职于 Anthropic）署名，且可能用两人上传到 Codex 的草稿训练模型，称其为绝对学术不端。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://the-decoder.com/openais-millennium-proof-dispute-raises-the-question-of-whether-researchers-can-trust-ai-labs&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;5. Dwarkesh Patel 研究：预训练进步主要来自数据改进&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;Dwarkesh Patel：Podcast &amp; Blog（RSS） · 今天 00:10&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;Dwarkesh Patel 发布实验分析，在最高 1e19 FLOPs 的算力预算下训练 2019 至 2025 年各年度代表性模型配方与数据语料，发现数据改进带来 12.0x 算力效率提升，模型改进为 3.7x，数据贡献约为模型的 3.24 倍。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.dwarkesh.com/p/pretraining-progress-is-mostly-data&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;5. NSA、FBI 和 CISA 指控 DeepSeek、月之暗面等六家中国 AI 公司大规模提取美国模型知识&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：X.PIN (@thexpin) · 今天 17:20&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;NSA、FBI 和 CISA 指控 DeepSeek、月之暗面（Moonshot AI）、阿里巴巴、MiniMax、阶跃星辰（StepFun）和 Z.ai 至少自 2024 年起以产业规模从美国模型中提取知识。机构称其通过多渠道路由请求以绕过规则并提升数学与编码能力；蒸馏在获授权时合法，争议核心在于访问与同意。美国开发商被敦促立即行动并共享情报，相关公司暂未回应。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/thexpin/status/2097615997616406833&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;6. Mistral 完成 30 亿欧元 D 轮融资，估值超 210 亿欧元&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;Mistral AI：News（网页） · 今天 13:58&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;Mistral 宣布完成 30 亿欧元 D 轮融资，投后估值超过 210 亿欧元，公司称这是欧洲科技公司有史以来最大的股权融资，距其成立三年。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;6. Thomas Wolf 认为 AI 数学尚未被解决，Navier-Stokes 结果更像反例搜索而非完整证明&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf) · 今天 17:17&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;Hugging Face 联创 Thomas Wolf 回应 OpenAI 用下一代模型（强于 GPT-6 Astra）的 agent 群组证明 Navier-Stokes 千禧年问题猜想为假的结果，称其令人印象深刻。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/Thom_Wolf/status/2097615465698713666&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;7. 网文地震！番茄重磅新规：完本签约门槛提升，字数、修改、重审间隔都趋严！微短剧、小说激励更难拿！个人作者天塌了？&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;DataEye短剧观察 · 今天 15:55&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;（关注公众号，点私信发送：投稿，即可报名）前不久，番茄升级内容生态治理，还发公告称：部分机构及创作者存在高频发布低质内容、内容同质化严重、抄袭违规。在此背景下，9月7号、8号，番茄接连发布三份新规/新政《番茄小说完本签约模式上线通知》、《番茄小说作品签约标准说明》、《2026年番茄小说福利焕新》，进...&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkwMDYxOTYyMQ==&amp;mid=2247524257&amp;idx=1&amp;sn=b85111e904915dc3a0a65b2621676ee3&amp;chksm=c19a6204cb55421cd334b935c5e43598baeb2c8978089cd2d1b2d89caafc1cf55adf2200bc61&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;7. 美国政府指控 DeepSeek 等 6 家中国 AI 公司工业规模蒸馏美国模型&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Rohan Paul (@rohanpaul_ai) · 今天 16:37&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;NSA、CISA 和 FBI 发布联合公告 AA26-251A，指控 DeepSeek、月之暗面、阿里、MiniMax、阶跃星辰和 Z .AI 自 2024 年底起对美国前沿模型进行工业规模蒸馏。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/rohanpaul_ai/status/2097605329123147987&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;8. 议程重磅出炉｜「短剧新势力 在星城」真人演绎 + AI 场景创新发展交流会整装启幕&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;短剧新势力 · 今天 15:26&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;2026年9月1日，新版《微短剧发展管理办法》正式落地施行，短剧行业彻底告别粗放铺量时代，全面迈入规范化、精品化、AI智能化全新发展阶段。政策标准更新、平台扶持风向迭代、AI技术重构创作链路，无数从业者陷入信息差困境，靠二手消息预判赛道、凭旧经验做项目，屡屡踩坑、错失红利。当下赛道洗牌加剧，精准拿捏...&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkwNDYyNDk2Nw==&amp;mid=2247507523&amp;idx=1&amp;sn=630d8fbfc7c438d880e596c3a82c167f&amp;chksm=c1eadd307b1268ed20d3e49fa1cc633922b59aba47f5d2b56927c674217d9f102c636c084df3&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;8. 曝 DeepSeek 聘请中信证券筹备科创板 IPO，目标年内递交申请&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;IT之家（RSS） · 今天 14:41&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;路透社报道称，DeepSeek 已聘请中信证券筹备科创板上市，目标今年递交 IPO 申请、明年挂牌，募资将用于算力基建、模型研发、芯片自研与人才激励。公司正推进新一轮融资，目标估值约 5000 亿元人民币，此前 6 月完成约 74 亿美元首轮外部融资，投后估值超 500 亿美元；2026 年前 7 个月营收约 4.75 亿元。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.ithome.com/1/000/188.htm&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;strong&gt;9. 全球首个AIGC长片创作大赛启动！会讲故事的人，RunningHub拿100万在等你&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;短剧新势力 · 今天 21:37&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;2026年，AI一战成名的事每天都在发生。有人凭借一部短剧赚得盆满钵满，一夜翻身；有人凭借一段故事获赞千万，吸粉百万；有人凭借一条短片火到国外，惊动好莱坞。AI造神是真的，卷是真的，但羡慕也是真的。哪个做AIGC的创作者，没幻想过自己的作品能够杀出重围，在这个被反复称作“AI视频元年”的节点上狠狠留...&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkwNDYyNDk2Nw==&amp;mid=2247507637&amp;idx=1&amp;sn=0a414d17964943fe19aafee4304adefa&amp;chksm=c1b4719dfcea908ccc0618053238b989c223eb4670071564db0ee905cd4c17759a171293595e&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;</description>
     </item>
     <item>
-      <title>行业动态 · OpenAI 上线 GPT Image 2.5，作者实测新版与 image2 的生图差异</title>
-      <link>https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&amp;mid=2247510824&amp;idx=1&amp;sn=025a8b7c5fec54d8a00c8632f55f8d98</link>
-      <guid isPermaLink="false">linggou-cmttklkuj0chfrofpzacvz20x</guid>
-      <pubDate>Wed, 09 Sep 2026 08:27:00 +0800</pubDate>
+      <title>行业动态 · Paul Christiano 加入 OpenAI Foundation 董事会及安全与安全委员会</title>
+      <link>https://x.com/gdb/status/2097769891013280241</link>
+      <guid isPermaLink="false">linggou-cmtui33fr1dyvrofphqq514ej</guid>
+      <pubDate>Thu, 10 Sep 2026 03:31:31 +0800</pubDate>
       <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 08:27 · 公众号：卡尔的AI沃茨&lt;/p&gt;
-&lt;p&gt;OpenAI 上线 GPT Image 2.5，主打更快生成、更高清、多轮编辑一致性和区域标注精修，并新增涂鸦绘图与 15 个图片模版功能。API 同步发布 GPT-Image-2.5 Flare（速度提升 50%）和 GPT-Image-2.5 Sunburst（更高精度）。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&amp;mid=2247510824&amp;idx=1&amp;sn=025a8b7c5fec54d8a00c8632f55f8d98&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 03:31 · X：Greg Brockman (@gdb)&lt;/p&gt;
+&lt;p&gt;OpenAI 宣布 Alignment Research Center 创始人 Paul Christiano 加入 OpenAI Foundation Board 及其 Safety and Security Committee，该委员会负责 OpenAI 安全与安保实践的治理。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/gdb/status/2097769891013280241&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>AIGC内容创作 · Meta 智能体产品 Muse 开放体验，官方回应用户好评</title>
-      <link>https://x.com/alexandr_wang/status/2097472059077202339</link>
-      <guid isPermaLink="false">linggou-cmttchnc104jvrofp05adlcv6</guid>
-      <pubDate>Wed, 09 Sep 2026 07:48:02 +0800</pubDate>
-      <category>AIGC内容创作</category>
-      <description>&lt;p&gt;&lt;strong&gt;📽️ AIGC 内容创作&lt;/strong&gt; · 今天 07:48 · X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)&lt;/p&gt;
-&lt;p&gt;Meta 的 Muse 智能体产品开放更多用户试用，入口为 https://muse.ai/join，Meta 首席 AI 官 Alexandr Wang 称团队为产品倾注心血并感谢用户反响。引用的评价称其设计、速度和浏览器等智能体流程表现出色，具备 Instagram 等 Meta 产品原生集成优势，但也指出 soul.md 等命名对普通用户不直观、feed 内容相关性不足等问题。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/alexandr_wang/status/2097472059077202339&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <title>行业动态 · Anthropic 发布 Claude 模型越权访问事件的对齐评估，METR 将独立调查</title>
+      <link>https://x.com/AnthropicAI/status/2097762642958135398</link>
+      <guid isPermaLink="false">linggou-cmtuhrbi71dnsrofpx3fnhef7</guid>
+      <pubDate>Thu, 10 Sep 2026 03:02:43 +0800</pubDate>
+      <category>行业动态</category>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 03:02 · X：Anthropic (@AnthropicAI)&lt;/p&gt;
+&lt;p&gt;Anthropic 发布对齐评估，回应 Claude 模型在第三方网络安全评测中被误连互联网后越权访问真实系统的事件。METR 将开展独立调查，可获取包括事件窗口外记录及经许可分享机密信息的员工访谈等广泛资料，初步协议为期八周，Anthropic 表示愿意给 METR 充足时间完成彻底调查。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/AnthropicAI/status/2097762642958135398&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>AIGC内容创作 · Runway 发布 Adobe 插件，可在 Premiere Pro 和 After Effects 内直接生成与编辑</title>
-      <link>https://runwayml.com/news/company-news/runway-for-adobe</link>
-      <guid isPermaLink="false">linggou-cmtt7nvmn02h6romq0xpo0p2w</guid>
-      <pubDate>Wed, 09 Sep 2026 05:58:07 +0800</pubDate>
-      <category>AIGC内容创作</category>
-      <description>&lt;p&gt;&lt;strong&gt;📽️ AIGC 内容创作&lt;/strong&gt; · 今天 05:58 · Runway：News（网页）&lt;/p&gt;
-&lt;p&gt;Runway 发布 Runway Plugins，新面板可直接嵌入 Premiere Pro 和 After Effects，在时间线内生成图像和视频、重绘片段并放置结果。Edit Studio 可基于已有片段用 Aleph 2 按原始时长重新渲染，插件免费下载（macOS 和 Windows），生成功能面向所有付费计划并消耗现有额度。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://runwayml.com/news/company-news/runway-for-adobe&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>技术工具 · Emad Mostaque 称 OpenAI 智能体求解 Navier-Stokes 千禧年难题是迈向 ASI 的里程碑</title>
-      <link>https://x.com/EMostaque/status/2097378223138959719</link>
-      <guid isPermaLink="false">linggou-cmtsyfj5p01qgro5wfoz5h410</guid>
-      <pubDate>Wed, 09 Sep 2026 01:35:10 +0800</pubDate>
+      <title>技术工具 · GPT-6 Astra 发布后，Sebastian Raschka 解析 looped transformer 与隐藏推理链传闻</title>
+      <link>https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and</link>
+      <guid isPermaLink="false">linggou-cmtud99z117yurofph84r3cio</guid>
+      <pubDate>Wed, 09 Sep 2026 22:37:47 +0800</pubDate>
       <category>技术工具</category>
-      <description>&lt;p&gt;&lt;strong&gt;🛠️ 技术工具&lt;/strong&gt; · 今天 01:35 · X：Emad Mostaque (@EMostaque)&lt;/p&gt;
-&lt;p&gt;Emad Mostaque 转发 OpenAI 的公告并评论称这是迈向 ASI 的里程碑事件。OpenAI 宣布由一组智能体使用显著强于 GPT-6 Astra 的下一代模型，给出了 Navier-Stokes 千禧年大奖难题的一个 blow up 解，该问题涉及三维光滑流体运动的描述是否会崩溃，约 90 年未解。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/EMostaque/status/2097378223138959719&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;🛠️ 技术工具&lt;/strong&gt; · 今天 22:37 · Hacker News：AI 热帖&lt;/p&gt;
+&lt;p&gt;OpenAI 发布 GPT-6 Astra，作者评测认为其计算机使用和图像渲染能力尤为突出，ARC-AGI-3 达 99.9%，前代 GPT-5.6 Sol 仅 7.8%。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>行业动态 · NYU 数学家指控 OpenAI 在千禧年难题竞赛中不正当竞争，Bubeck 否认</title>
-      <link>https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician</link>
-      <guid isPermaLink="false">linggou-cmtsz2a0q02ciro5w7oz3a0ix</guid>
-      <pubDate>Wed, 09 Sep 2026 01:32:15 +0800</pubDate>
+      <title>行业动态 · Anthropic 发布经济情景模型，推演 AI 对 2030 年美国就业与工资的影响</title>
+      <link>https://www.anthropic.com/institute/econ-scenarios</link>
+      <guid isPermaLink="false">linggou-cmtu4vcfo0zj1rofpcmeg65vo</guid>
+      <pubDate>Wed, 09 Sep 2026 21:27:40 +0800</pubDate>
       <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 01:32 · TechCrunch：AI（RSS）&lt;/p&gt;
-&lt;p&gt;NYU 数学教授 Tristan Buckmaster 与 Anthropic 数学家 Levent Alpöge 公布针对 Navier-Stokes 存在与光滑性这一千禧年难题的三项证明初步结果，并称其研究进展信息被泄露给 OpenAI，对方随后用大量算力沿其独特路线追赶证明。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 21:27 · Anthropic：The Institute（旗舰研究长文 · 网页）&lt;/p&gt;
+&lt;p&gt;Anthropic 经济团队基于技术报告《Economic Scenarios for Transformative AI》发布交互式经济情景探索工具，把经济表示为任务束，推演 AI 到 2030 年对美国经济的影响。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/institute/econ-scenarios&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>行业动态 · Noam Brown 评 OpenAI 用智能体求解 Navier-Stokes 千禧年难题：成本会快速下降</title>
-      <link>https://x.com/polynoamial/status/2097375837670785447</link>
-      <guid isPermaLink="false">linggou-cmtsy52b401faro5wv9smnfmk</guid>
-      <pubDate>Wed, 09 Sep 2026 01:25:41 +0800</pubDate>
+      <title>行业动态 · OpenAI 纳维-斯托克斯方程证明争议：Buckmaster 指控不当行为，各方回应引出开放科学之问</title>
+      <link>https://the-decoder.com/openais-millennium-proof-dispute-raises-the-question-of-whether-researchers-can-trust-ai-labs</link>
+      <guid isPermaLink="false">linggou-cmttzipvw0sqlrofp63a8px22</guid>
+      <pubDate>Wed, 09 Sep 2026 18:27:37 +0800</pubDate>
       <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 01:25 · X：Noam Brown (@polynoamial)&lt;/p&gt;
-&lt;p&gt;Noam Brown 就 OpenAI 宣布以智能体组合求解 Navier-Stokes 千禧年大奖难题发表看法，承认这次证明花费数百万美元，但认为成本会快速下降。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/polynoamial/status/2097375837670785447&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 18:27 · The Decoder：AI News（RSS）&lt;/p&gt;
+&lt;p&gt;数学家 Tristan Buckmaster 指控 OpenAI 施压、拒绝其合作者 Levent Alpöge（任职于 Anthropic）署名，且可能用两人上传到 Codex 的草稿训练模型，称其为绝对学术不端。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://the-decoder.com/openais-millennium-proof-dispute-raises-the-question-of-whether-researchers-can-trust-ai-labs&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>技术工具 · OpenAI 智能体团队宣布求解 Navier-Stokes 千禧年大奖难题并向独立证明者致贺</title>
-      <link>https://x.com/OpenAI/status/2097375276384567642</link>
-      <guid isPermaLink="false">linggou-cmtsynojw01xqro5wb8n7ysor</guid>
-      <pubDate>Wed, 09 Sep 2026 01:23:27 +0800</pubDate>
-      <category>技术工具</category>
-      <description>&lt;p&gt;&lt;strong&gt;🛠️ 技术工具&lt;/strong&gt; · 今天 01:23 · X：OpenAI (@OpenAI)&lt;/p&gt;
-&lt;p&gt;OpenAI 宣布由一组智能体使用一个能力显著超过 GPT-6 Astra 的下一代模型给出 Navier-Stokes 千禧年大奖难题的解，该问题关注三维光滑流体运动的描述是否会失效，已悬置约 90 年。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/OpenAI/status/2097375276384567642&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>行业动态 · Anthropic 讲解用 Claude Platform 降低成本并提升性能的三个方法</title>
-      <link>https://x.com/ClaudeDevs/status/2097369738968195513</link>
-      <guid isPermaLink="false">linggou-cmtsxacbf04jkrob5fu5sp5ti</guid>
-      <pubDate>Wed, 09 Sep 2026 01:01:27 +0800</pubDate>
+      <title>行业动态 · NSA、FBI 和 CISA 指控 DeepSeek、月之暗面等六家中国 AI 公司大规模提取美国模型知识</title>
+      <link>https://x.com/thexpin/status/2097615997616406833</link>
+      <guid isPermaLink="false">linggou-cmttwa2j30pktrofpw67b9pby</guid>
+      <pubDate>Wed, 09 Sep 2026 17:20:00 +0800</pubDate>
       <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 01:01 · X：Claude Devs (@ClaudeDevs)&lt;/p&gt;
-&lt;p&gt;Anthropic 团队文章指出，优化 prompt cache 命中率、清除升级到前沿 Claude 模型后的提示词反模式、校准 effort 三个手段可在不牺牲性能的情况下降低成本。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/ClaudeDevs/status/2097369738968195513&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 17:20 · X：X.PIN (@thexpin)&lt;/p&gt;
+&lt;p&gt;NSA、FBI 和 CISA 指控 DeepSeek、月之暗面（Moonshot AI）、阿里巴巴、MiniMax、阶跃星辰（StepFun）和 Z.ai 至少自 2024 年起以产业规模从美国模型中提取知识。机构称其通过多渠道路由请求以绕过规则并提升数学与编码能力；蒸馏在获授权时合法，争议核心在于访问与同意。美国开发商被敦促立即行动并共享情报，相关公司暂未回应。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/thexpin/status/2097615997616406833&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>行业动态 · Dwarkesh Patel 研究：预训练进步主要来自数据改进</title>
-      <link>https://www.dwarkesh.com/p/pretraining-progress-is-mostly-data</link>
-      <guid isPermaLink="false">linggou-cmtsx0wm4041jrob5liwjypsq</guid>
-      <pubDate>Wed, 09 Sep 2026 00:10:16 +0800</pubDate>
+      <title>行业动态 · Thomas Wolf 认为 AI 数学尚未被解决，Navier-Stokes 结果更像反例搜索而非完整证明</title>
+      <link>https://x.com/Thom_Wolf/status/2097615465698713666</link>
+      <guid isPermaLink="false">linggou-cmttwq6oy0pybrofphae4ykhb</guid>
+      <pubDate>Wed, 09 Sep 2026 17:17:53 +0800</pubDate>
       <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 00:10 · Dwarkesh Patel：Podcast &amp; Blog（RSS）&lt;/p&gt;
-&lt;p&gt;Dwarkesh Patel 发布实验分析，在最高 1e19 FLOPs 的算力预算下训练 2019 至 2025 年各年度代表性模型配方与数据语料，发现数据改进带来 12.0x 算力效率提升，模型改进为 3.7x，数据贡献约为模型的 3.24 倍。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.dwarkesh.com/p/pretraining-progress-is-mostly-data&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 17:17 · X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)&lt;/p&gt;
+&lt;p&gt;Hugging Face 联创 Thomas Wolf 回应 OpenAI 用下一代模型（强于 GPT-6 Astra）的 agent 群组证明 Navier-Stokes 千禧年问题猜想为假的结果，称其令人印象深刻。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/Thom_Wolf/status/2097615465698713666&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>行业动态 · Mistral 完成 30 亿欧元 D 轮融资，估值超 210 亿欧元</title>
-      <link>https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier</link>
-      <guid isPermaLink="false">linggou-cmts9dr2m029hrobq86wrny37</guid>
-      <pubDate>Tue, 08 Sep 2026 13:58:27 +0800</pubDate>
+      <title>行业动态 · 美国政府指控 DeepSeek 等 6 家中国 AI 公司工业规模蒸馏美国模型</title>
+      <link>https://x.com/rohanpaul_ai/status/2097605329123147987</link>
+      <guid isPermaLink="false">linggou-cmttulwa90npwrofpsde4lc0k</guid>
+      <pubDate>Wed, 09 Sep 2026 16:37:36 +0800</pubDate>
       <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 13:58 · Mistral AI：News（网页）&lt;/p&gt;
-&lt;p&gt;Mistral 宣布完成 30 亿欧元 D 轮融资，投后估值超过 210 亿欧元，公司称这是欧洲科技公司有史以来最大的股权融资，距其成立三年。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 16:37 · X：Rohan Paul (@rohanpaul_ai)&lt;/p&gt;
+&lt;p&gt;NSA、CISA 和 FBI 发布联合公告 AA26-251A，指控 DeepSeek、月之暗面、阿里、MiniMax、阶跃星辰和 Z .AI 自 2024 年底起对美国前沿模型进行工业规模蒸馏。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/rohanpaul_ai/status/2097605329123147987&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>AIGC内容创作 · AI短剧开始请回真人演员，能治好观众的生理性厌恶吗？</title>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkwNjY3NzI2NA==&amp;mid=2247521452&amp;idx=1&amp;sn=9699cc83614867ea92cf17c52995ff6f&amp;chksm=c1bdb0e3b1bc04d4804701b07b33711415d22198bad412562ac5ee841803bb6b56eb15ef63c2&amp;scene=0#rd</link>
-      <guid isPermaLink="false">linggou-extra-短剧自习室--5652761590867882373</guid>
-      <pubDate>Tue, 08 Sep 2026 18:12:00 +0800</pubDate>
-      <category>AIGC内容创作</category>
-      <description>&lt;p&gt;&lt;strong&gt;📽️ AIGC 内容创作&lt;/strong&gt; · 今天 18:12 · 短剧自习室&lt;/p&gt;
-&lt;p&gt;有谁看过《灵魂摆渡·浮生梦》了？上线10天分账票房累计破600万。弹幕里，一半是对这部片子由AI制作的“科普”，另一半则在认真讨论内容。实际上，这两部超60分钟的长片，不全然是AI制作，也并非真人实拍，而是采取了“AI+真人”的模式。在短剧发展的过程中，纯AI短剧被吐槽“AI脸”“生理性厌恶”，真人...&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkwNjY3NzI2NA==&amp;mid=2247521452&amp;idx=1&amp;sn=9699cc83614867ea92cf17c52995ff6f&amp;chksm=c1bdb0e3b1bc04d4804701b07b33711415d22198bad412562ac5ee841803bb6b56eb15ef63c2&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>AIGC内容创作 · 超级核弹！OpenAI宣布解决千禧年数学问题：纳维-斯托克斯方程「1万个Agent 88小时」</title>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&amp;mid=2247517862&amp;idx=1&amp;sn=2634e817527b02295ce293caa5c9894b&amp;chksm=cf98b025b99ef6a11a17ee48f65a1ce6e19fa035ead7c48d833cfd3656e58750b6984ee8aab0&amp;scene=0#rd</link>
-      <guid isPermaLink="false">linggou-extra-AI寒武纪--776733713100412949</guid>
-      <pubDate>Wed, 09 Sep 2026 02:59:00 +0800</pubDate>
-      <category>AIGC内容创作</category>
-      <description>&lt;p&gt;&lt;strong&gt;📽️ AIGC 内容创作&lt;/strong&gt; · 今天 02:59 · AI寒武纪&lt;/p&gt;
-&lt;p&gt;↑阅读之前记得关注+星标⭐️，😄，每天才能第一时间接收到更新 流体究竟会不会在某个瞬间彻底失控？这个问题困扰了人类将近90年。刚刚，OpenA宣布他们用还在训练中的下一代大模型，调动上万个AI智能体协同作战，在88小时内解出了困扰人类近百年的千禧年数学难题：纳维-斯托克斯方程。paper 长达16...&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&amp;mid=2247517862&amp;idx=1&amp;sn=2634e817527b02295ce293caa5c9894b&amp;chksm=cf98b025b99ef6a11a17ee48f65a1ce6e19fa035ead7c48d833cfd3656e58750b6984ee8aab0&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>AIGC内容创作 · 惊天大丑闻！纽约大学数学家用AI解出百年难题，反被OpenAI带队截胡兼电话威胁</title>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&amp;mid=2247517827&amp;idx=1&amp;sn=addf12b965452e26b22d7f418e0bccaf&amp;chksm=cf7f0f9f87ea15d6cd016889c16685dcfe0a1b595a0a7705f4cf2f5539e7f85a4d77912ab638&amp;scene=0#rd</link>
-      <guid isPermaLink="false">linggou-extra-AI寒武纪-4445619434235837797</guid>
-      <pubDate>Tue, 08 Sep 2026 16:34:00 +0800</pubDate>
-      <category>AIGC内容创作</category>
-      <description>&lt;p&gt;&lt;strong&gt;📽️ AIGC 内容创作&lt;/strong&gt; · 今天 16:34 · AI寒武纪&lt;/p&gt;
-&lt;p&gt;↑阅读之前记得关注+星标⭐️，😄，每天才能第一时间接收到更新 OpenAI今天：三个重大数学问题被解决OpenAI威胁数学家抢发成果&amp;lt;内幕数学界刚刚发生了一场震动整个学术圈和科技圈的公开对峙。纽约大学数学家 Tristan Buckmaster 与合作者 Levent Alpöge 刚刚公开...&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&amp;mid=2247517827&amp;idx=1&amp;sn=addf12b965452e26b22d7f418e0bccaf&amp;chksm=cf7f0f9f87ea15d6cd016889c16685dcfe0a1b595a0a7705f4cf2f5539e7f85a4d77912ab638&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>行业动态 · 网文地震！番茄重磅新规：完本签约门槛提升，字数、修改、重审间隔都趋严！微短剧、小说激励更难拿！个人作者天塌了？</title>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkwMDYxOTYyMQ==&amp;mid=2247524257&amp;idx=1&amp;sn=b85111e904915dc3a0a65b2621676ee3&amp;chksm=c19a6204cb55421cd334b935c5e43598baeb2c8978089cd2d1b2d89caafc1cf55adf2200bc61&amp;scene=0#rd</link>
-      <guid isPermaLink="false">linggou-extra-DataEye短剧观察--5479250144708992666</guid>
-      <pubDate>Tue, 08 Sep 2026 15:55:00 +0800</pubDate>
+      <title>行业动态 · 曝 DeepSeek 聘请中信证券筹备科创板 IPO，目标年内递交申请</title>
+      <link>https://www.ithome.com/1/000/188.htm</link>
+      <guid isPermaLink="false">linggou-cmttqzqw30jwkrofpxrj00ngg</guid>
+      <pubDate>Wed, 09 Sep 2026 14:41:51 +0800</pubDate>
       <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 15:55 · DataEye短剧观察&lt;/p&gt;
-&lt;p&gt;（关注公众号，点私信发送：投稿，即可报名）前不久，番茄升级内容生态治理，还发公告称：部分机构及创作者存在高频发布低质内容、内容同质化严重、抄袭违规。在此背景下，9月7号、8号，番茄接连发布三份新规/新政《番茄小说完本签约模式上线通知》、《番茄小说作品签约标准说明》、《2026年番茄小说福利焕新》，进...&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkwMDYxOTYyMQ==&amp;mid=2247524257&amp;idx=1&amp;sn=b85111e904915dc3a0a65b2621676ee3&amp;chksm=c19a6204cb55421cd334b935c5e43598baeb2c8978089cd2d1b2d89caafc1cf55adf2200bc61&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 14:41 · IT之家（RSS）&lt;/p&gt;
+&lt;p&gt;路透社报道称，DeepSeek 已聘请中信证券筹备科创板上市，目标今年递交 IPO 申请、明年挂牌，募资将用于算力基建、模型研发、芯片自研与人才激励。公司正推进新一轮融资，目标估值约 5000 亿元人民币，此前 6 月完成约 74 亿美元首轮外部融资，投后估值超 500 亿美元；2026 年前 7 个月营收约 4.75 亿元。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.ithome.com/1/000/188.htm&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>AIGC内容创作 · 《逆水寒》手游改编漫剧：AI漫剧的竞争焦点，正在从工具转向IP</title>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyNjU5MzI1OA==&amp;mid=2247578630&amp;idx=1&amp;sn=148bcbe720caabacf94fb8f82e80fa82&amp;chksm=c32c4df1b443783f696658059c63793a39c778b541744eb3587c23e8e7f3d744ae70a96aa3a8&amp;scene=0#rd</link>
-      <guid isPermaLink="false">linggou-extra-短剧内行人-5669111527502671939</guid>
-      <pubDate>Tue, 08 Sep 2026 16:56:00 +0800</pubDate>
-      <category>AIGC内容创作</category>
-      <description>&lt;p&gt;&lt;strong&gt;📽️ AIGC 内容创作&lt;/strong&gt; · 今天 16:56 · 短剧内行人&lt;/p&gt;
-&lt;p&gt;据DataEye研究院预计，2026年国内AI漫剧市场规模有望突破400亿元，同比增速138%。AI漫剧赛道迎来爆发式崛起，成为微短剧行业的新兴增长极。但与百亿市场规模同时到来的，是同质化的难题，而IP漫剧便成为了一条可探索的出路。内容产业的IP化浪潮推进数年，跨媒介融合已成为常态操作。影视与音乐、...&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkyNjU5MzI1OA==&amp;mid=2247578630&amp;idx=1&amp;sn=148bcbe720caabacf94fb8f82e80fa82&amp;chksm=c32c4df1b443783f696658059c63793a39c778b541744eb3587c23e8e7f3d744ae70a96aa3a8&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>行业动态 · 议程重磅出炉｜「短剧新势力 在星城」真人演绎 + AI 场景创新发展交流会整装启幕</title>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkwNDYyNDk2Nw==&amp;mid=2247507523&amp;idx=1&amp;sn=630d8fbfc7c438d880e596c3a82c167f&amp;chksm=c1eadd307b1268ed20d3e49fa1cc633922b59aba47f5d2b56927c674217d9f102c636c084df3&amp;scene=0#rd</link>
-      <guid isPermaLink="false">linggou-extra-短剧新势力--6924411000239167717</guid>
-      <pubDate>Tue, 08 Sep 2026 15:26:00 +0800</pubDate>
+      <title>行业动态 · 全球首个AIGC长片创作大赛启动！会讲故事的人，RunningHub拿100万在等你</title>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkwNDYyNDk2Nw==&amp;mid=2247507637&amp;idx=1&amp;sn=0a414d17964943fe19aafee4304adefa&amp;chksm=c1b4719dfcea908ccc0618053238b989c223eb4670071564db0ee905cd4c17759a171293595e&amp;scene=0#rd</link>
+      <guid isPermaLink="false">linggou-extra-短剧新势力-2338070108893213090</guid>
+      <pubDate>Wed, 09 Sep 2026 21:37:00 +0800</pubDate>
       <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 15:26 · 短剧新势力&lt;/p&gt;
-&lt;p&gt;2026年9月1日，新版《微短剧发展管理办法》正式落地施行，短剧行业彻底告别粗放铺量时代，全面迈入规范化、精品化、AI智能化全新发展阶段。政策标准更新、平台扶持风向迭代、AI技术重构创作链路，无数从业者陷入信息差困境，靠二手消息预判赛道、凭旧经验做项目，屡屡踩坑、错失红利。当下赛道洗牌加剧，精准拿捏...&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkwNDYyNDk2Nw==&amp;mid=2247507523&amp;idx=1&amp;sn=630d8fbfc7c438d880e596c3a82c167f&amp;chksm=c1eadd307b1268ed20d3e49fa1cc633922b59aba47f5d2b56927c674217d9f102c636c084df3&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 21:37 · 短剧新势力&lt;/p&gt;
+&lt;p&gt;2026年，AI一战成名的事每天都在发生。有人凭借一部短剧赚得盆满钵满，一夜翻身；有人凭借一段故事获赞千万，吸粉百万；有人凭借一条短片火到国外，惊动好莱坞。AI造神是真的，卷是真的，但羡慕也是真的。哪个做AIGC的创作者，没幻想过自己的作品能够杀出重围，在这个被反复称作“AI视频元年”的节点上狠狠留...&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkwNDYyNDk2Nw==&amp;mid=2247507637&amp;idx=1&amp;sn=0a414d17964943fe19aafee4304adefa&amp;chksm=c1b4719dfcea908ccc0618053238b989c223eb4670071564db0ee905cd4c17759a171293595e&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
