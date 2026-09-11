@@ -1,23 +1,22 @@
 {
-  "generated_at": "2026-09-10T13:38:46.227818+08:00",
-  "total": 23,
-  "linggou": 10,
+  "generated_at": "2026-09-11T13:38:43.551645+08:00",
+  "total": 21,
+  "linggou": 11,
   "social_topics": 0,
   "sources": {
-    "X：Greg Brockman (@gdb)": 1,
-    "X：Anthropic (@AnthropicAI)": 1,
-    "Hacker News：AI 热帖": 1,
-    "Anthropic：The Institute（旗舰研究长文 · 网页）": 1,
+    "X：Elon Musk (@elonmusk, xAI)": 1,
+    "Anthropic：Research（发表成果 · 网页）": 1,
     "The Decoder：AI News（RSS）": 1,
-    "X：X.PIN (@thexpin)": 1,
-    "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)": 1,
-    "X：Rohan Paul (@rohanpaul_ai)": 1,
-    "IT之家（RSS）": 1,
-    "短剧新势力": 1
+    "X：Google AI (@GoogleAI)": 1,
+    "X：Kim (@kimmonismus)": 1,
+    "MarkTechPost（RSS）": 1,
+    "短剧自习室": 1,
+    "AI寒武纪": 3,
+    "短剧内行人": 1
   },
   "categories": {
-    "aigc_content": 0,
+    "aigc_content": 5,
     "tech_tools": 1,
-    "industry": 9
+    "industry": 5
   }
 }
