@@ -1,22 +1,30 @@
 {
-  "generated_at": "2026-09-11T13:38:43.551645+08:00",
-  "total": 21,
-  "linggou": 11,
+  "generated_at": "2026-09-14T13:50:37.507558+08:00",
+  "total": 33,
+  "linggou": 30,
   "social_topics": 0,
   "sources": {
-    "X：Elon Musk (@elonmusk, xAI)": 1,
-    "Anthropic：Research（发表成果 · 网页）": 1,
-    "The Decoder：AI News（RSS）": 1,
-    "X：Google AI (@GoogleAI)": 1,
-    "X：Kim (@kimmonismus)": 1,
+    "Gary Marcus：The Road to AI We Can Trust（RSS）": 1,
+    "Hacker News：AI 热帖": 2,
     "MarkTechPost（RSS）": 1,
-    "短剧自习室": 1,
-    "AI寒武纪": 3,
-    "短剧内行人": 1
+    "X：OpenAI Developers (@OpenAIDevs)": 1,
+    "Suno：Blog（网页）": 1,
+    "Hacker News 热门（buzzing.cc 中文翻译）": 1,
+    "X：Sam Altman (@sama)": 1,
+    "X：Dario Amodei (@DarioAmodei)": 1,
+    "IT之家（RSS）": 1,
+    "GitHub Blog": 1,
+    "Dwarkesh Patel：Podcast & Blog（RSS）": 1,
+    "The Decoder：AI News（RSS）": 1,
+    "短剧自习室": 4,
+    "AI寒武纪": 4,
+    "DataEye短剧观察": 3,
+    "短剧内行人": 5,
+    "短剧新势力": 1
   },
   "categories": {
-    "aigc_content": 5,
+    "aigc_content": 13,
     "tech_tools": 1,
-    "industry": 5
+    "industry": 16
   }
 }
