@@ -1,30 +1,23 @@
 {
-  "generated_at": "2026-09-14T13:50:37.507558+08:00",
-  "total": 33,
-  "linggou": 30,
+  "generated_at": "2026-09-15T13:53:17.942734+08:00",
+  "total": 17,
+  "linggou": 12,
   "social_topics": 0,
   "sources": {
-    "Gary Marcus：The Road to AI We Can Trust（RSS）": 1,
-    "Hacker News：AI 热帖": 2,
-    "MarkTechPost（RSS）": 1,
-    "X：OpenAI Developers (@OpenAIDevs)": 1,
-    "Suno：Blog（网页）": 1,
-    "Hacker News 热门（buzzing.cc 中文翻译）": 1,
-    "X：Sam Altman (@sama)": 1,
-    "X：Dario Amodei (@DarioAmodei)": 1,
-    "IT之家（RSS）": 1,
-    "GitHub Blog": 1,
-    "Dwarkesh Patel：Podcast & Blog（RSS）": 1,
+    "X：Artificial Analysis (@ArtificialAnlys)": 1,
+    "The Verge：AI（RSS）": 1,
+    "X：Arena (@arena)": 1,
     "The Decoder：AI News（RSS）": 1,
-    "短剧自习室": 4,
-    "AI寒武纪": 4,
-    "DataEye短剧观察": 3,
-    "短剧内行人": 5,
-    "短剧新势力": 1
+    "Hacker News：AI 热帖": 1,
+    "公众号：小红书技术（dots.llm）": 1,
+    "短剧自习室": 2,
+    "AI寒武纪": 2,
+    "DataEye短剧观察": 1,
+    "短剧内行人": 1
   },
   "categories": {
-    "aigc_content": 13,
-    "tech_tools": 1,
-    "industry": 16
+    "aigc_content": 5,
+    "tech_tools": 0,
+    "industry": 7
   }
 }
