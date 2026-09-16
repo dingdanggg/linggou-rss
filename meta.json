@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-09-15T13:53:17.942734+08:00",
-  "total": 17,
-  "linggou": 12,
+  "generated_at": "2026-09-16T13:39:34.294989+08:00",
+  "total": 13,
+  "linggou": 10,
   "social_topics": 0,
   "sources": {
-    "X：Artificial Analysis (@ArtificialAnlys)": 1,
-    "The Verge：AI（RSS）": 1,
     "X：Arena (@arena)": 1,
+    "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)": 1,
+    "Claude：Blog（网页）": 1,
+    "Pragmatic Engineer（RSS）": 1,
+    "公众号：生数科技（Vidu·视频）": 1,
+    "Trail of Bits：AI安全研究": 1,
     "The Decoder：AI News（RSS）": 1,
-    "Hacker News：AI 热帖": 1,
-    "公众号：小红书技术（dots.llm）": 1,
-    "短剧自习室": 2,
-    "AI寒武纪": 2,
-    "DataEye短剧观察": 1,
-    "短剧内行人": 1
+    "公众号：阶跃星辰（Step）": 1,
+    "短剧自习室": 1,
+    "短剧新势力": 1
   },
   "categories": {
-    "aigc_content": 5,
+    "aigc_content": 2,
     "tech_tools": 0,
-    "industry": 7
+    "industry": 8
   }
 }
