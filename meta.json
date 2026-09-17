@@ -1,23 +1,20 @@
 {
-  "generated_at": "2026-09-16T13:39:34.294989+08:00",
+  "generated_at": "2026-09-17T13:47:43.761421+08:00",
   "total": 13,
-  "linggou": 10,
+  "linggou": 9,
   "social_topics": 0,
   "sources": {
-    "X：Arena (@arena)": 1,
-    "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)": 1,
+    "公众号：数字生命卡兹克": 1,
     "Claude：Blog（网页）": 1,
-    "Pragmatic Engineer（RSS）": 1,
-    "公众号：生数科技（Vidu·视频）": 1,
-    "Trail of Bits：AI安全研究": 1,
-    "The Decoder：AI News（RSS）": 1,
-    "公众号：阶跃星辰（Step）": 1,
-    "短剧自习室": 1,
-    "短剧新势力": 1
+    "X：Boris Cherny (@bcherny)": 1,
+    "X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)": 1,
+    "短剧自习室": 2,
+    "AI寒武纪": 1,
+    "短剧内行人": 2
   },
   "categories": {
-    "aigc_content": 2,
+    "aigc_content": 5,
     "tech_tools": 0,
-    "industry": 8
+    "industry": 4
   }
 }

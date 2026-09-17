@@ -5,158 +5,144 @@
     <link>https://dingdanggg.github.io/linggou-rss</link>
     <description>灵构视角 AI 资讯 · 3D资产/AIGC影视/游戏/XR/社媒运营</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 16 Sep 2026 13:39:34 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 13:47:43 +0800</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://dingdanggg.github.io/linggou-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>🏗️ 灵构视角 · 09月16日 · 共10条</title>
+      <title>🏗️ 灵构视角 · 09月17日 · 共9条</title>
       <link>https://dingdanggg.github.io/linggou-rss</link>
-      <guid isPermaLink="false">linggou-digest-2026091613</guid>
-      <pubDate>Wed, 16 Sep 2026 13:39:34 +0800</pubDate>
+      <guid isPermaLink="false">linggou-digest-2026091713</guid>
+      <pubDate>Thu, 17 Sep 2026 13:47:43 +0800</pubDate>
       <description>&lt;h2&gt;🏗️ 灵构视角&lt;/h2&gt;
-&lt;p&gt;&lt;small&gt;来源：X：Arena (@arena)(1条)、X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)(1条)、Claude：Blog（网页）(1条)、Pragmatic Engineer（RSS）(1条)、公众号：生数科技（Vidu·视频）(1条)、Trail of Bits：AI安全研究(1条)、The Decoder：AI News（RSS）(1条)、公众号：阶跃星辰（Step）(1条)、短剧自习室(1条)、短剧新势力(1条)&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;来源：短剧自习室(2条)、短剧内行人(2条)、公众号：数字生命卡兹克(1条)、Claude：Blog（网页）(1条)、X：Boris Cherny (@bcherny)(1条)、X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)(1条)、AI寒武纪(1条)&lt;/small&gt;&lt;/p&gt;
 &lt;h3&gt;📽️ AIGC 内容创作&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;1. 生数科技发布 Vidu S2：含 Avatar 与 Editing 双模型，探索空间视频&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;公众号：生数科技（Vidu·视频） · 今天 22:30&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;生数科技正式发布 Vidu S2，包含面向数字角色实时交互的 Vidu S2-Avatar 和面向视频流实时编辑的 Vidu S2-Editing，并探索面向 VR 头显的实时空间视频生成与编辑。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://mp.weixin.qq.com/s?__biz=MzkzMDQ5NTQwMQ%3D%3D&amp;mid=2247489246&amp;idx=2&amp;sn=b23b39da69f6c75594eccac11854111f&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1. 你刷到的AI短剧，都是用钱砸出来的&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;短剧自习室 · 今天 20:00&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;前段时间，我被某部AI短剧刷屏了，评论区清一色的喊神作，不管刷哪个平台，基本都在聊这部剧。我点进去看完了，心情挺复杂。不得不承认，制作确实顶，镜头、表演、质感，早就不是我印象里那种PPT式AI视频了。看完我就忍不住去扒这部戏，结果让我有亿点点意外，整部戏做下来，制作成本也就十几万元。这要是搁三年前，...&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkwNjY3NzI2NA==&amp;mid=2247521854&amp;idx=1&amp;sn=579781f8bf8a069a008e893accabf331&amp;chksm=c16ee6d7451a830cc97acf75e2913d33804d6f2456669f6a0ca25c05ff4b1622d5c8119086a6&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;2. 当《花少2》被翻拍成AI短剧，这届年轻人的“新型电子榨菜”出现了！&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;短剧自习室 · 今天 19:54&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;继“甄学”“如学”“知否学”后，内娱又双叒开创了一个新的学派——“花学”。完全是“学无止境”啊，朋友们。（狗头.jpg）而所谓“花学”，顾名思义，主要研究的正是芒果台在2015年播出的那档“上古综艺”《花儿与少年2》（以下简称：《花少2》）。（图源：豆瓣）作为当之无愧的“撕X综艺之神”，娱乐圈全体明...&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkwNjY3NzI2NA==&amp;mid=2247521753&amp;idx=1&amp;sn=fa9bd618bd311b1b80d5441f764bdd08&amp;chksm=c12fb9b4942804f22cd6b94589b55d284c81be89516b3a8596db3debf2868c95c84982257935&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2. AI短剧周报 | 19 亿级漫剧登顶，现实题材力压年代剧领跑&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;短剧自习室 · 今天 15:42&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;1、播放量和供给情况上周（2026-09-07～2026-09-13），抖音集团端原生 AI 短剧播放增量约 781 亿，环比增长约 2.1%。整体来看，全周日播放增量均突破百亿，日均约 111.6 亿，播放表现整体较为强劲。从日趋势看，9 月 12 日播放增量达到 118.2 亿，为全周最高点；9...&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkwNjY3NzI2NA==&amp;mid=2247521838&amp;idx=1&amp;sn=cd9538378ed41f3bc2d08584e9d8d7ba&amp;chksm=c1d16c68feca1b01bb8e7637935d58c3482ff51b47c4197b8b32df3c5b7c2b066f0f8ecde5e2&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;strong&gt;3. 做出ChatGPT核心研究的人今天掀桌：大模型搞不定自动化，新架构提速200倍且输出免费&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;AI寒武纪 · 今天 21:00&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;↑阅读之前记得关注+星标⭐️，😄，每天才能第一时间接收到更新 语言模型聊天能力超越人类好几年了，可真正的业务自动化到底卡在哪里？这是前 OpenAI 研究员、ChatGPT 背后核心方法开发者 Diogo Almeida 琢磨了四年的问题。当年他参与打造了让大语言模型听懂指令并与人顺畅对话的技术。...&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&amp;mid=2247519005&amp;idx=1&amp;sn=236fa730555ff7606396fb6a28950c6d&amp;chksm=cf9f8248dbae8307e00ad93fc09c6198ccd8dc4eb9bb0fb5e7f9a06e852a637ab46b9eab4e84&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;strong&gt;4. 抖音集团短剧版权中心上线「日收益展示」功能&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;短剧内行人 · 今天 19:45&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;短剧内行人从多名创作者获悉，抖音集团短剧版权中心为帮助版权方、投资出品方更及时地了解作品收益表现，优化内容生产方向，短剧创作者中心于2026年9月16日上线短剧日收益展示功能，为内容创作和运营提供数据参考。功能入口登录创作者中心后，切换【版权机构】或【投资出品方】身份，进入「结算中心」-「日收益展示...&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkyNjU5MzI1OA==&amp;mid=2247578856&amp;idx=1&amp;sn=5f6d0fddc6b8f4745682295af23ee976&amp;chksm=c3986a9213570ad67c57fb45edb3395746bd7d398030b5bab9cec31ed0b55508aa145d52f46c&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;strong&gt;5. 这类题材越来越多，观众为什么买单？&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;短剧内行人 · 今天 14:50&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;8月13日，《相亲对象是迟来的心动》在红果上线。开播24小时，热度冲到5541万，评分9.5，跻身红果真人剧推荐榜和热搜榜TOP2，一个月后，全网播放量突破10亿。看多了套路后，再看这部作品，其实我们会明显感觉到差别。这部剧不靠强冲突去拉扯观众的情绪，对剧中人物关系的处理方式都与传统的短剧不同，转而...&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkyNjU5MzI1OA==&amp;mid=2247578849&amp;idx=1&amp;sn=fe40fa474e5a58071940d7f04363b404&amp;chksm=c3bf15e26c60962fd3bda4e732fd2558779e231053ce17364beae2e784c8113baefd38363f0a&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
 &lt;h3&gt;📊 行业动态&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;1. Arena 更新 Image-to-WebDev 榜单：GPT-6 Astra 以 1733 分登顶&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Arena (@arena) · 今天 05:20&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;Arena 更新 Image-to-WebDev 排行榜，纳入四个新评测模型。GPT-6 Astra （Max） 以 1733 分居第一，领先 GPT-5.6 Sol （xHigh） 129 分；Claude Fable 5.1 （Max） 以 1710 分排第二，Muse Spark 1.3 （Max） 1645 分第四，GLM-5.3-Flash 1588 分第十。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/arena/status/2099971741993050236&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1. 用 MCP 插件让 GPT-6 Pro 分担 Codex 规划任务，节省 Pro 会员周额度&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;公众号：数字生命卡兹克 · 今天 08:09&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;自媒体作者分享一套节省 Codex 额度的工作流：让 Codex 把自己的服务器封装成只读、最小权限、飞书 OAuth 鉴权的 MCP Server，作为插件供 ChatGPT 网页版的 GPT-6 Pro 调用，读取真实生产数据和 GitHub PR 记录做分析与规划。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647686431&amp;idx=1&amp;sn=c1bfba7e0b5b7cf995e444daf79861a4&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;2. Perplexity 自研 CobbleDB 替代 AWS DynamoDB，每年最多可节省一亿美元&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas) · 今天 04:23&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;Perplexity CEO Aravind Srinivas 宣布自研键值数据库 CobbleDB，替代 AWS DynamoDB 用于快速网页内容抓取，迁移后每年最多可节省一亿美元。该项目由两名工程师和数百个持续运行的 Computer 智能体在两个月内完成核心基础设施，官方研究称热存储批次读取延迟较 DynamoDB 全分布下降约 5 倍（P50 从 31.4ms 降至 5.60ms）。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/AravSrinivas/status/2099957318935028173&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2. Anthropic 将 Claude Cowork 与聊天合并为统一的 Claude，并推出 Docs、Slides 等功能&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;Claude：Blog（网页） · 今天 00:51&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;Anthropic 宣布 Claude Cowork 与聊天合并为一个 Claude，任务无需再选择入口，Cowork 和 Design 的能力可在任意对话中使用，未来几周内向 Pro 和 Max 计划推出。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://claude.com/blog/cowork-is-now-claude&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;3. Claude for Small Business 新增 43 个工作流和 27 个集成，并推出免费培训计划&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;Claude：Blog（网页） · 今天 01:21&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;Anthropic 为 Claude for Small Business 新增 43 个工作流和 27 个集成，覆盖 Shopify、Salesforce、Stripe、Gusto 等，该产品自 5 月上线以来安装量超过 90 万次。工作流默认处于审批模式，所有发送、发布或付款需用户确认；今秋将在 10 个美国城市举办免费工作坊，14 个集成伙伴从 9 月底到 11 月各举办一场免费网络研讨会。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://claude.com/blog/claude-for-small-business-launches-new-workflows-integrations-and-training-programs&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3. Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Boris Cherny (@bcherny) · 今天 00:28&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;Anthropic 的 Boris Cherny 宣布 Claude Docs、Claude Slides 和 Claude Design 已进入每段对话，直接在聊天中生成演示、文档和设计。生成的演示可打开、编辑并导出为 PowerPoint 或 PDF，无需跳转到单独工具。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/bcherny/status/2100260544087535639&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;4. Gergely Orosz 探访 OpenAI：Codex 驱动的智能体软件工厂&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;Pragmatic Engineer（RSS） · 今天 23:41&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;Gergely Orosz 实地探访 OpenAI 总部并访谈七位工程师与工程负责人，发现自约一月起 Codex 和 ChatGPT Work 已成为公司几乎所有工作的基础。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://newsletter.pragmaticengineer.com/p/openai-software-factory&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;5. Trail of Bits 批评 1Password 的 AI 补丁基准存在误导，并发布两个补丁验证 Agent 技能&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;Trail of Bits：AI安全研究 · 今天 19:00&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;Trail of Bits 发文批评 1Password 8月6日发布的 FLAWED 报告，称其 26% 的 AI 干净修复率受四项实验设计选择影响而失真，包括刻意指示智能体应用错误修复的提示词占 22% 数据、36% 的试验禁止编译测试，以及不同推理档位设置。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://blog.trailofbits.com/2026/09/15/1passwords-ai-patching-benchmark-is-misleading&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;6. Anthropic 与 OpenAI 提议协调放缓前沿 AI 开发，Cohere CEO 等批评者质疑其真实动机&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;The Decoder：AI News（RSS） · 今天 17:04&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;Anthropic CEO Dario Amodei 呼吁行业与政府协调放缓前沿 AI 开发，并寻求反垄断豁免，Sam Altman 与 Elon Musk 表示同意。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://the-decoder.com/not-everyone-is-convinced-that-big-ais-proposed-development-slowdown-is-really-about-safety&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;7. 阶跃星辰发布 StepAudio 3 系列语音大模型，多款在 Artificial Analysis 榜单全球第一&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;公众号：阶跃星辰（Step） · 今天 15:29&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;阶跃星辰发布 StepAudio 3 系列，包含 Realtime、ASR、TTS、Gen 和 Music 五款模型，已在阶跃星辰开放平台上线。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://mp.weixin.qq.com/s?__biz=MzkyNTYxNzg5Mg%3D%3D&amp;mid=2247488074&amp;idx=1&amp;sn=7d92ce0f0098ec0c53b243df4709b522&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;8. 全球200亿规模！AI短剧再开新赛道，有工具已经领跑了&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;短剧新势力 · 今天 18:19&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;AI短剧下一个增长点在哪儿？扫描下方二维码可直接注册。这个问题，不止短剧新势力，相信很多同行业也都在琢磨。AI短漫剧上半年DataEye的行业数据“热闹得让人心慌”，超22万部作品上线，平均一分钟就有一部新剧冒出来，但播放量破亿的只有堪堪1055部，大量粗制滥造的内容沉底。很多团队转投中剧、长剧，但...&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkwNDYyNDk2Nw==&amp;mid=2247507715&amp;idx=1&amp;sn=d847083ecff6c98bc396371fe8ddb85b&amp;chksm=c1b1f28e83d4ebde6a4c0d1f6bd333ab42915683ebe4f29f2980df3775a6748d19896a2dbef7&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;4. 微软 AI CEO 警告&quot;模型福利&quot;论调&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman) · 今天 22:01&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;微软 AI CEO Mustafa Suleyman 发文反对&quot;模型福利&quot;理念，认为 AI 并无意识、不会感受或痛苦，赋予其受照料权会让对齐与管控更难甚至不可能。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/mustafasuleyman/status/2100223594534150428&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;</description>
     </item>
     <item>
-      <title>行业动态 · Arena 更新 Image-to-WebDev 榜单：GPT-6 Astra 以 1733 分登顶</title>
-      <link>https://x.com/arena/status/2099971741993050236</link>
-      <guid isPermaLink="false">linggou-cmu36fa060aaqrosaqk9opwh9</guid>
-      <pubDate>Wed, 16 Sep 2026 05:20:53 +0800</pubDate>
+      <title>行业动态 · 用 MCP 插件让 GPT-6 Pro 分担 Codex 规划任务，节省 Pro 会员周额度</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647686431&amp;idx=1&amp;sn=c1bfba7e0b5b7cf995e444daf79861a4</link>
+      <guid isPermaLink="false">linggou-cmu4s9jrn0683rokccdfqwbux</guid>
+      <pubDate>Thu, 17 Sep 2026 08:09:06 +0800</pubDate>
       <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 05:20 · X：Arena (@arena)&lt;/p&gt;
-&lt;p&gt;Arena 更新 Image-to-WebDev 排行榜，纳入四个新评测模型。GPT-6 Astra （Max） 以 1733 分居第一，领先 GPT-5.6 Sol （xHigh） 129 分；Claude Fable 5.1 （Max） 以 1710 分排第二，Muse Spark 1.3 （Max） 1645 分第四，GLM-5.3-Flash 1588 分第十。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/arena/status/2099971741993050236&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 08:09 · 公众号：数字生命卡兹克&lt;/p&gt;
+&lt;p&gt;自媒体作者分享一套节省 Codex 额度的工作流：让 Codex 把自己的服务器封装成只读、最小权限、飞书 OAuth 鉴权的 MCP Server，作为插件供 ChatGPT 网页版的 GPT-6 Pro 调用，读取真实生产数据和 GitHub PR 记录做分析与规划。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647686431&amp;idx=1&amp;sn=c1bfba7e0b5b7cf995e444daf79861a4&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>行业动态 · Perplexity 自研 CobbleDB 替代 AWS DynamoDB，每年最多可节省一亿美元</title>
-      <link>https://x.com/AravSrinivas/status/2099957318935028173</link>
-      <guid isPermaLink="false">linggou-cmu352k2908t9rosaotpsx42c</guid>
-      <pubDate>Wed, 16 Sep 2026 04:23:34 +0800</pubDate>
+      <title>行业动态 · Anthropic 将 Claude Cowork 与聊天合并为统一的 Claude，并推出 Docs、Slides 等功能</title>
+      <link>https://claude.com/blog/cowork-is-now-claude</link>
+      <guid isPermaLink="false">linggou-cmu4c8qar0hzero4w3b6n1jyf</guid>
+      <pubDate>Thu, 17 Sep 2026 00:51:45 +0800</pubDate>
       <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 04:23 · X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)&lt;/p&gt;
-&lt;p&gt;Perplexity CEO Aravind Srinivas 宣布自研键值数据库 CobbleDB，替代 AWS DynamoDB 用于快速网页内容抓取，迁移后每年最多可节省一亿美元。该项目由两名工程师和数百个持续运行的 Computer 智能体在两个月内完成核心基础设施，官方研究称热存储批次读取延迟较 DynamoDB 全分布下降约 5 倍（P50 从 31.4ms 降至 5.60ms）。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/AravSrinivas/status/2099957318935028173&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 00:51 · Claude：Blog（网页）&lt;/p&gt;
+&lt;p&gt;Anthropic 宣布 Claude Cowork 与聊天合并为一个 Claude，任务无需再选择入口，Cowork 和 Design 的能力可在任意对话中使用，未来几周内向 Pro 和 Max 计划推出。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://claude.com/blog/cowork-is-now-claude&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>行业动态 · Claude for Small Business 新增 43 个工作流和 27 个集成，并推出免费培训计划</title>
-      <link>https://claude.com/blog/claude-for-small-business-launches-new-workflows-integrations-and-training-programs</link>
-      <guid isPermaLink="false">linggou-cmu2xv8tm0365roc1a401zg9y</guid>
-      <pubDate>Wed, 16 Sep 2026 01:21:21 +0800</pubDate>
+      <title>行业动态 · Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF</title>
+      <link>https://x.com/bcherny/status/2100260544087535639</link>
+      <guid isPermaLink="false">linggou-cmu4bql8w0haoro4wduou7kxe</guid>
+      <pubDate>Thu, 17 Sep 2026 00:28:29 +0800</pubDate>
       <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 01:21 · Claude：Blog（网页）&lt;/p&gt;
-&lt;p&gt;Anthropic 为 Claude for Small Business 新增 43 个工作流和 27 个集成，覆盖 Shopify、Salesforce、Stripe、Gusto 等，该产品自 5 月上线以来安装量超过 90 万次。工作流默认处于审批模式，所有发送、发布或付款需用户确认；今秋将在 10 个美国城市举办免费工作坊，14 个集成伙伴从 9 月底到 11 月各举办一场免费网络研讨会。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://claude.com/blog/claude-for-small-business-launches-new-workflows-integrations-and-training-programs&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 00:28 · X：Boris Cherny (@bcherny)&lt;/p&gt;
+&lt;p&gt;Anthropic 的 Boris Cherny 宣布 Claude Docs、Claude Slides 和 Claude Design 已进入每段对话，直接在聊天中生成演示、文档和设计。生成的演示可打开、编辑并导出为 PowerPoint 或 PDF，无需跳转到单独工具。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/bcherny/status/2100260544087535639&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>行业动态 · Gergely Orosz 探访 OpenAI：Codex 驱动的智能体软件工厂</title>
-      <link>https://newsletter.pragmaticengineer.com/p/openai-software-factory</link>
-      <guid isPermaLink="false">linggou-cmu2utske02sjrowk2zs2agim</guid>
-      <pubDate>Tue, 15 Sep 2026 23:41:25 +0800</pubDate>
+      <title>行业动态 · 微软 AI CEO 警告&quot;模型福利&quot;论调</title>
+      <link>https://x.com/mustafasuleyman/status/2100223594534150428</link>
+      <guid isPermaLink="false">linggou-cmu46kvju0bdsro4w0sonrv7q</guid>
+      <pubDate>Wed, 16 Sep 2026 22:01:39 +0800</pubDate>
       <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 23:41 · Pragmatic Engineer（RSS）&lt;/p&gt;
-&lt;p&gt;Gergely Orosz 实地探访 OpenAI 总部并访谈七位工程师与工程负责人，发现自约一月起 Codex 和 ChatGPT Work 已成为公司几乎所有工作的基础。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://newsletter.pragmaticengineer.com/p/openai-software-factory&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 22:01 · X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)&lt;/p&gt;
+&lt;p&gt;微软 AI CEO Mustafa Suleyman 发文反对&quot;模型福利&quot;理念，认为 AI 并无意识、不会感受或痛苦，赋予其受照料权会让对齐与管控更难甚至不可能。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/mustafasuleyman/status/2100223594534150428&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>AIGC内容创作 · 生数科技发布 Vidu S2：含 Avatar 与 Editing 双模型，探索空间视频</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzkzMDQ5NTQwMQ%3D%3D&amp;mid=2247489246&amp;idx=2&amp;sn=b23b39da69f6c75594eccac11854111f</link>
-      <guid isPermaLink="false">linggou-cmu2t7e9005xhro3xi5oq27e7</guid>
-      <pubDate>Tue, 15 Sep 2026 22:30:59 +0800</pubDate>
+      <title>AIGC内容创作 · 你刷到的AI短剧，都是用钱砸出来的</title>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkwNjY3NzI2NA==&amp;mid=2247521854&amp;idx=1&amp;sn=579781f8bf8a069a008e893accabf331&amp;chksm=c16ee6d7451a830cc97acf75e2913d33804d6f2456669f6a0ca25c05ff4b1622d5c8119086a6&amp;scene=0#rd</link>
+      <guid isPermaLink="false">linggou-extra-短剧自习室--6786989744721158872</guid>
+      <pubDate>Wed, 16 Sep 2026 20:00:00 +0800</pubDate>
       <category>AIGC内容创作</category>
-      <description>&lt;p&gt;&lt;strong&gt;📽️ AIGC 内容创作&lt;/strong&gt; · 今天 22:30 · 公众号：生数科技（Vidu·视频）&lt;/p&gt;
-&lt;p&gt;生数科技正式发布 Vidu S2，包含面向数字角色实时交互的 Vidu S2-Avatar 和面向视频流实时编辑的 Vidu S2-Editing，并探索面向 VR 头显的实时空间视频生成与编辑。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://mp.weixin.qq.com/s?__biz=MzkzMDQ5NTQwMQ%3D%3D&amp;mid=2247489246&amp;idx=2&amp;sn=b23b39da69f6c75594eccac11854111f&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;📽️ AIGC 内容创作&lt;/strong&gt; · 今天 20:00 · 短剧自习室&lt;/p&gt;
+&lt;p&gt;前段时间，我被某部AI短剧刷屏了，评论区清一色的喊神作，不管刷哪个平台，基本都在聊这部剧。我点进去看完了，心情挺复杂。不得不承认，制作确实顶，镜头、表演、质感，早就不是我印象里那种PPT式AI视频了。看完我就忍不住去扒这部戏，结果让我有亿点点意外，整部戏做下来，制作成本也就十几万元。这要是搁三年前，...&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkwNjY3NzI2NA==&amp;mid=2247521854&amp;idx=1&amp;sn=579781f8bf8a069a008e893accabf331&amp;chksm=c16ee6d7451a830cc97acf75e2913d33804d6f2456669f6a0ca25c05ff4b1622d5c8119086a6&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>行业动态 · Trail of Bits 批评 1Password 的 AI 补丁基准存在误导，并发布两个补丁验证 Agent 技能</title>
-      <link>https://blog.trailofbits.com/2026/09/15/1passwords-ai-patching-benchmark-is-misleading</link>
-      <guid isPermaLink="false">linggou-cmu2lqodj08k0rovqocv9r3z3</guid>
-      <pubDate>Tue, 15 Sep 2026 19:00:00 +0800</pubDate>
-      <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 19:00 · Trail of Bits：AI安全研究&lt;/p&gt;
-&lt;p&gt;Trail of Bits 发文批评 1Password 8月6日发布的 FLAWED 报告，称其 26% 的 AI 干净修复率受四项实验设计选择影响而失真，包括刻意指示智能体应用错误修复的提示词占 22% 数据、36% 的试验禁止编译测试，以及不同推理档位设置。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://blog.trailofbits.com/2026/09/15/1passwords-ai-patching-benchmark-is-misleading&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>行业动态 · Anthropic 与 OpenAI 提议协调放缓前沿 AI 开发，Cohere CEO 等批评者质疑其真实动机</title>
-      <link>https://the-decoder.com/not-everyone-is-convinced-that-big-ais-proposed-development-slowdown-is-really-about-safety</link>
-      <guid isPermaLink="false">linggou-cmu2gnngu032brovqo7pvrfx9</guid>
-      <pubDate>Tue, 15 Sep 2026 17:04:36 +0800</pubDate>
-      <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 17:04 · The Decoder：AI News（RSS）&lt;/p&gt;
-&lt;p&gt;Anthropic CEO Dario Amodei 呼吁行业与政府协调放缓前沿 AI 开发，并寻求反垄断豁免，Sam Altman 与 Elon Musk 表示同意。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://the-decoder.com/not-everyone-is-convinced-that-big-ais-proposed-development-slowdown-is-really-about-safety&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>行业动态 · 阶跃星辰发布 StepAudio 3 系列语音大模型，多款在 Artificial Analysis 榜单全球第一</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzkyNTYxNzg5Mg%3D%3D&amp;mid=2247488074&amp;idx=1&amp;sn=7d92ce0f0098ec0c53b243df4709b522</link>
-      <guid isPermaLink="false">linggou-cmu2d4jj405xcro25xm50v262</guid>
-      <pubDate>Tue, 15 Sep 2026 15:29:56 +0800</pubDate>
-      <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 15:29 · 公众号：阶跃星辰（Step）&lt;/p&gt;
-&lt;p&gt;阶跃星辰发布 StepAudio 3 系列，包含 Realtime、ASR、TTS、Gen 和 Music 五款模型，已在阶跃星辰开放平台上线。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://mp.weixin.qq.com/s?__biz=MzkyNTYxNzg5Mg%3D%3D&amp;mid=2247488074&amp;idx=1&amp;sn=7d92ce0f0098ec0c53b243df4709b522&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>AIGC内容创作 · 当《花少2》被翻拍成AI短剧，这届年轻人的“新型电子榨菜”出现了！</title>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkwNjY3NzI2NA==&amp;mid=2247521753&amp;idx=1&amp;sn=fa9bd618bd311b1b80d5441f764bdd08&amp;chksm=c12fb9b4942804f22cd6b94589b55d284c81be89516b3a8596db3debf2868c95c84982257935&amp;scene=0#rd</link>
-      <guid isPermaLink="false">linggou-extra-短剧自习室-602423220834799679</guid>
-      <pubDate>Tue, 15 Sep 2026 19:54:00 +0800</pubDate>
+      <title>AIGC内容创作 · AI短剧周报 | 19 亿级漫剧登顶，现实题材力压年代剧领跑</title>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkwNjY3NzI2NA==&amp;mid=2247521838&amp;idx=1&amp;sn=cd9538378ed41f3bc2d08584e9d8d7ba&amp;chksm=c1d16c68feca1b01bb8e7637935d58c3482ff51b47c4197b8b32df3c5b7c2b066f0f8ecde5e2&amp;scene=0#rd</link>
+      <guid isPermaLink="false">linggou-extra-短剧自习室-6593767081951834250</guid>
+      <pubDate>Wed, 16 Sep 2026 15:42:00 +0800</pubDate>
       <category>AIGC内容创作</category>
-      <description>&lt;p&gt;&lt;strong&gt;📽️ AIGC 内容创作&lt;/strong&gt; · 今天 19:54 · 短剧自习室&lt;/p&gt;
-&lt;p&gt;继“甄学”“如学”“知否学”后，内娱又双叒开创了一个新的学派——“花学”。完全是“学无止境”啊，朋友们。（狗头.jpg）而所谓“花学”，顾名思义，主要研究的正是芒果台在2015年播出的那档“上古综艺”《花儿与少年2》（以下简称：《花少2》）。（图源：豆瓣）作为当之无愧的“撕X综艺之神”，娱乐圈全体明...&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkwNjY3NzI2NA==&amp;mid=2247521753&amp;idx=1&amp;sn=fa9bd618bd311b1b80d5441f764bdd08&amp;chksm=c12fb9b4942804f22cd6b94589b55d284c81be89516b3a8596db3debf2868c95c84982257935&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;📽️ AIGC 内容创作&lt;/strong&gt; · 今天 15:42 · 短剧自习室&lt;/p&gt;
+&lt;p&gt;1、播放量和供给情况上周（2026-09-07～2026-09-13），抖音集团端原生 AI 短剧播放增量约 781 亿，环比增长约 2.1%。整体来看，全周日播放增量均突破百亿，日均约 111.6 亿，播放表现整体较为强劲。从日趋势看，9 月 12 日播放增量达到 118.2 亿，为全周最高点；9...&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkwNjY3NzI2NA==&amp;mid=2247521838&amp;idx=1&amp;sn=cd9538378ed41f3bc2d08584e9d8d7ba&amp;chksm=c1d16c68feca1b01bb8e7637935d58c3482ff51b47c4197b8b32df3c5b7c2b066f0f8ecde5e2&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>行业动态 · 全球200亿规模！AI短剧再开新赛道，有工具已经领跑了</title>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkwNDYyNDk2Nw==&amp;mid=2247507715&amp;idx=1&amp;sn=d847083ecff6c98bc396371fe8ddb85b&amp;chksm=c1b1f28e83d4ebde6a4c0d1f6bd333ab42915683ebe4f29f2980df3775a6748d19896a2dbef7&amp;scene=0#rd</link>
-      <guid isPermaLink="false">linggou-extra-短剧新势力-5741524060142906529</guid>
-      <pubDate>Tue, 15 Sep 2026 18:19:00 +0800</pubDate>
-      <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 18:19 · 短剧新势力&lt;/p&gt;
-&lt;p&gt;AI短剧下一个增长点在哪儿？扫描下方二维码可直接注册。这个问题，不止短剧新势力，相信很多同行业也都在琢磨。AI短漫剧上半年DataEye的行业数据“热闹得让人心慌”，超22万部作品上线，平均一分钟就有一部新剧冒出来，但播放量破亿的只有堪堪1055部，大量粗制滥造的内容沉底。很多团队转投中剧、长剧，但...&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkwNDYyNDk2Nw==&amp;mid=2247507715&amp;idx=1&amp;sn=d847083ecff6c98bc396371fe8ddb85b&amp;chksm=c1b1f28e83d4ebde6a4c0d1f6bd333ab42915683ebe4f29f2980df3775a6748d19896a2dbef7&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <title>AIGC内容创作 · 做出ChatGPT核心研究的人今天掀桌：大模型搞不定自动化，新架构提速200倍且输出免费</title>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&amp;mid=2247519005&amp;idx=1&amp;sn=236fa730555ff7606396fb6a28950c6d&amp;chksm=cf9f8248dbae8307e00ad93fc09c6198ccd8dc4eb9bb0fb5e7f9a06e852a637ab46b9eab4e84&amp;scene=0#rd</link>
+      <guid isPermaLink="false">linggou-extra-AI寒武纪--7172680886185655401</guid>
+      <pubDate>Wed, 16 Sep 2026 21:00:00 +0800</pubDate>
+      <category>AIGC内容创作</category>
+      <description>&lt;p&gt;&lt;strong&gt;📽️ AIGC 内容创作&lt;/strong&gt; · 今天 21:00 · AI寒武纪&lt;/p&gt;
+&lt;p&gt;↑阅读之前记得关注+星标⭐️，😄，每天才能第一时间接收到更新 语言模型聊天能力超越人类好几年了，可真正的业务自动化到底卡在哪里？这是前 OpenAI 研究员、ChatGPT 背后核心方法开发者 Diogo Almeida 琢磨了四年的问题。当年他参与打造了让大语言模型听懂指令并与人顺畅对话的技术。...&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&amp;mid=2247519005&amp;idx=1&amp;sn=236fa730555ff7606396fb6a28950c6d&amp;chksm=cf9f8248dbae8307e00ad93fc09c6198ccd8dc4eb9bb0fb5e7f9a06e852a637ab46b9eab4e84&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AIGC内容创作 · 抖音集团短剧版权中心上线「日收益展示」功能</title>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkyNjU5MzI1OA==&amp;mid=2247578856&amp;idx=1&amp;sn=5f6d0fddc6b8f4745682295af23ee976&amp;chksm=c3986a9213570ad67c57fb45edb3395746bd7d398030b5bab9cec31ed0b55508aa145d52f46c&amp;scene=0#rd</link>
+      <guid isPermaLink="false">linggou-extra-短剧内行人--6488003442797448315</guid>
+      <pubDate>Wed, 16 Sep 2026 19:45:00 +0800</pubDate>
+      <category>AIGC内容创作</category>
+      <description>&lt;p&gt;&lt;strong&gt;📽️ AIGC 内容创作&lt;/strong&gt; · 今天 19:45 · 短剧内行人&lt;/p&gt;
+&lt;p&gt;短剧内行人从多名创作者获悉，抖音集团短剧版权中心为帮助版权方、投资出品方更及时地了解作品收益表现，优化内容生产方向，短剧创作者中心于2026年9月16日上线短剧日收益展示功能，为内容创作和运营提供数据参考。功能入口登录创作者中心后，切换【版权机构】或【投资出品方】身份，进入「结算中心」-「日收益展示...&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkyNjU5MzI1OA==&amp;mid=2247578856&amp;idx=1&amp;sn=5f6d0fddc6b8f4745682295af23ee976&amp;chksm=c3986a9213570ad67c57fb45edb3395746bd7d398030b5bab9cec31ed0b55508aa145d52f46c&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AIGC内容创作 · 这类题材越来越多，观众为什么买单？</title>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkyNjU5MzI1OA==&amp;mid=2247578849&amp;idx=1&amp;sn=fe40fa474e5a58071940d7f04363b404&amp;chksm=c3bf15e26c60962fd3bda4e732fd2558779e231053ce17364beae2e784c8113baefd38363f0a&amp;scene=0#rd</link>
+      <guid isPermaLink="false">linggou-extra-短剧内行人-1704182325148073306</guid>
+      <pubDate>Wed, 16 Sep 2026 14:50:00 +0800</pubDate>
+      <category>AIGC内容创作</category>
+      <description>&lt;p&gt;&lt;strong&gt;📽️ AIGC 内容创作&lt;/strong&gt; · 今天 14:50 · 短剧内行人&lt;/p&gt;
+&lt;p&gt;8月13日，《相亲对象是迟来的心动》在红果上线。开播24小时，热度冲到5541万，评分9.5，跻身红果真人剧推荐榜和热搜榜TOP2，一个月后，全网播放量突破10亿。看多了套路后，再看这部作品，其实我们会明显感觉到差别。这部剧不靠强冲突去拉扯观众的情绪，对剧中人物关系的处理方式都与传统的短剧不同，转而...&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzkyNjU5MzI1OA==&amp;mid=2247578849&amp;idx=1&amp;sn=fe40fa474e5a58071940d7f04363b404&amp;chksm=c3bf15e26c60962fd3bda4e732fd2558779e231053ce17364beae2e784c8113baefd38363f0a&amp;scene=0#rd&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
