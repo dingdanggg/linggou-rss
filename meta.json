@@ -1,27 +1,30 @@
 {
-  "generated_at": "2026-09-18T13:34:29.835138+08:00",
-  "total": 24,
-  "linggou": 18,
+  "generated_at": "2026-09-21T13:56:09.887421+08:00",
+  "total": 41,
+  "linggou": 35,
   "social_topics": 0,
   "sources": {
-    "X：Rohan Paul (@rohanpaul_ai)": 1,
+    "X：通义千问 / Qwen (@Alibaba_Qwen)": 2,
+    "MarkTechPost（RSS）": 1,
+    "Qwen：Blog Retrieval（API）": 2,
+    "公众号：阶跃星辰（Step）": 1,
     "Hacker News 热门（buzzing.cc 中文翻译）": 1,
-    "X：AI at Meta (@AIatMeta)": 1,
-    "404 Media（RSS）": 1,
-    "Anthropic：Research（发表成果 · 网页）": 1,
-    "TechCrunch：AI（RSS）": 1,
-    "The Verge：AI（RSS）": 1,
-    "Goodfire Research（网页）": 1,
-    "Dwarkesh Patel：Podcast & Blog（RSS）": 1,
-    "X：Unsloth (@UnslothAI)": 1,
-    "短剧自习室": 2,
-    "AI寒武纪": 1,
-    "短剧内行人": 4,
-    "短剧新势力": 1
+    "X：Haider (@haider1)": 1,
+    "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)": 1,
+    "IT之家（RSS）": 2,
+    "X：Rohan Paul (@rohanpaul_ai)": 1,
+    "Gary Marcus：The Road to AI We Can Trust（RSS）": 2,
+    "Hacker News：AI 热帖": 2,
+    "The Decoder：AI News（RSS）": 1,
+    "短剧自习室": 5,
+    "AI寒武纪": 4,
+    "DataEye短剧观察": 2,
+    "短剧内行人": 2,
+    "短剧新势力": 5
   },
   "categories": {
-    "aigc_content": 7,
-    "tech_tools": 1,
-    "industry": 10
+    "aigc_content": 13,
+    "tech_tools": 2,
+    "industry": 20
   }
 }
