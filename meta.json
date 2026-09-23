@@ -1,20 +1,28 @@
 {
-  "generated_at": "2026-09-22T13:52:49.667724+08:00",
-  "total": 14,
-  "linggou": 7,
+  "generated_at": "2026-09-23T13:32:23.471516+08:00",
+  "total": 30,
+  "linggou": 20,
   "social_topics": 0,
   "sources": {
-    "X：Artificial Analysis (@ArtificialAnlys)": 1,
-    "X：Arena (@arena)": 1,
-    "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)": 1,
-    "X：小米 MiMo (@XiaomiMiMo)": 1,
-    "Artificial Analysis 完整文章（网页）": 1,
-    "X：Elon Musk (@elonmusk, xAI)": 1,
-    "Linear：Now（RSS）": 1
+    "MarkTechPost（RSS）": 1,
+    "X：通义千问 / Qwen (@Alibaba_Qwen)": 1,
+    "Simon Willison 博客": 1,
+    "X：Tibo (@thsottiaux)": 1,
+    "Artificial Analysis 完整文章（网页）": 2,
+    "Hacker News 热门（buzzing.cc 中文翻译）": 1,
+    "X：Arena (@arena)": 2,
+    "Hacker News：AI 热帖": 2,
+    "X：Sam Altman (@sama)": 2,
+    "X：OpenRouter (@OpenRouter)": 1,
+    "X：Artificial Analysis (@ArtificialAnlys)": 2,
+    "Claude Code：GitHub Releases（RSS）": 1,
+    "LlamaIndex：产品、工程与评测": 1,
+    "Apple：Newsroom（RSS）": 1,
+    "X：Kimi.ai (@Kimi_Moonshot)": 1
   },
   "categories": {
     "aigc_content": 0,
-    "tech_tools": 1,
-    "industry": 6
+    "tech_tools": 2,
+    "industry": 18
   }
 }
