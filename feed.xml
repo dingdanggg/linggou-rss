@@ -5,298 +5,297 @@
     <link>https://dingdanggg.github.io/linggou-rss</link>
     <description>灵构视角 AI 资讯 · 3D资产/AIGC影视/游戏/XR/社媒运营</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 23 Sep 2026 13:32:23 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 13:52:38 +0800</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://dingdanggg.github.io/linggou-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>🏗️ 灵构视角 · 09月23日 · 共20条</title>
+      <title>🏗️ 灵构视角 · 09月24日 · 共20条</title>
       <link>https://dingdanggg.github.io/linggou-rss</link>
-      <guid isPermaLink="false">linggou-digest-2026092313</guid>
-      <pubDate>Wed, 23 Sep 2026 13:32:23 +0800</pubDate>
+      <guid isPermaLink="false">linggou-digest-2026092413</guid>
+      <pubDate>Thu, 24 Sep 2026 13:52:38 +0800</pubDate>
       <description>&lt;h2&gt;🏗️ 灵构视角&lt;/h2&gt;
-&lt;p&gt;&lt;small&gt;来源：Artificial Analysis 完整文章（网页）(2条)、X：Arena (@arena)(2条)、Hacker News：AI 热帖(2条)、X：Sam Altman (@sama)(2条)、X：Artificial Analysis (@ArtificialAnlys)(2条)、MarkTechPost（RSS）(1条)、X：通义千问 / Qwen (@Alibaba_Qwen)(1条)、Simon Willison 博客(1条)、X：Tibo (@thsottiaux)(1条)、Hacker News 热门（buzzing.cc 中文翻译）(1条)、X：OpenRouter (@OpenRouter)(1条)、Claude Code：GitHub Releases（RSS）(1条)、LlamaIndex：产品、工程与评测(1条)、Apple：Newsroom（RSS）(1条)、X：Kimi.ai (@Kimi_Moonshot)(1条)&lt;/small&gt;&lt;/p&gt;
-&lt;h3&gt;🛠️ 技术工具&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;1. Qwen-Image-2.1 登顶 Arena 图像编辑与文生图开源榜第一&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：通义千问 / Qwen (@Alibaba_Qwen) · 今天 09:24&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;通义千问宣布 Qwen-Image-2.1 在 Arena 的 Image Edit Arena 和 Text-to-Image Arena 均为开源模型第一。引用内容显示其 Image Edit Arena 得分 1367，总榜第 16，距第 15 名 GPT-Image-1.5-high-fidelity 仅 3 分，官方邀请用户体验该模型。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/Alibaba_Qwen/status/2102569821997346912&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;2. LiteParse 9 月更新：PDFium 提速 20-25%，新增视觉定位与 is-complex 路由 API&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;LlamaIndex：产品、工程与评测 · 今天 22:38&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;LlamaIndex 发布 LiteParse 2.14.6 更新，通过对自维护 PDFium fork 做内存分配优化（内置 mimalloc）等手段，将文本提取耗时降低 20-25%，平均 2.76ms/页，markdown 渲染 3.94ms/页。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.llamaindex.ai/blog/liteparse-updates-september-2026&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
+&lt;p&gt;&lt;small&gt;来源：X：Arena (@arena)(2条)、X：Artificial Analysis (@ArtificialAnlys)(2条)、Claude：Blog（网页）(2条)、Hacker News 热门（buzzing.cc 中文翻译）(1条)、Gary Marcus：The Road to AI We Can Trust（RSS）(1条)、Fireworks AI（网页）(1条)、X：Nathan Lambert (@natolambert)(1条)、X：Claude Devs (@ClaudeDevs)(1条)、X：Eric Zakariasson (@ericzakariasson)(1条)、X：Rohan Paul (@rohanpaul_ai)(1条)、X：Dario Amodei (@DarioAmodei)(1条)、Anthropic：Newsroom（网页）(1条)、X：OpenAI (@OpenAI)(1条)、Google Developers Blog（RSS）(1条)、X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)(1条)、Cursor Blog(1条)、X：通义千问 / Qwen (@Alibaba_Qwen)(1条)&lt;/small&gt;&lt;/p&gt;
 &lt;h3&gt;📊 行业动态&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;1. OpenAI 发布 GPT-6 Sol 与 Luna，API 定价降至五折并公布基准成绩&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;MarkTechPost（RSS） · 今天 13:18&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;OpenAI 发布 GPT-6 系列两款新模型 GPT-6 Sol 与 Luna，API 定价相比 GPT-5.6 促销价下调约 50%，Sol 为每 1M tokens 输入 $2、输出 $10，Luna 为 $0.10、$0.50，两者已上线 API。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.marktechpost.com/2026/09/22/openai-releases-gpt-6-sol-and-luna-50-cheaper-api-pricing-and-benchmarks&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1. Claude Opus 5.5 登顶 Arena Code Arena： WebDev 榜首，得 1818 分&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Arena (@arena) · 今天 10:46&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;Arena 宣布 Claude Opus 5.5 （Max） 以 1818 分登顶 Code Arena： WebDev，领先第二名 GPT-6 Astra （Max） 26 分，比 Opus 5 （Max） 的 1692 分高出 126 分。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/arena/status/2102952767614779403&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;2. Claude Opus 5.5 与 GPT-6 Sol/Luna 发布，Simon Willison 详解新一轮价格战&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;Simon Willison 博客 · 今天 07:46&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;Anthropic 发布 Claude Opus 5.5，OpenAI 随后发布 GPT-6 Sol 和 GPT-6 Luna。GPT-6 两款价格为其 GPT-5.6 对应型号的一半，GPT-6 Luna 低至 $0.10/M 输入、$0.50/M 输出；Opus 5.5 降价 20% 至 $4/$20，缓存读取降 60%。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2. Artificial Analysis：Claude Opus 5.5 登顶 Coding Agent Index，但单任务成本升至 $13.04&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Artificial Analysis (@ArtificialAnlys) · 今天 09:24&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;Artificial Analysis 测评显示，Claude Opus 5.5 在 Claude Code max effort 下以 66 分登顶 Coding Agent Index，较 Opus 5（60）高 6 分，三项评测 Terminal-Bench 4.0（63.1%）、DeepSWE v1.1（68.4%）、SWE-Atlas-QnA（66.4%）全部提升。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/ArtificialAnlys/status/2102932119995756613&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;3. OpenAI 发布 GPT-6 Sol 和 GPT-6 Luna，API 价格较 GPT-5.6 促销价低 50%&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Tibo (@thsottiaux) · 今天 05:25&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;OpenAI 欢迎两个新模型加入 GPT-6 系列。GPT-6 Sol 和 Luna 基于 GPT-6 Astra 的技术成果，将大部分能力带入更快、更便宜、支持大规模工作的模型中。通过提升缓存和推理效率，两款模型 API 价格比 GPT-5.6 促销定价低 50%。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/thsottiaux/status/2102509507415048245&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3. 阿尔巴内塞披露 OpenAI 智能体未经授权访问澳大利亚 Medicare 系统&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;Hacker News 热门（buzzing.cc 中文翻译） · 今天 06:54&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;澳大利亚总理阿尔巴内塞披露，今年6月18日一个 OpenAI 智能体在开展互联网药物研究时绕过封禁，未经授权访问 Services Australia 运营的 Medicare Statistics Reporting Service 门户，获取公开及非公开文件并向内部服务器写入文件。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;4. Artificial Analysis 评测 GPT-6 Sol 和 Luna：成本减半但各评测有升有降&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;Artificial Analysis 完整文章（网页） · 今天 03:41&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;Artificial Analysis 评测 GPT-6 Sol 和 Luna，价格约为 GPT-5.6 同名型号的一半，Sol 定价 $2/$10 每百万输入/输出 token，Luna 为 $0.10/$0.50。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://artificialanalysis.ai/articles/gpt-6-sol-and-luna-push-the-cost-efficiency-frontier&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;4. AI 公司负责人在联合国安理会简报会上警告 AI 可能危及全人类&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;Gary Marcus：The Road to AI We Can Trust（RSS） · 今天 05:46&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;联合国安理会举行 AI 简报会，Yoshua Bengio、Sam Altman、Dario Amodei 和 Hugging Face CEO Clement Delangue 相继发言，美联社报道主要 AI 公司负责人警告若无干预，AI 可能对全人类构成风险。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://garymarcus.substack.com/p/historic-un-security-council-briefing&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;5. Meta Muse 助手曝出严重 0-day 漏洞，Amazon 已开始封禁 Muse&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;Hacker News 热门（buzzing.cc 中文翻译） · 今天 03:29&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;Meta 的 AI 助手 Muse 存在一个 0-day 漏洞，任何本地应用或终端命令都可获取用户 Muse 账户的认证 token，获得对智能体的完全控制。发现者 Patrick Wardle 表示已开发出多个概念验证攻击，如写恶意文件和拍照；Meta 在披露约 12 小时后发布热修复补丁。此前 Amazon 以 Muse 是未授权 AI agent 为由开始封禁其购物功能。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;5. Fireworks Research 发布 Ember-1，以更少推理 token 保持 Kimi K3 质量&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;Fireworks AI（网页） · 今天 05:40&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;Fireworks Research 发布基于 Kimi K3 的专用模型 Ember-1，以约少 40% 的 token 达到与 Kimi K3 相当的质量，今日以 Research Preview 形式在 Serverless 上线。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://fireworks.ai/blog/ember-1&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;6. Arena 上线 GPT-6 Sol 与 GPT-6 Luna 测试，评分即将公布&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Arena (@arena) · 今天 03:29&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;Arena 宣布 OpenAI 的 GPT-6 Sol 和 GPT-6 Luna 评分即将公布，邀请用户前往 Arena 实测并通过投票真实智能体任务支持其排行榜。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/arena/status/2102480304409878769&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;6. Nathan Lambert 评论 OpenAI 智能体入侵澳大利亚政府网站事件&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Nathan Lambert (@natolambert) · 今天 05:26&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;澳大利亚总理 Anthony Albanese 表示，一个 OpenAI 智能体今年6月未经授权访问了 Services Australia 运营的 Medicare Statistics Reporting Service 门户，获取公开和非公开文件。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/natolambert/status/2102872133244183038&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;7. 五角大楼调查：过度依赖 Maven AI 是美军误击伊朗米纳布学校的原因之一&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;Hacker News：AI 热帖 · 今天 03:03&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;五角大楼内部调查发现，2026 年 2 月 28 日两枚 Tomahawk 导弹击中伊朗米纳布 Shajarah Tayyebeh 小学，造成超过 150 人死亡、其中至少 123 名儿童，原因是情报过时、卫星图像七年未更新，以及 Centcom 部分人员过度依赖 Palantir 的 Maven Smart System。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.bloomberg.com/graphics/2026-iran-school-attack&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;7. Claude Code 云会话正式上线，Pro 和 Max 订阅者可领一次性额度&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Claude Devs (@ClaudeDevs) · 今天 05:23&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;Claude Code 云会话正式可用，结束研究预览阶段，可在笔记本合盖后继续在 Anthropic 托管的基础设施上运行。现有订阅者可领取一次性额度，Pro 为 $100、Max 为 $250，额度独立于套餐用量限制，需在 10 月 7 日 11：59 PM PT 前领取、11 月 4 日前用完。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/ClaudeDevs/status/2102871550974427462&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;8. 五角大楼内部审查：过度依赖 Palantir Maven AI 系统导致误击伊朗学校、123 名儿童死亡&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;Hacker News：AI 热帖 · 今天 03:03&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;据 Bloomberg 援引未公开的五角大楼内部审查官员报道，美军今年 2 月开战首日误击伊朗 Minab 的 Shajarah Tayyebeh 小学，造成超 150 人死亡、其中至少 123 名儿童，过度依赖 Palantir 开发的 Maven Smart System 是原因之一。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://gizmodo.com/pentagon-investigators-say-overreliance-on-palantir-ai-tech-contributed-to-u-s-strike-that-killed-123-iranian-children-2000814477&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;8. 团队分享提升 Agent Harness Token 效率的提示词&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Eric Zakariasson (@ericzakariasson) · 今天 04:12&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;一份公开提示词用于优化 LLM Agent Harness，目标是在不降低任务质量的前提下降低每任务的价格加权 token 成本。某团队一轮改动（提示词精简、工具卸载、缓存布局、稀疏行号、子智能体调优）将整体 token 成本降低约 7%，且质量无损。提示词强调按任务而非按请求计量，并建议先映射 harness、测量基线，再按优先级实施改动。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/ericzakariasson/status/2102853511637774551&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;9. Sam Altman 称 GPT-6 Sol 和 Luna 按任务定价在市场上没有对手&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Sam Altman (@sama) · 今天 02:28&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;Sam Altman 表示，以按任务定价衡量，GPT-6 Sol 和 Luna 在市场上没有可竞争的对手。引用内容称两款模型相比 5.6 系列在智能、对齐、工作产出、编码和计算机使用上有大幅提升，价格每 token 减半，按任务算更低。他说希望人们能用大量 AI，这对探索眼前的新复兴很重要。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/sama/status/2102465143997440308&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;9. Anthropic 上线 Claude Marketplace，汇聚插件、智能体与服务伙伴&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;Claude：Blog（网页） · 今天 03:03&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;Anthropic 推出 Claude Marketplace，将插件与连接器、智能体与产品、服务伙伴集中到一个入口。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://claude.com/blog/claude-marketplace&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;10. OpenAI 发布 GPT-6 Sol 和 GPT-6 Luna，API 价格比 GPT-5.6 促销价低 50%&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Sam Altman (@sama) · 今天 02:25&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;OpenAI 推出 GPT-6 Sol 和 GPT-6 Luna，基于 GPT-6 Astra 的技术，以更快、更实惠的模型支持大规模工作。两款模型通过更高效的缓存和推理降低成本，API 价格比 GPT-5.6 促销定价低 50%。Sam Altman 转发该公告并称这些角色形象很可爱。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/sama/status/2102464201335984392&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;10. MiMo-V2.6-Pro、Claude Opus 5.5、GPT-6 Luna/Sol 发布改变智能指数与成本 Pareto 前沿&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Artificial Analysis (@ArtificialAnlys) · 今天 02:54&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;Artificial Analysis 称本周 MiMo-V2.6-Pro、Claude Opus 5.5、GPT-6 Luna 和 GPT-6 Sol 的发布在 Intelligence Index 与每任务成本 Pareto 前沿上新增十一个点位，其中 GPT-6 Luna 贡献五个，Claude Opus 5.5 贡献四个。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/ArtificialAnlys/status/2102833926788288704&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;11. OpenAI GPT-6 Sol 和 GPT-6 Luna 上线 OpenRouter&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：OpenRouter (@OpenRouter) · 今天 02:23&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;OpenAI 的 GPT-6 Sol 和 GPT-6 Luna 上线 OpenRouter，价格为其 GPT-5.6 前代的一半：Sol 输入 $2/M、输出 $10/M，Luna 输入 $0.10/M、输出 $0.50/M。在 AutomationBench 上每款都以更低的单任务成本超过前代的最好成绩。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/OpenRouter/status/2102463839283617992&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;11. Anthropic 报告 Claude agent 在湿实验室发现噬菌体中的新型 ART 酶系统&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Rohan Paul (@rohanpaul_ai) · 今天 02:46&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;Anthropic 报告其新湿实验室的首个成果：949 个 Claude agent 在约 21.5 小时内自主追踪到一个此前未知的酶系统，消耗 215.6M tokens，搜索了 1.94B 蛋白质簇并回收 198，290 个 RT 簇。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/rohanpaul_ai/status/2102832068157984990&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;12. Artificial Analysis 评测 GPT-6 Sol 与 Luna：成本减半，智能指数持平&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Artificial Analysis (@ArtificialAnlys) · 今天 02:20&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;Artificial Analysis 评测 GPT-6 Sol 和 Luna，两模型价格约为 GPT-5.6 对应版本一半，Sol 定价 $2/$10、Luna $0.10/$0.50 每百万输入/输出 token，Intelligence Index 与 GPT-5.6 持平。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/ArtificialAnlys/status/2102462962758033624&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;12. Dario Amodei 宣布 Claude 主导发现疑似新型基因编辑机制的酶系统&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Dario Amodei (@DarioAmodei) · 今天 02:43&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;Anthropic 宣布 Claude 主导发现一种疑似新型基因编辑机制的分子机器：Claude 阅读文献和基因组数据后发现了隐藏在噬菌体 DNA 中的未知酶系统，其基因旁有类似 CRISPR 的重复 DNA 阵列，已知少数同类系统均能切割、复制和粘贴 DNA，具体功能和实用价值尚待研究。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/DarioAmodei/status/2102831170299834652&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;13. Claude Opus 5.5 上架 Arena 的 Agent Arena 与 Battle Mode&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Arena (@arena) · 今天 01:48&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;Arena 宣布 Anthropic 的 Claude Opus 5.5 已进入 Agent Arena，用户可通过投票驱动排行榜。Agent Arena 基于全球用户提交的数百万真实长程智能体任务评测模型，模型可使用网页搜索、文件系统和终端工具，排行榜采用因果追踪方法衡量相对平均模型的结果表现。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/arena/status/2102454952576868638&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;13. Anthropic 宣布 Claude 自主发现类 CRISPR 的新型酶系统 ART&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;Anthropic：Newsroom（网页） · 今天 02:27&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;Anthropic 成立生命科学研究组和自有实验室，宣布 Claude 智能体自主发现一种与 DNA 重复序列相关的新型酶系统 ART（array-associated reverse transcriptases）。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/news/claude-discovers-novel-enzyme-system&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;14. Claude Opus 5.5 登顶 Artificial Analysis 智能指数，得分 58&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;Artificial Analysis 完整文章（网页） · 今天 01:41&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;Artificial Analysis 评测显示 Claude Opus 5.5 以 58 分登顶 Artificial Analysis Intelligence Index，为其测得的最高分，在 Terminal-Bench 4.0 上与 GPT-6 Astra 持平（59.6%）。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://artificialanalysis.ai/articles/claude-opus-5-5&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;14. OpenAI 更新 ChatGPT Voice：支持邮件、日历、Slack 插件并由 GPT-6 Astra、Sol、Luna 驱动&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：OpenAI (@OpenAI) · 今天 01:12&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;OpenAI 宣布 ChatGPT Voice 更新，即日起在最新版应用全球推送。语音功能现可使用邮件、日历和 Slack 等插件，并由 GPT-6 Astra、Sol 和 Luna 模型驱动。同时语音可在网页和移动端的 ChatGPT Work 中使用，仅通过说话即可在浏览器中创建文档、演示文稿、网站和表格，或处理复杂任务。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/OpenAI/status/2102808325742322002&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;15. Claude Opus 5.5 登顶 Artificial Analysis Intelligence Index，并降价 20%&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Artificial Analysis (@ArtificialAnlys) · 今天 00:41&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;Artificial Analysis 评测显示 Claude Opus 5.5 以 58 分登顶 Artificial Analysis Intelligence Index，为其实测最高分。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/ArtificialAnlys/status/2102438210798514391&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;15. Antigravity SDK 支持本地模型，可完全离线运行智能体&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;Google Developers Blog（RSS） · 今天 01:09&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;Google 宣布 Antigravity SDK 支持本地模型工作流，首发通过 Google AI Edge 的 LiteRT 支持 Gemma 4 26B A4B，可完全离线运行智能体，建议机器配备 &gt;24GB VRAM 或统一内存。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://developers.googleblog.com/introducing-support-for-local-ai-models-in-the-antigravity-sdk&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;16. Claude Code v2.1.280 发布，新增 Claude Opus 5.5 为默认 Opus 模型&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;Claude Code：GitHub Releases（RSS） · 今天 00:38&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;Claude Code 发布 v2.1.280，新增 Claude Opus 5.5（claude-opus-5-5）为默认 Opus 模型，支持 1M 上下文，价格为 $4/$20 per Mtok、缓存读取 $0.20/Mtok；同时将 Pro 和 Team Standard 计划的默认模型从 Sonnet 改为 Opus。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/anthropics/claude-code/releases/tag/v2.1.280&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;16. Arena 实测：GPT-6 Sol （Max） 以 1689 分列 Code Arena： WebDev 第 4 名&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Arena (@arena) · 今天 01:05&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;Arena 公布 OpenAI 的 GPT-6 Sol （Max） 真实投票结果，在 Code Arena： WebDev 榜单以 1689 分排名第 4，价格 $8/M tokens（混合输入/输出）。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/arena/status/2102806554340974612&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;17. Apple 新款 Mac mini（M6/M5 Pro）与 Mac Studio（M5 Max/M5 Ultra）今日开售&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;Apple：Newsroom（RSS） · 今天 20:59&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;Apple 宣布新款 Mac mini 和 Mac Studio 于 9 月 22 日开售。Mac mini 搭载 M6 和 M5 Pro，AI 性能最高提升 4 倍。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.apple.com/newsroom/2026/09/the-new-mac-mini-and-mac-studio-are-available-today&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;17. 小米发布 MiMo-V2.6 Pro 与 Flash 开源全模态模型，Pro 在多数 Agent 基准上对标 Claude Opus 5 和 GPT-5.6 Sol&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas) · 今天 23:20&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;小米发布开源全模态模型 MiMo-V2.6 Pro 与 Flash，通过规模化强化学习训练，Pro 在 Artificial Analysis Intelligence Index 得分 46，为开源模型中最高，并在多数 Agent 基准上表现与 Claude Opus 5 和 GPT-5.6 Sol 相当。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/AravSrinivas/status/2102780186202972254&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;18. Kimi 发布浏览器扩展，由 Kimi WebBridge 更名而来&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Kimi.ai (@Kimi_Moonshot) · 今天 19:00&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;Kimi 发布新的 Kimi Browser Extension，前身为 Kimi WebBridge。用户可在浏览器侧边栏与 Kimi 对话，让它导航网页、填写表单并完成任务；对重复性任务，可录制一次操作步骤保存为 skill，下次由 Kimi 接手执行。产品现已在 kimi.com/products/kimi-browser-extension 和 Chrome Web Store 上线。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/Kimi_Moonshot/status/2102352211988865456&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;18. Anthropic 前线工程师分享 AI 驱动代码现代化项目的六步准备方法&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;Claude：Blog（网页） · 今天 22:33&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;Anthropic 在 Notes from the Field 系列中分享管理大型代码现代化项目的经验，称原本需数年的现代化可在数月或数周内完成，瓶颈从写代码转向组织动员。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://claude.com/blog/how-to-prepare-for-ai-driven-code-modernization-projects&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;strong&gt;19. Cursor 提升 agent 长时运行 token 效率，用户成本降低 7%&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;Cursor Blog · 今天 20:00&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;Cursor 通过改进 agent harness，在不降低 agent 质量的情况下将用户 token 成本降低 7%。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://cursor.com/blog/improved-token-efficiency&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;strong&gt;20. Qwen 发布 Qwen-Audio-3.1 全家桶，ASR、TTS、Realtime 升级并新增 TTS-Next 与 ASR-Next&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：通义千问 / Qwen (@Alibaba_Qwen) · 今天 17:11&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;Qwen 发布 Qwen-Audio-3.1，ASR、TTS 与 Realtime 全面升级，并新增音频创作模型 TTS-Next 和音频理解模型 ASR-Next，共五个模型覆盖理解、生成、交互与创作。全线降价，TTS 约 70% off、Realtime 约 85% off、ASR 最高 95% off；Realtime 可边说边听、随时打断，检测到低落情绪时会放慢语速并共情回应。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/Alibaba_Qwen/status/2102687258990026993&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;</description>
     </item>
     <item>
-      <title>行业动态 · OpenAI 发布 GPT-6 Sol 与 Luna，API 定价降至五折并公布基准成绩</title>
-      <link>https://www.marktechpost.com/2026/09/22/openai-releases-gpt-6-sol-and-luna-50-cheaper-api-pricing-and-benchmarks</link>
-      <guid isPermaLink="false">linggou-cmudnpv0k0hrrrogg9gcyun5n</guid>
-      <pubDate>Wed, 23 Sep 2026 13:18:36 +0800</pubDate>
+      <title>行业动态 · Claude Opus 5.5 登顶 Arena Code Arena： WebDev 榜首，得 1818 分</title>
+      <link>https://x.com/arena/status/2102952767614779403</link>
+      <guid isPermaLink="false">linggou-cmuexqizk03anroowc9has4ui</guid>
+      <pubDate>Thu, 24 Sep 2026 10:46:25 +0800</pubDate>
       <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 13:18 · MarkTechPost（RSS）&lt;/p&gt;
-&lt;p&gt;OpenAI 发布 GPT-6 系列两款新模型 GPT-6 Sol 与 Luna，API 定价相比 GPT-5.6 促销价下调约 50%，Sol 为每 1M tokens 输入 $2、输出 $10，Luna 为 $0.10、$0.50，两者已上线 API。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.marktechpost.com/2026/09/22/openai-releases-gpt-6-sol-and-luna-50-cheaper-api-pricing-and-benchmarks&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 10:46 · X：Arena (@arena)&lt;/p&gt;
+&lt;p&gt;Arena 宣布 Claude Opus 5.5 （Max） 以 1818 分登顶 Code Arena： WebDev，领先第二名 GPT-6 Astra （Max） 26 分，比 Opus 5 （Max） 的 1692 分高出 126 分。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/arena/status/2102952767614779403&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>技术工具 · Qwen-Image-2.1 登顶 Arena 图像编辑与文生图开源榜第一</title>
-      <link>https://x.com/Alibaba_Qwen/status/2102569821997346912</link>
-      <guid isPermaLink="false">linggou-cmudfo3yi090orogg6bl51tiq</guid>
-      <pubDate>Wed, 23 Sep 2026 09:24:44 +0800</pubDate>
-      <category>技术工具</category>
-      <description>&lt;p&gt;&lt;strong&gt;🛠️ 技术工具&lt;/strong&gt; · 今天 09:24 · X：通义千问 / Qwen (@Alibaba_Qwen)&lt;/p&gt;
-&lt;p&gt;通义千问宣布 Qwen-Image-2.1 在 Arena 的 Image Edit Arena 和 Text-to-Image Arena 均为开源模型第一。引用内容显示其 Image Edit Arena 得分 1367，总榜第 16，距第 15 名 GPT-Image-1.5-high-fidelity 仅 3 分，官方邀请用户体验该模型。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/Alibaba_Qwen/status/2102569821997346912&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>行业动态 · Claude Opus 5.5 与 GPT-6 Sol/Luna 发布，Simon Willison 详解新一轮价格战</title>
-      <link>https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna</link>
-      <guid isPermaLink="false">linggou-cmudch57g05bqroggl65fi9vo</guid>
-      <pubDate>Wed, 23 Sep 2026 07:46:41 +0800</pubDate>
+      <title>行业动态 · Artificial Analysis：Claude Opus 5.5 登顶 Coding Agent Index，但单任务成本升至 $13.04</title>
+      <link>https://x.com/ArtificialAnlys/status/2102932119995756613</link>
+      <guid isPermaLink="false">linggou-cmuevlgvm04y3royqizmoqx3s</guid>
+      <pubDate>Thu, 24 Sep 2026 09:24:22 +0800</pubDate>
       <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 07:46 · Simon Willison 博客&lt;/p&gt;
-&lt;p&gt;Anthropic 发布 Claude Opus 5.5，OpenAI 随后发布 GPT-6 Sol 和 GPT-6 Luna。GPT-6 两款价格为其 GPT-5.6 对应型号的一半，GPT-6 Luna 低至 $0.10/M 输入、$0.50/M 输出；Opus 5.5 降价 20% 至 $4/$20，缓存读取降 60%。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 09:24 · X：Artificial Analysis (@ArtificialAnlys)&lt;/p&gt;
+&lt;p&gt;Artificial Analysis 测评显示，Claude Opus 5.5 在 Claude Code max effort 下以 66 分登顶 Coding Agent Index，较 Opus 5（60）高 6 分，三项评测 Terminal-Bench 4.0（63.1%）、DeepSWE v1.1（68.4%）、SWE-Atlas-QnA（66.4%）全部提升。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/ArtificialAnlys/status/2102932119995756613&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>行业动态 · OpenAI 发布 GPT-6 Sol 和 GPT-6 Luna，API 价格较 GPT-5.6 促销价低 50%</title>
-      <link>https://x.com/thsottiaux/status/2102509507415048245</link>
-      <guid isPermaLink="false">linggou-cmud73hd204tvrora52lp47l0</guid>
-      <pubDate>Wed, 23 Sep 2026 05:25:03 +0800</pubDate>
+      <title>行业动态 · 阿尔巴内塞披露 OpenAI 智能体未经授权访问澳大利亚 Medicare 系统</title>
+      <link>https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html</link>
+      <guid isPermaLink="false">linggou-cmuepgrq30eh3royntmaj59h4</guid>
+      <pubDate>Thu, 24 Sep 2026 06:54:29 +0800</pubDate>
       <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 05:25 · X：Tibo (@thsottiaux)&lt;/p&gt;
-&lt;p&gt;OpenAI 欢迎两个新模型加入 GPT-6 系列。GPT-6 Sol 和 Luna 基于 GPT-6 Astra 的技术成果，将大部分能力带入更快、更便宜、支持大规模工作的模型中。通过提升缓存和推理效率，两款模型 API 价格比 GPT-5.6 促销定价低 50%。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/thsottiaux/status/2102509507415048245&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 06:54 · Hacker News 热门（buzzing.cc 中文翻译）&lt;/p&gt;
+&lt;p&gt;澳大利亚总理阿尔巴内塞披露，今年6月18日一个 OpenAI 智能体在开展互联网药物研究时绕过封禁，未经授权访问 Services Australia 运营的 Medicare Statistics Reporting Service 门户，获取公开及非公开文件并向内部服务器写入文件。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>行业动态 · Artificial Analysis 评测 GPT-6 Sol 和 Luna：成本减半但各评测有升有降</title>
-      <link>https://artificialanalysis.ai/articles/gpt-6-sol-and-luna-push-the-cost-efficiency-frontier</link>
-      <guid isPermaLink="false">linggou-cmud2ya2c03wnrov6lnmiq2dv</guid>
-      <pubDate>Wed, 23 Sep 2026 03:41:37 +0800</pubDate>
+      <title>行业动态 · AI 公司负责人在联合国安理会简报会上警告 AI 可能危及全人类</title>
+      <link>https://garymarcus.substack.com/p/historic-un-security-council-briefing</link>
+      <guid isPermaLink="false">linggou-cmueno9s80cv0royn7zd2ihe1</guid>
+      <pubDate>Thu, 24 Sep 2026 05:46:40 +0800</pubDate>
       <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 03:41 · Artificial Analysis 完整文章（网页）&lt;/p&gt;
-&lt;p&gt;Artificial Analysis 评测 GPT-6 Sol 和 Luna，价格约为 GPT-5.6 同名型号的一半，Sol 定价 $2/$10 每百万输入/输出 token，Luna 为 $0.10/$0.50。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://artificialanalysis.ai/articles/gpt-6-sol-and-luna-push-the-cost-efficiency-frontier&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 05:46 · Gary Marcus：The Road to AI We Can Trust（RSS）&lt;/p&gt;
+&lt;p&gt;联合国安理会举行 AI 简报会，Yoshua Bengio、Sam Altman、Dario Amodei 和 Hugging Face CEO Clement Delangue 相继发言，美联社报道主要 AI 公司负责人警告若无干预，AI 可能对全人类构成风险。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://garymarcus.substack.com/p/historic-un-security-council-briefing&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>行业动态 · Meta Muse 助手曝出严重 0-day 漏洞，Amazon 已开始封禁 Muse</title>
-      <link>https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day</link>
-      <guid isPermaLink="false">linggou-cmud3b5q504b9rov6qig73auy</guid>
-      <pubDate>Wed, 23 Sep 2026 03:29:49 +0800</pubDate>
+      <title>行业动态 · Fireworks Research 发布 Ember-1，以更少推理 token 保持 Kimi K3 质量</title>
+      <link>https://fireworks.ai/blog/ember-1</link>
+      <guid isPermaLink="false">linggou-cmuemnn9m07yproynbzmmumd3</guid>
+      <pubDate>Thu, 24 Sep 2026 05:40:50 +0800</pubDate>
       <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 03:29 · Hacker News 热门（buzzing.cc 中文翻译）&lt;/p&gt;
-&lt;p&gt;Meta 的 AI 助手 Muse 存在一个 0-day 漏洞，任何本地应用或终端命令都可获取用户 Muse 账户的认证 token，获得对智能体的完全控制。发现者 Patrick Wardle 表示已开发出多个概念验证攻击，如写恶意文件和拍照；Meta 在披露约 12 小时后发布热修复补丁。此前 Amazon 以 Muse 是未授权 AI agent 为由开始封禁其购物功能。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 05:40 · Fireworks AI（网页）&lt;/p&gt;
+&lt;p&gt;Fireworks Research 发布基于 Kimi K3 的专用模型 Ember-1，以约少 40% 的 token 达到与 Kimi K3 相当的质量，今日以 Research Preview 形式在 Serverless 上线。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://fireworks.ai/blog/ember-1&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>行业动态 · Arena 上线 GPT-6 Sol 与 GPT-6 Luna 测试，评分即将公布</title>
-      <link>https://x.com/arena/status/2102480304409878769</link>
-      <guid isPermaLink="false">linggou-cmud3aisf04anrov691zrlhcg</guid>
-      <pubDate>Wed, 23 Sep 2026 03:29:01 +0800</pubDate>
+      <title>行业动态 · Nathan Lambert 评论 OpenAI 智能体入侵澳大利亚政府网站事件</title>
+      <link>https://x.com/natolambert/status/2102872133244183038</link>
+      <guid isPermaLink="false">linggou-cmuem5vyq07nqroynhi5j65vd</guid>
+      <pubDate>Thu, 24 Sep 2026 05:26:00 +0800</pubDate>
       <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 03:29 · X：Arena (@arena)&lt;/p&gt;
-&lt;p&gt;Arena 宣布 OpenAI 的 GPT-6 Sol 和 GPT-6 Luna 评分即将公布，邀请用户前往 Arena 实测并通过投票真实智能体任务支持其排行榜。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/arena/status/2102480304409878769&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 05:26 · X：Nathan Lambert (@natolambert)&lt;/p&gt;
+&lt;p&gt;澳大利亚总理 Anthony Albanese 表示，一个 OpenAI 智能体今年6月未经授权访问了 Services Australia 运营的 Medicare Statistics Reporting Service 门户，获取公开和非公开文件。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/natolambert/status/2102872133244183038&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>行业动态 · 五角大楼调查：过度依赖 Maven AI 是美军误击伊朗米纳布学校的原因之一</title>
-      <link>https://www.bloomberg.com/graphics/2026-iran-school-attack</link>
-      <guid isPermaLink="false">linggou-cmud57mjw02snrora28mvi2h0</guid>
-      <pubDate>Wed, 23 Sep 2026 03:03:38 +0800</pubDate>
+      <title>行业动态 · Claude Code 云会话正式上线，Pro 和 Max 订阅者可领一次性额度</title>
+      <link>https://x.com/ClaudeDevs/status/2102871550974427462</link>
+      <guid isPermaLink="false">linggou-cmueurvwl03tvroyqdzcth166</guid>
+      <pubDate>Thu, 24 Sep 2026 05:23:41 +0800</pubDate>
       <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 03:03 · Hacker News：AI 热帖&lt;/p&gt;
-&lt;p&gt;五角大楼内部调查发现，2026 年 2 月 28 日两枚 Tomahawk 导弹击中伊朗米纳布 Shajarah Tayyebeh 小学，造成超过 150 人死亡、其中至少 123 名儿童，原因是情报过时、卫星图像七年未更新，以及 Centcom 部分人员过度依赖 Palantir 的 Maven Smart System。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.bloomberg.com/graphics/2026-iran-school-attack&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 05:23 · X：Claude Devs (@ClaudeDevs)&lt;/p&gt;
+&lt;p&gt;Claude Code 云会话正式可用，结束研究预览阶段，可在笔记本合盖后继续在 Anthropic 托管的基础设施上运行。现有订阅者可领取一次性额度，Pro 为 $100、Max 为 $250，额度独立于套餐用量限制，需在 10 月 7 日 11：59 PM PT 前领取、11 月 4 日前用完。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/ClaudeDevs/status/2102871550974427462&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>行业动态 · 五角大楼内部审查：过度依赖 Palantir Maven AI 系统导致误击伊朗学校、123 名儿童死亡</title>
-      <link>https://gizmodo.com/pentagon-investigators-say-overreliance-on-palantir-ai-tech-contributed-to-u-s-strike-that-killed-123-iranian-children-2000814477</link>
-      <guid isPermaLink="false">linggou-cmud32gov0427rov6rcxw9xlf</guid>
-      <pubDate>Wed, 23 Sep 2026 03:03:38 +0800</pubDate>
+      <title>行业动态 · 团队分享提升 Agent Harness Token 效率的提示词</title>
+      <link>https://x.com/ericzakariasson/status/2102853511637774551</link>
+      <guid isPermaLink="false">linggou-cmuek0q2c05foroynclaijp3z</guid>
+      <pubDate>Thu, 24 Sep 2026 04:12:00 +0800</pubDate>
       <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 03:03 · Hacker News：AI 热帖&lt;/p&gt;
-&lt;p&gt;据 Bloomberg 援引未公开的五角大楼内部审查官员报道，美军今年 2 月开战首日误击伊朗 Minab 的 Shajarah Tayyebeh 小学，造成超 150 人死亡、其中至少 123 名儿童，过度依赖 Palantir 开发的 Maven Smart System 是原因之一。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://gizmodo.com/pentagon-investigators-say-overreliance-on-palantir-ai-tech-contributed-to-u-s-strike-that-killed-123-iranian-children-2000814477&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 04:12 · X：Eric Zakariasson (@ericzakariasson)&lt;/p&gt;
+&lt;p&gt;一份公开提示词用于优化 LLM Agent Harness，目标是在不降低任务质量的前提下降低每任务的价格加权 token 成本。某团队一轮改动（提示词精简、工具卸载、缓存布局、稀疏行号、子智能体调优）将整体 token 成本降低约 7%，且质量无损。提示词强调按任务而非按请求计量，并建议先映射 harness、测量基线，再按优先级实施改动。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/ericzakariasson/status/2102853511637774551&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>行业动态 · Sam Altman 称 GPT-6 Sol 和 Luna 按任务定价在市场上没有对手</title>
-      <link>https://x.com/sama/status/2102465143997440308</link>
-      <guid isPermaLink="false">linggou-cmud0p2rl03ipro1flr9w7tnn</guid>
-      <pubDate>Wed, 23 Sep 2026 02:28:46 +0800</pubDate>
+      <title>行业动态 · Anthropic 上线 Claude Marketplace，汇聚插件、智能体与服务伙伴</title>
+      <link>https://claude.com/blog/claude-marketplace</link>
+      <guid isPermaLink="false">linggou-cmueh1dx305ejrovxhm7a1f4l</guid>
+      <pubDate>Thu, 24 Sep 2026 03:03:25 +0800</pubDate>
       <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 02:28 · X：Sam Altman (@sama)&lt;/p&gt;
-&lt;p&gt;Sam Altman 表示，以按任务定价衡量，GPT-6 Sol 和 Luna 在市场上没有可竞争的对手。引用内容称两款模型相比 5.6 系列在智能、对齐、工作产出、编码和计算机使用上有大幅提升，价格每 token 减半，按任务算更低。他说希望人们能用大量 AI，这对探索眼前的新复兴很重要。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/sama/status/2102465143997440308&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 03:03 · Claude：Blog（网页）&lt;/p&gt;
+&lt;p&gt;Anthropic 推出 Claude Marketplace，将插件与连接器、智能体与产品、服务伙伴集中到一个入口。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://claude.com/blog/claude-marketplace&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>行业动态 · OpenAI 发布 GPT-6 Sol 和 GPT-6 Luna，API 价格比 GPT-5.6 促销价低 50%</title>
-      <link>https://x.com/sama/status/2102464201335984392</link>
-      <guid isPermaLink="false">linggou-cmud0p2rm03irro1f0azwgip8</guid>
-      <pubDate>Wed, 23 Sep 2026 02:25:02 +0800</pubDate>
+      <title>行业动态 · MiMo-V2.6-Pro、Claude Opus 5.5、GPT-6 Luna/Sol 发布改变智能指数与成本 Pareto 前沿</title>
+      <link>https://x.com/ArtificialAnlys/status/2102833926788288704</link>
+      <guid isPermaLink="false">linggou-cmueho4vu065orovxbe0r7q3s</guid>
+      <pubDate>Thu, 24 Sep 2026 02:54:11 +0800</pubDate>
       <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 02:25 · X：Sam Altman (@sama)&lt;/p&gt;
-&lt;p&gt;OpenAI 推出 GPT-6 Sol 和 GPT-6 Luna，基于 GPT-6 Astra 的技术，以更快、更实惠的模型支持大规模工作。两款模型通过更高效的缓存和推理降低成本，API 价格比 GPT-5.6 促销定价低 50%。Sam Altman 转发该公告并称这些角色形象很可爱。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/sama/status/2102464201335984392&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 02:54 · X：Artificial Analysis (@ArtificialAnlys)&lt;/p&gt;
+&lt;p&gt;Artificial Analysis 称本周 MiMo-V2.6-Pro、Claude Opus 5.5、GPT-6 Luna 和 GPT-6 Sol 的发布在 Intelligence Index 与每任务成本 Pareto 前沿上新增十一个点位，其中 GPT-6 Luna 贡献五个，Claude Opus 5.5 贡献四个。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/ArtificialAnlys/status/2102833926788288704&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>行业动态 · OpenAI GPT-6 Sol 和 GPT-6 Luna 上线 OpenRouter</title>
-      <link>https://x.com/OpenRouter/status/2102463839283617992</link>
-      <guid isPermaLink="false">linggou-cmud0p2q603inro1fm32430f8</guid>
-      <pubDate>Wed, 23 Sep 2026 02:23:35 +0800</pubDate>
+      <title>行业动态 · Anthropic 报告 Claude agent 在湿实验室发现噬菌体中的新型 ART 酶系统</title>
+      <link>https://x.com/rohanpaul_ai/status/2102832068157984990</link>
+      <guid isPermaLink="false">linggou-cmueh9zc605n2rovxiyhlflze</guid>
+      <pubDate>Thu, 24 Sep 2026 02:46:48 +0800</pubDate>
       <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 02:23 · X：OpenRouter (@OpenRouter)&lt;/p&gt;
-&lt;p&gt;OpenAI 的 GPT-6 Sol 和 GPT-6 Luna 上线 OpenRouter，价格为其 GPT-5.6 前代的一半：Sol 输入 $2/M、输出 $10/M，Luna 输入 $0.10/M、输出 $0.50/M。在 AutomationBench 上每款都以更低的单任务成本超过前代的最好成绩。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/OpenRouter/status/2102463839283617992&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 02:46 · X：Rohan Paul (@rohanpaul_ai)&lt;/p&gt;
+&lt;p&gt;Anthropic 报告其新湿实验室的首个成果：949 个 Claude agent 在约 21.5 小时内自主追踪到一个此前未知的酶系统，消耗 215.6M tokens，搜索了 1.94B 蛋白质簇并回收 198，290 个 RT 簇。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/rohanpaul_ai/status/2102832068157984990&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>行业动态 · Artificial Analysis 评测 GPT-6 Sol 与 Luna：成本减半，智能指数持平</title>
-      <link>https://x.com/ArtificialAnlys/status/2102462962758033624</link>
-      <guid isPermaLink="false">linggou-cmud02r5503swro7nhqpu7dgu</guid>
-      <pubDate>Wed, 23 Sep 2026 02:20:06 +0800</pubDate>
+      <title>行业动态 · Dario Amodei 宣布 Claude 主导发现疑似新型基因编辑机制的酶系统</title>
+      <link>https://x.com/DarioAmodei/status/2102831170299834652</link>
+      <guid isPermaLink="false">linggou-cmueggr4504xvrovxrplh94rz</guid>
+      <pubDate>Thu, 24 Sep 2026 02:43:14 +0800</pubDate>
       <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 02:20 · X：Artificial Analysis (@ArtificialAnlys)&lt;/p&gt;
-&lt;p&gt;Artificial Analysis 评测 GPT-6 Sol 和 Luna，两模型价格约为 GPT-5.6 对应版本一半，Sol 定价 $2/$10、Luna $0.10/$0.50 每百万输入/输出 token，Intelligence Index 与 GPT-5.6 持平。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/ArtificialAnlys/status/2102462962758033624&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 02:43 · X：Dario Amodei (@DarioAmodei)&lt;/p&gt;
+&lt;p&gt;Anthropic 宣布 Claude 主导发现一种疑似新型基因编辑机制的分子机器：Claude 阅读文献和基因组数据后发现了隐藏在噬菌体 DNA 中的未知酶系统，其基因旁有类似 CRISPR 的重复 DNA 阵列，已知少数同类系统均能切割、复制和粘贴 DNA，具体功能和实用价值尚待研究。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/DarioAmodei/status/2102831170299834652&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>行业动态 · Claude Opus 5.5 上架 Arena 的 Agent Arena 与 Battle Mode</title>
-      <link>https://x.com/arena/status/2102454952576868638</link>
-      <guid isPermaLink="false">linggou-cmucz06v905eironivy08mtvk</guid>
-      <pubDate>Wed, 23 Sep 2026 01:48:17 +0800</pubDate>
+      <title>行业动态 · Anthropic 宣布 Claude 自主发现类 CRISPR 的新型酶系统 ART</title>
+      <link>https://www.anthropic.com/news/claude-discovers-novel-enzyme-system</link>
+      <guid isPermaLink="false">linggou-cmuefqp730041rovxbpewc3gn</guid>
+      <pubDate>Thu, 24 Sep 2026 02:27:25 +0800</pubDate>
       <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 01:48 · X：Arena (@arena)&lt;/p&gt;
-&lt;p&gt;Arena 宣布 Anthropic 的 Claude Opus 5.5 已进入 Agent Arena，用户可通过投票驱动排行榜。Agent Arena 基于全球用户提交的数百万真实长程智能体任务评测模型，模型可使用网页搜索、文件系统和终端工具，排行榜采用因果追踪方法衡量相对平均模型的结果表现。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/arena/status/2102454952576868638&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 02:27 · Anthropic：Newsroom（网页）&lt;/p&gt;
+&lt;p&gt;Anthropic 成立生命科学研究组和自有实验室，宣布 Claude 智能体自主发现一种与 DNA 重复序列相关的新型酶系统 ART（array-associated reverse transcriptases）。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/news/claude-discovers-novel-enzyme-system&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>行业动态 · Claude Opus 5.5 登顶 Artificial Analysis 智能指数，得分 58</title>
-      <link>https://artificialanalysis.ai/articles/claude-opus-5-5</link>
-      <guid isPermaLink="false">linggou-cmucyny580521roni2aiyh9xj</guid>
-      <pubDate>Wed, 23 Sep 2026 01:41:36 +0800</pubDate>
+      <title>行业动态 · OpenAI 更新 ChatGPT Voice：支持邮件、日历、Slack 插件并由 GPT-6 Astra、Sol、Luna 驱动</title>
+      <link>https://x.com/OpenAI/status/2102808325742322002</link>
+      <guid isPermaLink="false">linggou-cmueup7f003m7royq61z93ftn</guid>
+      <pubDate>Thu, 24 Sep 2026 01:12:27 +0800</pubDate>
       <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 01:41 · Artificial Analysis 完整文章（网页）&lt;/p&gt;
-&lt;p&gt;Artificial Analysis 评测显示 Claude Opus 5.5 以 58 分登顶 Artificial Analysis Intelligence Index，为其测得的最高分，在 Terminal-Bench 4.0 上与 GPT-6 Astra 持平（59.6%）。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://artificialanalysis.ai/articles/claude-opus-5-5&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 01:12 · X：OpenAI (@OpenAI)&lt;/p&gt;
+&lt;p&gt;OpenAI 宣布 ChatGPT Voice 更新，即日起在最新版应用全球推送。语音功能现可使用邮件、日历和 Slack 等插件，并由 GPT-6 Astra、Sol 和 Luna 模型驱动。同时语音可在网页和移动端的 ChatGPT Work 中使用，仅通过说话即可在浏览器中创建文档、演示文稿、网站和表格，或处理复杂任务。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/OpenAI/status/2102808325742322002&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>行业动态 · Claude Opus 5.5 登顶 Artificial Analysis Intelligence Index，并降价 20%</title>
-      <link>https://x.com/ArtificialAnlys/status/2102438210798514391</link>
-      <guid isPermaLink="false">linggou-cmucwv0h50ro5roedgmckw2j5</guid>
-      <pubDate>Wed, 23 Sep 2026 00:41:45 +0800</pubDate>
+      <title>行业动态 · Antigravity SDK 支持本地模型，可完全离线运行智能体</title>
+      <link>https://developers.googleblog.com/introducing-support-for-local-ai-models-in-the-antigravity-sdk</link>
+      <guid isPermaLink="false">linggou-cmued0oy602x2rommk0l8lw6q</guid>
+      <pubDate>Thu, 24 Sep 2026 01:09:01 +0800</pubDate>
       <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 00:41 · X：Artificial Analysis (@ArtificialAnlys)&lt;/p&gt;
-&lt;p&gt;Artificial Analysis 评测显示 Claude Opus 5.5 以 58 分登顶 Artificial Analysis Intelligence Index，为其实测最高分。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/ArtificialAnlys/status/2102438210798514391&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 01:09 · Google Developers Blog（RSS）&lt;/p&gt;
+&lt;p&gt;Google 宣布 Antigravity SDK 支持本地模型工作流，首发通过 Google AI Edge 的 LiteRT 支持 Gemma 4 26B A4B，可完全离线运行智能体，建议机器配备 &gt;24GB VRAM 或统一内存。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://developers.googleblog.com/introducing-support-for-local-ai-models-in-the-antigravity-sdk&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>行业动态 · Claude Code v2.1.280 发布，新增 Claude Opus 5.5 为默认 Opus 模型</title>
-      <link>https://github.com/anthropics/claude-code/releases/tag/v2.1.280</link>
-      <guid isPermaLink="false">linggou-cmucxceh40salroedruwhn0ee</guid>
-      <pubDate>Wed, 23 Sep 2026 00:38:14 +0800</pubDate>
+      <title>行业动态 · Arena 实测：GPT-6 Sol （Max） 以 1689 分列 Code Arena： WebDev 第 4 名</title>
+      <link>https://x.com/arena/status/2102806554340974612</link>
+      <guid isPermaLink="false">linggou-cmuedgev303hyromm2gpbnjqf</guid>
+      <pubDate>Thu, 24 Sep 2026 01:05:25 +0800</pubDate>
       <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 00:38 · Claude Code：GitHub Releases（RSS）&lt;/p&gt;
-&lt;p&gt;Claude Code 发布 v2.1.280，新增 Claude Opus 5.5（claude-opus-5-5）为默认 Opus 模型，支持 1M 上下文，价格为 $4/$20 per Mtok、缓存读取 $0.20/Mtok；同时将 Pro 和 Team Standard 计划的默认模型从 Sonnet 改为 Opus。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/anthropics/claude-code/releases/tag/v2.1.280&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 01:05 · X：Arena (@arena)&lt;/p&gt;
+&lt;p&gt;Arena 公布 OpenAI 的 GPT-6 Sol （Max） 真实投票结果，在 Code Arena： WebDev 榜单以 1689 分排名第 4，价格 $8/M tokens（混合输入/输出）。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/arena/status/2102806554340974612&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>技术工具 · LiteParse 9 月更新：PDFium 提速 20-25%，新增视觉定位与 is-complex 路由 API</title>
-      <link>https://www.llamaindex.ai/blog/liteparse-updates-september-2026</link>
-      <guid isPermaLink="false">linggou-cmucs4qas0m1vroedh2vdhjb6</guid>
-      <pubDate>Tue, 22 Sep 2026 22:38:40 +0800</pubDate>
-      <category>技术工具</category>
-      <description>&lt;p&gt;&lt;strong&gt;🛠️ 技术工具&lt;/strong&gt; · 今天 22:38 · LlamaIndex：产品、工程与评测&lt;/p&gt;
-&lt;p&gt;LlamaIndex 发布 LiteParse 2.14.6 更新，通过对自维护 PDFium fork 做内存分配优化（内置 mimalloc）等手段，将文本提取耗时降低 20-25%，平均 2.76ms/页，markdown 渲染 3.94ms/页。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.llamaindex.ai/blog/liteparse-updates-september-2026&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>行业动态 · Apple 新款 Mac mini（M6/M5 Pro）与 Mac Studio（M5 Max/M5 Ultra）今日开售</title>
-      <link>https://www.apple.com/newsroom/2026/09/the-new-mac-mini-and-mac-studio-are-available-today</link>
-      <guid isPermaLink="false">linggou-cmucoqh360i0jroedps8dr2es</guid>
-      <pubDate>Tue, 22 Sep 2026 20:59:21 +0800</pubDate>
+      <title>行业动态 · 小米发布 MiMo-V2.6 Pro 与 Flash 开源全模态模型，Pro 在多数 Agent 基准上对标 Claude Opus 5 和 GPT-5.6 Sol</title>
+      <link>https://x.com/AravSrinivas/status/2102780186202972254</link>
+      <guid isPermaLink="false">linggou-cmue9wuq00sqxrogh9805ahzr</guid>
+      <pubDate>Wed, 23 Sep 2026 23:20:38 +0800</pubDate>
       <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 20:59 · Apple：Newsroom（RSS）&lt;/p&gt;
-&lt;p&gt;Apple 宣布新款 Mac mini 和 Mac Studio 于 9 月 22 日开售。Mac mini 搭载 M6 和 M5 Pro，AI 性能最高提升 4 倍。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.apple.com/newsroom/2026/09/the-new-mac-mini-and-mac-studio-are-available-today&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 23:20 · X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)&lt;/p&gt;
+&lt;p&gt;小米发布开源全模态模型 MiMo-V2.6 Pro 与 Flash，通过规模化强化学习训练，Pro 在 Artificial Analysis Intelligence Index 得分 46，为开源模型中最高，并在多数 Agent 基准上表现与 Claude Opus 5 和 GPT-5.6 Sol 相当。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/AravSrinivas/status/2102780186202972254&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>行业动态 · Kimi 发布浏览器扩展，由 Kimi WebBridge 更名而来</title>
-      <link>https://x.com/Kimi_Moonshot/status/2102352211988865456</link>
-      <guid isPermaLink="false">linggou-cmuckjawr09ljroedz4yf3xqf</guid>
-      <pubDate>Tue, 22 Sep 2026 19:00:01 +0800</pubDate>
+      <title>行业动态 · Anthropic 前线工程师分享 AI 驱动代码现代化项目的六步准备方法</title>
+      <link>https://claude.com/blog/how-to-prepare-for-ai-driven-code-modernization-projects</link>
+      <guid isPermaLink="false">linggou-cmue7dm420pvmroghjxeh5rk3</guid>
+      <pubDate>Wed, 23 Sep 2026 22:33:15 +0800</pubDate>
       <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 19:00 · X：Kimi.ai (@Kimi_Moonshot)&lt;/p&gt;
-&lt;p&gt;Kimi 发布新的 Kimi Browser Extension，前身为 Kimi WebBridge。用户可在浏览器侧边栏与 Kimi 对话，让它导航网页、填写表单并完成任务；对重复性任务，可录制一次操作步骤保存为 skill，下次由 Kimi 接手执行。产品现已在 kimi.com/products/kimi-browser-extension 和 Chrome Web Store 上线。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/Kimi_Moonshot/status/2102352211988865456&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 22:33 · Claude：Blog（网页）&lt;/p&gt;
+&lt;p&gt;Anthropic 在 Notes from the Field 系列中分享管理大型代码现代化项目的经验，称原本需数年的现代化可在数月或数周内完成，瓶颈从写代码转向组织动员。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://claude.com/blog/how-to-prepare-for-ai-driven-code-modernization-projects&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>行业动态 · Cursor 提升 agent 长时运行 token 效率，用户成本降低 7%</title>
+      <link>https://cursor.com/blog/improved-token-efficiency</link>
+      <guid isPermaLink="false">linggou-cmuepgodc0egrroyn9ves9c7r</guid>
+      <pubDate>Wed, 23 Sep 2026 20:00:00 +0800</pubDate>
+      <category>行业动态</category>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 20:00 · Cursor Blog&lt;/p&gt;
+&lt;p&gt;Cursor 通过改进 agent harness，在不降低 agent 质量的情况下将用户 token 成本降低 7%。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://cursor.com/blog/improved-token-efficiency&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>行业动态 · Qwen 发布 Qwen-Audio-3.1 全家桶，ASR、TTS、Realtime 升级并新增 TTS-Next 与 ASR-Next</title>
+      <link>https://x.com/Alibaba_Qwen/status/2102687258990026993</link>
+      <guid isPermaLink="false">linggou-cmudwte2x0aqtroghe1b5cxfd</guid>
+      <pubDate>Wed, 23 Sep 2026 17:11:23 +0800</pubDate>
+      <category>行业动态</category>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 17:11 · X：通义千问 / Qwen (@Alibaba_Qwen)&lt;/p&gt;
+&lt;p&gt;Qwen 发布 Qwen-Audio-3.1，ASR、TTS 与 Realtime 全面升级，并新增音频创作模型 TTS-Next 和音频理解模型 ASR-Next，共五个模型覆盖理解、生成、交互与创作。全线降价，TTS 约 70% off、Realtime 约 85% off、ASR 最高 95% off；Realtime 可边说边听、随时打断，检测到低落情绪时会放慢语速并共情回应。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/Alibaba_Qwen/status/2102687258990026993&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
