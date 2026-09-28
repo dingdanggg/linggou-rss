@@ -1,19 +1,24 @@
 {
-  "generated_at": "2026-09-25T13:52:56.577378+08:00",
-  "total": 8,
-  "linggou": 6,
+  "generated_at": "2026-09-28T14:20:31.064578+08:00",
+  "total": 28,
+  "linggou": 16,
   "social_topics": 0,
   "sources": {
-    "GitHub Blog": 1,
-    "Claude：Blog（网页）": 1,
-    "The Decoder：AI News（RSS）": 1,
-    "NVIDIA Blog（RSS）": 1,
-    "TechCrunch：AI（RSS）": 1,
-    "Gary Marcus：The Road to AI We Can Trust（RSS）": 1
+    "IT之家（RSS）": 3,
+    "Gary Marcus：The Road to AI We Can Trust（RSS）": 1,
+    "X：Arena (@arena)": 2,
+    "小米 MiMo：官网发布与博客": 1,
+    "X：Ethan Mollick (@emollick)": 1,
+    "X：Yuchen Jin (@Yuchenj_UW)": 1,
+    "X：OpenAI (@OpenAI)": 1,
+    "GitHub Blog": 2,
+    "X：Anthropic (@AnthropicAI)": 1,
+    "TechCrunch：AI（RSS）": 2,
+    "Ars Technica：AI（RSS）": 1
   },
   "categories": {
     "aigc_content": 0,
-    "tech_tools": 1,
-    "industry": 5
+    "tech_tools": 2,
+    "industry": 14
   }
 }
