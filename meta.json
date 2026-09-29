@@ -1,24 +1,22 @@
 {
-  "generated_at": "2026-09-28T14:20:31.064578+08:00",
-  "total": 28,
-  "linggou": 16,
+  "generated_at": "2026-09-29T14:35:50.880952+08:00",
+  "total": 18,
+  "linggou": 13,
   "social_topics": 0,
   "sources": {
-    "IT之家（RSS）": 3,
-    "Gary Marcus：The Road to AI We Can Trust（RSS）": 1,
-    "X：Arena (@arena)": 2,
-    "小米 MiMo：官网发布与博客": 1,
-    "X：Ethan Mollick (@emollick)": 1,
-    "X：Yuchen Jin (@Yuchenj_UW)": 1,
-    "X：OpenAI (@OpenAI)": 1,
-    "GitHub Blog": 2,
-    "X：Anthropic (@AnthropicAI)": 1,
-    "TechCrunch：AI（RSS）": 2,
-    "Ars Technica：AI（RSS）": 1
+    "X：Rohan Paul (@rohanpaul_ai)": 2,
+    "OpenAI：官网动态（RSS · 排除企业/客户案例）": 1,
+    "IT之家（RSS）": 2,
+    "X：Arena (@arena)": 3,
+    "X：World Labs (@theworldlabs)": 1,
+    "Databricks：Blog（RSS）": 1,
+    "X：Artificial Analysis (@ArtificialAnlys)": 1,
+    "X：X.PIN (@thexpin)": 1,
+    "Hacker News：AI 热帖": 1
   },
   "categories": {
     "aigc_content": 0,
-    "tech_tools": 2,
-    "industry": 14
+    "tech_tools": 1,
+    "industry": 12
   }
 }
