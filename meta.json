@@ -1,22 +1,24 @@
 {
-  "generated_at": "2026-09-29T14:35:50.880952+08:00",
-  "total": 18,
-  "linggou": 13,
+  "generated_at": "2026-09-30T14:18:52.111338+08:00",
+  "total": 33,
+  "linggou": 17,
   "social_topics": 0,
   "sources": {
-    "X：Rohan Paul (@rohanpaul_ai)": 2,
-    "OpenAI：官网动态（RSS · 排除企业/客户案例）": 1,
-    "IT之家（RSS）": 2,
+    "X：Sundar Pichai (@sundarpichai)": 1,
+    "X：OpenAI Developers (@OpenAIDevs)": 2,
+    "TechCrunch：AI（RSS）": 1,
+    "The Decoder：AI News（RSS）": 2,
+    "Gary Marcus：The Road to AI We Can Trust（RSS）": 1,
     "X：Arena (@arena)": 3,
-    "X：World Labs (@theworldlabs)": 1,
-    "Databricks：Blog（RSS）": 1,
-    "X：Artificial Analysis (@ArtificialAnlys)": 1,
-    "X：X.PIN (@thexpin)": 1,
-    "Hacker News：AI 热帖": 1
+    "X：Tibo (@thsottiaux)": 3,
+    "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)": 1,
+    "Hugging Face：Blog（RSS）": 1,
+    "Microsoft Research 博客（RSS）": 1,
+    "Sarvam AI（网页）": 1
   },
   "categories": {
     "aigc_content": 0,
     "tech_tools": 1,
-    "industry": 12
+    "industry": 16
   }
 }
