@@ -1,24 +1,21 @@
 {
-  "generated_at": "2026-09-30T14:18:52.111338+08:00",
-  "total": 33,
-  "linggou": 17,
+  "generated_at": "2026-10-01T14:53:26.134407+08:00",
+  "total": 20,
+  "linggou": 10,
   "social_topics": 0,
   "sources": {
-    "X：Sundar Pichai (@sundarpichai)": 1,
-    "X：OpenAI Developers (@OpenAIDevs)": 2,
-    "TechCrunch：AI（RSS）": 1,
-    "The Decoder：AI News（RSS）": 2,
-    "Gary Marcus：The Road to AI We Can Trust（RSS）": 1,
+    "X：Tibo (@thsottiaux)": 1,
+    "X：Artificial Analysis (@ArtificialAnlys)": 1,
     "X：Arena (@arena)": 3,
-    "X：Tibo (@thsottiaux)": 3,
-    "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)": 1,
-    "Hugging Face：Blog（RSS）": 1,
-    "Microsoft Research 博客（RSS）": 1,
-    "Sarvam AI（网页）": 1
+    "MarkTechPost（RSS）": 1,
+    "Google DeepMind：Blog（RSS）": 1,
+    "X：Jensen Huang (@JensenHuang)": 1,
+    "MIT News（RSS）": 1,
+    "ElevenLabs：Blog（网页）": 1
   },
   "categories": {
-    "aigc_content": 0,
-    "tech_tools": 1,
-    "industry": 16
+    "aigc_content": 1,
+    "tech_tools": 0,
+    "industry": 9
   }
 }
