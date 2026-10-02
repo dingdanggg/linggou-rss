@@ -1,21 +1,22 @@
 {
-  "generated_at": "2026-10-01T14:53:26.134407+08:00",
-  "total": 20,
-  "linggou": 10,
+  "generated_at": "2026-10-02T14:44:09.335732+08:00",
+  "total": 17,
+  "linggou": 11,
   "social_topics": 0,
   "sources": {
-    "X：Tibo (@thsottiaux)": 1,
-    "X：Artificial Analysis (@ArtificialAnlys)": 1,
-    "X：Arena (@arena)": 3,
-    "MarkTechPost（RSS）": 1,
-    "Google DeepMind：Blog（RSS）": 1,
-    "X：Jensen Huang (@JensenHuang)": 1,
-    "MIT News（RSS）": 1,
-    "ElevenLabs：Blog（网页）": 1
+    "X：Artificial Analysis (@ArtificialAnlys)": 2,
+    "OpenRouter：Announcements（RSS）": 1,
+    "X：Krea AI (@krea_ai)": 1,
+    "X：OpenRouter (@OpenRouter)": 1,
+    "X：Arena (@arena)": 2,
+    "LangChain：Blog（RSS）": 1,
+    "Anthropic：Claude.dev 开发者博客（RSS）": 1,
+    "Ethan Mollick：One Useful Thing（RSS）": 1,
+    "Modal 官方工程博客（RSS）": 1
   },
   "categories": {
-    "aigc_content": 1,
-    "tech_tools": 0,
+    "aigc_content": 0,
+    "tech_tools": 2,
     "industry": 9
   }
 }
