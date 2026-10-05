@@ -1,22 +1,21 @@
 {
-  "generated_at": "2026-10-02T14:44:09.335732+08:00",
-  "total": 17,
-  "linggou": 11,
+  "generated_at": "2026-10-05T14:34:29.570164+08:00",
+  "total": 15,
+  "linggou": 9,
   "social_topics": 0,
   "sources": {
-    "X：Artificial Analysis (@ArtificialAnlys)": 2,
-    "OpenRouter：Announcements（RSS）": 1,
-    "X：Krea AI (@krea_ai)": 1,
-    "X：OpenRouter (@OpenRouter)": 1,
+    "PromptArmor：Threat Intelligence": 1,
+    "Hugging Face：Blog（RSS）": 1,
+    "IT之家（RSS）": 1,
     "X：Arena (@arena)": 2,
-    "LangChain：Blog（RSS）": 1,
-    "Anthropic：Claude.dev 开发者博客（RSS）": 1,
-    "Ethan Mollick：One Useful Thing（RSS）": 1,
-    "Modal 官方工程博客（RSS）": 1
+    "X：AI at Meta (@AIatMeta)": 1,
+    "Google Research：Blog（网页）": 1,
+    "NVIDIA Blog（RSS）": 1,
+    "X：Rohan Paul (@rohanpaul_ai)": 1
   },
   "categories": {
     "aigc_content": 0,
-    "tech_tools": 2,
-    "industry": 9
+    "tech_tools": 1,
+    "industry": 8
   }
 }

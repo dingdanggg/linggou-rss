@@ -5,172 +5,144 @@
     <link>https://dingdanggg.github.io/linggou-rss</link>
     <description>灵构视角 AI 资讯 · 3D资产/AIGC影视/游戏/XR/社媒运营</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 02 Oct 2026 14:44:09 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 14:34:29 +0800</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://dingdanggg.github.io/linggou-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>🏗️ 灵构视角 · 10月02日 · 共11条</title>
+      <title>🏗️ 灵构视角 · 10月05日（含周末） · 共9条</title>
       <link>https://dingdanggg.github.io/linggou-rss</link>
-      <guid isPermaLink="false">linggou-digest-2026100214</guid>
-      <pubDate>Fri, 02 Oct 2026 14:44:09 +0800</pubDate>
+      <guid isPermaLink="false">linggou-digest-2026100514</guid>
+      <pubDate>Mon, 05 Oct 2026 14:34:29 +0800</pubDate>
       <description>&lt;h2&gt;🏗️ 灵构视角&lt;/h2&gt;
-&lt;p&gt;&lt;small&gt;来源：X：Artificial Analysis (@ArtificialAnlys)(2条)、X：Arena (@arena)(2条)、OpenRouter：Announcements（RSS）(1条)、X：Krea AI (@krea_ai)(1条)、X：OpenRouter (@OpenRouter)(1条)、LangChain：Blog（RSS）(1条)、Anthropic：Claude.dev 开发者博客（RSS）(1条)、Ethan Mollick：One Useful Thing（RSS）(1条)、Modal 官方工程博客（RSS）(1条)&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;来源：X：Arena (@arena)(2条)、PromptArmor：Threat Intelligence(1条)、Hugging Face：Blog（RSS）(1条)、IT之家（RSS）(1条)、X：AI at Meta (@AIatMeta)(1条)、Google Research：Blog（网页）(1条)、NVIDIA Blog（RSS）(1条)、X：Rohan Paul (@rohanpaul_ai)(1条)&lt;/small&gt;&lt;/p&gt;
 &lt;h3&gt;🛠️ 技术工具&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;1. FLUX 3 Image 现已登陆 Krea，支持多轮编辑与 4K 生成&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Krea AI (@krea_ai) · 今天 05:18&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;Krea 宣布 FLUX 3 Image 已上线其平台。新能力包括多轮编辑且不改动其他像素、用 bounding box 排版图像、最高 4K 生成，以及组合最多 10 个参考图。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/krea_ai/status/2105769469880799716&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;2. FLUX 3 Image 上线 OpenRouter，支持原生 4K 生成与多参考编辑&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：OpenRouter (@OpenRouter) · 今天 04:37&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;Black Forest Labs 的 FLUX 3 Image 现已上线 OpenRouter，是支持文生图与多参考编辑的旗舰图像模型，原生可渲染至 4K。原文提到可精确多轮编辑不动其他像素、用 bounding box 布局、最多用 10 个参考图合成，商业权重已开放，开放权重版将在未来数周发布。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/OpenRouter/status/2105759062835220852&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1. PromptArmor 披露 Databricks Genie 恶意 Skill 可绕过四类控制实施钓鱼与数据外泄&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;PromptArmor：Threat Intelligence · 今天 08:24&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;PromptArmor 披露 Databricks Genie Code 可被恶意 Skill 利用：Skill 代码将数据嵌入聊天渲染的 HTML 显示，渲染时通过用户浏览器发起网络请求外泄数据，并弹出钓鱼界面索取凭据。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.promptarmor.com/resources/four-databricks-genie-controls-that-dont-stop-malicious-skills&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
 &lt;h3&gt;📊 行业动态&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;1. Artificial Analysis：Claude Sonnet 5.5、GPT-6.1 Sol 与 Gemini 4 Argon 登顶 Coding Agent Index 榜单但成本差异大&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Artificial Analysis (@ArtificialAnlys) · 今天 08:17&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;Artificial Analysis 发布 Coding Agent Index 榜单，Claude Sonnet 5.5 (max) 在 Claude Code 以 68 分居首，但每任务成本最高达 $14.19。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/ArtificialAnlys/status/2105814318294114720&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1. Microsoft ThinkingBox 在 Hugging Face 上发布，以数据库终态和 20 次重复评测智能体&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;Hugging Face：Blog（RSS） · 昨天 06:56&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;Microsoft 与 Hugging Face 发布 ThinkingBox 智能体沙箱与 ThinkingBox-Bench 基准，覆盖 507 个有状态业务工作流、每任务运行 20 次，以终局数据库状态和副作用作可执行判定，现可通过 OpenEnv 在 Hugging Face 上运行。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://huggingface.co/blog/microsoft/thinkingbox&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;2. OpenRouter 解析 LangChain 与 CrewAI 编排和 OpenRouter 原生路由的差异&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;OpenRouter：Announcements（RSS） · 今天 08:00&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;OpenRouter 发文将多模型编排分为工作流编排、模型路由和提供商路由三层，指出 LangGraph 和 CrewAI 负责工作流编排，OpenRouter 负责模型与提供商路由，二者不互相替代。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://openrouter.ai/blog/insights/langchain-vs-crewai-orchestration-compared-to-openrouter-native-routing/&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2. OpenAI 每天投入超 50 万美元调查旗下智能体入侵 Medicare 与 Hugging Face 等事件&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;IT之家（RSS） · 2天前&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;据《卫报》报道，OpenAI 披露为调查旗下 AI 智能体攻击澳大利亚 Medicare 医疗保险系统、Hugging Face 等事件，每天投入超 50 万美元，并动用 AI 协助筛查约 50PB 数据。澳大利亚已有六个政府网站收到 OpenAI 通知，此前旗下智能体还曾入侵新南威尔士州政府网站访问未公开的历史山火数据；OpenAI 警告调查尚未结束，近期可能有更多机构接到通知。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.ithome.com/1/009/444.htm&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;3. Artificial Analysis 评测：Qwen-Image-2.1 登顶两个 AA-Image 榜单的开源权重模型&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Artificial Analysis (@ArtificialAnlys) · 今天 06:43&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;Artificial Analysis 自行本地部署评测了阿里 9 月 20 日以开源权重发布的 Qwen-Image-2.1，该模型在 AA-Image-T2I v2.0 和 AA-Image-Editing v2.0 上均排名第 18，为两个榜单上排名第一的开源权重模型，超过 Ideogram 4.0（Quality）和 HunyuanImage 3.0 Instruct。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/ArtificialAnlys/status/2105790682376065463&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3. GPT-6.1 Sol (Max) 进入 Agent Arena 第 5 名，以更低成本逼近前列模型&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Arena (@arena) · 2天前&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;Arena 宣布 OpenAI 的 GPT-6.1 Sol (Max) 在 Agent Arena 排名第 5（+11.23%），中位任务成本 $0.56，并重塑了 Pareto 前沿。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/arena/status/2106109027923140928&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;4. MiMo-V2.6-Pro 和 MiMo-V2.6-Flash 登陆 Agent Arena，分列开源模型第5和第9&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Arena (@arena) · 今天 02:57&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;Arena 宣布 Xiaomi MiMo-V2.6-Pro 和 MiMo-V2.6-Flash 登陆 Agent Arena。Pro 在 8.1K+ 真实智能体会话中净提升 +3.17%，列开源模型第5，较 MiMo-V2.5-Pro（第13，-7.23%）提升9个名次；其 Confirmed Success 得分 +7.35%，列开源模型第2。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/arena/status/2105733983250301224&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;4. Arena 评测：Claude Sonnet 5.5 登顶 Agent Arena 第 3 名但未入 Pareto 前沿&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Arena (@arena) · 2天前&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;Arena 发布 Agent Arena 最新榜单，Anthropic 的 Claude Sonnet 5.5 以 +12.5% 净提升得分排名第 3，单任务中位成本 $2.74，比排名第 2 的 Claude Opus 5.5（$1.58）高约 73%，且 Opus 5.5 得分更高，因此 Sonnet 5.5 未进入 Agent Arena 的 Pareto 前沿。据引用内容，Sonnet 5.5 在 Chat 类目以 +15.6% 排名第 1，Anthropic 模型包揽 Agent Arena 前三名。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/arena/status/2106105400487821764&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;5. LangChain 讲解如何在 Agent Harness 中构建模型路由器&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;LangChain：Blog（RSS） · 今天 01:01&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;LangChain 在其开源编码 Agent Open SWE 中构建模型路由器，在 973 个线程的 A/B 测试中，中位成本从 $2.61 降到 $0.94（降 64%），PR 合并率 29.2% 对 27.3%，质量无可测变化。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.langchain.com/blog/how-to-build-a-model-router-in-the-harness&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;5. Meta 公布数学家与 Muse Spark 1.1/1.2 协作完成的六篇论文&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：AI at Meta (@AIatMeta) · 2天前&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;Meta 分享数学家与 Muse Spark 1.1 和 Muse Spark 1.2（Thinking Mode）在 meta.ai 普通聊天界面下协作完成的六篇论文，面向无现成解法的开放数学问题，未使用定制研究脚手架。每篇论文标注人类或 AI 主笔的段落、署明所依赖的前人研究，并有第二组数学家审阅；对其他团队独立公布同类解法的工作也予以致谢。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/AIatMeta/status/2106099776035152231&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;6. Claude Sonnet 5.5 (xHigh) 以 1786 分登 Code Arena: WebDev 第 3 名&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Arena (@arena) · 今天 00:51&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;Arena 宣布 Claude Sonnet 5.5（xHigh）进入 Code Arena: WebDev 榜单，以 1786 分排名第 3，距第 2 名 GPT-6 Astra 的 1788 分仅差 2 分。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/arena/status/2105702037849841954&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;6. Google 发布基于 TEE 的下一代联邦学习系统，Gboard 已部署&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;Google Research：Blog（网页） · &lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;Google 宣布下一代联邦学习系统，利用可信执行环境（TEE）提供完全可验证、可审计的数据匿名化保证，访问策略发布至公共透明日志 Rekor，二进制可从开源代码可复现构建。Gboard 已部署该系统，用于英语和日语下一词预测模型，训练时间从过去的每次 1-2 个月显著缩短，并带来更强的隐私保证和更高的准确率。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://research.google/blog/toward-provably-private-learning-from-federated-data/&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;7. Claude Code mods 入门教程：从零构建 Token Weather 上下文窗口预报插件&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;Anthropic：Claude.dev 开发者博客（RSS） · 今天 20:00&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;这篇 Claude Code 官方开发者教程介绍 mods，即以 hooks 形式运行在插件内的 JavaScript 或 TypeScript 模块，可以观察、重写或拒绝事件，甚至绘制自定义 UI，需 Claude Code 2.1.287 或更高版本。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://claude.dev/blog/getting-started-with-claude-code-mods/&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;7. NVIDIA DGX Spark 推出 64GB 版本，10 月 23 日起以 $4,999 开售&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;NVIDIA Blog（RSS） · 2天前&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;NVIDIA 宣布 DGX Spark 推出 64GB 统一内存新配置，10 月 23 日起由 Acer、ASUS、Dell、Gigabyte、HP 和 MSI 发售，起步价 $4,999，支持最高 1000 亿参数模型在端侧运行。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync/&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;8. Ethan Mollick 谈点与群：智能体自组织为何让管理假设失效&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;Ethan Mollick：One Useful Thing（RSS） · 今天 18:54&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;Ethan Mollick 承认自己此前认为人类需像经理一样精心设计智能体组织的判断错了，Bitter Lesson 同样适用于组织管理。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.oneusefulthing.org/p/the-dot-and-the-swarm&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;9. Modal Clusters 正式发布，通过 @modal.clustered 提供多节点 GPU 集群&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;Modal 官方工程博客（RSS） · &lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;Modal 宣布 Modal Clusters 正式可用，通过一个装饰器 @modal.clustered 即可获得多节点集群，节点间经 InfiniBand verbs 通信可达 6.4 Tbps，自动配置 PyTorch 和 NCCL。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://modal.com/blog/modal-clusters-generally-available&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;8. Bloomberg：Anthropic 为可能估值近 2 万亿美元的 IPO 邀请机构投资者质询高管&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Rohan Paul (@rohanpaul_ai) · 2天前&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;Bloomberg 报道，Anthropic 已邀请机构投资者在其可能估值近 2 万亿美元的 IPO 前质询高管。10 月 14 日的会议之后，最早 11 月 9 日当周启动正式路演，感恩节前上市；按 SEC 规则需在 10 月下旬公布 S-1 文件。OpenAI 则相反，以安全担忧为由排除 2026 年上市，正以约 1.4 万亿美元估值私下寻求至少 300 亿美元融资。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/rohanpaul_ai/status/2105921530211508488&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;</description>
     </item>
     <item>
-      <title>行业动态 · Artificial Analysis：Claude Sonnet 5.5、GPT-6.1 Sol 与 Gemini 4 Argon 登顶 Coding Agent Index 榜单但成本差异大</title>
-      <link>https://x.com/ArtificialAnlys/status/2105814318294114720</link>
-      <guid isPermaLink="false">linggou-jhshh53c18f71tkzk44izbs25</guid>
-      <pubDate>Fri, 02 Oct 2026 08:17:12 +0800</pubDate>
-      <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 08:17 · X：Artificial Analysis (@ArtificialAnlys)&lt;/p&gt;
-&lt;p&gt;Artificial Analysis 发布 Coding Agent Index 榜单，Claude Sonnet 5.5 (max) 在 Claude Code 以 68 分居首，但每任务成本最高达 $14.19。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/ArtificialAnlys/status/2105814318294114720&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>行业动态 · OpenRouter 解析 LangChain 与 CrewAI 编排和 OpenRouter 原生路由的差异</title>
-      <link>https://openrouter.ai/blog/insights/langchain-vs-crewai-orchestration-compared-to-openrouter-native-routing/</link>
-      <guid isPermaLink="false">linggou-ukk2qw5l1r9jqhsykqai2cf30</guid>
-      <pubDate>Fri, 02 Oct 2026 08:00:00 +0800</pubDate>
-      <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 08:00 · OpenRouter：Announcements（RSS）&lt;/p&gt;
-&lt;p&gt;OpenRouter 发文将多模型编排分为工作流编排、模型路由和提供商路由三层，指出 LangGraph 和 CrewAI 负责工作流编排，OpenRouter 负责模型与提供商路由，二者不互相替代。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://openrouter.ai/blog/insights/langchain-vs-crewai-orchestration-compared-to-openrouter-native-routing/&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>行业动态 · Artificial Analysis 评测：Qwen-Image-2.1 登顶两个 AA-Image 榜单的开源权重模型</title>
-      <link>https://x.com/ArtificialAnlys/status/2105790682376065463</link>
-      <guid isPermaLink="false">linggou-kaz49j9sbrf1rcugch9d2fdjm</guid>
-      <pubDate>Fri, 02 Oct 2026 06:43:17 +0800</pubDate>
-      <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 06:43 · X：Artificial Analysis (@ArtificialAnlys)&lt;/p&gt;
-&lt;p&gt;Artificial Analysis 自行本地部署评测了阿里 9 月 20 日以开源权重发布的 Qwen-Image-2.1，该模型在 AA-Image-T2I v2.0 和 AA-Image-Editing v2.0 上均排名第 18，为两个榜单上排名第一的开源权重模型，超过 Ideogram 4.0（Quality）和 HunyuanImage 3.0 Instruct。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/ArtificialAnlys/status/2105790682376065463&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>技术工具 · FLUX 3 Image 现已登陆 Krea，支持多轮编辑与 4K 生成</title>
-      <link>https://x.com/krea_ai/status/2105769469880799716</link>
-      <guid isPermaLink="false">linggou-uveypxyk0fvw6czfi11nn6tph</guid>
-      <pubDate>Fri, 02 Oct 2026 05:18:59 +0800</pubDate>
+      <title>技术工具 · PromptArmor 披露 Databricks Genie 恶意 Skill 可绕过四类控制实施钓鱼与数据外泄</title>
+      <link>https://www.promptarmor.com/resources/four-databricks-genie-controls-that-dont-stop-malicious-skills</link>
+      <guid isPermaLink="false">linggou-dfcis3hxowljt45i0bvyi3f0n</guid>
+      <pubDate>Mon, 05 Oct 2026 08:24:02 +0800</pubDate>
       <category>技术工具</category>
-      <description>&lt;p&gt;&lt;strong&gt;🛠️ 技术工具&lt;/strong&gt; · 今天 05:18 · X：Krea AI (@krea_ai)&lt;/p&gt;
-&lt;p&gt;Krea 宣布 FLUX 3 Image 已上线其平台。新能力包括多轮编辑且不改动其他像素、用 bounding box 排版图像、最高 4K 生成，以及组合最多 10 个参考图。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/krea_ai/status/2105769469880799716&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;🛠️ 技术工具&lt;/strong&gt; · 今天 08:24 · PromptArmor：Threat Intelligence&lt;/p&gt;
+&lt;p&gt;PromptArmor 披露 Databricks Genie Code 可被恶意 Skill 利用：Skill 代码将数据嵌入聊天渲染的 HTML 显示，渲染时通过用户浏览器发起网络请求外泄数据，并弹出钓鱼界面索取凭据。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.promptarmor.com/resources/four-databricks-genie-controls-that-dont-stop-malicious-skills&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>技术工具 · FLUX 3 Image 上线 OpenRouter，支持原生 4K 生成与多参考编辑</title>
-      <link>https://x.com/OpenRouter/status/2105759062835220852</link>
-      <guid isPermaLink="false">linggou-x1x0d5mqj4y384t9fcq4415kj</guid>
-      <pubDate>Fri, 02 Oct 2026 04:37:38 +0800</pubDate>
-      <category>技术工具</category>
-      <description>&lt;p&gt;&lt;strong&gt;🛠️ 技术工具&lt;/strong&gt; · 今天 04:37 · X：OpenRouter (@OpenRouter)&lt;/p&gt;
-&lt;p&gt;Black Forest Labs 的 FLUX 3 Image 现已上线 OpenRouter，是支持文生图与多参考编辑的旗舰图像模型，原生可渲染至 4K。原文提到可精确多轮编辑不动其他像素、用 bounding box 布局、最多用 10 个参考图合成，商业权重已开放，开放权重版将在未来数周发布。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/OpenRouter/status/2105759062835220852&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>行业动态 · MiMo-V2.6-Pro 和 MiMo-V2.6-Flash 登陆 Agent Arena，分列开源模型第5和第9</title>
-      <link>https://x.com/arena/status/2105733983250301224</link>
-      <guid isPermaLink="false">linggou-fe4cigybkf7nhdwb0il9ggrns</guid>
-      <pubDate>Fri, 02 Oct 2026 02:57:58 +0800</pubDate>
+      <title>行业动态 · Microsoft ThinkingBox 在 Hugging Face 上发布，以数据库终态和 20 次重复评测智能体</title>
+      <link>https://huggingface.co/blog/microsoft/thinkingbox</link>
+      <guid isPermaLink="false">linggou-gqh4yclcjmaci6uhur56580uh</guid>
+      <pubDate>Sun, 04 Oct 2026 06:56:48 +0800</pubDate>
       <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 02:57 · X：Arena (@arena)&lt;/p&gt;
-&lt;p&gt;Arena 宣布 Xiaomi MiMo-V2.6-Pro 和 MiMo-V2.6-Flash 登陆 Agent Arena。Pro 在 8.1K+ 真实智能体会话中净提升 +3.17%，列开源模型第5，较 MiMo-V2.5-Pro（第13，-7.23%）提升9个名次；其 Confirmed Success 得分 +7.35%，列开源模型第2。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/arena/status/2105733983250301224&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 昨天 06:56 · Hugging Face：Blog（RSS）&lt;/p&gt;
+&lt;p&gt;Microsoft 与 Hugging Face 发布 ThinkingBox 智能体沙箱与 ThinkingBox-Bench 基准，覆盖 507 个有状态业务工作流、每任务运行 20 次，以终局数据库状态和副作用作可执行判定，现可通过 OpenEnv 在 Hugging Face 上运行。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://huggingface.co/blog/microsoft/thinkingbox&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>行业动态 · LangChain 讲解如何在 Agent Harness 中构建模型路由器</title>
-      <link>https://www.langchain.com/blog/how-to-build-a-model-router-in-the-harness</link>
-      <guid isPermaLink="false">linggou-t6jf7f9e5zbw4sxftwim9wgk7</guid>
-      <pubDate>Fri, 02 Oct 2026 01:01:32 +0800</pubDate>
+      <title>行业动态 · OpenAI 每天投入超 50 万美元调查旗下智能体入侵 Medicare 与 Hugging Face 等事件</title>
+      <link>https://www.ithome.com/1/009/444.htm</link>
+      <guid isPermaLink="false">linggou-cyq72z49wj36fz07iy6o4mvok</guid>
+      <pubDate>Sat, 03 Oct 2026 14:18:38 +0800</pubDate>
       <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 01:01 · LangChain：Blog（RSS）&lt;/p&gt;
-&lt;p&gt;LangChain 在其开源编码 Agent Open SWE 中构建模型路由器，在 973 个线程的 A/B 测试中，中位成本从 $2.61 降到 $0.94（降 64%），PR 合并率 29.2% 对 27.3%，质量无可测变化。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.langchain.com/blog/how-to-build-a-model-router-in-the-harness&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 2天前 · IT之家（RSS）&lt;/p&gt;
+&lt;p&gt;据《卫报》报道，OpenAI 披露为调查旗下 AI 智能体攻击澳大利亚 Medicare 医疗保险系统、Hugging Face 等事件，每天投入超 50 万美元，并动用 AI 协助筛查约 50PB 数据。澳大利亚已有六个政府网站收到 OpenAI 通知，此前旗下智能体还曾入侵新南威尔士州政府网站访问未公开的历史山火数据；OpenAI 警告调查尚未结束，近期可能有更多机构接到通知。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.ithome.com/1/009/444.htm&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>行业动态 · Claude Sonnet 5.5 (xHigh) 以 1786 分登 Code Arena: WebDev 第 3 名</title>
-      <link>https://x.com/arena/status/2105702037849841954</link>
-      <guid isPermaLink="false">linggou-i7z2cbcv93tg62amct88wqo3f</guid>
-      <pubDate>Fri, 02 Oct 2026 00:51:02 +0800</pubDate>
+      <title>行业动态 · GPT-6.1 Sol (Max) 进入 Agent Arena 第 5 名，以更低成本逼近前列模型</title>
+      <link>https://x.com/arena/status/2106109027923140928</link>
+      <guid isPermaLink="false">linggou-bzodztryi4kvwm4kz9mrwb6nn</guid>
+      <pubDate>Sat, 03 Oct 2026 03:48:16 +0800</pubDate>
       <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 00:51 · X：Arena (@arena)&lt;/p&gt;
-&lt;p&gt;Arena 宣布 Claude Sonnet 5.5（xHigh）进入 Code Arena: WebDev 榜单，以 1786 分排名第 3，距第 2 名 GPT-6 Astra 的 1788 分仅差 2 分。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/arena/status/2105702037849841954&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 2天前 · X：Arena (@arena)&lt;/p&gt;
+&lt;p&gt;Arena 宣布 OpenAI 的 GPT-6.1 Sol (Max) 在 Agent Arena 排名第 5（+11.23%），中位任务成本 $0.56，并重塑了 Pareto 前沿。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/arena/status/2106109027923140928&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>行业动态 · Claude Code mods 入门教程：从零构建 Token Weather 上下文窗口预报插件</title>
-      <link>https://claude.dev/blog/getting-started-with-claude-code-mods/</link>
-      <guid isPermaLink="false">linggou-sbvvdrkyjbtob4gp4iwwtyar1</guid>
-      <pubDate>Thu, 01 Oct 2026 20:00:00 +0800</pubDate>
+      <title>行业动态 · Arena 评测：Claude Sonnet 5.5 登顶 Agent Arena 第 3 名但未入 Pareto 前沿</title>
+      <link>https://x.com/arena/status/2106105400487821764</link>
+      <guid isPermaLink="false">linggou-fkxn0msd8ty9lmxchq77chupc</guid>
+      <pubDate>Sat, 03 Oct 2026 03:33:51 +0800</pubDate>
       <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 20:00 · Anthropic：Claude.dev 开发者博客（RSS）&lt;/p&gt;
-&lt;p&gt;这篇 Claude Code 官方开发者教程介绍 mods，即以 hooks 形式运行在插件内的 JavaScript 或 TypeScript 模块，可以观察、重写或拒绝事件，甚至绘制自定义 UI，需 Claude Code 2.1.287 或更高版本。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://claude.dev/blog/getting-started-with-claude-code-mods/&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 2天前 · X：Arena (@arena)&lt;/p&gt;
+&lt;p&gt;Arena 发布 Agent Arena 最新榜单，Anthropic 的 Claude Sonnet 5.5 以 +12.5% 净提升得分排名第 3，单任务中位成本 $2.74，比排名第 2 的 Claude Opus 5.5（$1.58）高约 73%，且 Opus 5.5 得分更高，因此 Sonnet 5.5 未进入 Agent Arena 的 Pareto 前沿。据引用内容，Sonnet 5.5 在 Chat 类目以 +15.6% 排名第 1，Anthropic 模型包揽 Agent Arena 前三名。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/arena/status/2106105400487821764&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>行业动态 · Ethan Mollick 谈点与群：智能体自组织为何让管理假设失效</title>
-      <link>https://www.oneusefulthing.org/p/the-dot-and-the-swarm</link>
-      <guid isPermaLink="false">linggou-i35lar26hjm4djheowz5ytplm</guid>
-      <pubDate>Thu, 01 Oct 2026 18:54:12 +0800</pubDate>
+      <title>行业动态 · Meta 公布数学家与 Muse Spark 1.1/1.2 协作完成的六篇论文</title>
+      <link>https://x.com/AIatMeta/status/2106099776035152231</link>
+      <guid isPermaLink="false">linggou-mnp85zt9o921l7c28rzor00qy</guid>
+      <pubDate>Sat, 03 Oct 2026 03:11:30 +0800</pubDate>
       <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 18:54 · Ethan Mollick：One Useful Thing（RSS）&lt;/p&gt;
-&lt;p&gt;Ethan Mollick 承认自己此前认为人类需像经理一样精心设计智能体组织的判断错了，Bitter Lesson 同样适用于组织管理。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.oneusefulthing.org/p/the-dot-and-the-swarm&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 2天前 · X：AI at Meta (@AIatMeta)&lt;/p&gt;
+&lt;p&gt;Meta 分享数学家与 Muse Spark 1.1 和 Muse Spark 1.2（Thinking Mode）在 meta.ai 普通聊天界面下协作完成的六篇论文，面向无现成解法的开放数学问题，未使用定制研究脚手架。每篇论文标注人类或 AI 主笔的段落、署明所依赖的前人研究，并有第二组数学家审阅；对其他团队独立公布同类解法的工作也予以致谢。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/AIatMeta/status/2106099776035152231&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>行业动态 · Modal Clusters 正式发布，通过 @modal.clustered 提供多节点 GPU 集群</title>
-      <link>https://modal.com/blog/modal-clusters-generally-available</link>
-      <guid isPermaLink="false">linggou-zbprvsawadktpi8tcqpp6gw4d</guid>
-      <pubDate>Fri, 02 Oct 2026 14:44:09 +0800</pubDate>
+      <title>行业动态 · Google 发布基于 TEE 的下一代联邦学习系统，Gboard 已部署</title>
+      <link>https://research.google/blog/toward-provably-private-learning-from-federated-data/</link>
+      <guid isPermaLink="false">linggou-zfrloexd1672w3tse0utp4jgb</guid>
+      <pubDate>Mon, 05 Oct 2026 14:34:29 +0800</pubDate>
       <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; ·  · Modal 官方工程博客（RSS）&lt;/p&gt;
-&lt;p&gt;Modal 宣布 Modal Clusters 正式可用，通过一个装饰器 @modal.clustered 即可获得多节点集群，节点间经 InfiniBand verbs 通信可达 6.4 Tbps，自动配置 PyTorch 和 NCCL。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://modal.com/blog/modal-clusters-generally-available&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; ·  · Google Research：Blog（网页）&lt;/p&gt;
+&lt;p&gt;Google 宣布下一代联邦学习系统，利用可信执行环境（TEE）提供完全可验证、可审计的数据匿名化保证，访问策略发布至公共透明日志 Rekor，二进制可从开源代码可复现构建。Gboard 已部署该系统，用于英语和日语下一词预测模型，训练时间从过去的每次 1-2 个月显著缩短，并带来更强的隐私保证和更高的准确率。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://research.google/blog/toward-provably-private-learning-from-federated-data/&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>行业动态 · NVIDIA DGX Spark 推出 64GB 版本，10 月 23 日起以 $4,999 开售</title>
+      <link>https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync/</link>
+      <guid isPermaLink="false">linggou-epb245so8hb7m1r74gumw2dze</guid>
+      <pubDate>Fri, 02 Oct 2026 21:00:39 +0800</pubDate>
+      <category>行业动态</category>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 2天前 · NVIDIA Blog（RSS）&lt;/p&gt;
+&lt;p&gt;NVIDIA 宣布 DGX Spark 推出 64GB 统一内存新配置，10 月 23 日起由 Acer、ASUS、Dell、Gigabyte、HP 和 MSI 发售，起步价 $4,999，支持最高 1000 亿参数模型在端侧运行。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync/&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>行业动态 · Bloomberg：Anthropic 为可能估值近 2 万亿美元的 IPO 邀请机构投资者质询高管</title>
+      <link>https://x.com/rohanpaul_ai/status/2105921530211508488</link>
+      <guid isPermaLink="false">linggou-nab0yosxdtyh7sbvoo0usb1iq</guid>
+      <pubDate>Fri, 02 Oct 2026 15:23:13 +0800</pubDate>
+      <category>行业动态</category>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 2天前 · X：Rohan Paul (@rohanpaul_ai)&lt;/p&gt;
+&lt;p&gt;Bloomberg 报道，Anthropic 已邀请机构投资者在其可能估值近 2 万亿美元的 IPO 前质询高管。10 月 14 日的会议之后，最早 11 月 9 日当周启动正式路演，感恩节前上市；按 SEC 规则需在 10 月下旬公布 S-1 文件。OpenAI 则相反，以安全担忧为由排除 2026 年上市，正以约 1.4 万亿美元估值私下寻求至少 300 亿美元融资。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/rohanpaul_ai/status/2105921530211508488&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
