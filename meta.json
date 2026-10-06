@@ -1,21 +1,15 @@
 {
-  "generated_at": "2026-10-05T14:34:29.570164+08:00",
-  "total": 15,
-  "linggou": 9,
+  "generated_at": "2026-10-06T15:13:18.113442+08:00",
+  "total": 9,
+  "linggou": 2,
   "social_topics": 0,
   "sources": {
-    "PromptArmor：Threat Intelligence": 1,
-    "Hugging Face：Blog（RSS）": 1,
     "IT之家（RSS）": 1,
-    "X：Arena (@arena)": 2,
-    "X：AI at Meta (@AIatMeta)": 1,
-    "Google Research：Blog（网页）": 1,
-    "NVIDIA Blog（RSS）": 1,
-    "X：Rohan Paul (@rohanpaul_ai)": 1
+    "OpenAI：官网动态（RSS · 排除企业/客户案例）": 1
   },
   "categories": {
     "aigc_content": 0,
     "tech_tools": 1,
-    "industry": 8
+    "industry": 1
   }
 }
