@@ -1,15 +1,21 @@
 {
-  "generated_at": "2026-10-06T15:13:18.113442+08:00",
-  "total": 9,
-  "linggou": 2,
+  "generated_at": "2026-10-07T14:52:27.047179+08:00",
+  "total": 13,
+  "linggou": 9,
   "social_topics": 0,
   "sources": {
-    "IT之家（RSS）": 1,
-    "OpenAI：官网动态（RSS · 排除企业/客户案例）": 1
+    "X：Arena (@arena)": 2,
+    "OpenAI：官网动态（RSS · 排除企业/客户案例）": 1,
+    "GitHub Blog": 1,
+    "404 Media（RSS）": 1,
+    "X：X.PIN (@thexpin)": 1,
+    "Sierra：Blog（RSS）": 1,
+    "X：ARC Prize (@arcprize)": 1,
+    "X：OpenRouter (@OpenRouter)": 1
   },
   "categories": {
     "aigc_content": 0,
     "tech_tools": 1,
-    "industry": 1
+    "industry": 8
   }
 }

@@ -5,46 +5,144 @@
     <link>https://dingdanggg.github.io/linggou-rss</link>
     <description>灵构视角 AI 资讯 · 3D资产/AIGC影视/游戏/XR/社媒运营</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 06 Oct 2026 15:13:18 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 14:52:27 +0800</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://dingdanggg.github.io/linggou-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>🏗️ 灵构视角 · 10月06日 · 共2条</title>
+      <title>🏗️ 灵构视角 · 10月07日 · 共9条</title>
       <link>https://dingdanggg.github.io/linggou-rss</link>
-      <guid isPermaLink="false">linggou-digest-2026100615</guid>
-      <pubDate>Tue, 06 Oct 2026 15:13:18 +0800</pubDate>
+      <guid isPermaLink="false">linggou-digest-2026100714</guid>
+      <pubDate>Wed, 07 Oct 2026 14:52:27 +0800</pubDate>
       <description>&lt;h2&gt;🏗️ 灵构视角&lt;/h2&gt;
-&lt;p&gt;&lt;small&gt;来源：IT之家（RSS）(1条)、OpenAI：官网动态（RSS · 排除企业/客户案例）(1条)&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;来源：X：Arena (@arena)(2条)、OpenAI：官网动态（RSS · 排除企业/客户案例）(1条)、GitHub Blog(1条)、404 Media（RSS）(1条)、X：X.PIN (@thexpin)(1条)、Sierra：Blog（RSS）(1条)、X：ARC Prize (@arcprize)(1条)、X：OpenRouter (@OpenRouter)(1条)&lt;/small&gt;&lt;/p&gt;
 &lt;h3&gt;🛠️ 技术工具&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;1. OpenAI 在 ChatGPT 推出全新视觉广告格式并扩展广告测量工具&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;OpenAI：官网动态（RSS · 排除企业/客户案例） · 今天 18:00&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;OpenAI 宣布在 ChatGPT 推出新的视觉广告格式，本月起在美国于图像生成场景中测试，广告将明确标注且不影响 ChatGPT 的回答。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://openai.com/index/new-chatgpt-ads-format-and-measurement&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1. GitHub 重建 Git 基础设施，应对智能体规模开发&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;GitHub Blog · 今天 04:57&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;GitHub 宣布重建 Git 基础设施，以支持智能体规模开发带来的高并发读写负载。2026 年 8 月 GitHub 月度 Git 事件量达 473.3 billion（一年翻倍以上），9 月智能体和开发者产生 7.38 billion commits（超一年前五倍），pushes 同比增长 4.9 倍。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development/&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
 &lt;h3&gt;📊 行业动态&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;1. 消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;IT之家（RSS） · 今天 14:25&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;据彭博社报道，DeepSeek 新一轮融资接近敲定，规模至少 800 亿元，超出原定约 500 亿元目标，最终总额可能逼近 1000 亿元，腾讯和宁德时代是出资规模最大的投资方之一。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.ithome.com/1/009/990.htm&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1. Mistral Large 4 进入 Code Arena: WebDev 排名第45，得分1534&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Arena (@arena) · 今天 14:18&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;Arena 宣布 Mistral Large 4 登陆 Code Arena: WebDev，以 1534 分排名第 45，比 Mistral Large 3（第130名）高 304 分，比 Mistral Medium 3.5 高 271 分。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/arena/status/2107717155374727602&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;strong&gt;2. OpenAI 发布内部前沿模型产出的数学研究成果&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;OpenAI：官网动态（RSS · 排除企业/客户案例） · 今天 07:01&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;OpenAI 发布一批由内部前沿模型产出的新数学成果，成果以 GitHub 仓库形式公开，并附论文修订与引用协议，其中许多证明已用 Lean 形式化以便计算机验证。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://openai.com/index/sharing-ai-progress-in-mathematics/&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;strong&gt;3. 亚利桑那州法院裁定AI生成受害者视频带有不当情感分量，凶手须重新量刑&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;404 Media（RSS） · 今天 03:26&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;亚利桑那州上诉法院裁定，Gabriel Horcasitas过失杀人案量刑中使用的受害者Christopher Pelkey AI生成视频带有不当情感重量，罪名维持但刑期须重新考虑。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.404media.co/her-ai-generated-video-swayed-the-judge-the-court-said-it-carried-undue-emotional-weight/&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;strong&gt;4. DeepSeek 据报道接近完成至少 800 亿元融资，腾讯与宁德时代参与&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：X.PIN (@thexpin) · 今天 01:32&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;据 Bloomberg 援引知情人士报道，DeepSeek 接近完成至少 800 亿元（约 120 亿美元）融资，高于原定约 500 亿元的目标。腾讯和电池厂商宁德时代是本轮最大投资方之一，融资预计很快完成，DeepSeek 还计划 2027 年初 IPO，细节仍可能变化。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/thexpin/status/2107524306058289533&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;strong&gt;5. Sierra 与 Meta 联合多家企业发布 Personal Agent Protocol 开放协议&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;Sierra：Blog（RSS） · 今天 01:32&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;Sierra 与 Meta 联合 Genesys、Instinct、Rocket、Shopify、Stripe、Walmart 等伙伴宣布开发 Personal Agent Protocol，一个定义个人 AI 智能体如何与企业交互的开放标准，任何人都可实现。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://sierra.ai/blog/introducing-personal-agent-protocol&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;strong&gt;6. DeepSeek V4.1 Flash 在 ARC-AGI (Verified) 评测中的成绩公布&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：ARC Prize (@arcprize) · 今天 23:20&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;ARC Prize 公布 DeepSeek V4.1 Flash 在 ARC-AGI (Verified) 的成绩：ARC-AGI-2 得分 72.9%，每任务成本 $0.13；ARC-AGI-1 得分 94.5%，每任务成本 $0.07。相比 V4 Flash 的最佳成绩，ARC-AGI-1 高 5.5 分，ARC-AGI-2 高 11.5 分，但每任务成本高约 250%。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/arcprize/status/2107491194007585239&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;strong&gt;7. Mistral Large 4 上线 Arena 的 Agent Arena 与 Code Arena 评测&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Arena (@arena) · 今天 22:21&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;Arena 宣布 Mistral 的 Mistral Large 4 现已进入 Agent Arena，用户可前往测试投票，分数稍后公布。该模型为 1T 参数、49B 激活的原生多模态开放权重模型，也已在 Code Arena 的 WebDev、Text 和 Vision 中可用。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/arena/status/2107476436223504484&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;strong&gt;8. Mistral Large 4 上线 OpenRouter 公测：1T 参数、512K 上下文&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：OpenRouter (@OpenRouter) · 今天 22:02&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;Mistral Large 4 现已在 OpenRouter 开放公测，规格为 1T 参数（49B 激活）、原生多模态、512K 上下文、最高 256K 输出。前两周五折：每 1M tokens 输入 $0.68、输出 $2.09，缓存 $0.07。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/OpenRouter/status/2107471559040635360&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;</description>
     </item>
     <item>
-      <title>行业动态 · 消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与</title>
-      <link>https://www.ithome.com/1/009/990.htm</link>
-      <guid isPermaLink="false">linggou-g59v2qb4tcs4ibikxg8uucify</guid>
-      <pubDate>Tue, 06 Oct 2026 14:25:15 +0800</pubDate>
+      <title>行业动态 · Mistral Large 4 进入 Code Arena: WebDev 排名第45，得分1534</title>
+      <link>https://x.com/arena/status/2107717155374727602</link>
+      <guid isPermaLink="false">linggou-kxqn0rzbtjdxg7ibbjge08tzt</guid>
+      <pubDate>Wed, 07 Oct 2026 14:18:23 +0800</pubDate>
       <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 14:25 · IT之家（RSS）&lt;/p&gt;
-&lt;p&gt;据彭博社报道，DeepSeek 新一轮融资接近敲定，规模至少 800 亿元，超出原定约 500 亿元目标，最终总额可能逼近 1000 亿元，腾讯和宁德时代是出资规模最大的投资方之一。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.ithome.com/1/009/990.htm&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 14:18 · X：Arena (@arena)&lt;/p&gt;
+&lt;p&gt;Arena 宣布 Mistral Large 4 登陆 Code Arena: WebDev，以 1534 分排名第 45，比 Mistral Large 3（第130名）高 304 分，比 Mistral Medium 3.5 高 271 分。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/arena/status/2107717155374727602&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>技术工具 · OpenAI 在 ChatGPT 推出全新视觉广告格式并扩展广告测量工具</title>
-      <link>https://openai.com/index/new-chatgpt-ads-format-and-measurement</link>
-      <guid isPermaLink="false">linggou-e63lz9ky7ebdxjea930dh3o5y</guid>
-      <pubDate>Mon, 05 Oct 2026 18:00:00 +0800</pubDate>
+      <title>行业动态 · OpenAI 发布内部前沿模型产出的数学研究成果</title>
+      <link>https://openai.com/index/sharing-ai-progress-in-mathematics/</link>
+      <guid isPermaLink="false">linggou-zvw2i4tg1gnqq72t596vpqoyl</guid>
+      <pubDate>Wed, 07 Oct 2026 07:01:09 +0800</pubDate>
+      <category>行业动态</category>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 07:01 · OpenAI：官网动态（RSS · 排除企业/客户案例）&lt;/p&gt;
+&lt;p&gt;OpenAI 发布一批由内部前沿模型产出的新数学成果，成果以 GitHub 仓库形式公开，并附论文修订与引用协议，其中许多证明已用 Lean 形式化以便计算机验证。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://openai.com/index/sharing-ai-progress-in-mathematics/&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>技术工具 · GitHub 重建 Git 基础设施，应对智能体规模开发</title>
+      <link>https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development/</link>
+      <guid isPermaLink="false">linggou-iq15z1msend1ocusxt2phyms7</guid>
+      <pubDate>Wed, 07 Oct 2026 04:57:56 +0800</pubDate>
       <category>技术工具</category>
-      <description>&lt;p&gt;&lt;strong&gt;🛠️ 技术工具&lt;/strong&gt; · 今天 18:00 · OpenAI：官网动态（RSS · 排除企业/客户案例）&lt;/p&gt;
-&lt;p&gt;OpenAI 宣布在 ChatGPT 推出新的视觉广告格式，本月起在美国于图像生成场景中测试，广告将明确标注且不影响 ChatGPT 的回答。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://openai.com/index/new-chatgpt-ads-format-and-measurement&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;🛠️ 技术工具&lt;/strong&gt; · 今天 04:57 · GitHub Blog&lt;/p&gt;
+&lt;p&gt;GitHub 宣布重建 Git 基础设施，以支持智能体规模开发带来的高并发读写负载。2026 年 8 月 GitHub 月度 Git 事件量达 473.3 billion（一年翻倍以上），9 月智能体和开发者产生 7.38 billion commits（超一年前五倍），pushes 同比增长 4.9 倍。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development/&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>行业动态 · 亚利桑那州法院裁定AI生成受害者视频带有不当情感分量，凶手须重新量刑</title>
+      <link>https://www.404media.co/her-ai-generated-video-swayed-the-judge-the-court-said-it-carried-undue-emotional-weight/</link>
+      <guid isPermaLink="false">linggou-r5p04sepsb5p5ir85wq1bok58</guid>
+      <pubDate>Wed, 07 Oct 2026 03:26:09 +0800</pubDate>
+      <category>行业动态</category>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 03:26 · 404 Media（RSS）&lt;/p&gt;
+&lt;p&gt;亚利桑那州上诉法院裁定，Gabriel Horcasitas过失杀人案量刑中使用的受害者Christopher Pelkey AI生成视频带有不当情感重量，罪名维持但刑期须重新考虑。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.404media.co/her-ai-generated-video-swayed-the-judge-the-court-said-it-carried-undue-emotional-weight/&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>行业动态 · DeepSeek 据报道接近完成至少 800 亿元融资，腾讯与宁德时代参与</title>
+      <link>https://x.com/thexpin/status/2107524306058289533</link>
+      <guid isPermaLink="false">linggou-wbi0gsddrrfnavs6vvuqb2r7j</guid>
+      <pubDate>Wed, 07 Oct 2026 01:32:05 +0800</pubDate>
+      <category>行业动态</category>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 01:32 · X：X.PIN (@thexpin)&lt;/p&gt;
+&lt;p&gt;据 Bloomberg 援引知情人士报道，DeepSeek 接近完成至少 800 亿元（约 120 亿美元）融资，高于原定约 500 亿元的目标。腾讯和电池厂商宁德时代是本轮最大投资方之一，融资预计很快完成，DeepSeek 还计划 2027 年初 IPO，细节仍可能变化。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/thexpin/status/2107524306058289533&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>行业动态 · Sierra 与 Meta 联合多家企业发布 Personal Agent Protocol 开放协议</title>
+      <link>https://sierra.ai/blog/introducing-personal-agent-protocol</link>
+      <guid isPermaLink="false">linggou-ktjti7hbm1gor33jpoc6ghili</guid>
+      <pubDate>Wed, 07 Oct 2026 01:32:00 +0800</pubDate>
+      <category>行业动态</category>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 01:32 · Sierra：Blog（RSS）&lt;/p&gt;
+&lt;p&gt;Sierra 与 Meta 联合 Genesys、Instinct、Rocket、Shopify、Stripe、Walmart 等伙伴宣布开发 Personal Agent Protocol，一个定义个人 AI 智能体如何与企业交互的开放标准，任何人都可实现。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://sierra.ai/blog/introducing-personal-agent-protocol&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>行业动态 · DeepSeek V4.1 Flash 在 ARC-AGI (Verified) 评测中的成绩公布</title>
+      <link>https://x.com/arcprize/status/2107491194007585239</link>
+      <guid isPermaLink="false">linggou-quya0qxvagwzjaw5wd9ma7vvu</guid>
+      <pubDate>Tue, 06 Oct 2026 23:20:30 +0800</pubDate>
+      <category>行业动态</category>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 23:20 · X：ARC Prize (@arcprize)&lt;/p&gt;
+&lt;p&gt;ARC Prize 公布 DeepSeek V4.1 Flash 在 ARC-AGI (Verified) 的成绩：ARC-AGI-2 得分 72.9%，每任务成本 $0.13；ARC-AGI-1 得分 94.5%，每任务成本 $0.07。相比 V4 Flash 的最佳成绩，ARC-AGI-1 高 5.5 分，ARC-AGI-2 高 11.5 分，但每任务成本高约 250%。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/arcprize/status/2107491194007585239&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>行业动态 · Mistral Large 4 上线 Arena 的 Agent Arena 与 Code Arena 评测</title>
+      <link>https://x.com/arena/status/2107476436223504484</link>
+      <guid isPermaLink="false">linggou-gyfo8loe7gfo6fmgt762027fp</guid>
+      <pubDate>Tue, 06 Oct 2026 22:21:52 +0800</pubDate>
+      <category>行业动态</category>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 22:21 · X：Arena (@arena)&lt;/p&gt;
+&lt;p&gt;Arena 宣布 Mistral 的 Mistral Large 4 现已进入 Agent Arena，用户可前往测试投票，分数稍后公布。该模型为 1T 参数、49B 激活的原生多模态开放权重模型，也已在 Code Arena 的 WebDev、Text 和 Vision 中可用。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/arena/status/2107476436223504484&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>行业动态 · Mistral Large 4 上线 OpenRouter 公测：1T 参数、512K 上下文</title>
+      <link>https://x.com/OpenRouter/status/2107471559040635360</link>
+      <guid isPermaLink="false">linggou-z94jsbcn3hkyiagdyb9wai8sm</guid>
+      <pubDate>Tue, 06 Oct 2026 22:02:29 +0800</pubDate>
+      <category>行业动态</category>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 22:02 · X：OpenRouter (@OpenRouter)&lt;/p&gt;
+&lt;p&gt;Mistral Large 4 现已在 OpenRouter 开放公测，规格为 1T 参数（49B 激活）、原生多模态、512K 上下文、最高 256K 输出。前两周五折：每 1M tokens 输入 $0.68、输出 $2.09，缓存 $0.07。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/OpenRouter/status/2107471559040635360&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
