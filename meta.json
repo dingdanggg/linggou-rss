@@ -1,21 +1,20 @@
 {
-  "generated_at": "2026-10-07T14:52:27.047179+08:00",
-  "total": 13,
-  "linggou": 9,
+  "generated_at": "2026-10-08T15:00:58.263154+08:00",
+  "total": 17,
+  "linggou": 7,
   "social_topics": 0,
   "sources": {
-    "X：Arena (@arena)": 2,
-    "OpenAI：官网动态（RSS · 排除企业/客户案例）": 1,
-    "GitHub Blog": 1,
-    "404 Media（RSS）": 1,
-    "X：X.PIN (@thexpin)": 1,
-    "Sierra：Blog（RSS）": 1,
-    "X：ARC Prize (@arcprize)": 1,
-    "X：OpenRouter (@OpenRouter)": 1
+    "X：Tibo (@thsottiaux)": 1,
+    "NVIDIA Blog（RSS）": 1,
+    "X：Claude Devs (@ClaudeDevs)": 1,
+    "X：Claude (@claudeai)": 1,
+    "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)": 1,
+    "Microsoft Research 博客（RSS）": 1,
+    "X：Google (@Google)": 1
   },
   "categories": {
-    "aigc_content": 0,
+    "aigc_content": 1,
     "tech_tools": 1,
-    "industry": 8
+    "industry": 5
   }
 }
