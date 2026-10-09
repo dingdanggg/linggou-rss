@@ -5,117 +5,172 @@
     <link>https://dingdanggg.github.io/linggou-rss</link>
     <description>灵构视角 AI 资讯 · 3D资产/AIGC影视/游戏/XR/社媒运营</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 08 Oct 2026 15:00:58 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 15:09:01 +0800</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://dingdanggg.github.io/linggou-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>🏗️ 灵构视角 · 10月08日 · 共7条</title>
+      <title>🏗️ 灵构视角 · 10月09日 · 共11条</title>
       <link>https://dingdanggg.github.io/linggou-rss</link>
-      <guid isPermaLink="false">linggou-digest-2026100815</guid>
-      <pubDate>Thu, 08 Oct 2026 15:00:58 +0800</pubDate>
+      <guid isPermaLink="false">linggou-digest-2026100915</guid>
+      <pubDate>Fri, 09 Oct 2026 15:09:01 +0800</pubDate>
       <description>&lt;h2&gt;🏗️ 灵构视角&lt;/h2&gt;
-&lt;p&gt;&lt;small&gt;来源：X：Tibo (@thsottiaux)(1条)、NVIDIA Blog（RSS）(1条)、X：Claude Devs (@ClaudeDevs)(1条)、X：Claude (@claudeai)(1条)、X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)(1条)、Microsoft Research 博客（RSS）(1条)、X：Google (@Google)(1条)&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;来源：X：Arena (@arena)(5条)、The Decoder：AI News（RSS）(2条)、X：OpenAI Newsroom (@OpenAINewsroom)(1条)、Comfy Blog(1条)、X：Artificial Analysis (@ArtificialAnlys)(1条)、Claude：YouTube（RSS）(1条)&lt;/small&gt;&lt;/p&gt;
 &lt;h3&gt;📽️ AIGC 内容创作&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;1. Google 开放 SynthID Detector 门户，可检测图片、视频和音频是否由 AI 生成&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Google (@Google) · 今天 22:12&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;Google 介绍检测媒体是否由 AI 生成的方法：访问 https://synthid.com 上传图片、视频或音频文件，门户会扫描文件是否包含来自 Google 或其合作伙伴的 SynthID 水印。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/Google/status/2107836410254291345&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;h3&gt;🛠️ 技术工具&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;1. Microsoft Research Asia 开源 Agent Lightning v1.0：3,500 行代码的真实 harness 智能体 RL 训练框架&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;Microsoft Research 博客（RSS） · 今天 00:00&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;Microsoft Research Asia 提出 Harnessed Agentic RL 训练范式并开源重建的 Agent Lightning v1.0，让部署时使用的同一 agent harness 直接参与强化学习，无需在训练框架内重写 agent。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses/&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1. 如何在单张 RTX 5090 上用 MiniMax H3 生成实时视频&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;Comfy Blog · 今天 03:01&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;ComfyUI 博客作者用智能体搜集各类优化，把 MiniMax H3 实时视频生成压缩到单张 RTX 5090（32 GB 显存）上运行，生成 30 秒视频耗时 23.51 秒，达 1.28 倍实时吞吐。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://blog.comfy.org/p/how-i-generated-live-video-with-minimax&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
 &lt;h3&gt;📊 行业动态&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;1. Codex 与 ChatGPT Work 活跃用户达 4000 万新高，付费账户重置已全部到账&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Tibo (@thsottiaux) · 今天 11:44&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;作者确认 banked reset 已到账所有账户，并转引 Day 3 动态称 Codex 与 ChatGPT Work 合计活跃用户达到 4000 万新高，其中提到 GPT-6 已在 Chat 中上线。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/thsottiaux/status/2108040921044639779&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1. OpenAI 研究负责人发声明回应三名员工离职争议&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：OpenAI Newsroom (@OpenAINewsroom) · 今天 14:17&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;OpenAI 研究负责人发声明，称上周在调查发现 Jasmine、Mikita 和 Tomek 违反敏感信息处理政策后终止其雇佣，并表示内部调查发现超出三人公开信所述的重大信任违规。声明强调解雇与提出安全担忧无关，称正在敲定与第三方安全评估机构的合同并将在数周内公布详情，同时认同保持前沿模型可监测性需要全行业承诺。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/OpenAINewsroom/status/2108441580806025712&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;2. NVIDIA 与 Microsoft 推出 RTX Spark 平台并宣布 MXC 让 AI Agent 落地 Windows PC&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;NVIDIA Blog（RSS） · 今天 02:45&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;NVIDIA 与 Microsoft 在旧金山活动上宣布为 Windows PC 共同打造 AI Agent 软硬件。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2. Mistral Large 4 进入 Agent Arena 前十五实验室，排名第 43&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Arena (@arena) · 今天 11:53&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;Arena 宣布 Mistral Large 4 进入 Agent Arena 前十五实验室，基于超 5000 个真实智能体会话，该预览版净改进分为 -6.6%，总排名第 43，比前代 Mistral Medium 3.5（-12.60%）高出 11 位。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/arena/status/2108405474391728357&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;3. Anthropic 为 Claude Max 和 Team 套餐推出月度 Platform API 额度&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Claude Devs (@ClaudeDevs) · 今天 02:08&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;Anthropic 正在为 Claude Max 和 Team 套餐推出月度 Claude Platform API 额度：Max 5x 为 $100，Max 20x 为 $200，Team 最多 $500 且可共享。额度适用于任何模型，包括 Haiku 5.5，可在自己的代码或第三方 harness 中使用。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/ClaudeDevs/status/2107895957933408429&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3. Arena 完成 2 亿美元 B 轮融资，估值 31 亿美元并发布 Alignment Index&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Arena (@arena) · 今天 05:36&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;Arena 完成 2 亿美元 B 轮融资，估值 31 亿美元，由 Lightspeed 和 Khosla Ventures 联合领投，a16z、Felicis、Salesforce Ventures、The House Fund 等参投。自 A 轮以来，Arena 年化收入超 1 亿美元，平台累计 3.5 亿场次会话，约 5 个月内产生 700 万次 Agent Arena 会话，覆盖文本、视觉、代码、搜索、图像和视频的投票达 6200 万，用户遍布 150 多个国家。融资同时，Arena 发布基于真实智能体轨迹构建的 Alignment Index，对 20 多个前沿模型从 Unauthorized Action、False Attribution 和 Deceptive Completion 三个信号进行评估。Arena 于 2023 年作为 UC Berkeley 研究项目启动，2025 年成为公司。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/arena/status/2108310714423423254&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;4. Anthropic 将 Claude Sonnet 5.5 缓存读取价格减半至每百万 token $0.10&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Claude (@claudeai) · 今天 02:01&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;Anthropic 宣布将 Claude Sonnet 5.5 的缓存读取价格减半，降至每百万 token $0.10。官方称这使 Sonnet 5.5 在多数长期运行任务上的运行成本降低约 20%。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/claudeai/status/2107894060229034197&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;4. Arena 公布 Claude Haiku 5.5 (High) 真实评测结果：Code Arena 1587 分首秀第 30 名&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Arena (@arena) · 今天 04:02&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;Arena 公布 Anthropic Claude Haiku 5.5 (High) 的真实评测结果，在 Code Arena: WebDev 以 1587 分首秀排名第 30，略在 Pareto 前沿之外。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/arena/status/2108286973119230096&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;5. Perplexity 开源 pplx-embed-v2-late 多模态 late-interaction 嵌入模型（9B 与 0.6B）&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas) · 今天 00:33&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;Perplexity 开源 pplx-embed-v2-late，两个针对文本和图像的 late-interaction 多向量嵌入模型，大小为 9B 和 0.6B，共享同一嵌入空间，权重已在 Hugging Face 提供。9B 可用于索引多模态数据，0.6B 可在设备端查询，无需 OCR 即可检索 PDF 页面；模型在 MADQA 得分 92.4%，BrowseComp+ 得分 64%。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/AravSrinivas/status/2107871834205196784&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;5. Arena 获 Lightspeed 领投 2 亿美元 B 轮融资，估值 31 亿美元并推出 Alignment Index&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Arena (@arena) · 今天 02:51&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;Arena 宣布完成由 Lightspeed 领投的 2 亿美元 B 轮融资，估值 31 亿美元。引用内容称其年化收入已超 1 亿美元，数百万用户通过真实使用帮助评估前沿模型；Arena 同时推出 Alignment Index，衡量 AI 行为在真实场景中与人类价值的契合程度。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/arena/status/2108269048467513429&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;strong&gt;6. Arena 宣布 2 亿美元 B 轮融资，估值达 31 亿美元，并推出 Alignment Index&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Arena (@arena) · 今天 01:08&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;Arena 宣布完成 2 亿美元 B 轮融资，估值 31 亿美元，同时推出衡量 AI 智能体是否安全、真实且在用户要求范围内行动的 Alignment Index。引用 Felicis 的内容称 Arena 年化收入已超 1 亿美元，累计促成 3.5 亿次会话和 6200 万次投票。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/arena/status/2108243026741248348&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;strong&gt;7. Artificial Analysis 评测 Google Nano Banana 2.1，两榜居第 4 且价格为前代一半&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Artificial Analysis (@ArtificialAnlys) · 今天 00:42&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;Artificial Analysis 评测 Google 于 10 月 6 日发布的图像模型 Nano Banana 2.1，在 AA-Image-T2I v2.0 和 AA-Image-Editing v2.0 两个榜单均排名第 4。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/ArtificialAnlys/status/2108236656700768310&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;strong&gt;8. Claude 九月回顾：Chat 与 Cowork 合一，Claude 5.5 系列模型上线&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;Claude：YouTube（RSS） · 今天 23:53&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;Claude 发布九月更新回顾，Chat 与 Cowork 合并为一个 Claude，工作流可在云端运行，合上笔记本后继续进行。Claude Docs 支持团队与 Claude 在同一文档中协作编辑，新推出的 Claude 5.5 系列提供 Opus 5.5 处理重任务、Sonnet 5.5 用于快速修改，并可通过 /slides、/docs、/designs 直接生成对应格式。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/shorts/n9WfoNW2XnE&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;strong&gt;9. Zenity 研究人员发现一条提示词即可劫持 AWS 账户内全部 AgentCore 智能体&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;The Decoder：AI News（RSS） · 今天 21:01&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;Zenity Labs 研究人员披露名为 AgentCorruption 的漏洞链，只需对一个公开的 Amazon Bedrock AgentCore 智能体发送一条提示词，即可通过元数据服务 169.254.169.254 窃取其 AWS 凭据，进而控制同账户同区域内的所有 AgentCore 智能体，读取私人对话、源代码和存储的凭据，还能篡改长期记忆。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://the-decoder.com/a-single-prompt-was-enough-to-hijack-every-ai-agent-in-an-aws-account-zenity-researchers-found/&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;strong&gt;10. Crowdstrike 报告疑似单人使用 AI 渗透工具攻击多家韩国银行&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;The Decoder：AI News（RSS） · 今天 17:24&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;Crowdstrike 报告称，一名疑似中文使用者于2026年9月底至10月初利用 AI 驱动的开源渗透测试工具 ARTEX 攻击多家韩国金融机构，窃取大量数据，其中 Shinhan Bank 超过 25,000 条包含姓名、联系方式、收入和信用额度的记录泄露。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://the-decoder.com/ai-powered-hacking-tools-enabled-a-likely-single-attacker-to-breach-multiple-south-korean-banks/&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;</description>
     </item>
     <item>
-      <title>行业动态 · Codex 与 ChatGPT Work 活跃用户达 4000 万新高，付费账户重置已全部到账</title>
-      <link>https://x.com/thsottiaux/status/2108040921044639779</link>
-      <guid isPermaLink="false">linggou-zdgw2hhfjitur1qmeuminh3lm</guid>
-      <pubDate>Thu, 08 Oct 2026 11:44:55 +0800</pubDate>
+      <title>行业动态 · OpenAI 研究负责人发声明回应三名员工离职争议</title>
+      <link>https://x.com/OpenAINewsroom/status/2108441580806025712</link>
+      <guid isPermaLink="false">linggou-uceike4yt1on0k7sj37f9nfeh</guid>
+      <pubDate>Fri, 09 Oct 2026 14:17:00 +0800</pubDate>
       <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 11:44 · X：Tibo (@thsottiaux)&lt;/p&gt;
-&lt;p&gt;作者确认 banked reset 已到账所有账户，并转引 Day 3 动态称 Codex 与 ChatGPT Work 合计活跃用户达到 4000 万新高，其中提到 GPT-6 已在 Chat 中上线。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/thsottiaux/status/2108040921044639779&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 14:17 · X：OpenAI Newsroom (@OpenAINewsroom)&lt;/p&gt;
+&lt;p&gt;OpenAI 研究负责人发声明，称上周在调查发现 Jasmine、Mikita 和 Tomek 违反敏感信息处理政策后终止其雇佣，并表示内部调查发现超出三人公开信所述的重大信任违规。声明强调解雇与提出安全担忧无关，称正在敲定与第三方安全评估机构的合同并将在数周内公布详情，同时认同保持前沿模型可监测性需要全行业承诺。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/OpenAINewsroom/status/2108441580806025712&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>行业动态 · NVIDIA 与 Microsoft 推出 RTX Spark 平台并宣布 MXC 让 AI Agent 落地 Windows PC</title>
-      <link>https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/</link>
-      <guid isPermaLink="false">linggou-t02toac3ii8mp1lxzl4blewdd</guid>
-      <pubDate>Thu, 08 Oct 2026 02:45:28 +0800</pubDate>
+      <title>行业动态 · Mistral Large 4 进入 Agent Arena 前十五实验室，排名第 43</title>
+      <link>https://x.com/arena/status/2108405474391728357</link>
+      <guid isPermaLink="false">linggou-y9clkoyn1giula1pc7pkb9qxd</guid>
+      <pubDate>Fri, 09 Oct 2026 11:53:32 +0800</pubDate>
       <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 02:45 · NVIDIA Blog（RSS）&lt;/p&gt;
-&lt;p&gt;NVIDIA 与 Microsoft 在旧金山活动上宣布为 Windows PC 共同打造 AI Agent 软硬件。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 11:53 · X：Arena (@arena)&lt;/p&gt;
+&lt;p&gt;Arena 宣布 Mistral Large 4 进入 Agent Arena 前十五实验室，基于超 5000 个真实智能体会话，该预览版净改进分为 -6.6%，总排名第 43，比前代 Mistral Medium 3.5（-12.60%）高出 11 位。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/arena/status/2108405474391728357&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>行业动态 · Anthropic 为 Claude Max 和 Team 套餐推出月度 Platform API 额度</title>
-      <link>https://x.com/ClaudeDevs/status/2107895957933408429</link>
-      <guid isPermaLink="false">linggou-ponkn6n046yorr5pg1yv3yjm5</guid>
-      <pubDate>Thu, 08 Oct 2026 02:08:53 +0800</pubDate>
+      <title>行业动态 · Arena 完成 2 亿美元 B 轮融资，估值 31 亿美元并发布 Alignment Index</title>
+      <link>https://x.com/arena/status/2108310714423423254</link>
+      <guid isPermaLink="false">linggou-rs34l7aa23mk54jutma8f7g3r</guid>
+      <pubDate>Fri, 09 Oct 2026 05:36:59 +0800</pubDate>
       <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 02:08 · X：Claude Devs (@ClaudeDevs)&lt;/p&gt;
-&lt;p&gt;Anthropic 正在为 Claude Max 和 Team 套餐推出月度 Claude Platform API 额度：Max 5x 为 $100，Max 20x 为 $200，Team 最多 $500 且可共享。额度适用于任何模型，包括 Haiku 5.5，可在自己的代码或第三方 harness 中使用。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/ClaudeDevs/status/2107895957933408429&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 05:36 · X：Arena (@arena)&lt;/p&gt;
+&lt;p&gt;Arena 完成 2 亿美元 B 轮融资，估值 31 亿美元，由 Lightspeed 和 Khosla Ventures 联合领投，a16z、Felicis、Salesforce Ventures、The House Fund 等参投。自 A 轮以来，Arena 年化收入超 1 亿美元，平台累计 3.5 亿场次会话，约 5 个月内产生 700 万次 Agent Arena 会话，覆盖文本、视觉、代码、搜索、图像和视频的投票达 6200 万，用户遍布 150 多个国家。融资同时，Arena 发布基于真实智能体轨迹构建的 Alignment Index，对 20 多个前沿模型从 Unauthorized Action、False Attribution 和 Deceptive Completion 三个信号进行评估。Arena 于 2023 年作为 UC Berkeley 研究项目启动，2025 年成为公司。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/arena/status/2108310714423423254&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>行业动态 · Anthropic 将 Claude Sonnet 5.5 缓存读取价格减半至每百万 token $0.10</title>
-      <link>https://x.com/claudeai/status/2107894060229034197</link>
-      <guid isPermaLink="false">linggou-zn6imszjo14gki6kr2uyydknp</guid>
-      <pubDate>Thu, 08 Oct 2026 02:01:21 +0800</pubDate>
+      <title>行业动态 · Arena 公布 Claude Haiku 5.5 (High) 真实评测结果：Code Arena 1587 分首秀第 30 名</title>
+      <link>https://x.com/arena/status/2108286973119230096</link>
+      <guid isPermaLink="false">linggou-jxxgoidojk52fkcs2fz0fkjzy</guid>
+      <pubDate>Fri, 09 Oct 2026 04:02:39 +0800</pubDate>
       <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 02:01 · X：Claude (@claudeai)&lt;/p&gt;
-&lt;p&gt;Anthropic 宣布将 Claude Sonnet 5.5 的缓存读取价格减半，降至每百万 token $0.10。官方称这使 Sonnet 5.5 在多数长期运行任务上的运行成本降低约 20%。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/claudeai/status/2107894060229034197&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 04:02 · X：Arena (@arena)&lt;/p&gt;
+&lt;p&gt;Arena 公布 Anthropic Claude Haiku 5.5 (High) 的真实评测结果，在 Code Arena: WebDev 以 1587 分首秀排名第 30，略在 Pareto 前沿之外。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/arena/status/2108286973119230096&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>行业动态 · Perplexity 开源 pplx-embed-v2-late 多模态 late-interaction 嵌入模型（9B 与 0.6B）</title>
-      <link>https://x.com/AravSrinivas/status/2107871834205196784</link>
-      <guid isPermaLink="false">linggou-lfy2ww68p9lgpxxhu5jssflwf</guid>
-      <pubDate>Thu, 08 Oct 2026 00:33:02 +0800</pubDate>
-      <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 00:33 · X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)&lt;/p&gt;
-&lt;p&gt;Perplexity 开源 pplx-embed-v2-late，两个针对文本和图像的 late-interaction 多向量嵌入模型，大小为 9B 和 0.6B，共享同一嵌入空间，权重已在 Hugging Face 提供。9B 可用于索引多模态数据，0.6B 可在设备端查询，无需 OCR 即可检索 PDF 页面；模型在 MADQA 得分 92.4%，BrowseComp+ 得分 64%。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/AravSrinivas/status/2107871834205196784&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>技术工具 · Microsoft Research Asia 开源 Agent Lightning v1.0：3,500 行代码的真实 harness 智能体 RL 训练框架</title>
-      <link>https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses/</link>
-      <guid isPermaLink="false">linggou-t9wypjd9cbb42ttuq7vrpp07l</guid>
-      <pubDate>Thu, 08 Oct 2026 00:00:00 +0800</pubDate>
-      <category>技术工具</category>
-      <description>&lt;p&gt;&lt;strong&gt;🛠️ 技术工具&lt;/strong&gt; · 今天 00:00 · Microsoft Research 博客（RSS）&lt;/p&gt;
-&lt;p&gt;Microsoft Research Asia 提出 Harnessed Agentic RL 训练范式并开源重建的 Agent Lightning v1.0，让部署时使用的同一 agent harness 直接参与强化学习，无需在训练框架内重写 agent。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses/&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>AIGC内容创作 · Google 开放 SynthID Detector 门户，可检测图片、视频和音频是否由 AI 生成</title>
-      <link>https://x.com/Google/status/2107836410254291345</link>
-      <guid isPermaLink="false">linggou-don06si59xc143ed92gdmlnvo</guid>
-      <pubDate>Wed, 07 Oct 2026 22:12:16 +0800</pubDate>
+      <title>AIGC内容创作 · 如何在单张 RTX 5090 上用 MiniMax H3 生成实时视频</title>
+      <link>https://blog.comfy.org/p/how-i-generated-live-video-with-minimax</link>
+      <guid isPermaLink="false">linggou-xc7shuv3raxyv5xvh59ez8hjf</guid>
+      <pubDate>Fri, 09 Oct 2026 03:01:22 +0800</pubDate>
       <category>AIGC内容创作</category>
-      <description>&lt;p&gt;&lt;strong&gt;📽️ AIGC 内容创作&lt;/strong&gt; · 今天 22:12 · X：Google (@Google)&lt;/p&gt;
-&lt;p&gt;Google 介绍检测媒体是否由 AI 生成的方法：访问 https://synthid.com 上传图片、视频或音频文件，门户会扫描文件是否包含来自 Google 或其合作伙伴的 SynthID 水印。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/Google/status/2107836410254291345&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;📽️ AIGC 内容创作&lt;/strong&gt; · 今天 03:01 · Comfy Blog&lt;/p&gt;
+&lt;p&gt;ComfyUI 博客作者用智能体搜集各类优化，把 MiniMax H3 实时视频生成压缩到单张 RTX 5090（32 GB 显存）上运行，生成 30 秒视频耗时 23.51 秒，达 1.28 倍实时吞吐。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://blog.comfy.org/p/how-i-generated-live-video-with-minimax&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>行业动态 · Arena 获 Lightspeed 领投 2 亿美元 B 轮融资，估值 31 亿美元并推出 Alignment Index</title>
+      <link>https://x.com/arena/status/2108269048467513429</link>
+      <guid isPermaLink="false">linggou-qtsvk3wzyp2aab3vi62vjyold</guid>
+      <pubDate>Fri, 09 Oct 2026 02:51:25 +0800</pubDate>
+      <category>行业动态</category>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 02:51 · X：Arena (@arena)&lt;/p&gt;
+&lt;p&gt;Arena 宣布完成由 Lightspeed 领投的 2 亿美元 B 轮融资，估值 31 亿美元。引用内容称其年化收入已超 1 亿美元，数百万用户通过真实使用帮助评估前沿模型；Arena 同时推出 Alignment Index，衡量 AI 行为在真实场景中与人类价值的契合程度。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/arena/status/2108269048467513429&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>行业动态 · Arena 宣布 2 亿美元 B 轮融资，估值达 31 亿美元，并推出 Alignment Index</title>
+      <link>https://x.com/arena/status/2108243026741248348</link>
+      <guid isPermaLink="false">linggou-p95hk44dfpkogo2v4rgwvxq30</guid>
+      <pubDate>Fri, 09 Oct 2026 01:08:01 +0800</pubDate>
+      <category>行业动态</category>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 01:08 · X：Arena (@arena)&lt;/p&gt;
+&lt;p&gt;Arena 宣布完成 2 亿美元 B 轮融资，估值 31 亿美元，同时推出衡量 AI 智能体是否安全、真实且在用户要求范围内行动的 Alignment Index。引用 Felicis 的内容称 Arena 年化收入已超 1 亿美元，累计促成 3.5 亿次会话和 6200 万次投票。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/arena/status/2108243026741248348&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>行业动态 · Artificial Analysis 评测 Google Nano Banana 2.1，两榜居第 4 且价格为前代一半</title>
+      <link>https://x.com/ArtificialAnlys/status/2108236656700768310</link>
+      <guid isPermaLink="false">linggou-dsbzfsw2pdaw0ikh67cyxmlss</guid>
+      <pubDate>Fri, 09 Oct 2026 00:42:42 +0800</pubDate>
+      <category>行业动态</category>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 00:42 · X：Artificial Analysis (@ArtificialAnlys)&lt;/p&gt;
+&lt;p&gt;Artificial Analysis 评测 Google 于 10 月 6 日发布的图像模型 Nano Banana 2.1，在 AA-Image-T2I v2.0 和 AA-Image-Editing v2.0 两个榜单均排名第 4。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/ArtificialAnlys/status/2108236656700768310&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>行业动态 · Claude 九月回顾：Chat 与 Cowork 合一，Claude 5.5 系列模型上线</title>
+      <link>https://www.youtube.com/shorts/n9WfoNW2XnE</link>
+      <guid isPermaLink="false">linggou-g0wo2aksqgzw87bywxaeo631z</guid>
+      <pubDate>Thu, 08 Oct 2026 23:53:13 +0800</pubDate>
+      <category>行业动态</category>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 23:53 · Claude：YouTube（RSS）&lt;/p&gt;
+&lt;p&gt;Claude 发布九月更新回顾，Chat 与 Cowork 合并为一个 Claude，工作流可在云端运行，合上笔记本后继续进行。Claude Docs 支持团队与 Claude 在同一文档中协作编辑，新推出的 Claude 5.5 系列提供 Opus 5.5 处理重任务、Sonnet 5.5 用于快速修改，并可通过 /slides、/docs、/designs 直接生成对应格式。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/shorts/n9WfoNW2XnE&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>行业动态 · Zenity 研究人员发现一条提示词即可劫持 AWS 账户内全部 AgentCore 智能体</title>
+      <link>https://the-decoder.com/a-single-prompt-was-enough-to-hijack-every-ai-agent-in-an-aws-account-zenity-researchers-found/</link>
+      <guid isPermaLink="false">linggou-cal34hameqt3bh6d52vaqt58v</guid>
+      <pubDate>Thu, 08 Oct 2026 21:01:01 +0800</pubDate>
+      <category>行业动态</category>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 21:01 · The Decoder：AI News（RSS）&lt;/p&gt;
+&lt;p&gt;Zenity Labs 研究人员披露名为 AgentCorruption 的漏洞链，只需对一个公开的 Amazon Bedrock AgentCore 智能体发送一条提示词，即可通过元数据服务 169.254.169.254 窃取其 AWS 凭据，进而控制同账户同区域内的所有 AgentCore 智能体，读取私人对话、源代码和存储的凭据，还能篡改长期记忆。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://the-decoder.com/a-single-prompt-was-enough-to-hijack-every-ai-agent-in-an-aws-account-zenity-researchers-found/&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>行业动态 · Crowdstrike 报告疑似单人使用 AI 渗透工具攻击多家韩国银行</title>
+      <link>https://the-decoder.com/ai-powered-hacking-tools-enabled-a-likely-single-attacker-to-breach-multiple-south-korean-banks/</link>
+      <guid isPermaLink="false">linggou-br6vb46mhi9mkv2pxiq59k8z7</guid>
+      <pubDate>Thu, 08 Oct 2026 17:24:17 +0800</pubDate>
+      <category>行业动态</category>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 17:24 · The Decoder：AI News（RSS）&lt;/p&gt;
+&lt;p&gt;Crowdstrike 报告称，一名疑似中文使用者于2026年9月底至10月初利用 AI 驱动的开源渗透测试工具 ARTEX 攻击多家韩国金融机构，窃取大量数据，其中 Shinhan Bank 超过 25,000 条包含姓名、联系方式、收入和信用额度的记录泄露。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://the-decoder.com/ai-powered-hacking-tools-enabled-a-likely-single-attacker-to-breach-multiple-south-korean-banks/&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

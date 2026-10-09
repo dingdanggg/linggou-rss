@@ -1,20 +1,19 @@
 {
-  "generated_at": "2026-10-08T15:00:58.263154+08:00",
-  "total": 17,
-  "linggou": 7,
+  "generated_at": "2026-10-09T15:09:01.815259+08:00",
+  "total": 15,
+  "linggou": 11,
   "social_topics": 0,
   "sources": {
-    "X：Tibo (@thsottiaux)": 1,
-    "NVIDIA Blog（RSS）": 1,
-    "X：Claude Devs (@ClaudeDevs)": 1,
-    "X：Claude (@claudeai)": 1,
-    "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)": 1,
-    "Microsoft Research 博客（RSS）": 1,
-    "X：Google (@Google)": 1
+    "X：OpenAI Newsroom (@OpenAINewsroom)": 1,
+    "X：Arena (@arena)": 5,
+    "Comfy Blog": 1,
+    "X：Artificial Analysis (@ArtificialAnlys)": 1,
+    "Claude：YouTube（RSS）": 1,
+    "The Decoder：AI News（RSS）": 2
   },
   "categories": {
     "aigc_content": 1,
-    "tech_tools": 1,
-    "industry": 5
+    "tech_tools": 0,
+    "industry": 10
   }
 }
