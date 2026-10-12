@@ -1,19 +1,22 @@
 {
-  "generated_at": "2026-10-09T15:09:01.815259+08:00",
-  "total": 15,
-  "linggou": 11,
+  "generated_at": "2026-10-12T14:59:52.420455+08:00",
+  "total": 16,
+  "linggou": 9,
   "social_topics": 0,
   "sources": {
-    "X：OpenAI Newsroom (@OpenAINewsroom)": 1,
-    "X：Arena (@arena)": 5,
-    "Comfy Blog": 1,
-    "X：Artificial Analysis (@ArtificialAnlys)": 1,
-    "Claude：YouTube（RSS）": 1,
-    "The Decoder：AI News（RSS）": 2
+    "X：卡兹克 (@Khazix0918)": 1,
+    "公众号：数字生命卡兹克": 1,
+    "MarkTechPost（RSS）": 1,
+    "TechCrunch：AI（RSS）": 1,
+    "X：Rohan Paul (@rohanpaul_ai)": 1,
+    "Redwood Research：Blog（RSS）": 1,
+    "Sierra：Blog（RSS）": 1,
+    "The Decoder：AI News（RSS）": 1,
+    "X：ARC Prize (@arcprize)": 1
   },
   "categories": {
-    "aigc_content": 1,
+    "aigc_content": 0,
     "tech_tools": 0,
-    "industry": 10
+    "industry": 9
   }
 }
