@@ -1,19 +1,26 @@
 {
-  "generated_at": "2026-10-13T15:24:01.518553+08:00",
-  "total": 10,
-  "linggou": 6,
+  "generated_at": "2026-10-14T13:51:46.677819+08:00",
+  "total": 20,
+  "linggou": 13,
   "social_topics": 0,
   "sources": {
-    "X：Demis Hassabis (@demishassabis)": 1,
-    "Ars Technica：AI（RSS）": 1,
+    "X：卡兹克 (@Khazix0918)": 1,
+    "公众号：数字生命卡兹克": 1,
     "X：Arena (@arena)": 1,
-    "Amazon Science（RSS）": 1,
-    "X：Satya Nadella (@satyanadella)": 1,
-    "X：Meshy (@MeshyAI)": 1
+    "404 Media（RSS）": 1,
+    "Comfy Blog": 1,
+    "X：Artificial Analysis (@ArtificialAnlys)": 1,
+    "X：OpenRouter (@OpenRouter)": 1,
+    "Google Blog：AI（RSS）": 1,
+    "X：ElevenLabs (@elevenlabs)": 1,
+    "LangChain：Blog（RSS）": 1,
+    "TechCrunch：AI（RSS）": 1,
+    "NVIDIA Blog（RSS）": 1,
+    "公众号：千问APP（阿里）": 1
   },
   "categories": {
-    "aigc_content": 0,
-    "tech_tools": 1,
-    "industry": 5
+    "aigc_content": 1,
+    "tech_tools": 2,
+    "industry": 10
   }
 }
