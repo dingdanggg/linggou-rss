@@ -1,26 +1,23 @@
 {
-  "generated_at": "2026-10-14T13:51:46.677819+08:00",
-  "total": 20,
-  "linggou": 13,
+  "generated_at": "2026-10-15T13:35:46.751570+08:00",
+  "total": 14,
+  "linggou": 10,
   "social_topics": 0,
   "sources": {
+    "公众号：面壁智能（MiniCPM）": 1,
     "X：卡兹克 (@Khazix0918)": 1,
-    "公众号：数字生命卡兹克": 1,
+    "X：Gemini (@GeminiApp)": 1,
+    "X：Lydia Hallie（Anthropic，Claude Code） (@lydiahallie)": 1,
+    "X：Elon Musk (@elonmusk, xAI)": 1,
     "X：Arena (@arena)": 1,
-    "404 Media（RSS）": 1,
-    "Comfy Blog": 1,
-    "X：Artificial Analysis (@ArtificialAnlys)": 1,
-    "X：OpenRouter (@OpenRouter)": 1,
-    "Google Blog：AI（RSS）": 1,
-    "X：ElevenLabs (@elevenlabs)": 1,
+    "The Verge：AI（RSS）": 1,
     "LangChain：Blog（RSS）": 1,
-    "TechCrunch：AI（RSS）": 1,
-    "NVIDIA Blog（RSS）": 1,
-    "公众号：千问APP（阿里）": 1
+    "MIT News（RSS）": 1,
+    "OpenAI Developers：Blog（网页）": 1
   },
   "categories": {
     "aigc_content": 1,
-    "tech_tools": 2,
-    "industry": 10
+    "tech_tools": 0,
+    "industry": 9
   }
 }

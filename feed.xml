@@ -5,201 +5,158 @@
     <link>https://dingdanggg.github.io/linggou-rss</link>
     <description>灵构视角 AI 资讯 · 3D资产/AIGC影视/游戏/XR/社媒运营</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 14 Oct 2026 13:51:46 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 13:35:46 +0800</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://dingdanggg.github.io/linggou-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>🏗️ 灵构视角 · 10月14日 · 共13条</title>
+      <title>🏗️ 灵构视角 · 10月15日 · 共10条</title>
       <link>https://dingdanggg.github.io/linggou-rss</link>
-      <guid isPermaLink="false">linggou-digest-2026101413</guid>
-      <pubDate>Wed, 14 Oct 2026 13:51:46 +0800</pubDate>
+      <guid isPermaLink="false">linggou-digest-2026101513</guid>
+      <pubDate>Thu, 15 Oct 2026 13:35:46 +0800</pubDate>
       <description>&lt;h2&gt;🏗️ 灵构视角&lt;/h2&gt;
-&lt;p&gt;&lt;small&gt;来源：X：卡兹克 (@Khazix0918)(1条)、公众号：数字生命卡兹克(1条)、X：Arena (@arena)(1条)、404 Media（RSS）(1条)、Comfy Blog(1条)、X：Artificial Analysis (@ArtificialAnlys)(1条)、X：OpenRouter (@OpenRouter)(1条)、Google Blog：AI（RSS）(1条)、X：ElevenLabs (@elevenlabs)(1条)、LangChain：Blog（RSS）(1条)、TechCrunch：AI（RSS）(1条)、NVIDIA Blog（RSS）(1条)、公众号：千问APP（阿里）(1条)&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;来源：公众号：面壁智能（MiniCPM）(1条)、X：卡兹克 (@Khazix0918)(1条)、X：Gemini (@GeminiApp)(1条)、X：Lydia Hallie（Anthropic，Claude Code） (@lydiahallie)(1条)、X：Elon Musk (@elonmusk, xAI)(1条)、X：Arena (@arena)(1条)、The Verge：AI（RSS）(1条)、LangChain：Blog（RSS）(1条)、MIT News（RSS）(1条)、OpenAI Developers：Blog（网页）(1条)&lt;/small&gt;&lt;/p&gt;
 &lt;h3&gt;📽️ AIGC 内容创作&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;1. Character.AI 成立五年后申请 Chapter 11 破产，部分资产以 2000 万美元出售给 Disney&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;TechCrunch：AI（RSS） · 今天 20:23&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;Character.AI 已申请 Chapter 11 破产，法院文件显示其资产和负债在 5000 万至 1 亿美元之间，并同意以 2000 万美元向 Disney 出售部分资产及技术非独占永久许可。出售过程预计 11 月底或 12 月初完成，期间平台继续运营，但尚无竞购方，若无买家平台将关停；此前公司因未成年用户诉讼、德州调查等困境，曾尝试 AI 视频生成、社交信息流和微短剧等转型未果。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;h3&gt;🛠️ 技术工具&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;1. ComfyUI 上线 NVIDIA VFX 节点，支持视频超分、补帧与 SDR 转 HDR&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;Comfy Blog · 今天 03:41&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;NVIDIA 的 RTX 视频特效模型以自定义节点形式登陆 ComfyUI，模型随节点分发并在本地 RTX GPU 上运行。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://blog.comfy.org/p/nvidia-vfx-nodes-for-video-upscaling&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;2. ElevenLabs AI 重建嗓音助力 Baroness Campbell 在英国上议院发表演讲&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：ElevenLabs (@elevenlabs) · 今天 23:58&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;ElevenLabs 宣布，Baroness Campbell of Surbiton 今日在英国上议院使用由其构建的 AI 重建嗓音发表演讲，为英国议会首次。Baroness 患有脊髓性肌萎缩症影响说话，AI 嗓音复刻了她原声的音调、节奏和音高。ElevenLabs 称其技术已帮助超过 11,000 名因伤病失声者恢复嗓音，并承诺帮助全球 100 万失声人群。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/ElevenLabs/status/2110037384192774210&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1. 卡兹克实测开源Skill Anatomy，一句话让AI生成原理科普视频&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：卡兹克 (@Khazix0918) · 今天 12:24&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;作者卡兹克分享实测开源Skill Anatomy（GitHub：https://github.com/wheresryan22/anatomy/tree/main），它能把抽象原理做成可交互的机械模型动画，在其基础上还能让AI一轮直出带讲解配音的科普视频。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/Khazix0918/status/2110587546271191166&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
 &lt;h3&gt;📊 行业动态&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;1. Gemini 4 Argon 全面开放，作者实测后认为难以撼动 Claude Opus 5.5 和 GPT-6 Astra&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：卡兹克 (@Khazix0918) · 今天 09:02&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;Google 于10月14日全面开放 Gemini 4 Argon，作者实测后认为其很难冲击 Claude Opus 5.5 和 GPT-6 Astra 的地位。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/Khazix0918/status/2110174495420064055&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1. 面壁智能等联合开源 PilotDeck 2.0，主打办公全流程交付与长任务稳定运行&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;公众号：面壁智能（MiniCPM） · 今天 12:53&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;10 月 15 日，清华大学 THUNLP、面壁智能、OpenBMB 与 AI9Stars 联合开发的 AI Agent 工作台 PilotDeck 2.0 正式开源。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&amp;mid=2247499498&amp;idx=1&amp;sn=a475c3637de9f432a34f207df9659516&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;2. 实测Gemini 4 Argon：知识工作强劲但体验糟糕，卡兹克称难撼Claude Opus 5.5与GPT-6 Astra&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;公众号：数字生命卡兹克 · 今天 06:56&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;Gemini 4 Argon于10月13日全面开放，Pro会员可在Gemini APP使用，Antigravity需100刀Ultra会员。作者实测认为其知识类专业能力强，Vals Index综合第一（68.9）且单次成本仅15.68美元，但CUA-bench仅4.83%排倒数第二；前端效果不及GPT-6 Astra，额度消耗快，中文写作味道重，整体体验糟糕，不建议订阅Ultra。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647687032&amp;idx=1&amp;sn=c5368ed503c4b529ee3946cce017543e&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2. Gemini 4 Argon 向全球 Google AI Pro 和 Ultra 订阅者开放&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Gemini (@GeminiApp) · 今天 06:02&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;Gemini 官方宣布 Gemini 4 Argon 已向全球 Google AI Pro 和 Ultra 订阅者开放。该模型此前已在 Gemini 应用中逐步推出，定位为处理复杂任务的前沿模型，更多详情见官方推文线程 https://x.com/GeminiApp/status/2110039322229649783。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/GeminiApp/status/2110491358498865638&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;3. Meta Muse Wonder (Max) 进入 Arena 榜单：WebDev 第15、文本第2&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Arena (@arena) · 今天 05:27&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;Arena 宣布 Meta 的 Muse Wonder (Max) 进入 Code Arena: WebDev 榜单第15名（1651分），与 Kimi K3 (Max) 的 1655 分相差 4 分。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/arena/status/2110120205464846828&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3. Claude Code 空闲压缩从摘要继续，可用 idleCompaction 关闭并自定义阈值&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Lydia Hallie（Anthropic，Claude Code） (@lydiahallie) · 今天 05:36&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;Claude Code 的空闲压缩会让 Claude 从摘要而非完整上下文继续。作者说明可在 settings. 中设置 &quot;idleCompaction&quot;: false 关闭，并通过 CLAUDE_CODE_IDLE_COMPACT_MIN_TOKENS 自定义阈值，默认为 200k。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/lydiahallie/status/2110484841926152622&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;4. Character.ai 破产文件显示 AI 商业模式难以为继&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;404 Media（RSS） · 今天 04:06&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;Character.ai 进入破产程序，法院文件显示其商业模式难以支撑开支。公司 2024 年每月 AI 算力支出 1380 万美元、2025 年为 1000 万美元，订阅收入峰值仅每月 280 万美元，含广告的全部收入峰值 530 万美元；2026 年 1 至 8 月算力支出 5610 万美元，8 月时每月仍亏损约 800-900 万美元。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.404media.co/character-ais-bankruptcy-documents-show-the-economics-of-ai-dont-work/&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;4. Musk 称 Grok Voice 3.0 登顶 Artificial Analysis 语音模型评测&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Elon Musk (@elonmusk, xAI) · 今天 05:32&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;Musk 发文称 Grok Voice 3.0 已是全球领先的对话语音模型，并引用 Artificial Analysis 的评测：Grok Voice 3.0 以 86.9 分登顶 Speech to Speech Index，领先 GPT-Live-1（Astra, medium）的 83.2 和 Gemini 3.8 Live 的 82.6，较 Grok Voice 2.0 的 81.3 提升 5.6 分。该模型通过 Realtime API 提供，价格 $0.08 每分钟，Big Bench Audio 平均首音频延迟 0.81 秒，任务成功率 94.8% 居榜首。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/elonmusk/status/2110483960312799675&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;5. Gemini 4 Argon 正式 GA，智能指数追平 GPT-6 Astra，Cost per Task 仅为 60%&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Artificial Analysis (@ArtificialAnlys) · 今天 02:00&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;Gemini 4 Argon 正式进入 GA，在 Artificial Analysis Intelligence Index 上与 GPT-6 Astra 排名持平，Cost per Task 为后者的 60%。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/ArtificialAnlys/status/2110068185793970576&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;5. Meta 的 Muse Wonder (Max) 以 +6.4% 净提升进入 Agent Arena 第12名&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Arena (@arena) · 今天 04:19&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;Arena 发布基于超过 5000 次真实智能体会话的评测结果，Meta 的 Muse Wonder (Max) 进入 Agent Arena 第12名，净提升 +6.4%，比 Muse Spark 1.3 (Max) 高 +2.8 分并上升四位。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/arena/status/2110465487914295770&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;6. Google DeepMind 的 Gemini 4 Argon 上线 OpenRouter&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：OpenRouter (@OpenRouter) · 今天 00:26&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;Gemini 4 Argon 已上线 OpenRouter，可通过 Google AI Studio 和 Google Cloud 调用。该模型在 AutomationBench 拿到 51.3%、LVBench 拿到 91.7%，并以 68% 并列 CWE-bench v1 第一； introductory 定价为输入 $2/M、输出 $10/M。试用入口：https://openrouter.ai/google/gemini-4-argon&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/OpenRouter/status/2110044453977403412&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;6. 40 位总检察长介入 Character.AI 破产案，要求保护用户对话数据&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;The Verge：AI（RSS） · 今天 02:47&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;纽约总检察长 Letitia James 联合 40 位两党总检察长在 Character.AI 破产案中提交利益通知，要求任何资产出售方落实用户数据保护。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;7. Google 发布 Gemini 4 Argon：面向复杂工程与科研任务的前沿模型&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;Google Blog：AI（RSS） · 今天 00:00&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;Google 发布 Gemini 4 Argon，面向开发者、企业、科学家和消费者全球开放，可经 Gemini API、AI Studio、Google Antigravity。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;7. LangChain 详解 Deep Agents 的上下文工程：如何记住信息而不塞满上下文窗口&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;LangChain：Blog（RSS） · 今天 01:00&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;LangChain 发布博客，介绍其开源 Agent 框架 Deep Agents 如何用 middleware 做上下文工程，应对长任务中的 context rot。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.langchain.com/blog/context-engineering-deep-agents-remember&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;8. LangSmith 推出 AI Search，用自然语言按行为搜索 agent 轨迹&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;LangChain：Blog（RSS） · 今天 20:59&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;LangChain 在 LangSmith 中推出 AI Search 公测，允许用自然语言描述行为来查询 agent 轨迹，例如 PII 泄露或用户受挫等无法靠标签和全文检索回答的问题。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.langchain.com/blog/agent-traces-ai-search-langsmith&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;8. MIT团队用机器学习修正误差，将两到六周天气预报准确率翻倍&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;MIT News（RSS） · 今天 23:00&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;MIT研究人员团队在Nature发表论文，提出一个机器学习后处理层，通过从历史数据中学习现有预报模型的错误并修正其输出，将两周到六周范围的预报准确率翻倍。该模型在ECMWF的季节间预报竞赛中获第一名，首次在该时间范围内稳定超过气候学平均值，并显著改善洪水、寒潮等极端天气事件的预测；模型开源、低成本、可附加于任意预报模型，肯尼亚气象部门已接洽用于改进季风季预报。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.mit.edu/2026/researchers-improve-weather-forecasts-looking-two-six-weeks-out-1014&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;9. NVIDIA 官宣 RTX Spark 软件生态就绪，10 月 16 日笔记本上市&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;NVIDIA Blog（RSS） · 今天 20:00&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;NVIDIA 介绍 RTX Spark 平台生态就绪情况，RTX Spark 笔记本将于 10 月 16 日（周五）上市，搭载最高 128GB 统一内存和 1 petaflop AI 算力。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates/&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;10. 千问发布AI眼镜N1/N1 Pro及首款AI耳夹式耳机并现货开售&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;公众号：千问APP（阿里） · 今天 16:06&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;千问发布三款硬件新品：AI眼镜N1、N1 Pro和AI耳夹式耳机，今日在淘宝、天猫、京东、抖音等平台现货开售，眼镜到手价2218元起，耳机1099元起。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&amp;mid=2247489149&amp;idx=1&amp;sn=26d7fefe24bfb18efa4582467313b1eb&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;9. OpenAI 团队分享如何用 GPT-6 系列模型维护大型代码库&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;OpenAI Developers：Blog（网页） · 今天 15:00&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;OpenAI Core Experimentation 团队发文介绍用 GPT-6 Astra 和 GPT-6.1 Sol 配合 Codex 做代码维护，包括清理无用代码和陈旧实验、修复 flaky 测试等。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://developers.openai.com/blog/maintaining-software-with-the-gpt-6-family&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;</description>
     </item>
     <item>
-      <title>行业动态 · Gemini 4 Argon 全面开放，作者实测后认为难以撼动 Claude Opus 5.5 和 GPT-6 Astra</title>
-      <link>https://x.com/Khazix0918/status/2110174495420064055</link>
-      <guid isPermaLink="false">linggou-e8516i4snh2ut9d6zedoc9jsv</guid>
-      <pubDate>Wed, 14 Oct 2026 09:02:59 +0800</pubDate>
+      <title>行业动态 · 面壁智能等联合开源 PilotDeck 2.0，主打办公全流程交付与长任务稳定运行</title>
+      <link>https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&amp;mid=2247499498&amp;idx=1&amp;sn=a475c3637de9f432a34f207df9659516</link>
+      <guid isPermaLink="false">linggou-cklrpr58z4b8ilif89c5h1vr7</guid>
+      <pubDate>Thu, 15 Oct 2026 12:53:56 +0800</pubDate>
       <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 09:02 · X：卡兹克 (@Khazix0918)&lt;/p&gt;
-&lt;p&gt;Google 于10月14日全面开放 Gemini 4 Argon，作者实测后认为其很难冲击 Claude Opus 5.5 和 GPT-6 Astra 的地位。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/Khazix0918/status/2110174495420064055&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 12:53 · 公众号：面壁智能（MiniCPM）&lt;/p&gt;
+&lt;p&gt;10 月 15 日，清华大学 THUNLP、面壁智能、OpenBMB 与 AI9Stars 联合开发的 AI Agent 工作台 PilotDeck 2.0 正式开源。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&amp;mid=2247499498&amp;idx=1&amp;sn=a475c3637de9f432a34f207df9659516&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>行业动态 · 实测Gemini 4 Argon：知识工作强劲但体验糟糕，卡兹克称难撼Claude Opus 5.5与GPT-6 Astra</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647687032&amp;idx=1&amp;sn=c5368ed503c4b529ee3946cce017543e</link>
-      <guid isPermaLink="false">linggou-oxaap1c1cvxi9ngybxks1gngi</guid>
-      <pubDate>Wed, 14 Oct 2026 06:56:51 +0800</pubDate>
-      <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 06:56 · 公众号：数字生命卡兹克&lt;/p&gt;
-&lt;p&gt;Gemini 4 Argon于10月13日全面开放，Pro会员可在Gemini APP使用，Antigravity需100刀Ultra会员。作者实测认为其知识类专业能力强，Vals Index综合第一（68.9）且单次成本仅15.68美元，但CUA-bench仅4.83%排倒数第二；前端效果不及GPT-6 Astra，额度消耗快，中文写作味道重，整体体验糟糕，不建议订阅Ultra。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647687032&amp;idx=1&amp;sn=c5368ed503c4b529ee3946cce017543e&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>行业动态 · Meta Muse Wonder (Max) 进入 Arena 榜单：WebDev 第15、文本第2</title>
-      <link>https://x.com/arena/status/2110120205464846828</link>
-      <guid isPermaLink="false">linggou-ob6ryetyialrnqhyjusr2s1iz</guid>
-      <pubDate>Wed, 14 Oct 2026 05:27:15 +0800</pubDate>
-      <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 05:27 · X：Arena (@arena)&lt;/p&gt;
-&lt;p&gt;Arena 宣布 Meta 的 Muse Wonder (Max) 进入 Code Arena: WebDev 榜单第15名（1651分），与 Kimi K3 (Max) 的 1655 分相差 4 分。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/arena/status/2110120205464846828&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>行业动态 · Character.ai 破产文件显示 AI 商业模式难以为继</title>
-      <link>https://www.404media.co/character-ais-bankruptcy-documents-show-the-economics-of-ai-dont-work/</link>
-      <guid isPermaLink="false">linggou-pjy8fk8cfl1qvwex08y6kdau8</guid>
-      <pubDate>Wed, 14 Oct 2026 04:06:53 +0800</pubDate>
-      <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 04:06 · 404 Media（RSS）&lt;/p&gt;
-&lt;p&gt;Character.ai 进入破产程序，法院文件显示其商业模式难以支撑开支。公司 2024 年每月 AI 算力支出 1380 万美元、2025 年为 1000 万美元，订阅收入峰值仅每月 280 万美元，含广告的全部收入峰值 530 万美元；2026 年 1 至 8 月算力支出 5610 万美元，8 月时每月仍亏损约 800-900 万美元。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.404media.co/character-ais-bankruptcy-documents-show-the-economics-of-ai-dont-work/&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>技术工具 · ComfyUI 上线 NVIDIA VFX 节点，支持视频超分、补帧与 SDR 转 HDR</title>
-      <link>https://blog.comfy.org/p/nvidia-vfx-nodes-for-video-upscaling</link>
-      <guid isPermaLink="false">linggou-uy1d8e2pcm6sked0p57flawpq</guid>
-      <pubDate>Wed, 14 Oct 2026 03:41:39 +0800</pubDate>
-      <category>技术工具</category>
-      <description>&lt;p&gt;&lt;strong&gt;🛠️ 技术工具&lt;/strong&gt; · 今天 03:41 · Comfy Blog&lt;/p&gt;
-&lt;p&gt;NVIDIA 的 RTX 视频特效模型以自定义节点形式登陆 ComfyUI，模型随节点分发并在本地 RTX GPU 上运行。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://blog.comfy.org/p/nvidia-vfx-nodes-for-video-upscaling&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>行业动态 · Gemini 4 Argon 正式 GA，智能指数追平 GPT-6 Astra，Cost per Task 仅为 60%</title>
-      <link>https://x.com/ArtificialAnlys/status/2110068185793970576</link>
-      <guid isPermaLink="false">linggou-w2fkb8pssvuc0mtttxnufchc9</guid>
-      <pubDate>Wed, 14 Oct 2026 02:00:33 +0800</pubDate>
-      <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 02:00 · X：Artificial Analysis (@ArtificialAnlys)&lt;/p&gt;
-&lt;p&gt;Gemini 4 Argon 正式进入 GA，在 Artificial Analysis Intelligence Index 上与 GPT-6 Astra 排名持平，Cost per Task 为后者的 60%。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/ArtificialAnlys/status/2110068185793970576&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>行业动态 · Google DeepMind 的 Gemini 4 Argon 上线 OpenRouter</title>
-      <link>https://x.com/OpenRouter/status/2110044453977403412</link>
-      <guid isPermaLink="false">linggou-d4oyzg3qte4pt0ywsonolctwf</guid>
-      <pubDate>Wed, 14 Oct 2026 00:26:15 +0800</pubDate>
-      <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 00:26 · X：OpenRouter (@OpenRouter)&lt;/p&gt;
-&lt;p&gt;Gemini 4 Argon 已上线 OpenRouter，可通过 Google AI Studio 和 Google Cloud 调用。该模型在 AutomationBench 拿到 51.3%、LVBench 拿到 91.7%，并以 68% 并列 CWE-bench v1 第一； introductory 定价为输入 $2/M、输出 $10/M。试用入口：https://openrouter.ai/google/gemini-4-argon&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/OpenRouter/status/2110044453977403412&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>行业动态 · Google 发布 Gemini 4 Argon：面向复杂工程与科研任务的前沿模型</title>
-      <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/</link>
-      <guid isPermaLink="false">linggou-smxxtw5ca2c9jscojk4ppe5hf</guid>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 +0800</pubDate>
-      <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 00:00 · Google Blog：AI（RSS）&lt;/p&gt;
-&lt;p&gt;Google 发布 Gemini 4 Argon，面向开发者、企业、科学家和消费者全球开放，可经 Gemini API、AI Studio、Google Antigravity。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>技术工具 · ElevenLabs AI 重建嗓音助力 Baroness Campbell 在英国上议院发表演讲</title>
-      <link>https://x.com/ElevenLabs/status/2110037384192774210</link>
-      <guid isPermaLink="false">linggou-tggiswcje6mz1ti081jfbro43</guid>
-      <pubDate>Tue, 13 Oct 2026 23:58:09 +0800</pubDate>
-      <category>技术工具</category>
-      <description>&lt;p&gt;&lt;strong&gt;🛠️ 技术工具&lt;/strong&gt; · 今天 23:58 · X：ElevenLabs (@elevenlabs)&lt;/p&gt;
-&lt;p&gt;ElevenLabs 宣布，Baroness Campbell of Surbiton 今日在英国上议院使用由其构建的 AI 重建嗓音发表演讲，为英国议会首次。Baroness 患有脊髓性肌萎缩症影响说话，AI 嗓音复刻了她原声的音调、节奏和音高。ElevenLabs 称其技术已帮助超过 11,000 名因伤病失声者恢复嗓音，并承诺帮助全球 100 万失声人群。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/ElevenLabs/status/2110037384192774210&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>行业动态 · LangSmith 推出 AI Search，用自然语言按行为搜索 agent 轨迹</title>
-      <link>https://www.langchain.com/blog/agent-traces-ai-search-langsmith</link>
-      <guid isPermaLink="false">linggou-cgbpvdepk4p1jrrawgzbfbxov</guid>
-      <pubDate>Tue, 13 Oct 2026 20:59:12 +0800</pubDate>
-      <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 20:59 · LangChain：Blog（RSS）&lt;/p&gt;
-&lt;p&gt;LangChain 在 LangSmith 中推出 AI Search 公测，允许用自然语言描述行为来查询 agent 轨迹，例如 PII 泄露或用户受挫等无法靠标签和全文检索回答的问题。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.langchain.com/blog/agent-traces-ai-search-langsmith&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>AIGC内容创作 · Character.AI 成立五年后申请 Chapter 11 破产，部分资产以 2000 万美元出售给 Disney</title>
-      <link>https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/</link>
-      <guid isPermaLink="false">linggou-vwu0li2nl5hztqeztnq8b5udc</guid>
-      <pubDate>Tue, 13 Oct 2026 20:23:42 +0800</pubDate>
+      <title>AIGC内容创作 · 卡兹克实测开源Skill Anatomy，一句话让AI生成原理科普视频</title>
+      <link>https://x.com/Khazix0918/status/2110587546271191166</link>
+      <guid isPermaLink="false">linggou-kg6bx3goagkn4k8kt7jl9lqgd</guid>
+      <pubDate>Thu, 15 Oct 2026 12:24:18 +0800</pubDate>
       <category>AIGC内容创作</category>
-      <description>&lt;p&gt;&lt;strong&gt;📽️ AIGC 内容创作&lt;/strong&gt; · 今天 20:23 · TechCrunch：AI（RSS）&lt;/p&gt;
-&lt;p&gt;Character.AI 已申请 Chapter 11 破产，法院文件显示其资产和负债在 5000 万至 1 亿美元之间，并同意以 2000 万美元向 Disney 出售部分资产及技术非独占永久许可。出售过程预计 11 月底或 12 月初完成，期间平台继续运营，但尚无竞购方，若无买家平台将关停；此前公司因未成年用户诉讼、德州调查等困境，曾尝试 AI 视频生成、社交信息流和微短剧等转型未果。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;📽️ AIGC 内容创作&lt;/strong&gt; · 今天 12:24 · X：卡兹克 (@Khazix0918)&lt;/p&gt;
+&lt;p&gt;作者卡兹克分享实测开源Skill Anatomy（GitHub：https://github.com/wheresryan22/anatomy/tree/main），它能把抽象原理做成可交互的机械模型动画，在其基础上还能让AI一轮直出带讲解配音的科普视频。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/Khazix0918/status/2110587546271191166&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>行业动态 · NVIDIA 官宣 RTX Spark 软件生态就绪，10 月 16 日笔记本上市</title>
-      <link>https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates/</link>
-      <guid isPermaLink="false">linggou-ug7g6psicfobnnft0ebgpyl10</guid>
-      <pubDate>Tue, 13 Oct 2026 20:00:49 +0800</pubDate>
+      <title>行业动态 · Gemini 4 Argon 向全球 Google AI Pro 和 Ultra 订阅者开放</title>
+      <link>https://x.com/GeminiApp/status/2110491358498865638</link>
+      <guid isPermaLink="false">linggou-rraljkr6dlbt4wabpcogmdlfv</guid>
+      <pubDate>Thu, 15 Oct 2026 06:02:05 +0800</pubDate>
       <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 20:00 · NVIDIA Blog（RSS）&lt;/p&gt;
-&lt;p&gt;NVIDIA 介绍 RTX Spark 平台生态就绪情况，RTX Spark 笔记本将于 10 月 16 日（周五）上市，搭载最高 128GB 统一内存和 1 petaflop AI 算力。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates/&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 06:02 · X：Gemini (@GeminiApp)&lt;/p&gt;
+&lt;p&gt;Gemini 官方宣布 Gemini 4 Argon 已向全球 Google AI Pro 和 Ultra 订阅者开放。该模型此前已在 Gemini 应用中逐步推出，定位为处理复杂任务的前沿模型，更多详情见官方推文线程 https://x.com/GeminiApp/status/2110039322229649783。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/GeminiApp/status/2110491358498865638&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>行业动态 · 千问发布AI眼镜N1/N1 Pro及首款AI耳夹式耳机并现货开售</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&amp;mid=2247489149&amp;idx=1&amp;sn=26d7fefe24bfb18efa4582467313b1eb</link>
-      <guid isPermaLink="false">linggou-bnwd1psqg66c268n4i1mal2pi</guid>
-      <pubDate>Tue, 13 Oct 2026 16:06:57 +0800</pubDate>
+      <title>行业动态 · Claude Code 空闲压缩从摘要继续，可用 idleCompaction 关闭并自定义阈值</title>
+      <link>https://x.com/lydiahallie/status/2110484841926152622</link>
+      <guid isPermaLink="false">linggou-whbmvotra7659u98jmj00oegi</guid>
+      <pubDate>Thu, 15 Oct 2026 05:36:11 +0800</pubDate>
       <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 16:06 · 公众号：千问APP（阿里）&lt;/p&gt;
-&lt;p&gt;千问发布三款硬件新品：AI眼镜N1、N1 Pro和AI耳夹式耳机，今日在淘宝、天猫、京东、抖音等平台现货开售，眼镜到手价2218元起，耳机1099元起。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&amp;mid=2247489149&amp;idx=1&amp;sn=26d7fefe24bfb18efa4582467313b1eb&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 05:36 · X：Lydia Hallie（Anthropic，Claude Code） (@lydiahallie)&lt;/p&gt;
+&lt;p&gt;Claude Code 的空闲压缩会让 Claude 从摘要而非完整上下文继续。作者说明可在 settings. 中设置 &quot;idleCompaction&quot;: false 关闭，并通过 CLAUDE_CODE_IDLE_COMPACT_MIN_TOKENS 自定义阈值，默认为 200k。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/lydiahallie/status/2110484841926152622&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>行业动态 · Musk 称 Grok Voice 3.0 登顶 Artificial Analysis 语音模型评测</title>
+      <link>https://x.com/elonmusk/status/2110483960312799675</link>
+      <guid isPermaLink="false">linggou-yp2h3luqmkip3si23h4pnfmvb</guid>
+      <pubDate>Thu, 15 Oct 2026 05:32:41 +0800</pubDate>
+      <category>行业动态</category>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 05:32 · X：Elon Musk (@elonmusk, xAI)&lt;/p&gt;
+&lt;p&gt;Musk 发文称 Grok Voice 3.0 已是全球领先的对话语音模型，并引用 Artificial Analysis 的评测：Grok Voice 3.0 以 86.9 分登顶 Speech to Speech Index，领先 GPT-Live-1（Astra, medium）的 83.2 和 Gemini 3.8 Live 的 82.6，较 Grok Voice 2.0 的 81.3 提升 5.6 分。该模型通过 Realtime API 提供，价格 $0.08 每分钟，Big Bench Audio 平均首音频延迟 0.81 秒，任务成功率 94.8% 居榜首。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/elonmusk/status/2110483960312799675&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>行业动态 · Meta 的 Muse Wonder (Max) 以 +6.4% 净提升进入 Agent Arena 第12名</title>
+      <link>https://x.com/arena/status/2110465487914295770</link>
+      <guid isPermaLink="false">linggou-uceolgbpttfw4cgmkqc8cvyw5</guid>
+      <pubDate>Thu, 15 Oct 2026 04:19:17 +0800</pubDate>
+      <category>行业动态</category>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 04:19 · X：Arena (@arena)&lt;/p&gt;
+&lt;p&gt;Arena 发布基于超过 5000 次真实智能体会话的评测结果，Meta 的 Muse Wonder (Max) 进入 Agent Arena 第12名，净提升 +6.4%，比 Muse Spark 1.3 (Max) 高 +2.8 分并上升四位。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/arena/status/2110465487914295770&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>行业动态 · 40 位总检察长介入 Character.AI 破产案，要求保护用户对话数据</title>
+      <link>https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy</link>
+      <guid isPermaLink="false">linggou-gpgj8ws42xbs5zhbxfzvn2g6i</guid>
+      <pubDate>Thu, 15 Oct 2026 02:47:54 +0800</pubDate>
+      <category>行业动态</category>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 02:47 · The Verge：AI（RSS）&lt;/p&gt;
+&lt;p&gt;纽约总检察长 Letitia James 联合 40 位两党总检察长在 Character.AI 破产案中提交利益通知，要求任何资产出售方落实用户数据保护。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>行业动态 · LangChain 详解 Deep Agents 的上下文工程：如何记住信息而不塞满上下文窗口</title>
+      <link>https://www.langchain.com/blog/context-engineering-deep-agents-remember</link>
+      <guid isPermaLink="false">linggou-za03v9avbq4fpb2y5b1ql1t27</guid>
+      <pubDate>Thu, 15 Oct 2026 01:00:00 +0800</pubDate>
+      <category>行业动态</category>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 01:00 · LangChain：Blog（RSS）&lt;/p&gt;
+&lt;p&gt;LangChain 发布博客，介绍其开源 Agent 框架 Deep Agents 如何用 middleware 做上下文工程，应对长任务中的 context rot。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.langchain.com/blog/context-engineering-deep-agents-remember&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>行业动态 · MIT团队用机器学习修正误差，将两到六周天气预报准确率翻倍</title>
+      <link>https://news.mit.edu/2026/researchers-improve-weather-forecasts-looking-two-six-weeks-out-1014</link>
+      <guid isPermaLink="false">linggou-pqpqgxyiu4qyu86fbljd726v9</guid>
+      <pubDate>Wed, 14 Oct 2026 23:00:00 +0800</pubDate>
+      <category>行业动态</category>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 23:00 · MIT News（RSS）&lt;/p&gt;
+&lt;p&gt;MIT研究人员团队在Nature发表论文，提出一个机器学习后处理层，通过从历史数据中学习现有预报模型的错误并修正其输出，将两周到六周范围的预报准确率翻倍。该模型在ECMWF的季节间预报竞赛中获第一名，首次在该时间范围内稳定超过气候学平均值，并显著改善洪水、寒潮等极端天气事件的预测；模型开源、低成本、可附加于任意预报模型，肯尼亚气象部门已接洽用于改进季风季预报。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.mit.edu/2026/researchers-improve-weather-forecasts-looking-two-six-weeks-out-1014&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>行业动态 · OpenAI 团队分享如何用 GPT-6 系列模型维护大型代码库</title>
+      <link>https://developers.openai.com/blog/maintaining-software-with-the-gpt-6-family</link>
+      <guid isPermaLink="false">linggou-wn2lwzshkg8gt2sbjuj1qxd8y</guid>
+      <pubDate>Wed, 14 Oct 2026 15:00:00 +0800</pubDate>
+      <category>行业动态</category>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 15:00 · OpenAI Developers：Blog（网页）&lt;/p&gt;
+&lt;p&gt;OpenAI Core Experimentation 团队发文介绍用 GPT-6 Astra 和 GPT-6.1 Sol 配合 Codex 做代码维护，包括清理无用代码和陈旧实验、修复 flaky 测试等。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://developers.openai.com/blog/maintaining-software-with-the-gpt-6-family&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
