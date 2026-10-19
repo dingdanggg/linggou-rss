@@ -5,215 +5,143 @@
     <link>https://dingdanggg.github.io/linggou-rss</link>
     <description>灵构视角 AI 资讯 · 3D资产/AIGC影视/游戏/XR/社媒运营</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 16 Oct 2026 13:29:38 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 13:46:24 +0800</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://dingdanggg.github.io/linggou-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>🏗️ 灵构视角 · 10月16日 · 共14条</title>
+      <title>🏗️ 灵构视角 · 10月19日（含周末） · 共9条</title>
       <link>https://dingdanggg.github.io/linggou-rss</link>
-      <guid isPermaLink="false">linggou-digest-2026101613</guid>
-      <pubDate>Fri, 16 Oct 2026 13:29:38 +0800</pubDate>
+      <guid isPermaLink="false">linggou-digest-2026101913</guid>
+      <pubDate>Mon, 19 Oct 2026 13:46:24 +0800</pubDate>
       <description>&lt;h2&gt;🏗️ 灵构视角&lt;/h2&gt;
-&lt;p&gt;&lt;small&gt;来源：X：OpenRouter (@OpenRouter)(2条)、X：卡兹克 (@Khazix0918)(1条)、公众号：数字生命卡兹克(1条)、Comfy Blog(1条)、X：Claude Devs (@ClaudeDevs)(1条)、X：Arena (@arena)(1条)、PyTorch：Blog（RSS）(1条)、X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)(1条)、X：ARC Prize (@arcprize)(1条)、X：阶跃星辰 StepFun (@StepFun_ai)(1条)、NVIDIA Blog（RSS）(1条)、Black Forest Labs：Blog（网页）(1条)、The Verge：AI（RSS）(1条)&lt;/small&gt;&lt;/p&gt;
-&lt;h3&gt;📽️ AIGC 内容创作&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;1. Kling 4.0 深夜上线，作者实测30秒一镜到底与全能参考表现&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：卡兹克 (@Khazix0918) · 今天 10:03&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;可灵AI凌晨正式上线视频模型 Kling 4.0，作者烧数万积分实测后认为其在大范围动态、复杂动作衔接和全能参考可控性上有扎实进步。支持最长30秒一镜到底直出，视频首尾帧改为最多10帧的多帧参考；1080P 30秒约450积分，720P 20秒的 Kling 4.0 Flash 仅120积分，作者推荐先用 Flash 打样再用正式版出片，此外10-bit 4K HDR 输出规格尚未上线。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/Khazix0918/status/2110914404393091205&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;2. 可灵 Kling 4.0 上线：支持30秒一镜到底，作者实测动态与全能参考&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;公众号：数字生命卡兹克 · 今天 08:18&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;可灵AI凌晨正式上线视频模型 Kling 4.0，支持最长30秒直出和最多10帧的多帧参考，并强化全能参考与复杂打斗等大范围动态表现。作者烧数万积分实测城市追逐、电梯打斗、花样滑冰等场景，认为纸箱形变等细节体现物理规律理解的提升。1080P 30秒约450积分（约16元），720P约9元，4.0 Flash 720P 20秒仅120积分，官方还预告将支持10-bit 4K HDR输出。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647687203&amp;idx=1&amp;sn=a58bc4411e8226b629f1b5c61509a198&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;h3&gt;🛠️ 技术工具&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;1. Krea 3 图像模型通过 ComfyUI Partner Nodes 上线&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;Comfy Blog · 今天 05:15&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;Krea 3 图像模型现已在 ComfyUI 通过 Partner Nodes 提供，主打基于参考图的生成与编辑。模型强调更快的迭代速度和更低的单张成本，支持按上传顺序引用多张参考图、保持产品标签形状材质不变的前提下修改环境光影构图，并可将生成结果作为新输入继续编辑。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://blog.comfy.org/p/krea-3-is-now-available-via-partner&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;2. Black Forest Labs FLUX 3 系列登陆 OpenRouter：Image Klein 开源权重、视频 upscale 降价并支持 4K 生成&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：OpenRouter (@OpenRouter) · 今天 02:41&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;OpenRouter 宣布 Black Forest Labs（@bfl_ai）三项新内容上线。FLUX 3 Image Klein 是新的开源权重图像模型，可在单张消费级 GPU 上运行；改进版 FLUX Video Upscale 开启 early access，可将任意视频转为 4K，价格从 $0.59/s 降至 $0.28/s；FLUX 3 Video 现已支持从提示词直接生成 4K 视频。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/OpenRouter/status/2110803343878873473&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;3. Black Forest Labs 发布开源文生图模型 FLUX 3 Image Klein（5.6B）&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;Black Forest Labs：Blog（网页） · 今天 23:00&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;Black Forest Labs 发布 5.6B 参数开源权重模型 FLUX 3 Image Klein，支持文生图、图像编辑和最多 10 张参考图的多参考生成，采用 FLUX Kommunity License。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://bfl.ai/blog/flux-3-image-klein&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
+&lt;p&gt;&lt;small&gt;来源：X：Arena (@arena)(2条)、The Decoder：AI News（RSS）(1条)、X：卡兹克 (@Khazix0918)(1条)、Browser Use(1条)、X：Tencent WorkBuddy (@WorkBuddy_AI)(1条)、公众号：数字生命卡兹克(1条)、a16z：News（RSS）(1条)、NVIDIA：Newsroom（RSS）(1条)&lt;/small&gt;&lt;/p&gt;
 &lt;h3&gt;📊 行业动态&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;1. Claude Opus 5.5 fast mode 结束研究预览并移除等待名单&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Claude Devs (@ClaudeDevs) · 今天 04:09&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;Anthropic 宣布 Claude 平台上的 Opus 5.5 fast mode 不再处于研究预览阶段，并已移除等待名单。该模式速度最高提升 2.5 倍，定价为 $8 / $40 per million tokens；现已登陆 Microsoft Foundry（Azure 托管），Google Cloud 即将支持。Claude Code 中的 fast mode 保持不变，消耗额外 usage credits。文档见 https://platform.claude.com/docs/en/build-with-claude/fast-mode&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/ClaudeDevs/status/2110825294655562048&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1. DeepSeek-V4.1-Flash-20261017 登顶 Code Arena: WebDev 开源模型榜首&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Arena (@arena) · 今天 02:56&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;Arena 宣布 DeepSeek-V4.1-Flash-20261017 (Max) 成为 Code Arena: WebDev 榜单第一开源模型，超过 Kimi K3 (Max)，成本低约 10 倍。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/arena/status/2111894091168682086&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;2. Muse Spark Open 上架 Arena，可在 Agent Arena 实测，评分即将公布&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Arena (@arena) · 今天 02:19&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;Arena 宣布 Meta 的 Muse Spark Open 已进入 Agent Arena，用户可实测，评分即将公布。该模型为 816B 总参数、42B 激活参数，1M token 上下文窗口，原生多模态。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/arena/status/2110797782953132049&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2. Anthropic 内部研究显示初级技术岗位占比下降，AI Agent 工时达员工六倍&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;The Decoder：AI News（RSS） · 今天 21:22&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;Anthropic 发布内部研究称，技术部门初级岗位占比从 2025 年初的 21% 降至 14%，新招初级占比从 27% 降至 9%，空缺初级职位降至 6%，非技术部门基本稳定。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://the-decoder.com/anthropic-has-nearly-stopped-hiring-junior-staff-because-ai-agents-now-work-six-times-as-many-hours/&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;3. Meta 开放权重模型 Muse Spark Open 上架 OpenRouter&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：OpenRouter (@OpenRouter) · 今天 02:02&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;Meta 发布开放权重模型 Muse Spark Open，现已可在 OpenRouter 使用，定位为面向编码与智能体工作的美国最强开放权重模型。模型总参数 816B、激活 42B，支持 1M token 上下文窗口，原生多模态，OpenRouter 定价为输入 $1.25/M、输出 $4.25/M，正文提到支持图像、视频、音频和 PDF 输入。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/OpenRouter/status/2110793354154008685&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3. 卡兹克实测华硕 ProArt 创16 RTX Spark 电脑，37999 元实现本地 Token 自由&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：卡兹克 (@Khazix0918) · 昨天 10:04&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;作者分享受邀参加英伟达 RTX Spark 全球开售活动后，深度使用一周华硕 ProArt 创16（128G 统一内存+1T，京东售价 37999 元）的体验，开售时 128G 版本在京东几分钟内被抢空。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/Khazix0918/status/2111639562720329976&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;4. Meta 发布开源权重模型 Muse Spark Open，816B 参数、1M 上下文&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;PyTorch：Blog（RSS） · 今天 01:55&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;Meta 发布开源权重模型 Muse Spark Open，已在 Hugging Face 以 Muse Model License 提供。模型总参数 816B、激活 42B，上下文窗口 1M token，面向编码与智能体工作流，原生多模态（图像、音频、文档），并相比 8 月发布的 Muse Spark 增加了安全后训练。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://pytorch.org/blog/muse-spark-open/&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;4. Browser Use 讲解浏览器智能体的工作原理与使用时机&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;Browser Use · 昨天 08:00&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;Browser Use 发布科普文章，讲解浏览器智能体由模型、harness 和浏览器三部分组成，通过观察页面、选择动作、执行并检查结果的循环完成任务，可通过 DOM、无障碍树或截图读取页面。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://browser-use.com/posts/browser-agents&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;5. Perplexity 开源驱动 Perplexity Computer 的沙箱平台 SPACE&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas) · 今天 01:32&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;Perplexity CEO Aravind Srinivas 宣布开源沙箱平台 SPACE，该平台为 Perplexity Computer 的全部沙箱能力提供支撑，仓库地址为 https://github.com/perplexityai/space。他表示沙箱虽是 commodity，但在生产级流量下服务数百万沙箱、为企业和消费者扩展 Agent 需要大量细节，开源旨在支持生态。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/AravSrinivas/status/2110785848958759165&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;5. WorkBuddy Intl 更新支持 DeepSeek-V4.1-Flash-1017，10 月 31 日前免费&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Tencent WorkBuddy (@WorkBuddy_AI) · 昨天 18:29&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;WorkBuddy Intl 已更新至最新的 DeepSeek-V4.1-Flash-1017 模型，10 月 31 日前免费开放。引用的 DeepSeek 官方内容称该模型相比上一版性能更强、任务完成更快、输出更短，已上线网站、App 和 API，并针对 DeepSeek Harness、Tencent CodeBuddy、WorkBuddy 等做了优化。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/WorkBuddy_AI/status/2111404103402430558&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;6. Gemini 4 Argon 在 ARC-AGI (Verified) 评测中公布：ARC-AGI-3 得分 97.5%&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：ARC Prize (@arcprize) · 今天 00:22&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;ARC Prize 公布 Gemini 4 Argon 在 ARC-AGI (Verified) 的评测成绩。ARC-AGI-3 上，provider adapter harness 得分 97.5%、成本 $4.8K，标准 harness 得分 49.8%、成本 $5.8K；ARC-AGI-2 得分 91.3%、$0.32/task；ARC-AGI-1 得分 98.5%、$0.16/task。Google DeepMind 是第二家在 ARC-AGI-3 上得分超过 95% 的前沿 AI 实验室。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/arcprize/status/2110768288523251762&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;6. 卡兹克实测37999元RTX Spark轻薄本：一周实现本地Token自由&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;公众号：数字生命卡兹克 · 昨天 18:19&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;数字生命卡兹克分享华硕ProArt创16（RTX Spark N1X芯片、128G统一内存、37999元）的一周深度使用体验，该机全球开售时128G版本在京东几分钟内被抢空。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647687354&amp;idx=1&amp;sn=dea0d54dc3b71b361e36199db6cf4a86&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;7. Step 5 Preview 上线 FeatherlessAI，官方转发开放权重模型部署信息&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：阶跃星辰 StepFun (@StepFun_ai) · 今天 23:30&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;阶跃星辰转发 FeatherlessAI 的消息，Step 5 Preview 已上线该平台，以 FP8 精度提供服务。该开放权重模型为 600B 稀疏 MoE 架构、每 token 激活 27B，面向长程智能体工作，在软件工程和专业知识工作（尤其金融）上有前沿级表现，按 Artificial Analysis 数据其每任务成本约为 Claude Opus 5.5 的 1/6，智能水平与 Kimi K3 相当。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/StepFun_ai/status/2110755075845169428&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;7. Muse Spark Open (Max) 登顶 Code Arena: WebDev 美国开源模型第一&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Arena (@arena) · 2天前&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;Arena 公布 Meta 发布的 Muse Spark Open (Max) 在 Code Arena: WebDev 以 1511 分位居美国开源模型第一、开源模型总榜第 13。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/arena/status/2111221323217412318&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;8. NVIDIA 发布开源 Nemotron 3.5 Super VL 及 Bolt 两款端侧模型&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;NVIDIA Blog（RSS） · 今天 23:00&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;NVIDIA 发布开源 1200 亿参数的 Nemotron 3.5 Super VL 多模态模型，称在其类别中任务完成最快、比同类次优快 5x，并推出两款端侧模型 Bolt 74B-A9B 24GB 与 Bolt E4B 4GB，后者 10 月 23 日上线。模型采用 2-bit 原生量化可在 RTX/DGX Spark 上本地运行，权重、数据集和训练配方开放，已有数十家机构基于自有数据后训练。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://blogs.nvidia.com/blog/nemotron-3-5-super-vl/&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;8. a16z 图表周报：智能体购物遭电商拦截，消费意愿仍滞后&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;a16z：News（RSS） · 2天前&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;a16z 图表周报指出智能体商务遇阻，Cloudflare 数据显示智能体与爬虫收到的 403 拒绝响应自夏季起明显增多，约为原先两倍。文章引用 NRF 数据称退货率与退货成本自 2019 年以来分别翻倍和增至三倍，并引用调查指 42% 消费者完全不信任 AI 代购，Similarweb 数据显示 AI 购物多发生在发现与购买之间的中间阶段，而非下单环节。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.a16z.news/p/this-week-in-charts-agents-denied&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;9. The Verge 实测 Eiliko 机器人玩具：68000 台设备数据可被任意访问并可远程劫持&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;The Verge：AI（RSS） · 今天 19:00&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;The Verge 记者与黑客 Sammy Azdoufal 实测发现，Energize Lab 的 Eiliko 机器人玩具将用户对话、用户画像、儿童照片和音频存放在无防护的服务器上，可访问约 68000 台设备、1300 万条对话，其中超 31000 份儿童档案来自美国。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.theverge.com/tech/1010727/eiliko-robot-hack-energize-lab&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;9. NVIDIA RTX Spark 笔记本今日开售，主打 128GB 统一内存与本地 AI&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;NVIDIA：Newsroom（RSS） · 2天前&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;NVIDIA 宣布 RTX Spark 笔记本正式开售，来自 ASUS、Dell、HP、Lenovo、Microsoft 和 MSI，起价 $2,599。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;</description>
     </item>
     <item>
-      <title>AIGC内容创作 · Kling 4.0 深夜上线，作者实测30秒一镜到底与全能参考表现</title>
-      <link>https://x.com/Khazix0918/status/2110914404393091205</link>
-      <guid isPermaLink="false">linggou-kbccvteado5kgzbk5ah9yv5ip</guid>
-      <pubDate>Fri, 16 Oct 2026 10:03:07 +0800</pubDate>
-      <category>AIGC内容创作</category>
-      <description>&lt;p&gt;&lt;strong&gt;📽️ AIGC 内容创作&lt;/strong&gt; · 今天 10:03 · X：卡兹克 (@Khazix0918)&lt;/p&gt;
-&lt;p&gt;可灵AI凌晨正式上线视频模型 Kling 4.0，作者烧数万积分实测后认为其在大范围动态、复杂动作衔接和全能参考可控性上有扎实进步。支持最长30秒一镜到底直出，视频首尾帧改为最多10帧的多帧参考；1080P 30秒约450积分，720P 20秒的 Kling 4.0 Flash 仅120积分，作者推荐先用 Flash 打样再用正式版出片，此外10-bit 4K HDR 输出规格尚未上线。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/Khazix0918/status/2110914404393091205&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>AIGC内容创作 · 可灵 Kling 4.0 上线：支持30秒一镜到底，作者实测动态与全能参考</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647687203&amp;idx=1&amp;sn=a58bc4411e8226b629f1b5c61509a198</link>
-      <guid isPermaLink="false">linggou-m4lwilxklwi3f3ctdlvxmzlxw</guid>
-      <pubDate>Fri, 16 Oct 2026 08:18:00 +0800</pubDate>
-      <category>AIGC内容创作</category>
-      <description>&lt;p&gt;&lt;strong&gt;📽️ AIGC 内容创作&lt;/strong&gt; · 今天 08:18 · 公众号：数字生命卡兹克&lt;/p&gt;
-&lt;p&gt;可灵AI凌晨正式上线视频模型 Kling 4.0，支持最长30秒直出和最多10帧的多帧参考，并强化全能参考与复杂打斗等大范围动态表现。作者烧数万积分实测城市追逐、电梯打斗、花样滑冰等场景，认为纸箱形变等细节体现物理规律理解的提升。1080P 30秒约450积分（约16元），720P约9元，4.0 Flash 720P 20秒仅120积分，官方还预告将支持10-bit 4K HDR输出。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647687203&amp;idx=1&amp;sn=a58bc4411e8226b629f1b5c61509a198&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>技术工具 · Krea 3 图像模型通过 ComfyUI Partner Nodes 上线</title>
-      <link>https://blog.comfy.org/p/krea-3-is-now-available-via-partner</link>
-      <guid isPermaLink="false">linggou-ee1w5w87zh8hhwwwzqm8w65rd</guid>
-      <pubDate>Fri, 16 Oct 2026 05:15:45 +0800</pubDate>
-      <category>技术工具</category>
-      <description>&lt;p&gt;&lt;strong&gt;🛠️ 技术工具&lt;/strong&gt; · 今天 05:15 · Comfy Blog&lt;/p&gt;
-&lt;p&gt;Krea 3 图像模型现已在 ComfyUI 通过 Partner Nodes 提供，主打基于参考图的生成与编辑。模型强调更快的迭代速度和更低的单张成本，支持按上传顺序引用多张参考图、保持产品标签形状材质不变的前提下修改环境光影构图，并可将生成结果作为新输入继续编辑。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://blog.comfy.org/p/krea-3-is-now-available-via-partner&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>行业动态 · Claude Opus 5.5 fast mode 结束研究预览并移除等待名单</title>
-      <link>https://x.com/ClaudeDevs/status/2110825294655562048</link>
-      <guid isPermaLink="false">linggou-e2ssy0a7scpnel6ppyl3r9f2t</guid>
-      <pubDate>Fri, 16 Oct 2026 04:09:02 +0800</pubDate>
+      <title>行业动态 · DeepSeek-V4.1-Flash-20261017 登顶 Code Arena: WebDev 开源模型榜首</title>
+      <link>https://x.com/arena/status/2111894091168682086</link>
+      <guid isPermaLink="false">linggou-bm95oliei5mcgy2tau7e22d59</guid>
+      <pubDate>Mon, 19 Oct 2026 02:56:03 +0800</pubDate>
       <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 04:09 · X：Claude Devs (@ClaudeDevs)&lt;/p&gt;
-&lt;p&gt;Anthropic 宣布 Claude 平台上的 Opus 5.5 fast mode 不再处于研究预览阶段，并已移除等待名单。该模式速度最高提升 2.5 倍，定价为 $8 / $40 per million tokens；现已登陆 Microsoft Foundry（Azure 托管），Google Cloud 即将支持。Claude Code 中的 fast mode 保持不变，消耗额外 usage credits。文档见 https://platform.claude.com/docs/en/build-with-claude/fast-mode&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/ClaudeDevs/status/2110825294655562048&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 02:56 · X：Arena (@arena)&lt;/p&gt;
+&lt;p&gt;Arena 宣布 DeepSeek-V4.1-Flash-20261017 (Max) 成为 Code Arena: WebDev 榜单第一开源模型，超过 Kimi K3 (Max)，成本低约 10 倍。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/arena/status/2111894091168682086&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>技术工具 · Black Forest Labs FLUX 3 系列登陆 OpenRouter：Image Klein 开源权重、视频 upscale 降价并支持 4K 生成</title>
-      <link>https://x.com/OpenRouter/status/2110803343878873473</link>
-      <guid isPermaLink="false">linggou-qb80oc9oxi6d1lffkuvfskl10</guid>
-      <pubDate>Fri, 16 Oct 2026 02:41:48 +0800</pubDate>
-      <category>技术工具</category>
-      <description>&lt;p&gt;&lt;strong&gt;🛠️ 技术工具&lt;/strong&gt; · 今天 02:41 · X：OpenRouter (@OpenRouter)&lt;/p&gt;
-&lt;p&gt;OpenRouter 宣布 Black Forest Labs（@bfl_ai）三项新内容上线。FLUX 3 Image Klein 是新的开源权重图像模型，可在单张消费级 GPU 上运行；改进版 FLUX Video Upscale 开启 early access，可将任意视频转为 4K，价格从 $0.59/s 降至 $0.28/s；FLUX 3 Video 现已支持从提示词直接生成 4K 视频。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/OpenRouter/status/2110803343878873473&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>行业动态 · Muse Spark Open 上架 Arena，可在 Agent Arena 实测，评分即将公布</title>
-      <link>https://x.com/arena/status/2110797782953132049</link>
-      <guid isPermaLink="false">linggou-zxlvr8l7uzmvapbi3i58kat2s</guid>
-      <pubDate>Fri, 16 Oct 2026 02:19:42 +0800</pubDate>
+      <title>行业动态 · Anthropic 内部研究显示初级技术岗位占比下降，AI Agent 工时达员工六倍</title>
+      <link>https://the-decoder.com/anthropic-has-nearly-stopped-hiring-junior-staff-because-ai-agents-now-work-six-times-as-many-hours/</link>
+      <guid isPermaLink="false">linggou-c7pt5mbzh5h0atlbprfzbs8o0</guid>
+      <pubDate>Sun, 18 Oct 2026 21:22:26 +0800</pubDate>
       <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 02:19 · X：Arena (@arena)&lt;/p&gt;
-&lt;p&gt;Arena 宣布 Meta 的 Muse Spark Open 已进入 Agent Arena，用户可实测，评分即将公布。该模型为 816B 总参数、42B 激活参数，1M token 上下文窗口，原生多模态。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/arena/status/2110797782953132049&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 21:22 · The Decoder：AI News（RSS）&lt;/p&gt;
+&lt;p&gt;Anthropic 发布内部研究称，技术部门初级岗位占比从 2025 年初的 21% 降至 14%，新招初级占比从 27% 降至 9%，空缺初级职位降至 6%，非技术部门基本稳定。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://the-decoder.com/anthropic-has-nearly-stopped-hiring-junior-staff-because-ai-agents-now-work-six-times-as-many-hours/&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>行业动态 · Meta 开放权重模型 Muse Spark Open 上架 OpenRouter</title>
-      <link>https://x.com/OpenRouter/status/2110793354154008685</link>
-      <guid isPermaLink="false">linggou-bicfbjip5iq9ccp8x7sn9yw7k</guid>
-      <pubDate>Fri, 16 Oct 2026 02:02:06 +0800</pubDate>
+      <title>行业动态 · 卡兹克实测华硕 ProArt 创16 RTX Spark 电脑，37999 元实现本地 Token 自由</title>
+      <link>https://x.com/Khazix0918/status/2111639562720329976</link>
+      <guid isPermaLink="false">linggou-i8vi0763u7lz34lkoagoh0agt</guid>
+      <pubDate>Sun, 18 Oct 2026 10:04:38 +0800</pubDate>
       <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 02:02 · X：OpenRouter (@OpenRouter)&lt;/p&gt;
-&lt;p&gt;Meta 发布开放权重模型 Muse Spark Open，现已可在 OpenRouter 使用，定位为面向编码与智能体工作的美国最强开放权重模型。模型总参数 816B、激活 42B，支持 1M token 上下文窗口，原生多模态，OpenRouter 定价为输入 $1.25/M、输出 $4.25/M，正文提到支持图像、视频、音频和 PDF 输入。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/OpenRouter/status/2110793354154008685&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 昨天 10:04 · X：卡兹克 (@Khazix0918)&lt;/p&gt;
+&lt;p&gt;作者分享受邀参加英伟达 RTX Spark 全球开售活动后，深度使用一周华硕 ProArt 创16（128G 统一内存+1T，京东售价 37999 元）的体验，开售时 128G 版本在京东几分钟内被抢空。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/Khazix0918/status/2111639562720329976&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>行业动态 · Meta 发布开源权重模型 Muse Spark Open，816B 参数、1M 上下文</title>
-      <link>https://pytorch.org/blog/muse-spark-open/</link>
-      <guid isPermaLink="false">linggou-s80tw5g2v22j1se4bmqejyaq4</guid>
-      <pubDate>Fri, 16 Oct 2026 01:55:52 +0800</pubDate>
+      <title>行业动态 · Browser Use 讲解浏览器智能体的工作原理与使用时机</title>
+      <link>https://browser-use.com/posts/browser-agents</link>
+      <guid isPermaLink="false">linggou-w3vpc68lufgj57zcy1hd38a60</guid>
+      <pubDate>Sun, 18 Oct 2026 08:00:00 +0800</pubDate>
       <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 01:55 · PyTorch：Blog（RSS）&lt;/p&gt;
-&lt;p&gt;Meta 发布开源权重模型 Muse Spark Open，已在 Hugging Face 以 Muse Model License 提供。模型总参数 816B、激活 42B，上下文窗口 1M token，面向编码与智能体工作流，原生多模态（图像、音频、文档），并相比 8 月发布的 Muse Spark 增加了安全后训练。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://pytorch.org/blog/muse-spark-open/&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 昨天 08:00 · Browser Use&lt;/p&gt;
+&lt;p&gt;Browser Use 发布科普文章，讲解浏览器智能体由模型、harness 和浏览器三部分组成，通过观察页面、选择动作、执行并检查结果的循环完成任务，可通过 DOM、无障碍树或截图读取页面。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://browser-use.com/posts/browser-agents&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>行业动态 · Perplexity 开源驱动 Perplexity Computer 的沙箱平台 SPACE</title>
-      <link>https://x.com/AravSrinivas/status/2110785848958759165</link>
-      <guid isPermaLink="false">linggou-fgtsm4cnci4asmyhhflxzfsga</guid>
-      <pubDate>Fri, 16 Oct 2026 01:32:17 +0800</pubDate>
+      <title>行业动态 · WorkBuddy Intl 更新支持 DeepSeek-V4.1-Flash-1017，10 月 31 日前免费</title>
+      <link>https://x.com/WorkBuddy_AI/status/2111404103402430558</link>
+      <guid isPermaLink="false">linggou-xgj246drlw70qbgypibz6atla</guid>
+      <pubDate>Sat, 17 Oct 2026 18:29:00 +0800</pubDate>
       <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 01:32 · X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)&lt;/p&gt;
-&lt;p&gt;Perplexity CEO Aravind Srinivas 宣布开源沙箱平台 SPACE，该平台为 Perplexity Computer 的全部沙箱能力提供支撑，仓库地址为 https://github.com/perplexityai/space。他表示沙箱虽是 commodity，但在生产级流量下服务数百万沙箱、为企业和消费者扩展 Agent 需要大量细节，开源旨在支持生态。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/AravSrinivas/status/2110785848958759165&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 昨天 18:29 · X：Tencent WorkBuddy (@WorkBuddy_AI)&lt;/p&gt;
+&lt;p&gt;WorkBuddy Intl 已更新至最新的 DeepSeek-V4.1-Flash-1017 模型，10 月 31 日前免费开放。引用的 DeepSeek 官方内容称该模型相比上一版性能更强、任务完成更快、输出更短，已上线网站、App 和 API，并针对 DeepSeek Harness、Tencent CodeBuddy、WorkBuddy 等做了优化。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/WorkBuddy_AI/status/2111404103402430558&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>行业动态 · Gemini 4 Argon 在 ARC-AGI (Verified) 评测中公布：ARC-AGI-3 得分 97.5%</title>
-      <link>https://x.com/arcprize/status/2110768288523251762</link>
-      <guid isPermaLink="false">linggou-cvpbhz4ao2wr6pxpthix2z15c</guid>
-      <pubDate>Fri, 16 Oct 2026 00:22:30 +0800</pubDate>
+      <title>行业动态 · 卡兹克实测37999元RTX Spark轻薄本：一周实现本地Token自由</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647687354&amp;idx=1&amp;sn=dea0d54dc3b71b361e36199db6cf4a86</link>
+      <guid isPermaLink="false">linggou-ffpkck4k06le4smuaz4slhvcz</guid>
+      <pubDate>Sat, 17 Oct 2026 18:19:04 +0800</pubDate>
       <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 00:22 · X：ARC Prize (@arcprize)&lt;/p&gt;
-&lt;p&gt;ARC Prize 公布 Gemini 4 Argon 在 ARC-AGI (Verified) 的评测成绩。ARC-AGI-3 上，provider adapter harness 得分 97.5%、成本 $4.8K，标准 harness 得分 49.8%、成本 $5.8K；ARC-AGI-2 得分 91.3%、$0.32/task；ARC-AGI-1 得分 98.5%、$0.16/task。Google DeepMind 是第二家在 ARC-AGI-3 上得分超过 95% 的前沿 AI 实验室。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/arcprize/status/2110768288523251762&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 昨天 18:19 · 公众号：数字生命卡兹克&lt;/p&gt;
+&lt;p&gt;数字生命卡兹克分享华硕ProArt创16（RTX Spark N1X芯片、128G统一内存、37999元）的一周深度使用体验，该机全球开售时128G版本在京东几分钟内被抢空。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647687354&amp;idx=1&amp;sn=dea0d54dc3b71b361e36199db6cf4a86&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>行业动态 · Step 5 Preview 上线 FeatherlessAI，官方转发开放权重模型部署信息</title>
-      <link>https://x.com/StepFun_ai/status/2110755075845169428</link>
-      <guid isPermaLink="false">linggou-mimehokpfhvz10dk3pdz131ky</guid>
-      <pubDate>Thu, 15 Oct 2026 23:30:00 +0800</pubDate>
+      <title>行业动态 · Muse Spark Open (Max) 登顶 Code Arena: WebDev 美国开源模型第一</title>
+      <link>https://x.com/arena/status/2111221323217412318</link>
+      <guid isPermaLink="false">linggou-bjzjg5k7af07c1c20bc1a8gxp</guid>
+      <pubDate>Sat, 17 Oct 2026 06:22:42 +0800</pubDate>
       <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 23:30 · X：阶跃星辰 StepFun (@StepFun_ai)&lt;/p&gt;
-&lt;p&gt;阶跃星辰转发 FeatherlessAI 的消息，Step 5 Preview 已上线该平台，以 FP8 精度提供服务。该开放权重模型为 600B 稀疏 MoE 架构、每 token 激活 27B，面向长程智能体工作，在软件工程和专业知识工作（尤其金融）上有前沿级表现，按 Artificial Analysis 数据其每任务成本约为 Claude Opus 5.5 的 1/6，智能水平与 Kimi K3 相当。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/StepFun_ai/status/2110755075845169428&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 2天前 · X：Arena (@arena)&lt;/p&gt;
+&lt;p&gt;Arena 公布 Meta 发布的 Muse Spark Open (Max) 在 Code Arena: WebDev 以 1511 分位居美国开源模型第一、开源模型总榜第 13。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/arena/status/2111221323217412318&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>行业动态 · NVIDIA 发布开源 Nemotron 3.5 Super VL 及 Bolt 两款端侧模型</title>
-      <link>https://blogs.nvidia.com/blog/nemotron-3-5-super-vl/</link>
-      <guid isPermaLink="false">linggou-l9jgzg24ei3a7m8xu1xfhy9n7</guid>
-      <pubDate>Thu, 15 Oct 2026 23:00:24 +0800</pubDate>
+      <title>行业动态 · a16z 图表周报：智能体购物遭电商拦截，消费意愿仍滞后</title>
+      <link>https://www.a16z.news/p/this-week-in-charts-agents-denied</link>
+      <guid isPermaLink="false">linggou-j5vlb3dn14h2b4xy1hbdschyc</guid>
+      <pubDate>Fri, 16 Oct 2026 22:00:39 +0800</pubDate>
       <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 23:00 · NVIDIA Blog（RSS）&lt;/p&gt;
-&lt;p&gt;NVIDIA 发布开源 1200 亿参数的 Nemotron 3.5 Super VL 多模态模型，称在其类别中任务完成最快、比同类次优快 5x，并推出两款端侧模型 Bolt 74B-A9B 24GB 与 Bolt E4B 4GB，后者 10 月 23 日上线。模型采用 2-bit 原生量化可在 RTX/DGX Spark 上本地运行，权重、数据集和训练配方开放，已有数十家机构基于自有数据后训练。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://blogs.nvidia.com/blog/nemotron-3-5-super-vl/&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 2天前 · a16z：News（RSS）&lt;/p&gt;
+&lt;p&gt;a16z 图表周报指出智能体商务遇阻，Cloudflare 数据显示智能体与爬虫收到的 403 拒绝响应自夏季起明显增多，约为原先两倍。文章引用 NRF 数据称退货率与退货成本自 2019 年以来分别翻倍和增至三倍，并引用调查指 42% 消费者完全不信任 AI 代购，Similarweb 数据显示 AI 购物多发生在发现与购买之间的中间阶段，而非下单环节。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.a16z.news/p/this-week-in-charts-agents-denied&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>技术工具 · Black Forest Labs 发布开源文生图模型 FLUX 3 Image Klein（5.6B）</title>
-      <link>https://bfl.ai/blog/flux-3-image-klein</link>
-      <guid isPermaLink="false">linggou-ybc0etkws56yxmrveyttxz3lm</guid>
-      <pubDate>Thu, 15 Oct 2026 23:00:00 +0800</pubDate>
-      <category>技术工具</category>
-      <description>&lt;p&gt;&lt;strong&gt;🛠️ 技术工具&lt;/strong&gt; · 今天 23:00 · Black Forest Labs：Blog（网页）&lt;/p&gt;
-&lt;p&gt;Black Forest Labs 发布 5.6B 参数开源权重模型 FLUX 3 Image Klein，支持文生图、图像编辑和最多 10 张参考图的多参考生成，采用 FLUX Kommunity License。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://bfl.ai/blog/flux-3-image-klein&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>行业动态 · The Verge 实测 Eiliko 机器人玩具：68000 台设备数据可被任意访问并可远程劫持</title>
-      <link>https://www.theverge.com/tech/1010727/eiliko-robot-hack-energize-lab</link>
-      <guid isPermaLink="false">linggou-pd501xipe38ooxo1t7jn7hphn</guid>
-      <pubDate>Thu, 15 Oct 2026 19:00:00 +0800</pubDate>
+      <title>行业动态 · NVIDIA RTX Spark 笔记本今日开售，主打 128GB 统一内存与本地 AI</title>
+      <link>https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs</link>
+      <guid isPermaLink="false">linggou-rq32az1hr7zpbipiyega9ehjr</guid>
+      <pubDate>Fri, 16 Oct 2026 20:00:00 +0800</pubDate>
       <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 19:00 · The Verge：AI（RSS）&lt;/p&gt;
-&lt;p&gt;The Verge 记者与黑客 Sammy Azdoufal 实测发现，Energize Lab 的 Eiliko 机器人玩具将用户对话、用户画像、儿童照片和音频存放在无防护的服务器上，可访问约 68000 台设备、1300 万条对话，其中超 31000 份儿童档案来自美国。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.theverge.com/tech/1010727/eiliko-robot-hack-energize-lab&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 2天前 · NVIDIA：Newsroom（RSS）&lt;/p&gt;
+&lt;p&gt;NVIDIA 宣布 RTX Spark 笔记本正式开售，来自 ASUS、Dell、HP、Lenovo、Microsoft 和 MSI，起价 $2,599。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

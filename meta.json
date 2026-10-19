@@ -1,26 +1,21 @@
 {
-  "generated_at": "2026-10-16T13:29:38.189943+08:00",
-  "total": 24,
-  "linggou": 14,
+  "generated_at": "2026-10-19T13:46:24.959451+08:00",
+  "total": 16,
+  "linggou": 9,
   "social_topics": 0,
   "sources": {
+    "X：Arena (@arena)": 2,
+    "The Decoder：AI News（RSS）": 1,
     "X：卡兹克 (@Khazix0918)": 1,
+    "Browser Use": 1,
+    "X：Tencent WorkBuddy (@WorkBuddy_AI)": 1,
     "公众号：数字生命卡兹克": 1,
-    "Comfy Blog": 1,
-    "X：Claude Devs (@ClaudeDevs)": 1,
-    "X：OpenRouter (@OpenRouter)": 2,
-    "X：Arena (@arena)": 1,
-    "PyTorch：Blog（RSS）": 1,
-    "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)": 1,
-    "X：ARC Prize (@arcprize)": 1,
-    "X：阶跃星辰 StepFun (@StepFun_ai)": 1,
-    "NVIDIA Blog（RSS）": 1,
-    "Black Forest Labs：Blog（网页）": 1,
-    "The Verge：AI（RSS）": 1
+    "a16z：News（RSS）": 1,
+    "NVIDIA：Newsroom（RSS）": 1
   },
   "categories": {
-    "aigc_content": 2,
-    "tech_tools": 3,
+    "aigc_content": 0,
+    "tech_tools": 0,
     "industry": 9
   }
 }
