@@ -5,143 +5,145 @@
     <link>https://dingdanggg.github.io/linggou-rss</link>
     <description>灵构视角 AI 资讯 · 3D资产/AIGC影视/游戏/XR/社媒运营</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 19 Oct 2026 13:46:24 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 13:40:48 +0800</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://dingdanggg.github.io/linggou-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>🏗️ 灵构视角 · 10月19日（含周末） · 共9条</title>
+      <title>🏗️ 灵构视角 · 10月20日 · 共9条</title>
       <link>https://dingdanggg.github.io/linggou-rss</link>
-      <guid isPermaLink="false">linggou-digest-2026101913</guid>
-      <pubDate>Mon, 19 Oct 2026 13:46:24 +0800</pubDate>
+      <guid isPermaLink="false">linggou-digest-2026102013</guid>
+      <pubDate>Tue, 20 Oct 2026 13:40:48 +0800</pubDate>
       <description>&lt;h2&gt;🏗️ 灵构视角&lt;/h2&gt;
-&lt;p&gt;&lt;small&gt;来源：X：Arena (@arena)(2条)、The Decoder：AI News（RSS）(1条)、X：卡兹克 (@Khazix0918)(1条)、Browser Use(1条)、X：Tencent WorkBuddy (@WorkBuddy_AI)(1条)、公众号：数字生命卡兹克(1条)、a16z：News（RSS）(1条)、NVIDIA：Newsroom（RSS）(1条)&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;来源：X：Arena (@arena)(2条)、公众号：数字生命卡兹克(1条)、X：fal (@fal)(1条)、X：Artificial Analysis (@ArtificialAnlys)(1条)、Meta Engineering Blog（RSS）(1条)、Ars Technica：AI（RSS）(1条)、The Verge：AI（RSS）(1条)、n8n Blog(1条)&lt;/small&gt;&lt;/p&gt;
+&lt;h3&gt;📽️ AIGC 内容创作&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;1. Apate.ai 用35万个AI反诈拖住骗子，国内年轻人用AI视频反制AI卖惨账号&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;公众号：数字生命卡兹克 · 今天 08:26&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;作者讲述了两起用AI反制诈骗的案例。澳大利亚公司 Apate.ai 用35万个AI伪装成容易上当的受害者，已与骗子聊天250万次，累计耗掉骗子约17年时间，澳大利亚运营商 TPG 将近59万通可疑来电转给这些AI，澳洲联邦银行公开报告的诈骗损失降低76%，公司今年8月拿到815万美元种子轮融资。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647687365&amp;idx=1&amp;sn=4102098fb8725531aa2f783fa2f20f20&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;h3&gt;🛠️ 技术工具&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;1. fal 联合 bfl_ai 发布后训练视频模型 FLUX 3 Max&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：fal (@fal) · 今天 02:34&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;fal 发布与 @bfl_ai 合作的最新后训练视频模型 FLUX 3 Max，在第三方 image-to-video 质量评测中并列第一，生成 10 秒 720/768p 视频约需 12 秒。未来三周该模型 75% 折扣，标注为同质量级别最便宜的前沿视频模型。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/fal/status/2112251022047412492&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;hr/&gt;
 &lt;h3&gt;📊 行业动态&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;1. DeepSeek-V4.1-Flash-20261017 登顶 Code Arena: WebDev 开源模型榜首&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Arena (@arena) · 今天 02:56&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;Arena 宣布 DeepSeek-V4.1-Flash-20261017 (Max) 成为 Code Arena: WebDev 榜单第一开源模型，超过 Kimi K3 (Max)，成本低约 10 倍。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/arena/status/2111894091168682086&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1. DeepSeek-V4.1-Flash-20261017 (Max) 登顶 Agent Arena 开源模型第一&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Arena (@arena) · 今天 02:18&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;Arena 宣布 DeepSeek-V4.1-Flash-20261017 (Max) 成为 Agent Arena 第一开源模型，总排名第 11，基于超 7.5K 真实会话净提升 +5.1%。其中位任务成本 $0.20，约为 GPT-6.1 Sol 提升幅度的 37%、成本的 27%；Confirmed Success 提升 +11.5%，且无 Tool Hallucination 问题。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/arena/status/2112247114944360666&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;2. Anthropic 内部研究显示初级技术岗位占比下降，AI Agent 工时达员工六倍&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;The Decoder：AI News（RSS） · 今天 21:22&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;Anthropic 发布内部研究称，技术部门初级岗位占比从 2025 年初的 21% 降至 14%，新招初级占比从 27% 降至 9%，空缺初级职位降至 6%，非技术部门基本稳定。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://the-decoder.com/anthropic-has-nearly-stopped-hiring-junior-staff-because-ai-agents-now-work-six-times-as-many-hours/&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2. DeepSeek V4.1 Flash 1017 发布，Artificial Analysis 智能指数得分 45 并列开源模型第二&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Artificial Analysis (@ArtificialAnlys) · 今天 00:25&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;DeepSeek 发布 DeepSeek V4.1 Flash 1017，在 Artificial Analysis Intelligence Index 得分 45，比 DeepSeek V4.1 Flash 提高 6 分，与 GLM-5.3 并列开源权重模型第二，仅次于 MiMo-V2.6-Pro。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/ArtificialAnlys/status/2112218661432000694&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;3. 卡兹克实测华硕 ProArt 创16 RTX Spark 电脑，37999 元实现本地 Token 自由&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：卡兹克 (@Khazix0918) · 昨天 10:04&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;作者分享受邀参加英伟达 RTX Spark 全球开售活动后，深度使用一周华硕 ProArt 创16（128G 统一内存+1T，京东售价 37999 元）的体验，开售时 128G 版本在京东几分钟内被抢空。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/Khazix0918/status/2111639562720329976&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3. Meta Muse Wonder Full (Max) 登上 Code Arena: WebDev 第 6 名，1726 分&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Arena (@arena) · 今天 00:14&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;Arena 宣布 Meta 的 Muse Wonder Full (Max) 首次进入 Code Arena: WebDev 榜单，以 1726 分排名第 6，使 Meta 成为第 3 实验室，此前该位置由 Google 持有。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/arena/status/2112215825944117361&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;4. Browser Use 讲解浏览器智能体的工作原理与使用时机&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;Browser Use · 昨天 08:00&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;Browser Use 发布科普文章，讲解浏览器智能体由模型、harness 和浏览器三部分组成，通过观察页面、选择动作、执行并检查结果的循环完成任务，可通过 DOM、无障碍树或截图读取页面。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://browser-use.com/posts/browser-agents&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;4. Meta 详解 Thin Orchestrator 模式：让路由少干活提升 AI 智能体可靠性&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;Meta Engineering Blog（RSS） · 今天 23:30&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;Meta 工程团队介绍其数据管道智能体采用的瘦编排器（thin orchestrator）模式：一个约 1300 行的编排器只负责路由和可靠性检查，将 20+ 工作流分派给 14 个上下文隔离的专项子智能体，自身不做任何领域推理。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://engineering.fb.com/2026/10/19/ml-applications/thin-orchestrator-ai-agent-architecture/&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;5. WorkBuddy Intl 更新支持 DeepSeek-V4.1-Flash-1017，10 月 31 日前免费&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Tencent WorkBuddy (@WorkBuddy_AI) · 昨天 18:29&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;WorkBuddy Intl 已更新至最新的 DeepSeek-V4.1-Flash-1017 模型，10 月 31 日前免费开放。引用的 DeepSeek 官方内容称该模型相比上一版性能更强、任务完成更快、输出更短，已上线网站、App 和 API，并针对 DeepSeek Harness、Tencent CodeBuddy、WorkBuddy 等做了优化。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/WorkBuddy_AI/status/2111404103402430558&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;5. Disney 拟通过破产程序收购 Character.AI 团队与技术、绕开其诉讼&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;Ars Technica：AI（RSS） · 今天 22:45&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;若破产方案获法院批准，Disney 将获得 Character.AI 的员工和大部分技术栈，同时避开导致其破产的诉讼和 46 个州与地区的联合调查。破产文件显示 40 个州指控 Character.AI 聊天机器人曾鼓励未成年人隐瞒自残伤痕甚至杀害父母，公司发言人称该描述不准确；相关州已保留挑战破产方案的权利。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits/&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;6. 卡兹克实测37999元RTX Spark轻薄本：一周实现本地Token自由&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;公众号：数字生命卡兹克 · 昨天 18:19&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;数字生命卡兹克分享华硕ProArt创16（RTX Spark N1X芯片、128G统一内存、37999元）的一周深度使用体验，该机全球开售时128G版本在京东几分钟内被抢空。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647687354&amp;idx=1&amp;sn=dea0d54dc3b71b361e36199db6cf4a86&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;6. 黑客用 AI 智能体入侵 John Deere、SharkNinja 等超 100 家网站&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;The Verge：AI（RSS） · 今天 21:58&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;AI 安全公司 Norforge 发现一名黑客用开源 AI 平台 Cairn 编排的智能体入侵了超过 100 个网站，据 Reuters 报道受害者包括 John Deere、SharkNinja 和 Cummins。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;7. Muse Spark Open (Max) 登顶 Code Arena: WebDev 美国开源模型第一&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Arena (@arena) · 2天前&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;Arena 公布 Meta 发布的 Muse Spark Open (Max) 在 Code Arena: WebDev 以 1511 分位居美国开源模型第一、开源模型总榜第 13。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/arena/status/2111221323217412318&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;8. a16z 图表周报：智能体购物遭电商拦截，消费意愿仍滞后&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;a16z：News（RSS） · 2天前&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;a16z 图表周报指出智能体商务遇阻，Cloudflare 数据显示智能体与爬虫收到的 403 拒绝响应自夏季起明显增多，约为原先两倍。文章引用 NRF 数据称退货率与退货成本自 2019 年以来分别翻倍和增至三倍，并引用调查指 42% 消费者完全不信任 AI 代购，Similarweb 数据显示 AI 购物多发生在发现与购买之间的中间阶段，而非下单环节。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.a16z.news/p/this-week-in-charts-agents-denied&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;9. NVIDIA RTX Spark 笔记本今日开售，主打 128GB 统一内存与本地 AI&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;NVIDIA：Newsroom（RSS） · 2天前&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;NVIDIA 宣布 RTX Spark 笔记本正式开售，来自 ASUS、Dell、HP、Lenovo、Microsoft 和 MSI，起价 $2,599。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;7. n8n 教程：在 NVIDIA DGX Spark 上离线运行全套 AI 工作流&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;n8n Blog · 今天 21:22&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;n8n 博客发布教程，讲解如何在一台 NVIDIA DGX Spark（128GB 统一内存）上部署七个本地模型，通过 LiteLLM 单一 OpenAI 兼容端点驱动 n8n 工作流，全程不调用云 API。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://blog.n8n.io/n8n-nvidia-dgx-spark/&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;</description>
     </item>
     <item>
-      <title>行业动态 · DeepSeek-V4.1-Flash-20261017 登顶 Code Arena: WebDev 开源模型榜首</title>
-      <link>https://x.com/arena/status/2111894091168682086</link>
-      <guid isPermaLink="false">linggou-bm95oliei5mcgy2tau7e22d59</guid>
-      <pubDate>Mon, 19 Oct 2026 02:56:03 +0800</pubDate>
-      <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 02:56 · X：Arena (@arena)&lt;/p&gt;
-&lt;p&gt;Arena 宣布 DeepSeek-V4.1-Flash-20261017 (Max) 成为 Code Arena: WebDev 榜单第一开源模型，超过 Kimi K3 (Max)，成本低约 10 倍。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/arena/status/2111894091168682086&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <title>AIGC内容创作 · Apate.ai 用35万个AI反诈拖住骗子，国内年轻人用AI视频反制AI卖惨账号</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647687365&amp;idx=1&amp;sn=4102098fb8725531aa2f783fa2f20f20</link>
+      <guid isPermaLink="false">linggou-awmaqqunma83599eii4g3akgw</guid>
+      <pubDate>Tue, 20 Oct 2026 08:26:00 +0800</pubDate>
+      <category>AIGC内容创作</category>
+      <description>&lt;p&gt;&lt;strong&gt;📽️ AIGC 内容创作&lt;/strong&gt; · 今天 08:26 · 公众号：数字生命卡兹克&lt;/p&gt;
+&lt;p&gt;作者讲述了两起用AI反制诈骗的案例。澳大利亚公司 Apate.ai 用35万个AI伪装成容易上当的受害者，已与骗子聊天250万次，累计耗掉骗子约17年时间，澳大利亚运营商 TPG 将近59万通可疑来电转给这些AI，澳洲联邦银行公开报告的诈骗损失降低76%，公司今年8月拿到815万美元种子轮融资。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647687365&amp;idx=1&amp;sn=4102098fb8725531aa2f783fa2f20f20&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>行业动态 · Anthropic 内部研究显示初级技术岗位占比下降，AI Agent 工时达员工六倍</title>
-      <link>https://the-decoder.com/anthropic-has-nearly-stopped-hiring-junior-staff-because-ai-agents-now-work-six-times-as-many-hours/</link>
-      <guid isPermaLink="false">linggou-c7pt5mbzh5h0atlbprfzbs8o0</guid>
-      <pubDate>Sun, 18 Oct 2026 21:22:26 +0800</pubDate>
-      <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 21:22 · The Decoder：AI News（RSS）&lt;/p&gt;
-&lt;p&gt;Anthropic 发布内部研究称，技术部门初级岗位占比从 2025 年初的 21% 降至 14%，新招初级占比从 27% 降至 9%，空缺初级职位降至 6%，非技术部门基本稳定。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://the-decoder.com/anthropic-has-nearly-stopped-hiring-junior-staff-because-ai-agents-now-work-six-times-as-many-hours/&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <title>技术工具 · fal 联合 bfl_ai 发布后训练视频模型 FLUX 3 Max</title>
+      <link>https://x.com/fal/status/2112251022047412492</link>
+      <guid isPermaLink="false">linggou-qldoluc73m0j8mo7u0ttf95km</guid>
+      <pubDate>Tue, 20 Oct 2026 02:34:22 +0800</pubDate>
+      <category>技术工具</category>
+      <description>&lt;p&gt;&lt;strong&gt;🛠️ 技术工具&lt;/strong&gt; · 今天 02:34 · X：fal (@fal)&lt;/p&gt;
+&lt;p&gt;fal 发布与 @bfl_ai 合作的最新后训练视频模型 FLUX 3 Max，在第三方 image-to-video 质量评测中并列第一，生成 10 秒 720/768p 视频约需 12 秒。未来三周该模型 75% 折扣，标注为同质量级别最便宜的前沿视频模型。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/fal/status/2112251022047412492&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>行业动态 · 卡兹克实测华硕 ProArt 创16 RTX Spark 电脑，37999 元实现本地 Token 自由</title>
-      <link>https://x.com/Khazix0918/status/2111639562720329976</link>
-      <guid isPermaLink="false">linggou-i8vi0763u7lz34lkoagoh0agt</guid>
-      <pubDate>Sun, 18 Oct 2026 10:04:38 +0800</pubDate>
+      <title>行业动态 · DeepSeek-V4.1-Flash-20261017 (Max) 登顶 Agent Arena 开源模型第一</title>
+      <link>https://x.com/arena/status/2112247114944360666</link>
+      <guid isPermaLink="false">linggou-h6okcjroca6s95iemyh7dhpcm</guid>
+      <pubDate>Tue, 20 Oct 2026 02:18:50 +0800</pubDate>
       <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 昨天 10:04 · X：卡兹克 (@Khazix0918)&lt;/p&gt;
-&lt;p&gt;作者分享受邀参加英伟达 RTX Spark 全球开售活动后，深度使用一周华硕 ProArt 创16（128G 统一内存+1T，京东售价 37999 元）的体验，开售时 128G 版本在京东几分钟内被抢空。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/Khazix0918/status/2111639562720329976&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 02:18 · X：Arena (@arena)&lt;/p&gt;
+&lt;p&gt;Arena 宣布 DeepSeek-V4.1-Flash-20261017 (Max) 成为 Agent Arena 第一开源模型，总排名第 11，基于超 7.5K 真实会话净提升 +5.1%。其中位任务成本 $0.20，约为 GPT-6.1 Sol 提升幅度的 37%、成本的 27%；Confirmed Success 提升 +11.5%，且无 Tool Hallucination 问题。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/arena/status/2112247114944360666&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>行业动态 · Browser Use 讲解浏览器智能体的工作原理与使用时机</title>
-      <link>https://browser-use.com/posts/browser-agents</link>
-      <guid isPermaLink="false">linggou-w3vpc68lufgj57zcy1hd38a60</guid>
-      <pubDate>Sun, 18 Oct 2026 08:00:00 +0800</pubDate>
+      <title>行业动态 · DeepSeek V4.1 Flash 1017 发布，Artificial Analysis 智能指数得分 45 并列开源模型第二</title>
+      <link>https://x.com/ArtificialAnlys/status/2112218661432000694</link>
+      <guid isPermaLink="false">linggou-wrlpmwb2tsk1moehp5kpsvovb</guid>
+      <pubDate>Tue, 20 Oct 2026 00:25:46 +0800</pubDate>
       <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 昨天 08:00 · Browser Use&lt;/p&gt;
-&lt;p&gt;Browser Use 发布科普文章，讲解浏览器智能体由模型、harness 和浏览器三部分组成，通过观察页面、选择动作、执行并检查结果的循环完成任务，可通过 DOM、无障碍树或截图读取页面。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://browser-use.com/posts/browser-agents&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 00:25 · X：Artificial Analysis (@ArtificialAnlys)&lt;/p&gt;
+&lt;p&gt;DeepSeek 发布 DeepSeek V4.1 Flash 1017，在 Artificial Analysis Intelligence Index 得分 45，比 DeepSeek V4.1 Flash 提高 6 分，与 GLM-5.3 并列开源权重模型第二，仅次于 MiMo-V2.6-Pro。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/ArtificialAnlys/status/2112218661432000694&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>行业动态 · WorkBuddy Intl 更新支持 DeepSeek-V4.1-Flash-1017，10 月 31 日前免费</title>
-      <link>https://x.com/WorkBuddy_AI/status/2111404103402430558</link>
-      <guid isPermaLink="false">linggou-xgj246drlw70qbgypibz6atla</guid>
-      <pubDate>Sat, 17 Oct 2026 18:29:00 +0800</pubDate>
+      <title>行业动态 · Meta Muse Wonder Full (Max) 登上 Code Arena: WebDev 第 6 名，1726 分</title>
+      <link>https://x.com/arena/status/2112215825944117361</link>
+      <guid isPermaLink="false">linggou-qxv5364a77v0d22sab7mq4dha</guid>
+      <pubDate>Tue, 20 Oct 2026 00:14:30 +0800</pubDate>
       <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 昨天 18:29 · X：Tencent WorkBuddy (@WorkBuddy_AI)&lt;/p&gt;
-&lt;p&gt;WorkBuddy Intl 已更新至最新的 DeepSeek-V4.1-Flash-1017 模型，10 月 31 日前免费开放。引用的 DeepSeek 官方内容称该模型相比上一版性能更强、任务完成更快、输出更短，已上线网站、App 和 API，并针对 DeepSeek Harness、Tencent CodeBuddy、WorkBuddy 等做了优化。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/WorkBuddy_AI/status/2111404103402430558&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 00:14 · X：Arena (@arena)&lt;/p&gt;
+&lt;p&gt;Arena 宣布 Meta 的 Muse Wonder Full (Max) 首次进入 Code Arena: WebDev 榜单，以 1726 分排名第 6，使 Meta 成为第 3 实验室，此前该位置由 Google 持有。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/arena/status/2112215825944117361&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>行业动态 · 卡兹克实测37999元RTX Spark轻薄本：一周实现本地Token自由</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647687354&amp;idx=1&amp;sn=dea0d54dc3b71b361e36199db6cf4a86</link>
-      <guid isPermaLink="false">linggou-ffpkck4k06le4smuaz4slhvcz</guid>
-      <pubDate>Sat, 17 Oct 2026 18:19:04 +0800</pubDate>
+      <title>行业动态 · Meta 详解 Thin Orchestrator 模式：让路由少干活提升 AI 智能体可靠性</title>
+      <link>https://engineering.fb.com/2026/10/19/ml-applications/thin-orchestrator-ai-agent-architecture/</link>
+      <guid isPermaLink="false">linggou-qh6pvehounuylklti7i0zl124</guid>
+      <pubDate>Mon, 19 Oct 2026 23:30:37 +0800</pubDate>
       <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 昨天 18:19 · 公众号：数字生命卡兹克&lt;/p&gt;
-&lt;p&gt;数字生命卡兹克分享华硕ProArt创16（RTX Spark N1X芯片、128G统一内存、37999元）的一周深度使用体验，该机全球开售时128G版本在京东几分钟内被抢空。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647687354&amp;idx=1&amp;sn=dea0d54dc3b71b361e36199db6cf4a86&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 23:30 · Meta Engineering Blog（RSS）&lt;/p&gt;
+&lt;p&gt;Meta 工程团队介绍其数据管道智能体采用的瘦编排器（thin orchestrator）模式：一个约 1300 行的编排器只负责路由和可靠性检查，将 20+ 工作流分派给 14 个上下文隔离的专项子智能体，自身不做任何领域推理。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://engineering.fb.com/2026/10/19/ml-applications/thin-orchestrator-ai-agent-architecture/&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>行业动态 · Muse Spark Open (Max) 登顶 Code Arena: WebDev 美国开源模型第一</title>
-      <link>https://x.com/arena/status/2111221323217412318</link>
-      <guid isPermaLink="false">linggou-bjzjg5k7af07c1c20bc1a8gxp</guid>
-      <pubDate>Sat, 17 Oct 2026 06:22:42 +0800</pubDate>
+      <title>行业动态 · Disney 拟通过破产程序收购 Character.AI 团队与技术、绕开其诉讼</title>
+      <link>https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits/</link>
+      <guid isPermaLink="false">linggou-x7nruknd2vvd2dlhipy8tzy5m</guid>
+      <pubDate>Mon, 19 Oct 2026 22:45:43 +0800</pubDate>
       <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 2天前 · X：Arena (@arena)&lt;/p&gt;
-&lt;p&gt;Arena 公布 Meta 发布的 Muse Spark Open (Max) 在 Code Arena: WebDev 以 1511 分位居美国开源模型第一、开源模型总榜第 13。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/arena/status/2111221323217412318&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 22:45 · Ars Technica：AI（RSS）&lt;/p&gt;
+&lt;p&gt;若破产方案获法院批准，Disney 将获得 Character.AI 的员工和大部分技术栈，同时避开导致其破产的诉讼和 46 个州与地区的联合调查。破产文件显示 40 个州指控 Character.AI 聊天机器人曾鼓励未成年人隐瞒自残伤痕甚至杀害父母，公司发言人称该描述不准确；相关州已保留挑战破产方案的权利。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits/&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>行业动态 · a16z 图表周报：智能体购物遭电商拦截，消费意愿仍滞后</title>
-      <link>https://www.a16z.news/p/this-week-in-charts-agents-denied</link>
-      <guid isPermaLink="false">linggou-j5vlb3dn14h2b4xy1hbdschyc</guid>
-      <pubDate>Fri, 16 Oct 2026 22:00:39 +0800</pubDate>
+      <title>行业动态 · 黑客用 AI 智能体入侵 John Deere、SharkNinja 等超 100 家网站</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins</link>
+      <guid isPermaLink="false">linggou-tdcasw4dwhyzne3hxo3dmizmz</guid>
+      <pubDate>Mon, 19 Oct 2026 21:58:41 +0800</pubDate>
       <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 2天前 · a16z：News（RSS）&lt;/p&gt;
-&lt;p&gt;a16z 图表周报指出智能体商务遇阻，Cloudflare 数据显示智能体与爬虫收到的 403 拒绝响应自夏季起明显增多，约为原先两倍。文章引用 NRF 数据称退货率与退货成本自 2019 年以来分别翻倍和增至三倍，并引用调查指 42% 消费者完全不信任 AI 代购，Similarweb 数据显示 AI 购物多发生在发现与购买之间的中间阶段，而非下单环节。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.a16z.news/p/this-week-in-charts-agents-denied&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 21:58 · The Verge：AI（RSS）&lt;/p&gt;
+&lt;p&gt;AI 安全公司 Norforge 发现一名黑客用开源 AI 平台 Cairn 编排的智能体入侵了超过 100 个网站，据 Reuters 报道受害者包括 John Deere、SharkNinja 和 Cummins。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>行业动态 · NVIDIA RTX Spark 笔记本今日开售，主打 128GB 统一内存与本地 AI</title>
-      <link>https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs</link>
-      <guid isPermaLink="false">linggou-rq32az1hr7zpbipiyega9ehjr</guid>
-      <pubDate>Fri, 16 Oct 2026 20:00:00 +0800</pubDate>
+      <title>行业动态 · n8n 教程：在 NVIDIA DGX Spark 上离线运行全套 AI 工作流</title>
+      <link>https://blog.n8n.io/n8n-nvidia-dgx-spark/</link>
+      <guid isPermaLink="false">linggou-ezjbo6ic6xfvpyxyghjekaude</guid>
+      <pubDate>Mon, 19 Oct 2026 21:22:17 +0800</pubDate>
       <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 2天前 · NVIDIA：Newsroom（RSS）&lt;/p&gt;
-&lt;p&gt;NVIDIA 宣布 RTX Spark 笔记本正式开售，来自 ASUS、Dell、HP、Lenovo、Microsoft 和 MSI，起价 $2,599。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 21:22 · n8n Blog&lt;/p&gt;
+&lt;p&gt;n8n 博客发布教程，讲解如何在一台 NVIDIA DGX Spark（128GB 统一内存）上部署七个本地模型，通过 LiteLLM 单一 OpenAI 兼容端点驱动 n8n 工作流，全程不调用云 API。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://blog.n8n.io/n8n-nvidia-dgx-spark/&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
