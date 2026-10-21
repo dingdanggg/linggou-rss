@@ -1,21 +1,20 @@
 {
-  "generated_at": "2026-10-20T13:40:48.993489+08:00",
-  "total": 19,
-  "linggou": 9,
+  "generated_at": "2026-10-21T13:45:02.234777+08:00",
+  "total": 16,
+  "linggou": 8,
   "social_topics": 0,
   "sources": {
-    "公众号：数字生命卡兹克": 1,
+    "X：Rohan Paul (@rohanpaul_ai)": 2,
+    "TechCrunch：AI（RSS）": 1,
     "X：fal (@fal)": 1,
-    "X：Arena (@arena)": 2,
-    "X：Artificial Analysis (@ArtificialAnlys)": 1,
-    "Meta Engineering Blog（RSS）": 1,
-    "Ars Technica：AI（RSS）": 1,
-    "The Verge：AI（RSS）": 1,
-    "n8n Blog": 1
+    "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)": 1,
+    "The Decoder：AI News（RSS）": 1,
+    "IBM Research：AI": 1,
+    "Waymo：Blog（网页）": 1
   },
   "categories": {
     "aigc_content": 1,
-    "tech_tools": 1,
+    "tech_tools": 0,
     "industry": 7
   }
 }
