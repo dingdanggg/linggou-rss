@@ -1,20 +1,19 @@
 {
-  "generated_at": "2026-10-21T13:45:02.234777+08:00",
-  "total": 16,
-  "linggou": 8,
+  "generated_at": "2026-10-22T13:46:53.087818+08:00",
+  "total": 15,
+  "linggou": 9,
   "social_topics": 0,
   "sources": {
-    "X：Rohan Paul (@rohanpaul_ai)": 2,
-    "TechCrunch：AI（RSS）": 1,
-    "X：fal (@fal)": 1,
-    "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)": 1,
-    "The Decoder：AI News（RSS）": 1,
-    "IBM Research：AI": 1,
-    "Waymo：Blog（网页）": 1
+    "X：Rohan Paul (@rohanpaul_ai)": 4,
+    "X：OpenAI (@OpenAI)": 1,
+    "Microsoft Research 博客（RSS）": 1,
+    "The Verge：AI（RSS）": 1,
+    "Wiz：Research（安全研究）": 1,
+    "OpenAI：官网动态（RSS · 排除企业/客户案例）": 1
   },
   "categories": {
     "aigc_content": 1,
     "tech_tools": 0,
-    "industry": 7
+    "industry": 8
   }
 }
