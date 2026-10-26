@@ -1,24 +1,19 @@
 {
-  "generated_at": "2026-10-23T13:46:02.454868+08:00",
-  "total": 14,
-  "linggou": 11,
+  "generated_at": "2026-10-26T13:47:32.597254+08:00",
+  "total": 15,
+  "linggou": 6,
   "social_topics": 0,
   "sources": {
-    "X：MiniMax (@MiniMax_AI)": 1,
-    "Replit：Blog（RSS）": 1,
-    "X：Claude (@claudeai)": 1,
-    "The Verge：AI（RSS）": 1,
-    "Microsoft AI：官方博客（网页）": 1,
-    "Newcomer 新闻长文（RSS）": 1,
-    "Redwood Research：Blog（RSS）": 1,
-    "Ars Technica：AI（RSS）": 1,
-    "404 Media（RSS）": 1,
-    "Wiz：Research（安全研究）": 1,
-    "X：可灵 Kling AI (@Kling_ai)": 1
+    "X：可灵 Kling AI (@Kling_ai)": 1,
+    "公众号：数字生命卡兹克": 1,
+    "X：Alex Heath (@alexeheath)": 1,
+    "X：fal (@fal)": 1,
+    "The Decoder：AI News（RSS）": 1,
+    "X：Rohan Paul (@rohanpaul_ai)": 1
   },
   "categories": {
-    "aigc_content": 1,
-    "tech_tools": 0,
-    "industry": 10
+    "aigc_content": 2,
+    "tech_tools": 1,
+    "industry": 3
   }
 }
