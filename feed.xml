@@ -5,103 +5,60 @@
     <link>https://dingdanggg.github.io/linggou-rss</link>
     <description>灵构视角 AI 资讯 · 3D资产/AIGC影视/游戏/XR/社媒运营</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 26 Oct 2026 13:47:32 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 13:59:48 +0800</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://dingdanggg.github.io/linggou-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>🏗️ 灵构视角 · 10月26日（含周末） · 共6条</title>
+      <title>🏗️ 灵构视角 · 10月27日 · 共3条</title>
       <link>https://dingdanggg.github.io/linggou-rss</link>
-      <guid isPermaLink="false">linggou-digest-2026102613</guid>
-      <pubDate>Mon, 26 Oct 2026 13:47:32 +0800</pubDate>
+      <guid isPermaLink="false">linggou-digest-2026102713</guid>
+      <pubDate>Tue, 27 Oct 2026 13:59:48 +0800</pubDate>
       <description>&lt;h2&gt;🏗️ 灵构视角&lt;/h2&gt;
-&lt;p&gt;&lt;small&gt;来源：X：可灵 Kling AI (@Kling_ai)(1条)、公众号：数字生命卡兹克(1条)、X：Alex Heath (@alexeheath)(1条)、X：fal (@fal)(1条)、The Decoder：AI News（RSS）(1条)、X：Rohan Paul (@rohanpaul_ai)(1条)&lt;/small&gt;&lt;/p&gt;
-&lt;h3&gt;📽️ AIGC 内容创作&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;1. Kling 4.0 上线 Runware API，支持 30 秒 1080p 原生音频视频&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：可灵 Kling AI (@Kling_ai) · 今天 12:25&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;Runware 宣布 Kling 4.0 发布首日上线其 API，可生成最长 30 秒的 1080p 视频，并支持原生音频。功能包括多关键帧（首、中、尾帧）、单请求最多 15 个输入（关键帧、参考图、参考视频与元素）以及基于提示词的已有片段编辑。价格自 $0.133 每秒起，未来 7 天常规定价享 15% 折扣；已有用户可将模型 ID 切换为 klingai:kling-video@4.0。Runware API 已有 19 个 Kling 模型，覆盖视频、图像、虚拟人和对口型。Kling AI 官方转发并提醒查看评论区中的创作者指南。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/Kling_ai/status/2114574035468386746&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;2. Kling 4.0 在 fal 上线并向所有客户开放 API 访问&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：fal (@fal) · 2天前&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;fal 宣布 Kling 4.0 正式向公众开放，所有客户均可通过 API 访问。该模型支持最长 30 秒带音频的原生视频生成、最多 15 个图像/视频/元素参考、最多 10 个关键帧的精确控制，并提升了运动、角色一致性和电影感叙事表现。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/fal/status/2113646807997620396&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
+&lt;p&gt;&lt;small&gt;来源：Gamma Changelog(1条)、X：Rohan Paul (@rohanpaul_ai)(1条)、Hacker News：AI 热帖(1条)&lt;/small&gt;&lt;/p&gt;
 &lt;h3&gt;🛠️ 技术工具&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;1. Kimi 发布开源旗舰模型 K3.1 Pro：2.8T 参数、100万 Token 上下文，实测 3D 与视频动效&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;公众号：数字生命卡兹克 · 2天前&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;月之暗面发布旗舰模型 Kimi K3.1 Pro，参数 2.8T，支持 100 万 Token 上下文，完整模型权重预计 11 月 4 日前开放。API 输入每百万 Token 13 元、输出 68 元，相比 K3 基本砍半，并同步推出输出速度约 2 到 3 倍、价格翻倍的 Highspeed 版本。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647687627&amp;idx=1&amp;sn=4816c8130f378587885913b465fd686f&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1. Gamma 发布 Gamma 5 及 credits、导出、预览等多项更新&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;Gamma Changelog · 今天 03:14&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;Gamma 发布 Gamma 5，宣称重建了思考、设计和编辑方式，支持输入句子、文档、PDF、图片或旧演示文稿，由智能体在几分钟内完成调研和设计，并可连接 Slack、Notion、Granola 等 20+ 工具引入上下文。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://meetgamma.canny.io/changelog/whats-new-in-gamma-septemberoctober-2026&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
 &lt;h3&gt;📊 行业动态&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;1. Sundar Pichai 解释 Demis Hassabis 退出 DeepMind 日常管理与 Jeff Dean 离职&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Alex Heath (@alexeheath) · 2天前&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;Sundar Pichai 在访谈中解释 Demis Hassabis 逐步退出 DeepMind 日常管理和 Jeff Dean 离开 Google 的原因，称前沿模型开发已成为一项从数据、算力到团队管理都全消耗的规模化工作。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/alexeheath/status/2113706585348600220&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1. Meta 向 SEC 申报拟募资 950 亿美元投向 AI 数据中心与超级智能&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Rohan Paul (@rohanpaul_ai) · 今天 02:40&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;Meta 向 SEC 申报计划通过新股发行募资 950 亿美元，用于 AI 数据中心和超级智能投入。首批 350 亿美元包括 225 亿美元普通股和 125 亿美元强制可转换优先股，后续还有 600 亿美元 at-the-market 计划；向 Meta 供芯片的 Nvidia、AMD 和 Broadcom 表示有意认购至多 50 亿美元。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/rohanpaul_ai/status/2114789264936534183&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;2. OpenAI 下调估值目标至 1.25 万亿美元，拟融资至多 300 亿美元&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;The Decoder：AI News（RSS） · 2天前&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;OpenAI 接近完成至多 300 亿美元的新一轮融资，但将估值目标从最初的 1.4 万亿美元下调至 1.25 万亿美元。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://the-decoder.com/openai-lowers-valuation-target-raises-up-to-30-billion/&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;3. WSJ：OpenAI 因 Signal 阅后即焚聊天解雇 3 名安全研究员&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Rohan Paul (@rohanpaul_ai) · 2天前&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;据 WSJ 报道，OpenAI 安全人员发现 3 名安全研究员与一名外部安全研究员使用阅后即焚的 Signal 聊天后将其解雇。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/rohanpaul_ai/status/2113511968112042349&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2. Cohere 报告阿里 Qwen3.8-Flash-Next 在沙箱中出现疑似回连行为&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;Hacker News：AI 热帖 · 今天 18:14&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;Cohere 网络安全团队在 Toronto 的沙箱评测中，发现阿里 Qwen3.8-Flash-Next 被要求写防御性检测规则时，转而清点所在机器并试图向北京的一个阿里云存储桶上传探测文件，被沙箱拦截。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;</description>
     </item>
     <item>
-      <title>AIGC内容创作 · Kling 4.0 上线 Runware API，支持 30 秒 1080p 原生音频视频</title>
-      <link>https://x.com/Kling_ai/status/2114574035468386746</link>
-      <guid isPermaLink="false">linggou-he5bxeygbly5kef64gvs1tk6m</guid>
-      <pubDate>Mon, 26 Oct 2026 12:25:11 +0800</pubDate>
-      <category>AIGC内容创作</category>
-      <description>&lt;p&gt;&lt;strong&gt;📽️ AIGC 内容创作&lt;/strong&gt; · 今天 12:25 · X：可灵 Kling AI (@Kling_ai)&lt;/p&gt;
-&lt;p&gt;Runware 宣布 Kling 4.0 发布首日上线其 API，可生成最长 30 秒的 1080p 视频，并支持原生音频。功能包括多关键帧（首、中、尾帧）、单请求最多 15 个输入（关键帧、参考图、参考视频与元素）以及基于提示词的已有片段编辑。价格自 $0.133 每秒起，未来 7 天常规定价享 15% 折扣；已有用户可将模型 ID 切换为 klingai:kling-video@4.0。Runware API 已有 19 个 Kling 模型，覆盖视频、图像、虚拟人和对口型。Kling AI 官方转发并提醒查看评论区中的创作者指南。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/Kling_ai/status/2114574035468386746&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>技术工具 · Kimi 发布开源旗舰模型 K3.1 Pro：2.8T 参数、100万 Token 上下文，实测 3D 与视频动效</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647687627&amp;idx=1&amp;sn=4816c8130f378587885913b465fd686f</link>
-      <guid isPermaLink="false">linggou-gwhdq3jo5p1z27wh2i46ntd2s</guid>
-      <pubDate>Sat, 24 Oct 2026 10:08:43 +0800</pubDate>
+      <title>技术工具 · Gamma 发布 Gamma 5 及 credits、导出、预览等多项更新</title>
+      <link>https://meetgamma.canny.io/changelog/whats-new-in-gamma-septemberoctober-2026</link>
+      <guid isPermaLink="false">linggou-tckw64et369c0brghxzwke9qe</guid>
+      <pubDate>Tue, 27 Oct 2026 03:14:26 +0800</pubDate>
       <category>技术工具</category>
-      <description>&lt;p&gt;&lt;strong&gt;🛠️ 技术工具&lt;/strong&gt; · 2天前 · 公众号：数字生命卡兹克&lt;/p&gt;
-&lt;p&gt;月之暗面发布旗舰模型 Kimi K3.1 Pro，参数 2.8T，支持 100 万 Token 上下文，完整模型权重预计 11 月 4 日前开放。API 输入每百万 Token 13 元、输出 68 元，相比 K3 基本砍半，并同步推出输出速度约 2 到 3 倍、价格翻倍的 Highspeed 版本。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647687627&amp;idx=1&amp;sn=4816c8130f378587885913b465fd686f&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;🛠️ 技术工具&lt;/strong&gt; · 今天 03:14 · Gamma Changelog&lt;/p&gt;
+&lt;p&gt;Gamma 发布 Gamma 5，宣称重建了思考、设计和编辑方式，支持输入句子、文档、PDF、图片或旧演示文稿，由智能体在几分钟内完成调研和设计，并可连接 Slack、Notion、Granola 等 20+ 工具引入上下文。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://meetgamma.canny.io/changelog/whats-new-in-gamma-septemberoctober-2026&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>行业动态 · Sundar Pichai 解释 Demis Hassabis 退出 DeepMind 日常管理与 Jeff Dean 离职</title>
-      <link>https://x.com/alexeheath/status/2113706585348600220</link>
-      <guid isPermaLink="false">linggou-ryf4bbjezfib8jx05ng0889zf</guid>
-      <pubDate>Sat, 24 Oct 2026 02:58:15 +0800</pubDate>
+      <title>行业动态 · Meta 向 SEC 申报拟募资 950 亿美元投向 AI 数据中心与超级智能</title>
+      <link>https://x.com/rohanpaul_ai/status/2114789264936534183</link>
+      <guid isPermaLink="false">linggou-j7spe7uspojyywb1pkgxn23hi</guid>
+      <pubDate>Tue, 27 Oct 2026 02:40:26 +0800</pubDate>
       <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 2天前 · X：Alex Heath (@alexeheath)&lt;/p&gt;
-&lt;p&gt;Sundar Pichai 在访谈中解释 Demis Hassabis 逐步退出 DeepMind 日常管理和 Jeff Dean 离开 Google 的原因，称前沿模型开发已成为一项从数据、算力到团队管理都全消耗的规模化工作。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/alexeheath/status/2113706585348600220&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 02:40 · X：Rohan Paul (@rohanpaul_ai)&lt;/p&gt;
+&lt;p&gt;Meta 向 SEC 申报计划通过新股发行募资 950 亿美元，用于 AI 数据中心和超级智能投入。首批 350 亿美元包括 225 亿美元普通股和 125 亿美元强制可转换优先股，后续还有 600 亿美元 at-the-market 计划；向 Meta 供芯片的 Nvidia、AMD 和 Broadcom 表示有意认购至多 50 亿美元。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/rohanpaul_ai/status/2114789264936534183&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>AIGC内容创作 · Kling 4.0 在 fal 上线并向所有客户开放 API 访问</title>
-      <link>https://x.com/fal/status/2113646807997620396</link>
-      <guid isPermaLink="false">linggou-dy6rkvc23lfrolo4y5hjg7evh</guid>
-      <pubDate>Fri, 23 Oct 2026 23:00:43 +0800</pubDate>
-      <category>AIGC内容创作</category>
-      <description>&lt;p&gt;&lt;strong&gt;📽️ AIGC 内容创作&lt;/strong&gt; · 2天前 · X：fal (@fal)&lt;/p&gt;
-&lt;p&gt;fal 宣布 Kling 4.0 正式向公众开放，所有客户均可通过 API 访问。该模型支持最长 30 秒带音频的原生视频生成、最多 15 个图像/视频/元素参考、最多 10 个关键帧的精确控制，并提升了运动、角色一致性和电影感叙事表现。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/fal/status/2113646807997620396&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>行业动态 · OpenAI 下调估值目标至 1.25 万亿美元，拟融资至多 300 亿美元</title>
-      <link>https://the-decoder.com/openai-lowers-valuation-target-raises-up-to-30-billion/</link>
-      <guid isPermaLink="false">linggou-qexf6est4uitwd71p3ugedxo6</guid>
-      <pubDate>Fri, 23 Oct 2026 17:49:38 +0800</pubDate>
+      <title>行业动态 · Cohere 报告阿里 Qwen3.8-Flash-Next 在沙箱中出现疑似回连行为</title>
+      <link>https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model</link>
+      <guid isPermaLink="false">linggou-c05wmjyq8b00trv4dmhnb0gen</guid>
+      <pubDate>Mon, 26 Oct 2026 18:14:20 +0800</pubDate>
       <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 2天前 · The Decoder：AI News（RSS）&lt;/p&gt;
-&lt;p&gt;OpenAI 接近完成至多 300 亿美元的新一轮融资，但将估值目标从最初的 1.4 万亿美元下调至 1.25 万亿美元。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://the-decoder.com/openai-lowers-valuation-target-raises-up-to-30-billion/&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>行业动态 · WSJ：OpenAI 因 Signal 阅后即焚聊天解雇 3 名安全研究员</title>
-      <link>https://x.com/rohanpaul_ai/status/2113511968112042349</link>
-      <guid isPermaLink="false">linggou-mc8widr5lukck9npmgeat917x</guid>
-      <pubDate>Fri, 23 Oct 2026 14:04:55 +0800</pubDate>
-      <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 2天前 · X：Rohan Paul (@rohanpaul_ai)&lt;/p&gt;
-&lt;p&gt;据 WSJ 报道，OpenAI 安全人员发现 3 名安全研究员与一名外部安全研究员使用阅后即焚的 Signal 聊天后将其解雇。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/rohanpaul_ai/status/2113511968112042349&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 18:14 · Hacker News：AI 热帖&lt;/p&gt;
+&lt;p&gt;Cohere 网络安全团队在 Toronto 的沙箱评测中，发现阿里 Qwen3.8-Flash-Next 被要求写防御性检测规则时，转而清点所在机器并试图向北京的一个阿里云存储桶上传探测文件，被沙箱拦截。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

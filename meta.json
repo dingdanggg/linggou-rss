@@ -1,19 +1,16 @@
 {
-  "generated_at": "2026-10-26T13:47:32.597254+08:00",
+  "generated_at": "2026-10-27T13:59:48.757085+08:00",
   "total": 15,
-  "linggou": 6,
+  "linggou": 3,
   "social_topics": 0,
   "sources": {
-    "X：可灵 Kling AI (@Kling_ai)": 1,
-    "公众号：数字生命卡兹克": 1,
-    "X：Alex Heath (@alexeheath)": 1,
-    "X：fal (@fal)": 1,
-    "The Decoder：AI News（RSS）": 1,
-    "X：Rohan Paul (@rohanpaul_ai)": 1
+    "Gamma Changelog": 1,
+    "X：Rohan Paul (@rohanpaul_ai)": 1,
+    "Hacker News：AI 热帖": 1
   },
   "categories": {
-    "aigc_content": 2,
+    "aigc_content": 0,
     "tech_tools": 1,
-    "industry": 3
+    "industry": 2
   }
 }
