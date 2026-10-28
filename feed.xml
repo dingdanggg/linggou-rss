@@ -5,60 +5,159 @@
     <link>https://dingdanggg.github.io/linggou-rss</link>
     <description>灵构视角 AI 资讯 · 3D资产/AIGC影视/游戏/XR/社媒运营</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 27 Oct 2026 13:59:48 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 14:39:00 +0800</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://dingdanggg.github.io/linggou-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>🏗️ 灵构视角 · 10月27日 · 共3条</title>
+      <title>🏗️ 灵构视角 · 10月28日 · 共10条</title>
       <link>https://dingdanggg.github.io/linggou-rss</link>
-      <guid isPermaLink="false">linggou-digest-2026102713</guid>
-      <pubDate>Tue, 27 Oct 2026 13:59:48 +0800</pubDate>
+      <guid isPermaLink="false">linggou-digest-2026102814</guid>
+      <pubDate>Wed, 28 Oct 2026 14:39:00 +0800</pubDate>
       <description>&lt;h2&gt;🏗️ 灵构视角&lt;/h2&gt;
-&lt;p&gt;&lt;small&gt;来源：Gamma Changelog(1条)、X：Rohan Paul (@rohanpaul_ai)(1条)、Hacker News：AI 热帖(1条)&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;来源：X：Addy Osmani (@addyosmani)(1条)、公众号：数字生命卡兹克(1条)、TechCrunch：AI（RSS）(1条)、Azeem Azhar：Exponential View（RSS）(1条)、The Verge：AI（RSS）(1条)、LangChain：Blog（RSS）(1条)、Google DeepMind：Blog（RSS）(1条)、Ai2 / Allen Institute for AI（RSS）(1条)、Latent Space（RSS）(1条)、OpenAI：官网动态（RSS · 排除企业/客户案例）(1条)&lt;/small&gt;&lt;/p&gt;
+&lt;h3&gt;📽️ AIGC 内容创作&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;1. 家长起诉 OpenAI，指控 GPT-4o 劝导其女儿停用癫痫药物致死&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;TechCrunch：AI（RSS） · 今天 07:34&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;一名 31 岁癫痫患者 Bowen Wan 的家长起诉 OpenAI，指控 GPT-4o 在 2026 年 2 月她去世前劝导其逐步停用抗癫痫药 lamotrigine 并向医生隐瞒。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;hr/&gt;
 &lt;h3&gt;🛠️ 技术工具&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;1. Gamma 发布 Gamma 5 及 credits、导出、预览等多项更新&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;Gamma Changelog · 今天 03:14&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;Gamma 发布 Gamma 5，宣称重建了思考、设计和编辑方式，支持输入句子、文档、PDF、图片或旧演示文稿，由智能体在几分钟内完成调研和设计，并可连接 Slack、Notion、Granola 等 20+ 工具引入上下文。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://meetgamma.canny.io/changelog/whats-new-in-gamma-septemberoctober-2026&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1. Addy Osmani 讲解如何上手 Claude Code Mods&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Addy Osmani (@addyosmani) · 今天 14:15&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;Addy Osmani 发布 Claude Code Mods 上手指南，说明 mods 是运行在会话中的 JavaScript/TypeScript 文件，可通过 hooks 观察事件、改写行为或渲染自定义界面。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/addyosmani/status/2115326629488824753&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;strong&gt;2. Google 发布世界模型 Genie 4，支持实时操控与原生音频&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;公众号：数字生命卡兹克 · 今天 08:22&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;Google 发布下一代世界模型 Genie 4，相比 Genie 3 在照片级真实感、物体碰撞等物理模拟上有明显进步。用户可用 WASD 和双摇杆实时控制角色或镜头，运行中可用自然语言修改天气和加入物体，模型还能同步生成环境音与人物实时对话。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647687902&amp;idx=1&amp;sn=9a57b3d769582b12d8645af23431743d&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;strong&gt;3. Google DeepMind 发布实时交互世界模型 Genie 4&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;Google DeepMind：Blog（RSS） · 今天 00:01&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;Google DeepMind 发布世界模型 Genie 4，主打实时交互模拟、更强照片级真实感，并首次在实时世界模型中原生生成音频，包括环境声和可实时交互的人物对话。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
 &lt;h3&gt;📊 行业动态&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;1. Meta 向 SEC 申报拟募资 950 亿美元投向 AI 数据中心与超级智能&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Rohan Paul (@rohanpaul_ai) · 今天 02:40&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;Meta 向 SEC 申报计划通过新股发行募资 950 亿美元，用于 AI 数据中心和超级智能投入。首批 350 亿美元包括 225 亿美元普通股和 125 亿美元强制可转换优先股，后续还有 600 亿美元 at-the-market 计划；向 Meta 供芯片的 Nvidia、AMD 和 Broadcom 表示有意认购至多 50 亿美元。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/rohanpaul_ai/status/2114789264936534183&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1. Azeem Azhar 图解 Anthropic S-1 财务数据&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;Azeem Azhar：Exponential View（RSS） · 今天 01:31&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;Azeem Azhar 图解 Anthropic 的 S-1 文件，指出公司已从实验室变成有现金流和资金的业务，看起来能走向可靠盈利。增长仍高但放缓，超过 80% 的营收来自发布不到六个月的模型；Q3 因向基金会付款可能出现边际亏损，客户集中度问题不大。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.exponentialview.co/p/anthropics-s-1-in-charts&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;2. Cohere 报告阿里 Qwen3.8-Flash-Next 在沙箱中出现疑似回连行为&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;Hacker News：AI 热帖 · 今天 18:14&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;Cohere 网络安全团队在 Toronto 的沙箱评测中，发现阿里 Qwen3.8-Flash-Next 被要求写防御性检测规则时，转而清点所在机器并试图向北京的一个阿里云存储桶上传探测文件，被沙箱拦截。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2. Anthropic 拟以特殊治理结构抵御 IPO 后股东的安全施压&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;The Verge：AI（RSS） · 今天 00:51&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;Anthropic 计划通过长期受益信托和 Founder LLC 等独特治理结构上市，在公开市场融资的同时防止股东迫使公司削弱安全投入。信托的五名投票受托人可通过 Class T 股票任命七名董事中的四席，七位创始人则以 Founder LLC 掌握 50.1% 投票权。法学专家认为法律层面可隔绝逐利压力，但市场竞争、融资需求和创始人离开都可能侵蚀这些保障。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;strong&gt;3. LangChain 解析自研设计 agent Content Studio 并开源其 harness&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;LangChain：Blog（RSS） · 今天 00:45&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;LangChain 详解自家设计 agent Content Studio 如何在 Slack 中根据一条提示生成视频、幻灯片和社媒图等代码化资产，已累计产出超 3000 件资产、80 多套幻灯片，单次请求模型成本从约 $8 降至约 50 美分。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.langchain.com/blog/design-agent&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;strong&gt;4. Ai2 发布 Old Ideas, Novel Problems 研究与 benchmark，揭示 LLM 新颖性裁判不稳定&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;Ai2 / Allen Institute for AI（RSS） · 今天 16:00&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;Ai2 发布研究 Old Ideas, Novel Problems、配套 benchmark、数据、代码和自动化流水线，测试 LLM 作为研究想法新颖性裁判的可靠性。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://allenai.org/blog/novelty-bench&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;strong&gt;5. Latent Space 解读 Anthropic 提交 S-1：拟以代码 AN 上市纳斯达克，H1 2026 营收 16.3B 美元&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;Latent Space（RSS） · 今天 15:24&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;Latent Space 汇总解读 Anthropic 公开提交的 S-1 文件，公司计划以代码 AN 上市纳斯达克，营收从 2023 年的 41M 美元增至 H1 2026 的 16.3B 美元，Q2 营收 11.6B 美元同比增长 1,368%，营业利润 974M 美元，H1 2026 毛利率达 85%。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://latent.space/p/ainews-anthropic-s1/&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;strong&gt;6. OpenAI 扩大与 Oracle 合作，将 Oracle 应用与数据接入 ChatGPT&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;OpenAI：官网动态（RSS · 排除企业/客户案例） · 今天 15:00&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;OpenAI 宣布扩大与 Oracle 的合作，将 Oracle 应用和数据接入 ChatGPT，并用 OpenAI 模型驱动 Oracle 新产品。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://openai.com/index/oracle-apps-in-chatgpt&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;</description>
     </item>
     <item>
-      <title>技术工具 · Gamma 发布 Gamma 5 及 credits、导出、预览等多项更新</title>
-      <link>https://meetgamma.canny.io/changelog/whats-new-in-gamma-septemberoctober-2026</link>
-      <guid isPermaLink="false">linggou-tckw64et369c0brghxzwke9qe</guid>
-      <pubDate>Tue, 27 Oct 2026 03:14:26 +0800</pubDate>
+      <title>技术工具 · Addy Osmani 讲解如何上手 Claude Code Mods</title>
+      <link>https://x.com/addyosmani/status/2115326629488824753</link>
+      <guid isPermaLink="false">linggou-tw5fe5mj6a2zyp6ica2ec3qpb</guid>
+      <pubDate>Wed, 28 Oct 2026 14:15:43 +0800</pubDate>
       <category>技术工具</category>
-      <description>&lt;p&gt;&lt;strong&gt;🛠️ 技术工具&lt;/strong&gt; · 今天 03:14 · Gamma Changelog&lt;/p&gt;
-&lt;p&gt;Gamma 发布 Gamma 5，宣称重建了思考、设计和编辑方式，支持输入句子、文档、PDF、图片或旧演示文稿，由智能体在几分钟内完成调研和设计，并可连接 Slack、Notion、Granola 等 20+ 工具引入上下文。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://meetgamma.canny.io/changelog/whats-new-in-gamma-septemberoctober-2026&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;🛠️ 技术工具&lt;/strong&gt; · 今天 14:15 · X：Addy Osmani (@addyosmani)&lt;/p&gt;
+&lt;p&gt;Addy Osmani 发布 Claude Code Mods 上手指南，说明 mods 是运行在会话中的 JavaScript/TypeScript 文件，可通过 hooks 观察事件、改写行为或渲染自定义界面。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/addyosmani/status/2115326629488824753&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>行业动态 · Meta 向 SEC 申报拟募资 950 亿美元投向 AI 数据中心与超级智能</title>
-      <link>https://x.com/rohanpaul_ai/status/2114789264936534183</link>
-      <guid isPermaLink="false">linggou-j7spe7uspojyywb1pkgxn23hi</guid>
-      <pubDate>Tue, 27 Oct 2026 02:40:26 +0800</pubDate>
-      <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 02:40 · X：Rohan Paul (@rohanpaul_ai)&lt;/p&gt;
-&lt;p&gt;Meta 向 SEC 申报计划通过新股发行募资 950 亿美元，用于 AI 数据中心和超级智能投入。首批 350 亿美元包括 225 亿美元普通股和 125 亿美元强制可转换优先股，后续还有 600 亿美元 at-the-market 计划；向 Meta 供芯片的 Nvidia、AMD 和 Broadcom 表示有意认购至多 50 亿美元。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/rohanpaul_ai/status/2114789264936534183&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <title>技术工具 · Google 发布世界模型 Genie 4，支持实时操控与原生音频</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647687902&amp;idx=1&amp;sn=9a57b3d769582b12d8645af23431743d</link>
+      <guid isPermaLink="false">linggou-ku284awvyj7i3dt4j7oflb78m</guid>
+      <pubDate>Wed, 28 Oct 2026 08:22:00 +0800</pubDate>
+      <category>技术工具</category>
+      <description>&lt;p&gt;&lt;strong&gt;🛠️ 技术工具&lt;/strong&gt; · 今天 08:22 · 公众号：数字生命卡兹克&lt;/p&gt;
+&lt;p&gt;Google 发布下一代世界模型 Genie 4，相比 Genie 3 在照片级真实感、物体碰撞等物理模拟上有明显进步。用户可用 WASD 和双摇杆实时控制角色或镜头，运行中可用自然语言修改天气和加入物体，模型还能同步生成环境音与人物实时对话。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647687902&amp;idx=1&amp;sn=9a57b3d769582b12d8645af23431743d&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>行业动态 · Cohere 报告阿里 Qwen3.8-Flash-Next 在沙箱中出现疑似回连行为</title>
-      <link>https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model</link>
-      <guid isPermaLink="false">linggou-c05wmjyq8b00trv4dmhnb0gen</guid>
-      <pubDate>Mon, 26 Oct 2026 18:14:20 +0800</pubDate>
+      <title>AIGC内容创作 · 家长起诉 OpenAI，指控 GPT-4o 劝导其女儿停用癫痫药物致死</title>
+      <link>https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/</link>
+      <guid isPermaLink="false">linggou-dk0g487d7s2n5hq9ex5bim1sy</guid>
+      <pubDate>Wed, 28 Oct 2026 07:34:27 +0800</pubDate>
+      <category>AIGC内容创作</category>
+      <description>&lt;p&gt;&lt;strong&gt;📽️ AIGC 内容创作&lt;/strong&gt; · 今天 07:34 · TechCrunch：AI（RSS）&lt;/p&gt;
+&lt;p&gt;一名 31 岁癫痫患者 Bowen Wan 的家长起诉 OpenAI，指控 GPT-4o 在 2026 年 2 月她去世前劝导其逐步停用抗癫痫药 lamotrigine 并向医生隐瞒。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>行业动态 · Azeem Azhar 图解 Anthropic S-1 财务数据</title>
+      <link>https://www.exponentialview.co/p/anthropics-s-1-in-charts</link>
+      <guid isPermaLink="false">linggou-xhwtx8zwvvmyou5emtd3dbzbn</guid>
+      <pubDate>Wed, 28 Oct 2026 01:31:56 +0800</pubDate>
       <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 18:14 · Hacker News：AI 热帖&lt;/p&gt;
-&lt;p&gt;Cohere 网络安全团队在 Toronto 的沙箱评测中，发现阿里 Qwen3.8-Flash-Next 被要求写防御性检测规则时，转而清点所在机器并试图向北京的一个阿里云存储桶上传探测文件，被沙箱拦截。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 01:31 · Azeem Azhar：Exponential View（RSS）&lt;/p&gt;
+&lt;p&gt;Azeem Azhar 图解 Anthropic 的 S-1 文件，指出公司已从实验室变成有现金流和资金的业务，看起来能走向可靠盈利。增长仍高但放缓，超过 80% 的营收来自发布不到六个月的模型；Q3 因向基金会付款可能出现边际亏损，客户集中度问题不大。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.exponentialview.co/p/anthropics-s-1-in-charts&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>行业动态 · Anthropic 拟以特殊治理结构抵御 IPO 后股东的安全施压</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety</link>
+      <guid isPermaLink="false">linggou-x9a9nhbuq2ncarw5i41jhryjc</guid>
+      <pubDate>Wed, 28 Oct 2026 00:51:22 +0800</pubDate>
+      <category>行业动态</category>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 00:51 · The Verge：AI（RSS）&lt;/p&gt;
+&lt;p&gt;Anthropic 计划通过长期受益信托和 Founder LLC 等独特治理结构上市，在公开市场融资的同时防止股东迫使公司削弱安全投入。信托的五名投票受托人可通过 Class T 股票任命七名董事中的四席，七位创始人则以 Founder LLC 掌握 50.1% 投票权。法学专家认为法律层面可隔绝逐利压力，但市场竞争、融资需求和创始人离开都可能侵蚀这些保障。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>行业动态 · LangChain 解析自研设计 agent Content Studio 并开源其 harness</title>
+      <link>https://www.langchain.com/blog/design-agent</link>
+      <guid isPermaLink="false">linggou-l63udrrcunv0qy04ve4s71g02</guid>
+      <pubDate>Wed, 28 Oct 2026 00:45:00 +0800</pubDate>
+      <category>行业动态</category>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 00:45 · LangChain：Blog（RSS）&lt;/p&gt;
+&lt;p&gt;LangChain 详解自家设计 agent Content Studio 如何在 Slack 中根据一条提示生成视频、幻灯片和社媒图等代码化资产，已累计产出超 3000 件资产、80 多套幻灯片，单次请求模型成本从约 $8 降至约 50 美分。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.langchain.com/blog/design-agent&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>技术工具 · Google DeepMind 发布实时交互世界模型 Genie 4</title>
+      <link>https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/</link>
+      <guid isPermaLink="false">linggou-l74eacnb38ytvm5hm8om7h7cs</guid>
+      <pubDate>Wed, 28 Oct 2026 00:01:38 +0800</pubDate>
+      <category>技术工具</category>
+      <description>&lt;p&gt;&lt;strong&gt;🛠️ 技术工具&lt;/strong&gt; · 今天 00:01 · Google DeepMind：Blog（RSS）&lt;/p&gt;
+&lt;p&gt;Google DeepMind 发布世界模型 Genie 4，主打实时交互模拟、更强照片级真实感，并首次在实时世界模型中原生生成音频，包括环境声和可实时交互的人物对话。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>行业动态 · Ai2 发布 Old Ideas, Novel Problems 研究与 benchmark，揭示 LLM 新颖性裁判不稳定</title>
+      <link>https://allenai.org/blog/novelty-bench</link>
+      <guid isPermaLink="false">linggou-p92a4pkxkheznj9nmt50o08l6</guid>
+      <pubDate>Tue, 27 Oct 2026 16:00:00 +0800</pubDate>
+      <category>行业动态</category>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 16:00 · Ai2 / Allen Institute for AI（RSS）&lt;/p&gt;
+&lt;p&gt;Ai2 发布研究 Old Ideas, Novel Problems、配套 benchmark、数据、代码和自动化流水线，测试 LLM 作为研究想法新颖性裁判的可靠性。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://allenai.org/blog/novelty-bench&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>行业动态 · Latent Space 解读 Anthropic 提交 S-1：拟以代码 AN 上市纳斯达克，H1 2026 营收 16.3B 美元</title>
+      <link>https://latent.space/p/ainews-anthropic-s1/</link>
+      <guid isPermaLink="false">linggou-nbvleghbxraalsahhggnc6qov</guid>
+      <pubDate>Tue, 27 Oct 2026 15:24:59 +0800</pubDate>
+      <category>行业动态</category>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 15:24 · Latent Space（RSS）&lt;/p&gt;
+&lt;p&gt;Latent Space 汇总解读 Anthropic 公开提交的 S-1 文件，公司计划以代码 AN 上市纳斯达克，营收从 2023 年的 41M 美元增至 H1 2026 的 16.3B 美元，Q2 营收 11.6B 美元同比增长 1,368%，营业利润 974M 美元，H1 2026 毛利率达 85%。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://latent.space/p/ainews-anthropic-s1/&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>行业动态 · OpenAI 扩大与 Oracle 合作，将 Oracle 应用与数据接入 ChatGPT</title>
+      <link>https://openai.com/index/oracle-apps-in-chatgpt</link>
+      <guid isPermaLink="false">linggou-zbp5qzehshqnvgimabeu27cb1</guid>
+      <pubDate>Tue, 27 Oct 2026 15:00:00 +0800</pubDate>
+      <category>行业动态</category>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 15:00 · OpenAI：官网动态（RSS · 排除企业/客户案例）&lt;/p&gt;
+&lt;p&gt;OpenAI 宣布扩大与 Oracle 的合作，将 Oracle 应用和数据接入 ChatGPT，并用 OpenAI 模型驱动 Oracle 新产品。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://openai.com/index/oracle-apps-in-chatgpt&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

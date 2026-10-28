@@ -1,16 +1,23 @@
 {
-  "generated_at": "2026-10-27T13:59:48.757085+08:00",
-  "total": 15,
-  "linggou": 3,
+  "generated_at": "2026-10-28T14:39:00.463267+08:00",
+  "total": 16,
+  "linggou": 10,
   "social_topics": 0,
   "sources": {
-    "Gamma Changelog": 1,
-    "X：Rohan Paul (@rohanpaul_ai)": 1,
-    "Hacker News：AI 热帖": 1
+    "X：Addy Osmani (@addyosmani)": 1,
+    "公众号：数字生命卡兹克": 1,
+    "TechCrunch：AI（RSS）": 1,
+    "Azeem Azhar：Exponential View（RSS）": 1,
+    "The Verge：AI（RSS）": 1,
+    "LangChain：Blog（RSS）": 1,
+    "Google DeepMind：Blog（RSS）": 1,
+    "Ai2 / Allen Institute for AI（RSS）": 1,
+    "Latent Space（RSS）": 1,
+    "OpenAI：官网动态（RSS · 排除企业/客户案例）": 1
   },
   "categories": {
-    "aigc_content": 0,
-    "tech_tools": 1,
-    "industry": 2
+    "aigc_content": 1,
+    "tech_tools": 3,
+    "industry": 6
   }
 }
