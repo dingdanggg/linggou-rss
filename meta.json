@@ -1,23 +1,20 @@
 {
-  "generated_at": "2026-10-28T14:39:00.463267+08:00",
-  "total": 16,
-  "linggou": 10,
+  "generated_at": "2026-10-29T14:46:16.685553+08:00",
+  "total": 18,
+  "linggou": 8,
   "social_topics": 0,
   "sources": {
-    "X：Addy Osmani (@addyosmani)": 1,
-    "公众号：数字生命卡兹克": 1,
-    "TechCrunch：AI（RSS）": 1,
-    "Azeem Azhar：Exponential View（RSS）": 1,
-    "The Verge：AI（RSS）": 1,
-    "LangChain：Blog（RSS）": 1,
+    "IT之家·人工智能": 1,
+    "X：Sundar Pichai (@sundarpichai)": 2,
     "Google DeepMind：Blog（RSS）": 1,
-    "Ai2 / Allen Institute for AI（RSS）": 1,
-    "Latent Space（RSS）": 1,
-    "OpenAI：官网动态（RSS · 排除企业/客户案例）": 1
+    "Microsoft：Official Blog（RSS）": 1,
+    "OpenMOSS / 复旦NLP / 上海创智 / MOSI（网页）": 1,
+    "公众号：面壁智能（MiniCPM）": 1,
+    "The Decoder：AI News（RSS）": 1
   },
   "categories": {
-    "aigc_content": 1,
-    "tech_tools": 3,
+    "aigc_content": 0,
+    "tech_tools": 2,
     "industry": 6
   }
 }
