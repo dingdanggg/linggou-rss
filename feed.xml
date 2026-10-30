@@ -5,130 +5,201 @@
     <link>https://dingdanggg.github.io/linggou-rss</link>
     <description>灵构视角 AI 资讯 · 3D资产/AIGC影视/游戏/XR/社媒运营</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 29 Oct 2026 14:46:16 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 14:49:31 +0800</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://dingdanggg.github.io/linggou-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>🏗️ 灵构视角 · 10月29日 · 共8条</title>
+      <title>🏗️ 灵构视角 · 10月30日 · 共13条</title>
       <link>https://dingdanggg.github.io/linggou-rss</link>
-      <guid isPermaLink="false">linggou-digest-2026102914</guid>
-      <pubDate>Thu, 29 Oct 2026 14:46:16 +0800</pubDate>
+      <guid isPermaLink="false">linggou-digest-2026103014</guid>
+      <pubDate>Fri, 30 Oct 2026 14:49:31 +0800</pubDate>
       <description>&lt;h2&gt;🏗️ 灵构视角&lt;/h2&gt;
-&lt;p&gt;&lt;small&gt;来源：X：Sundar Pichai (@sundarpichai)(2条)、IT之家·人工智能(1条)、Google DeepMind：Blog（RSS）(1条)、Microsoft：Official Blog（RSS）(1条)、OpenMOSS / 复旦NLP / 上海创智 / MOSI（网页）(1条)、公众号：面壁智能（MiniCPM）(1条)、The Decoder：AI News（RSS）(1条)&lt;/small&gt;&lt;/p&gt;
-&lt;h3&gt;🛠️ 技术工具&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;1. Alphabet Q3 财报：年化收入达 5000 亿美元，Google Cloud 增长 103%&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Sundar Pichai (@sundarpichai) · 今天 04:05&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;Sundar Pichai 发布 Alphabet Q3 业绩：年化收入 run rate 达 5000 亿美元，总收入同比增长 25%。Google Cloud 收入增长 103%，1P 模型 API 每分钟处理近 32B tokens（环比增 40%）；Search 查询同比增速为五年来最高，并提到 Argon、Carbon 领跑前沿及最新世界模型 Genie 4。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/sundarpichai/status/2115535455156642066&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;来源：The Decoder：AI News（RSS）(2条)、公众号：月之暗面（Kimi）(1条)、Platformer（热点 RSS）(1条)、Hacker News：AI 热帖(1条)、TechCrunch：AI（RSS）(1条)、X：卡兹克 (@Khazix0918)(1条)、Timothy B. Lee：Understanding AI（RSS）(1条)、X：腾讯混元 (@TencentHunyuan)(1条)、Wiz：Research（安全研究）(1条)、X：Unsloth (@UnslothAI)(1条)、404 Media（RSS）(1条)、The Verge：AI（RSS）(1条)&lt;/small&gt;&lt;/p&gt;
+&lt;h3&gt;📽️ AIGC 内容创作&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;1. Pika 基于MiniMax H3后训练并开源 Pika H3 Flex 视频生成模型&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：卡兹克 (@Khazix0918) · 今天 04:07&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;Pika Labs 在 MiniMax H3 上做后训练，推出并开源 Pika H3 Flex，采样步数从 50 步压缩到 6 步，生成时间大幅降低且质量有所提升。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/Khazix0918/status/2115898252004622617&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;2. OpenMOSS 发布开源图像生成模型 MOSS-Image，主打长文本渲染与可编辑布局&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;OpenMOSS / 复旦NLP / 上海创智 / MOSI（网页） · 今天 00:00&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;OpenMOSS 发布开放权重图像生成模型 MOSS-Image，采用 5B 参数单流 DiT 从零预训练，支持最长 4K token 提示词、中英文长文本渲染和可编辑的 JSON Layout。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://openmoss.ai/blog/cn/moss-image/&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2. 腾讯混元发布 Hy-Nomas 技术报告并开源 Hy-Nomas-Bench&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：腾讯混元 (@TencentHunyuan) · 今天 01:00&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;腾讯混元发布 Hy-Nomas 开源交互式视频世界模型的技术报告（arXiv:2610.36729），并开源 Hy-Nomas-Bench 数据集用于可复现研究。官方还用 Hy-Nomas 重现 Genie 4 示例并放出对比视频，演示无需排队即可试用，地址为 https://hy-nomas.hy.tencent.com/。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/TencentHunyuan/status/2115851165904814283&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;h3&gt;🛠️ 技术工具&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;1. Kimi 官方教程：如何用 Kimi K3.1 Pro 创作 3D 作品&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;公众号：月之暗面（Kimi） · 今天 12:04&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;月之暗面（Kimi）发布官方教程，详解 Kimi K3.1 Pro 的 3D 创作工作流程，说明参数化建模与网格化建模两种方式及对应工具选择。文章分享了 4 个案例的具体操作，包括在 Unreal Engine 中构建东方天宫、制作可 3D 打印的台灯、纯代码调用 Blender 生成建筑、用 Tripo 和 Blender 搭建微缩城市，并给出图胜于言、先搭灰模再细化等 5 个使用技巧。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://mp.weixin.qq.com/s?__biz=MzkzMTY4NTIyNA%3D%3D&amp;mid=2247484364&amp;idx=1&amp;sn=42491c3f098deb797ee8f2a17d147b3a&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
 &lt;h3&gt;📊 行业动态&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;1. Anthropic 报告：Claude 研究模型在 Chrome、Safari、Android、Windows、Linux 发现漏洞并串联 5 条攻击链&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;IT之家·人工智能 · 今天 06:35&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;Anthropic 于 10 月 27 日发布研究报告，称一个未公开的内部 Claude 研究模型在 Chrome、Safari、Android、Windows 和 Linux 中发现漏洞，串联出 5 条可实际运行的攻击链，相关漏洞已按协调披露流程报告并修复。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.ithome.com/1/019/268.htm&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1. Google 与 Reddit 同日股价大跌，AI 搜索变现困境冲击开放网络&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;Platformer（热点 RSS） · 今天 08:51&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;Casey Newton 分析 Google 与 Reddit 同日遭遇的股市重挫：Alphabet 股价跌 12.6%，蒸发约 $5000 亿市值，为史上第二大单日市值缩水；高管承认 AI Mode 变现能力低于传统搜索，尽管 AI Mode 月用户约 10 亿、搜索收入仍增长 12% 至 $633.5 亿。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.platformer.news/thursday-newsletter-6/&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;2. Google 发布 Gemini 4 Carbon：AA Index v5.0 登顶，网络安全基准领先&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Sundar Pichai (@sundarpichai) · 今天 01:01&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;Sundar Pichai 宣布 Google 推出 Gemini 4 Carbon，称其在更新后的 Artificial Analysis Intelligence Index v5.0 以 59 分排名第一。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/sundarpichai/status/2115489219804352921&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2. Google 市值蒸发 5000 亿美元，AI 概要冲击搜索广告引发华尔街担忧&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;Hacker News：AI 热帖 · 今天 05:29&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;Alphabet 因 AI 搜索概要影响广告收入，单日市值从 3.97 万亿跌至 3.46 万亿美元，缩水超 5000 亿美元。该季度总营收增 25% 至 1276 亿美元，云业务营收增 103% 至近 310 亿美元，但利润下降 25%，自由现金流为负超 90 亿美元。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.bbc.com/news/articles/cm9qzdqpxy48o&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;3. Google DeepMind 发布 Gemini 4 Carbon 前沿模型&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;Google DeepMind：Blog（RSS） · 今天 01:00&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;Google DeepMind 发布 Gemini 4 Carbon，定位为最强前沿模型，主打网络安全与长程智能体能力，在 SEC-bench Pro 88.2%、ExploitGym 54.8%、CWE-bench 71.0% 取得领先，并以 59 分登顶 Artificial Analysis Intelligence Index v5.0。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3. Reddit 宣布转向以登录为主的体验，以应对 AI 搜索带来的流量下滑&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;TechCrunch：AI（RSS） · 今天 04:08&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;Reddit 在 Q3 财报中宣布将转向以登录为主的体验，以保护数据免受 AI 抓取并提升广告变现。10 月搜索流量平均每周减少超 100 万次引荐，Q3 全球日活为 1.303 亿，其中美国日活降至 5070 万，同比降 2%。Q3 收入同比增长 53% 至 8.95 亿美元，净利润 2.83 亿美元；该转变将先在美国以外市场测试，暂无全球上线时间表。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;4. Microsoft 通过 Foundry 开放 Copilot harness，支持多模型 Agent 开发&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;Microsoft：Official Blog（RSS） · 今天 00:51&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;Microsoft 宣布将 GitHub 团队打造的 Copilot harness 通过 Microsoft Foundry 向开发者和企业开放，该 harness 已驱动 Copilot Code、Copilot Studio、GitHub Copilot app 和 CLI 等产品。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://blogs.microsoft.com/blog/2026/10/28/introducing-the-microsoft-copilot-harness-unlocking-the-potential-of-truly-multi-model-agentic-work/&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;4. Anthropic S-1 文件解读：财务表现强劲但增长放缓存隐忧&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;Timothy B. Lee：Understanding AI（RSS） · 今天 03:10&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;作者通读 Anthropic 公开版 S-1 文件，认为公司财务状况好于预期：2026 年第二季度收入从一季度的 47 亿美元增至 116 亿美元，并录得首个运营利润，截至 6 月底现金储备仅次于 Google 和 Berkshire Hathaway。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.understandingai.org/p/anthropics-financials-are-surprisingly&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;5. 面壁智能发布并开源 MiniCPM-OCR 系列：1.3B 解析模型与 2B 判别模型&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;公众号：面壁智能（MiniCPM） · 今天 19:38&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;面壁智能发布并开源 MiniCPM-OCR 系列。MiniCPM-OCR 1.0（1.3B）在 Real5-OmniDocBench 取得 93.68 分、OCRBench v2 取得 54.7 分的 SOTA，经 DSpark 加速后吞吐达 1.217 页/秒，端到端效率提升 55%。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&amp;mid=2247499654&amp;idx=1&amp;sn=9bcbf9492c492a5d5e611af41670425f&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;5. Wiz 分析智能体攻击的七大指纹与发展趋势&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;Wiz：Research（安全研究） · 今天 22:36&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;Wiz 基于自身事件响应与公开披露案例，分析 AI 智能体参与真实入侵的现状与趋势，涉及 ARTEX、Hermes 等框架及韩国金融机构（约 67,000 人信息外泄）、泰国财政部、ConnectWise 供应链（尝试攻击超 2,250 个租户）等案例。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.wiz.io/blog/the-rise-of-agentic-attacks-what-they-look-like-and-where-theyre-headed&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;6. Cathedral 用 AI 智能体侵入 Anthropic 内部系统，双方对事件范围说法不一&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;The Decoder：AI News（RSS） · 今天 18:56&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;网络安全初创公司 Cathedral 通过第三方业务软件渗入 Anthropic 内部系统，称其 AI 智能体在不到十二小时内接触到会议记录、薪资数据和 Slack 消息，并借漏洞赏金计划披露问题。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://the-decoder.com/ai-agents-hacked-anthropic-maker-of-arguably-the-most-capable-ai-models-for-cyberdefense/&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;6. Unsloth 发布 Mistral Le Chonk 1-bit GGUF 量化版，可本地运行 1T 参数模型&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;X：Unsloth (@UnslothAI) · 今天 22:27&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;Unsloth 发布 Mistral Le Chonk（Mistral Large 4，1T 参数 MoE，52B 激活）的 Dynamic 1-bit GGUF，可在 Mac Studio 上本地运行，保留 91% top-1 准确率，体积约 233GB（较 1.1TB FP8 小 80%）。图为各量化档位给出硬件需求，1-bit 需 256-270GB 内存，最小 UD-IQ1_S 约占 233GB 磁盘，并支持文本与图像输入、1M 上下文和 160+ 语言。GGUF 与指南见 huggingface.co/unsloth/Mistral-Large-4-1T-A52B-GGUF 和 unsloth.ai/docs/models/mistral-large-4。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/UnslothAI/status/2115812784189620265&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;strong&gt;7. 404 Media 起底 Proton 内部 AI 转型之争：CEO Andy Yen 强推 AI 引发恐惧文化&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;404 Media（RSS） · 今天 22:21&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;404 Media 采访九名现任与离职 Proton 员工并查阅内部文件，报道 CEO Andy Yen 强推 AI 转型引发的内部冲突。10 月公司 90% 代码由 AI 编写，多使用 Anthropic 的 Claude；Yen 称今年是最后一年招聘工程师，并宣布将以可能决定去留的重新面试评估员工 AI 使用情况。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning/&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;strong&gt;8. SemiAnalysis 分析师解读 Anthropic S-1 招股书背后的 AI 经济账&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;The Verge：AI（RSS） · 今天 22:00&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;The Verge Decoder 节目邀请 SemiAnalysis 分析师 Joey Brookhart 解读 Anthropic 提交的 S-1 招股书，公司拟在纳斯达克上市，估值区间 1.5 万亿至 2 万亿美元。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;strong&gt;9. 纽约时报称中国情报人员瞄准英伟达 CEO 黄仁勋&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;The Decoder：AI News（RSS） · 今天 21:42&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;据《纽约时报》报道，美国情报机构认为英伟达 CEO 黄仁勋身边一名高管为中国提供情报，此人是新加坡数据中心运营商 Megaspeed 的 Alice Huang（黄乐）。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://the-decoder.com/chinese-spies-targeted-nvidia-ceo-jensen-huang-according-to-the-new-york-times/&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;strong&gt;10. Google 三季度搜索增速不及预期，投资者担忧 AI 搜索变现拖累核心业务&lt;/strong&gt;&lt;br/&gt;&lt;small&gt;The Decoder：AI News（RSS） · 今天 18:16&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;Google 三季度搜索收入增长约 12%，低于分析师预期的 15%，市值一度缩水最多 10%。高管 Philipp Schindler 承认 AI mode 查询的强劲增长因变现率较低产生了影响，同时公司称搜索查询年增速达五年来最高，并计划在美国及国际市场扩大聊天机器人广告项目。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://the-decoder.com/googles-ai-search-problem-finally-shows-up-in-the-earnings-report-some-investors-believe/&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;</description>
     </item>
     <item>
-      <title>行业动态 · Anthropic 报告：Claude 研究模型在 Chrome、Safari、Android、Windows、Linux 发现漏洞并串联 5 条攻击链</title>
-      <link>https://www.ithome.com/1/019/268.htm</link>
-      <guid isPermaLink="false">linggou-jpt1eeuj2p1mgrxbufuv3ntdn</guid>
-      <pubDate>Thu, 29 Oct 2026 06:35:25 +0800</pubDate>
-      <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 06:35 · IT之家·人工智能&lt;/p&gt;
-&lt;p&gt;Anthropic 于 10 月 27 日发布研究报告，称一个未公开的内部 Claude 研究模型在 Chrome、Safari、Android、Windows 和 Linux 中发现漏洞，串联出 5 条可实际运行的攻击链，相关漏洞已按协调披露流程报告并修复。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.ithome.com/1/019/268.htm&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>技术工具 · Alphabet Q3 财报：年化收入达 5000 亿美元，Google Cloud 增长 103%</title>
-      <link>https://x.com/sundarpichai/status/2115535455156642066</link>
-      <guid isPermaLink="false">linggou-m5st8pvirbas7phreshbzkrc9</guid>
-      <pubDate>Thu, 29 Oct 2026 04:05:31 +0800</pubDate>
+      <title>技术工具 · Kimi 官方教程：如何用 Kimi K3.1 Pro 创作 3D 作品</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzkzMTY4NTIyNA%3D%3D&amp;mid=2247484364&amp;idx=1&amp;sn=42491c3f098deb797ee8f2a17d147b3a</link>
+      <guid isPermaLink="false">linggou-ykvaq4vx3ydt23josezzan62r</guid>
+      <pubDate>Fri, 30 Oct 2026 12:04:56 +0800</pubDate>
       <category>技术工具</category>
-      <description>&lt;p&gt;&lt;strong&gt;🛠️ 技术工具&lt;/strong&gt; · 今天 04:05 · X：Sundar Pichai (@sundarpichai)&lt;/p&gt;
-&lt;p&gt;Sundar Pichai 发布 Alphabet Q3 业绩：年化收入 run rate 达 5000 亿美元，总收入同比增长 25%。Google Cloud 收入增长 103%，1P 模型 API 每分钟处理近 32B tokens（环比增 40%）；Search 查询同比增速为五年来最高，并提到 Argon、Carbon 领跑前沿及最新世界模型 Genie 4。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/sundarpichai/status/2115535455156642066&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;🛠️ 技术工具&lt;/strong&gt; · 今天 12:04 · 公众号：月之暗面（Kimi）&lt;/p&gt;
+&lt;p&gt;月之暗面（Kimi）发布官方教程，详解 Kimi K3.1 Pro 的 3D 创作工作流程，说明参数化建模与网格化建模两种方式及对应工具选择。文章分享了 4 个案例的具体操作，包括在 Unreal Engine 中构建东方天宫、制作可 3D 打印的台灯、纯代码调用 Blender 生成建筑、用 Tripo 和 Blender 搭建微缩城市，并给出图胜于言、先搭灰模再细化等 5 个使用技巧。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://mp.weixin.qq.com/s?__biz=MzkzMTY4NTIyNA%3D%3D&amp;mid=2247484364&amp;idx=1&amp;sn=42491c3f098deb797ee8f2a17d147b3a&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>行业动态 · Google 发布 Gemini 4 Carbon：AA Index v5.0 登顶，网络安全基准领先</title>
-      <link>https://x.com/sundarpichai/status/2115489219804352921</link>
-      <guid isPermaLink="false">linggou-hoim4l9scskfj0obspicyucpw</guid>
-      <pubDate>Thu, 29 Oct 2026 01:01:48 +0800</pubDate>
+      <title>行业动态 · Google 与 Reddit 同日股价大跌，AI 搜索变现困境冲击开放网络</title>
+      <link>https://www.platformer.news/thursday-newsletter-6/</link>
+      <guid isPermaLink="false">linggou-kzenjo9w2bfhpsr0ub1gr95xj</guid>
+      <pubDate>Fri, 30 Oct 2026 08:51:00 +0800</pubDate>
       <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 01:01 · X：Sundar Pichai (@sundarpichai)&lt;/p&gt;
-&lt;p&gt;Sundar Pichai 宣布 Google 推出 Gemini 4 Carbon，称其在更新后的 Artificial Analysis Intelligence Index v5.0 以 59 分排名第一。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/sundarpichai/status/2115489219804352921&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 08:51 · Platformer（热点 RSS）&lt;/p&gt;
+&lt;p&gt;Casey Newton 分析 Google 与 Reddit 同日遭遇的股市重挫：Alphabet 股价跌 12.6%，蒸发约 $5000 亿市值，为史上第二大单日市值缩水；高管承认 AI Mode 变现能力低于传统搜索，尽管 AI Mode 月用户约 10 亿、搜索收入仍增长 12% 至 $633.5 亿。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.platformer.news/thursday-newsletter-6/&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>行业动态 · Google DeepMind 发布 Gemini 4 Carbon 前沿模型</title>
-      <link>https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/</link>
-      <guid isPermaLink="false">linggou-fjeloaahylonpc0pv5tduusud</guid>
-      <pubDate>Thu, 29 Oct 2026 01:00:58 +0800</pubDate>
+      <title>行业动态 · Google 市值蒸发 5000 亿美元，AI 概要冲击搜索广告引发华尔街担忧</title>
+      <link>https://www.bbc.com/news/articles/cm9qzdqpxy48o</link>
+      <guid isPermaLink="false">linggou-puushryi79v0flh2um3a70xnw</guid>
+      <pubDate>Fri, 30 Oct 2026 05:29:51 +0800</pubDate>
       <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 01:00 · Google DeepMind：Blog（RSS）&lt;/p&gt;
-&lt;p&gt;Google DeepMind 发布 Gemini 4 Carbon，定位为最强前沿模型，主打网络安全与长程智能体能力，在 SEC-bench Pro 88.2%、ExploitGym 54.8%、CWE-bench 71.0% 取得领先，并以 59 分登顶 Artificial Analysis Intelligence Index v5.0。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 05:29 · Hacker News：AI 热帖&lt;/p&gt;
+&lt;p&gt;Alphabet 因 AI 搜索概要影响广告收入，单日市值从 3.97 万亿跌至 3.46 万亿美元，缩水超 5000 亿美元。该季度总营收增 25% 至 1276 亿美元，云业务营收增 103% 至近 310 亿美元，但利润下降 25%，自由现金流为负超 90 亿美元。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.bbc.com/news/articles/cm9qzdqpxy48o&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>行业动态 · Microsoft 通过 Foundry 开放 Copilot harness，支持多模型 Agent 开发</title>
-      <link>https://blogs.microsoft.com/blog/2026/10/28/introducing-the-microsoft-copilot-harness-unlocking-the-potential-of-truly-multi-model-agentic-work/</link>
-      <guid isPermaLink="false">linggou-tdp7qmrh74fdfarxbi4jaoc6v</guid>
-      <pubDate>Thu, 29 Oct 2026 00:51:35 +0800</pubDate>
+      <title>行业动态 · Reddit 宣布转向以登录为主的体验，以应对 AI 搜索带来的流量下滑</title>
+      <link>https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/</link>
+      <guid isPermaLink="false">linggou-op2kjf327vilvhbxkjicxg5ec</guid>
+      <pubDate>Fri, 30 Oct 2026 04:08:31 +0800</pubDate>
       <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 00:51 · Microsoft：Official Blog（RSS）&lt;/p&gt;
-&lt;p&gt;Microsoft 宣布将 GitHub 团队打造的 Copilot harness 通过 Microsoft Foundry 向开发者和企业开放，该 harness 已驱动 Copilot Code、Copilot Studio、GitHub Copilot app 和 CLI 等产品。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://blogs.microsoft.com/blog/2026/10/28/introducing-the-microsoft-copilot-harness-unlocking-the-potential-of-truly-multi-model-agentic-work/&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 04:08 · TechCrunch：AI（RSS）&lt;/p&gt;
+&lt;p&gt;Reddit 在 Q3 财报中宣布将转向以登录为主的体验，以保护数据免受 AI 抓取并提升广告变现。10 月搜索流量平均每周减少超 100 万次引荐，Q3 全球日活为 1.303 亿，其中美国日活降至 5070 万，同比降 2%。Q3 收入同比增长 53% 至 8.95 亿美元，净利润 2.83 亿美元；该转变将先在美国以外市场测试，暂无全球上线时间表。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>技术工具 · OpenMOSS 发布开源图像生成模型 MOSS-Image，主打长文本渲染与可编辑布局</title>
-      <link>https://openmoss.ai/blog/cn/moss-image/</link>
-      <guid isPermaLink="false">linggou-wykbrcxndw1zv255b9y2usj7v</guid>
-      <pubDate>Thu, 29 Oct 2026 00:00:00 +0800</pubDate>
-      <category>技术工具</category>
-      <description>&lt;p&gt;&lt;strong&gt;🛠️ 技术工具&lt;/strong&gt; · 今天 00:00 · OpenMOSS / 复旦NLP / 上海创智 / MOSI（网页）&lt;/p&gt;
-&lt;p&gt;OpenMOSS 发布开放权重图像生成模型 MOSS-Image，采用 5B 参数单流 DiT 从零预训练，支持最长 4K token 提示词、中英文长文本渲染和可编辑的 JSON Layout。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://openmoss.ai/blog/cn/moss-image/&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <title>AIGC内容创作 · Pika 基于MiniMax H3后训练并开源 Pika H3 Flex 视频生成模型</title>
+      <link>https://x.com/Khazix0918/status/2115898252004622617</link>
+      <guid isPermaLink="false">linggou-eq47lph0rzobf8cr950saiu8r</guid>
+      <pubDate>Fri, 30 Oct 2026 04:07:09 +0800</pubDate>
+      <category>AIGC内容创作</category>
+      <description>&lt;p&gt;&lt;strong&gt;📽️ AIGC 内容创作&lt;/strong&gt; · 今天 04:07 · X：卡兹克 (@Khazix0918)&lt;/p&gt;
+&lt;p&gt;Pika Labs 在 MiniMax H3 上做后训练，推出并开源 Pika H3 Flex，采样步数从 50 步压缩到 6 步，生成时间大幅降低且质量有所提升。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/Khazix0918/status/2115898252004622617&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>行业动态 · 面壁智能发布并开源 MiniCPM-OCR 系列：1.3B 解析模型与 2B 判别模型</title>
-      <link>https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&amp;mid=2247499654&amp;idx=1&amp;sn=9bcbf9492c492a5d5e611af41670425f</link>
-      <guid isPermaLink="false">linggou-zd8g1y3609zl72lnwis70owqt</guid>
-      <pubDate>Wed, 28 Oct 2026 19:38:17 +0800</pubDate>
+      <title>行业动态 · Anthropic S-1 文件解读：财务表现强劲但增长放缓存隐忧</title>
+      <link>https://www.understandingai.org/p/anthropics-financials-are-surprisingly</link>
+      <guid isPermaLink="false">linggou-wb6emxuh5ob2wh96egtwawgfu</guid>
+      <pubDate>Fri, 30 Oct 2026 03:10:41 +0800</pubDate>
       <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 19:38 · 公众号：面壁智能（MiniCPM）&lt;/p&gt;
-&lt;p&gt;面壁智能发布并开源 MiniCPM-OCR 系列。MiniCPM-OCR 1.0（1.3B）在 Real5-OmniDocBench 取得 93.68 分、OCRBench v2 取得 54.7 分的 SOTA，经 DSpark 加速后吞吐达 1.217 页/秒，端到端效率提升 55%。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&amp;mid=2247499654&amp;idx=1&amp;sn=9bcbf9492c492a5d5e611af41670425f&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 03:10 · Timothy B. Lee：Understanding AI（RSS）&lt;/p&gt;
+&lt;p&gt;作者通读 Anthropic 公开版 S-1 文件，认为公司财务状况好于预期：2026 年第二季度收入从一季度的 47 亿美元增至 116 亿美元，并录得首个运营利润，截至 6 月底现金储备仅次于 Google 和 Berkshire Hathaway。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.understandingai.org/p/anthropics-financials-are-surprisingly&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>行业动态 · Cathedral 用 AI 智能体侵入 Anthropic 内部系统，双方对事件范围说法不一</title>
-      <link>https://the-decoder.com/ai-agents-hacked-anthropic-maker-of-arguably-the-most-capable-ai-models-for-cyberdefense/</link>
-      <guid isPermaLink="false">linggou-klkmnzle2z7p5y6cl477ce7sg</guid>
-      <pubDate>Wed, 28 Oct 2026 18:56:24 +0800</pubDate>
+      <title>AIGC内容创作 · 腾讯混元发布 Hy-Nomas 技术报告并开源 Hy-Nomas-Bench</title>
+      <link>https://x.com/TencentHunyuan/status/2115851165904814283</link>
+      <guid isPermaLink="false">linggou-nb40aoihhydhoo0acp0rcyaol</guid>
+      <pubDate>Fri, 30 Oct 2026 01:00:03 +0800</pubDate>
+      <category>AIGC内容创作</category>
+      <description>&lt;p&gt;&lt;strong&gt;📽️ AIGC 内容创作&lt;/strong&gt; · 今天 01:00 · X：腾讯混元 (@TencentHunyuan)&lt;/p&gt;
+&lt;p&gt;腾讯混元发布 Hy-Nomas 开源交互式视频世界模型的技术报告（arXiv:2610.36729），并开源 Hy-Nomas-Bench 数据集用于可复现研究。官方还用 Hy-Nomas 重现 Genie 4 示例并放出对比视频，演示无需排队即可试用，地址为 https://hy-nomas.hy.tencent.com/。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/TencentHunyuan/status/2115851165904814283&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>行业动态 · Wiz 分析智能体攻击的七大指纹与发展趋势</title>
+      <link>https://www.wiz.io/blog/the-rise-of-agentic-attacks-what-they-look-like-and-where-theyre-headed</link>
+      <guid isPermaLink="false">linggou-mdcygre4ettjdbca7sq6vu7zx</guid>
+      <pubDate>Thu, 29 Oct 2026 22:36:22 +0800</pubDate>
       <category>行业动态</category>
-      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 18:56 · The Decoder：AI News（RSS）&lt;/p&gt;
-&lt;p&gt;网络安全初创公司 Cathedral 通过第三方业务软件渗入 Anthropic 内部系统，称其 AI 智能体在不到十二小时内接触到会议记录、薪资数据和 Slack 消息，并借漏洞赏金计划披露问题。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://the-decoder.com/ai-agents-hacked-anthropic-maker-of-arguably-the-most-capable-ai-models-for-cyberdefense/&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 22:36 · Wiz：Research（安全研究）&lt;/p&gt;
+&lt;p&gt;Wiz 基于自身事件响应与公开披露案例，分析 AI 智能体参与真实入侵的现状与趋势，涉及 ARTEX、Hermes 等框架及韩国金融机构（约 67,000 人信息外泄）、泰国财政部、ConnectWise 供应链（尝试攻击超 2,250 个租户）等案例。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.wiz.io/blog/the-rise-of-agentic-attacks-what-they-look-like-and-where-theyre-headed&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>行业动态 · Unsloth 发布 Mistral Le Chonk 1-bit GGUF 量化版，可本地运行 1T 参数模型</title>
+      <link>https://x.com/UnslothAI/status/2115812784189620265</link>
+      <guid isPermaLink="false">linggou-rph54wkrnzjpvov4cv0mxqatl</guid>
+      <pubDate>Thu, 29 Oct 2026 22:27:32 +0800</pubDate>
+      <category>行业动态</category>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 22:27 · X：Unsloth (@UnslothAI)&lt;/p&gt;
+&lt;p&gt;Unsloth 发布 Mistral Le Chonk（Mistral Large 4，1T 参数 MoE，52B 激活）的 Dynamic 1-bit GGUF，可在 Mac Studio 上本地运行，保留 91% top-1 准确率，体积约 233GB（较 1.1TB FP8 小 80%）。图为各量化档位给出硬件需求，1-bit 需 256-270GB 内存，最小 UD-IQ1_S 约占 233GB 磁盘，并支持文本与图像输入、1M 上下文和 160+ 语言。GGUF 与指南见 huggingface.co/unsloth/Mistral-Large-4-1T-A52B-GGUF 和 unsloth.ai/docs/models/mistral-large-4。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/UnslothAI/status/2115812784189620265&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>行业动态 · 404 Media 起底 Proton 内部 AI 转型之争：CEO Andy Yen 强推 AI 引发恐惧文化</title>
+      <link>https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning/</link>
+      <guid isPermaLink="false">linggou-x7qd347blfo2409za7srbypzw</guid>
+      <pubDate>Thu, 29 Oct 2026 22:21:49 +0800</pubDate>
+      <category>行业动态</category>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 22:21 · 404 Media（RSS）&lt;/p&gt;
+&lt;p&gt;404 Media 采访九名现任与离职 Proton 员工并查阅内部文件，报道 CEO Andy Yen 强推 AI 转型引发的内部冲突。10 月公司 90% 代码由 AI 编写，多使用 Anthropic 的 Claude；Yen 称今年是最后一年招聘工程师，并宣布将以可能决定去留的重新面试评估员工 AI 使用情况。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning/&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>行业动态 · SemiAnalysis 分析师解读 Anthropic S-1 招股书背后的 AI 经济账</title>
+      <link>https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview</link>
+      <guid isPermaLink="false">linggou-r9bmkfh02wkycc8zmhw87h4q9</guid>
+      <pubDate>Thu, 29 Oct 2026 22:00:00 +0800</pubDate>
+      <category>行业动态</category>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 22:00 · The Verge：AI（RSS）&lt;/p&gt;
+&lt;p&gt;The Verge Decoder 节目邀请 SemiAnalysis 分析师 Joey Brookhart 解读 Anthropic 提交的 S-1 招股书，公司拟在纳斯达克上市，估值区间 1.5 万亿至 2 万亿美元。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>行业动态 · 纽约时报称中国情报人员瞄准英伟达 CEO 黄仁勋</title>
+      <link>https://the-decoder.com/chinese-spies-targeted-nvidia-ceo-jensen-huang-according-to-the-new-york-times/</link>
+      <guid isPermaLink="false">linggou-lq97h52ctxw2nkri4qqxj5lbx</guid>
+      <pubDate>Thu, 29 Oct 2026 21:42:38 +0800</pubDate>
+      <category>行业动态</category>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 21:42 · The Decoder：AI News（RSS）&lt;/p&gt;
+&lt;p&gt;据《纽约时报》报道，美国情报机构认为英伟达 CEO 黄仁勋身边一名高管为中国提供情报，此人是新加坡数据中心运营商 Megaspeed 的 Alice Huang（黄乐）。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://the-decoder.com/chinese-spies-targeted-nvidia-ceo-jensen-huang-according-to-the-new-york-times/&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>行业动态 · Google 三季度搜索增速不及预期，投资者担忧 AI 搜索变现拖累核心业务</title>
+      <link>https://the-decoder.com/googles-ai-search-problem-finally-shows-up-in-the-earnings-report-some-investors-believe/</link>
+      <guid isPermaLink="false">linggou-wry19y87ktlbmfwu581jjffj7</guid>
+      <pubDate>Thu, 29 Oct 2026 18:16:34 +0800</pubDate>
+      <category>行业动态</category>
+      <description>&lt;p&gt;&lt;strong&gt;📊 行业动态&lt;/strong&gt; · 今天 18:16 · The Decoder：AI News（RSS）&lt;/p&gt;
+&lt;p&gt;Google 三季度搜索收入增长约 12%，低于分析师预期的 15%，市值一度缩水最多 10%。高管 Philipp Schindler 承认 AI mode 查询的强劲增长因变现率较低产生了影响，同时公司称搜索查询年增速达五年来最高，并计划在美国及国际市场扩大聊天机器人广告项目。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://the-decoder.com/googles-ai-search-problem-finally-shows-up-in-the-earnings-report-some-investors-believe/&quot;&gt;→ 查看原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

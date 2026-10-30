@@ -1,20 +1,25 @@
 {
-  "generated_at": "2026-10-29T14:46:16.685553+08:00",
-  "total": 18,
-  "linggou": 8,
+  "generated_at": "2026-10-30T14:49:31.992341+08:00",
+  "total": 21,
+  "linggou": 13,
   "social_topics": 0,
   "sources": {
-    "IT之家·人工智能": 1,
-    "X：Sundar Pichai (@sundarpichai)": 2,
-    "Google DeepMind：Blog（RSS）": 1,
-    "Microsoft：Official Blog（RSS）": 1,
-    "OpenMOSS / 复旦NLP / 上海创智 / MOSI（网页）": 1,
-    "公众号：面壁智能（MiniCPM）": 1,
-    "The Decoder：AI News（RSS）": 1
+    "公众号：月之暗面（Kimi）": 1,
+    "Platformer（热点 RSS）": 1,
+    "Hacker News：AI 热帖": 1,
+    "TechCrunch：AI（RSS）": 1,
+    "X：卡兹克 (@Khazix0918)": 1,
+    "Timothy B. Lee：Understanding AI（RSS）": 1,
+    "X：腾讯混元 (@TencentHunyuan)": 1,
+    "Wiz：Research（安全研究）": 1,
+    "X：Unsloth (@UnslothAI)": 1,
+    "404 Media（RSS）": 1,
+    "The Verge：AI（RSS）": 1,
+    "The Decoder：AI News（RSS）": 2
   },
   "categories": {
-    "aigc_content": 0,
-    "tech_tools": 2,
-    "industry": 6
+    "aigc_content": 2,
+    "tech_tools": 1,
+    "industry": 10
   }
 }
