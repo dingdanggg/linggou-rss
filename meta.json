@@ -1,25 +1,12 @@
 {
-  "generated_at": "2026-10-30T14:49:31.992341+08:00",
-  "total": 21,
-  "linggou": 13,
+  "generated_at": "2026-11-02T15:17:18.132881+08:00",
+  "total": 0,
+  "linggou": 0,
   "social_topics": 0,
-  "sources": {
-    "公众号：月之暗面（Kimi）": 1,
-    "Platformer（热点 RSS）": 1,
-    "Hacker News：AI 热帖": 1,
-    "TechCrunch：AI（RSS）": 1,
-    "X：卡兹克 (@Khazix0918)": 1,
-    "Timothy B. Lee：Understanding AI（RSS）": 1,
-    "X：腾讯混元 (@TencentHunyuan)": 1,
-    "Wiz：Research（安全研究）": 1,
-    "X：Unsloth (@UnslothAI)": 1,
-    "404 Media（RSS）": 1,
-    "The Verge：AI（RSS）": 1,
-    "The Decoder：AI News（RSS）": 2
-  },
+  "sources": {},
   "categories": {
-    "aigc_content": 2,
-    "tech_tools": 1,
-    "industry": 10
+    "aigc_content": 0,
+    "tech_tools": 0,
+    "industry": 0
   }
 }
